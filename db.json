@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": "1",
+    "name": "Basic Kit",
+    "image": "https://us.123rf.com/450wm/dxinerz/dxinerz1802/dxinerz180200879/95897917-stock-vector-compass-icon-vector-illustration.jpg?ver=6",
+    "description": "This is supposed to be the description of the basic kit. But, RIP my creativity.",
+    "price": "₹507"
+  },
+  {
+    "id": "2",
+    "name": "Advanced Kit",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyN9OXCRLdMnIXuXe63rUv6utPZ0Qmjwg_dD-ooMh800Ib3HwJ&usqp=CAU",
+    "description": "description 2",
+    "price": "₹10"
+  },
+  {
+    "id": "3",
+    "name": "Professional Kit",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQneYWOK1kfMsyundTvUvHx2ccKPXu50UJt0zbfhsyBhlbSrZTk&usqp=CAU",
+    "description": "description 3",
+    "price": "₹10"
+  }
+]
