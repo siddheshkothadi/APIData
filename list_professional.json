@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1",
+    "item_name": "Drafter",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg3oxXxnbGRC3p7IjejzvQQI8RRk7UkVSMJkOuhR922AmVJAbN&usqp=CAU",
+    "price": "₹455"
+  },
+  {
+    "id": "2",
+    "item_name": "Calculator",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIZWBsk38xkCleyWVIH0swFMqCMa8GOAbECSl2zMbTVNScagQObmRQOI-gSw&usqp=CAc",
+    "price": "₹279"
+  },
+  {
+    "id": "3",
+    "item_name": "Glue",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBdGFqF9YJ2XmFHsxnKSllKenFx_Sx19YE95pJL0fcMHqrQpjZ&usqp=CAU",
+    "price": "₹30"
+  },
+  {
+    "id": "4",
+    "item_name": "Marking Tape",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRh4gY8XVZ3DP-VVm-MIcnq5Bbct7nMmX_8EerpdlXXI2asj0-I&usqp=CAU",
+    "price": "₹69"
+  },
+  {
+    "id": "5",
+    "item_name": "Erasing Shield",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQABtNpEvasimE2tQkEmQDPMTl1FdCQjgc1IwaMC_YvbaCFixMn&usqp=CAU",
+    "price": "₹120"
+  },
+  {
+    "id": "6",
+    "item_name": "French Curve",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBAJRSH3y8TVWgY0U_wdAtRsRfRlvVIlSzq4qLy8z3d_TEX_38&usqp=CAU",
+    "price": "₹49"
+  },
+  {
+    "id": "7",
+    "item_name": "Scissor",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRYSaDc9ANI6pXamPl35By855BrSa212UtwPdjdwpgmzNSRyCf&usqp=CAU",
+    "price": "₹120"
+  },
+  {
+    "id": "8",
+    "item_name": "Roll N Draw",
+    "item_image": "https://www.himalayafineart.com/wp-content/uploads/2018/03/Omega-Roll-N-Draw-Scale.jpg",
+    "price": "₹60"
+  },
+  {
+    "id": "9",
+    "item_name": "Set Square",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsYf2JSAGmxP8treg0OhdRM4tKaG8VCsk9-_HCcNHDG_WkIbpM&usqp=CAU",
+    "price": "₹43"
+  },
+  {
+    "id": "10",
+    "item_name": "Sheets",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbxo3kHPzwxXnatle6YAcP4d-1qoIQnkeCQ6k6Dxk4Z2HmlKWH&usqp=CAU",
+    "price": "₹90"
+  },
+  {
+    "id": "11",
+    "item_name": "Sheet Container",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSObfD34YXFpsZPy7dyusp9RFyBCVNO_Fh_eTwBhC60K0adOC6c&usqp=CAU",
+    "price": "₹80"
+  },
+  {
+    "id": "12",
+    "item_name": "Sketchbook",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK2PKGhn_hGzzFzn4GR6_6g5zCfzmprj6nR65Gb89jkHXapx3a&usqp=CAU",
+    "price": "₹85"
+  },
+  {
+    "id": "13",
+    "item_name": "Drawing Clips",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSROFPC4eVz0V6VZfwnQnPCbch_tEZnC0v1mp81sb6q9nN3DZ9k&usqp=CAU",
+    "price": "₹10"
+  },
+  {
+    "id": "14",
+    "item_name": "Pencils",
+    "item_image": "https://4.imimg.com/data4/JL/AB/MY-25690819/natraj-hb-pencil-pack-500x500.jpg",
+    "price": "₹40"
+  },
+  {
+    "id": "15",
+    "item_name": "Pens",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-pFpYDX8eCladAZv20da6mlIeaBWJgnwtRsSXzPXYwsBbVAKz&usqp=CAU",
+    "price": "₹80"
+  },
+  {
+    "id": "16",
+    "item_name": "Ruler",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5rEu4YBtGJo71RE7qWbk56xympAPWcmKDYim-0jhwlxixuxwWCXCAmLCeFRNy91KRAv-sgDY&usqp=CAc",
+    "price": "₹12"
+  },
+  {
+    "id": "17",
+    "item_name": "Eraser",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvzwLkHA_VFtXgkoT18wV21UaNYpFEXnCH9x_B1byyVkb9f3qb&usqp=CAU",
+    "price": "₹5"
+  },
+  {
+    "id": "18",
+    "item_name": "Rounder",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAkFGXIqOobEUIwvNPw-JdUkBUv5NAn3ysINEVeKrS-reb7hlb&usqp=CAU",
+    "price": "₹20"
+  },
+  {
+    "id": "19",
+    "item_name": "Notebooks",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3zuEDxFA1ioJWh6z0oPEd5JSeScyCfY5j1eo-mHYWnYWa_BpZ&usqp=CAU",
+    "price": "₹240"
+  },
+  {
+    "id": "20",
+    "item_name": "Sharpener",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_9z1YvBLOHT53BSemj6qK6j8DF3O-XB9M4z_zJq4w0FMIubSh&usqp=CAU",
+    "price": "₹5"
+  },
+  {
+    "id": "21",
+    "item_name": "Paint Set",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiBCxzxk4u3W267nWK4ti1iOV8zOKsORvAFd86vw2qgEh8FmQw&usqp=CAU",
+    "price": "₹90"
+  },
+  {
+    "id": "22",
+    "item_name": "Divider",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrc4bLIColgP6rDZXZ8Cat12rLd8KVjlcvcepg3vG687oQ0Oyb&usqp=CAU",
+    "price": "₹10"
+  },
+  {
+    "id": "23",
+    "item_name": "Protractor",
+    "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw-6AkBKKn92KjxDJRw0jTGpAU-cDrifwEFsgMr93FLLFDC5Vt&usqp=CAU",
+    "price": "₹5"
+  }
+]
