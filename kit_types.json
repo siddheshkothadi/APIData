@@ -9,15 +9,15 @@
   {
     "id": "2",
     "name": "Advanced Kit",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyN9OXCRLdMnIXuXe63rUv6utPZ0Qmjwg_dD-ooMh800Ib3HwJ&usqp=CAU",
-    "description": "description 2",
-    "price": "₹10"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKStjp5bCTiJb9aKg-Rp8_x6q1ojNWJ6Yt6gLIC73oZUK4L0An&usqp=CAU",
+    "description": "This is supposed to be the description of the advanced kit. But, RIP my creativity.",
+    "price": "₹875"
   },
   {
     "id": "3",
     "name": "Professional Kit",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQneYWOK1kfMsyundTvUvHx2ccKPXu50UJt0zbfhsyBhlbSrZTk&usqp=CAU",
-    "description": "description 3",
-    "price": "₹10"
+    "description": "This is supposed to be the description of the professional kit. But, RIP my creativity.",
+    "price": "₹1997"
   }
 ]
