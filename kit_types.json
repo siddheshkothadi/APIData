@@ -3,21 +3,21 @@
     "id": "1",
     "name": "Basic Kit",
     "image": "https://us.123rf.com/450wm/dxinerz/dxinerz1802/dxinerz180200879/95897917-stock-vector-compass-icon-vector-illustration.jpg?ver=6",
-    "description": "This is supposed to be the description of the basic kit. But, RIP my creativity.",
+    "description": "Collection of all the basic equipments for engineering students.",
     "price": "₹507"
   },
   {
     "id": "2",
     "name": "Advanced Kit",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKStjp5bCTiJb9aKg-Rp8_x6q1ojNWJ6Yt6gLIC73oZUK4L0An&usqp=CAU",
-    "description": "This is supposed to be the description of the advanced kit. But, RIP my creativity.",
+    "description": "A combination of all the advanced tools and basic equipments for students pursuing engineering.",
     "price": "₹875"
   },
   {
     "id": "3",
     "name": "Professional Kit",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQneYWOK1kfMsyundTvUvHx2ccKPXu50UJt0zbfhsyBhlbSrZTk&usqp=CAU",
-    "description": "This is supposed to be the description of the professional kit. But, RIP my creativity.",
+    "description": "All the tools used by professionals combined in a single kit.",
     "price": "₹1997"
   }
 ]
