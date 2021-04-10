@@ -175,3 +175,91 @@ int main()
 
 	return 0;
 }
+
+Queue link : https://github.com/siddheshkothadi/competitive-coding/blob/master/Siddhesh/Notes/Screenshot_2020-06-02-21-18-49-48.jpg
+
+//	Recursion
+class Solution {
+public:
+ /* THIS FUNCTION WILL BE RECURSIVELY EXECUTED TILL
+    ALL THE CONNECTED '1' ARE REPLACED BY '0'!
+    Which is actually equivalent to 1 island!
+ */
+ static void fun(vector<vector<char>>& grid, int i, int j){
+     
+     // Edge cases and when element != '1'
+     if(i<0 || i>=grid.size() || j<0 || j>=grid[0].size() || grid[i][j]!='1') return;
+     
+     //for '1' check all the 4 adjacent elements
+     // DFS or BFS????? I think it is DFS
+     grid[i][j]='0';
+     fun(grid,i+1,j);
+     fun(grid,i,j+1);
+     fun(grid,i-1,j);
+     fun(grid,i,j-1);
+    }
+    
+    int numIslands(vector<vector<char>>& grid) {
+        int no_islands=0;
+        for(int i=0;i<grid.size();++i){
+            for(int j=0;j<grid[0].size();++j){
+                if(grid[i][j]=='1'){
+                    fun(grid,i,j);
+                    ++no_islands;
+                }
+            }
+        }
+        return no_islands;
+    }
+};
+
+//	Using Stack (DFS)
+//	Same logic can be applied for queue just by replacing stack with a queue, rest of the code remains same
+class Solution {
+public:
+    int numIslands(vector<vector<char>>& grid) {
+        int no_islands=0,iw,jw;
+        int rows=(int)grid.size();
+        if(!rows) return 0;
+        int cols=(int)grid[0].size();
+        if(!cols) return 0;
+        
+        // stack of pair of indices
+        stack<pair<int,int>> s;
+        pair<int,int> ij;
+        
+        for(int i=0;i<rows;++i){
+            for(int j=0;j<cols;++j){
+                if(grid[i][j]=='1'){
+                    s.push({i,j});
+                    grid[i][j]='0';
+                    while(!s.empty()){
+                        ij = s.top();
+                        s.pop();
+                        iw = ij.first;
+                        jw = ij.second;
+                        if(jw-1>=0 && grid[iw][jw-1]=='1'){
+                                s.push({iw,jw-1});
+                                grid[iw][jw-1]='0';
+                        }
+                        if(iw-1>=0 && grid[iw-1][jw]=='1'){
+                                s.push({iw-1,jw});
+                                grid[iw-1][jw]='0';
+                        }
+                        if(jw+1<cols && grid[iw][jw+1]=='1'){
+                                s.push({iw,jw+1});
+                                grid[iw][jw+1]='0';
+                        }
+                        if(iw+1<rows && grid[iw+1][jw]=='1'){
+                                s.push({iw+1,jw});
+                                grid[iw+1][jw]='0';
+                        }
+                    }
+                    ++no_islands;
+                }
+            }
+        }
+        return no_islands;
+    }
+};
+
