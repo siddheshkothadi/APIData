@@ -1,6 +1,6 @@
 https://leetcode.com/problems/number-of-islands/discuss/1131524/javascript-DFS-and-BFS
 
-
+https://leetcode.com/problems/maximal-square/discuss/?currentPage=1&orderBy=hot&query=&tag=javascript
 
 
 #include<bits/stdc++.h>
