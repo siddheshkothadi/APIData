@@ -1,0 +1,3937 @@
+{
+    "language": "scala",
+    "words": [
+        {
+            "word": "import",
+            "count": "1,949,199"
+        },
+        {
+            "word": "val",
+            "count": "1,269,545"
+        },
+        {
+            "word": "_",
+            "count": "1,094,946"
+        },
+        {
+            "word": "def",
+            "count": "717,785"
+        },
+        {
+            "word": "case",
+            "count": "648,707"
+        },
+        {
+            "word": "org",
+            "count": "598,051"
+        },
+        {
+            "word": "the",
+            "count": "557,678"
+        },
+        {
+            "word": "scala",
+            "count": "413,765"
+        },
+        {
+            "word": "new",
+            "count": "397,905"
+        },
+        {
+            "word": "String",
+            "count": "357,535"
+        },
+        {
+            "word": "a",
+            "count": "353,747"
+        },
+        {
+            "word": "package",
+            "count": "348,596"
+        },
+        {
+            "word": "else",
+            "count": "346,708"
+        },
+        {
+            "word": "com",
+            "count": "322,339"
+        },
+        {
+            "word": "if",
+            "count": "309,373"
+        },
+        {
+            "word": "to",
+            "count": "273,823"
+        },
+        {
+            "word": "this",
+            "count": "255,698"
+        },
+        {
+            "word": "for",
+            "count": "229,798"
+        },
+        {
+            "word": "of",
+            "count": "228,386"
+        },
+        {
+            "word": "in",
+            "count": "226,677"
+        },
+        {
+            "word": "java",
+            "count": "225,565"
+        },
+        {
+            "word": "should",
+            "count": "212,070"
+        },
+        {
+            "word": "util",
+            "count": "210,620"
+        },
+        {
+            "word": "override",
+            "count": "205,604"
+        },
+        {
+            "word": "None",
+            "count": "203,759"
+        },
+        {
+            "word": "match",
+            "count": "188,354"
+        },
+        {
+            "word": "s",
+            "count": "187,563"
+        },
+        {
+            "word": "is",
+            "count": "184,193"
+        },
+        {
+            "word": "Int",
+            "count": "178,105"
+        },
+        {
+            "word": "i",
+            "count": "176,200"
+        },
+        {
+            "word": "false",
+            "count": "171,753"
+        },
+        {
+            "word": "true",
+            "count": "171,274"
+        },
+        {
+            "word": "name",
+            "count": "165,424"
+        },
+        {
+            "word": "and",
+            "count": "162,183"
+        },
+        {
+            "word": "assert",
+            "count": "158,357"
+        },
+        {
+            "word": "test",
+            "count": "153,043"
+        },
+        {
+            "word": "with",
+            "count": "151,566"
+        },
+        {
+            "word": "Some",
+            "count": "151,459"
+        },
+        {
+            "word": "var",
+            "count": "151,283"
+        },
+        {
+            "word": "e",
+            "count": "148,154"
+        },
+        {
+            "word": "param",
+            "count": "148,039"
+        },
+        {
+            "word": "be",
+            "count": "141,257"
+        },
+        {
+            "word": "api",
+            "count": "138,590"
+        },
+        {
+            "word": "code",
+            "count": "138,476"
+        },
+        {
+            "word": "null",
+            "count": "136,620"
+        },
+        {
+            "word": "p",
+            "count": "136,423"
+        },
+        {
+            "word": "apache",
+            "count": "134,709"
+        },
+        {
+            "word": "value",
+            "count": "133,201"
+        },
+        {
+            "word": "result",
+            "count": "130,561"
+        },
+        {
+            "word": "object",
+            "count": "127,634"
+        },
+        {
+            "word": "class",
+            "count": "124,267"
+        },
+        {
+            "word": "A",
+            "count": "123,683"
+        },
+        {
+            "word": "x",
+            "count": "120,987"
+        },
+        {
+            "word": "return",
+            "count": "119,377"
+        },
+        {
+            "word": "List",
+            "count": "118,989"
+        },
+        {
+            "word": "implicit",
+            "count": "118,782"
+        },
+        {
+            "word": "io",
+            "count": "116,787"
+        },
+        {
+            "word": "Seq",
+            "count": "115,122"
+        },
+        {
+            "word": "collection",
+            "count": "114,809"
+        },
+        {
+            "word": "concurrent",
+            "count": "108,369"
+        },
+        {
+            "word": "id",
+            "count": "107,658"
+        },
+        {
+            "word": "map",
+            "count": "105,849"
+        },
+        {
+            "word": "js",
+            "count": "104,488"
+        },
+        {
+            "word": "scalatest",
+            "count": "103,415"
+        },
+        {
+            "word": "get",
+            "count": "101,679"
+        },
+        {
+            "word": "b",
+            "count": "97,697"
+        },
+        {
+            "word": "play",
+            "count": "96,087"
+        },
+        {
+            "word": "v",
+            "count": "95,862"
+        },
+        {
+            "word": "spark",
+            "count": "95,592"
+        },
+        {
+            "word": "it",
+            "count": "95,528"
+        },
+        {
+            "word": "that",
+            "count": "94,587"
+        },
+        {
+            "word": "t",
+            "count": "94,585"
+        },
+        {
+            "word": "type",
+            "count": "94,340"
+        },
+        {
+            "word": "f",
+            "count": "93,841"
+        },
+        {
+            "word": "c",
+            "count": "90,624"
+        },
+        {
+            "word": "not",
+            "count": "89,688"
+        },
+        {
+            "word": "extends",
+            "count": "88,946"
+        },
+        {
+            "word": "size",
+            "count": "88,458"
+        },
+        {
+            "word": "try",
+            "count": "87,048"
+        },
+        {
+            "word": "akka",
+            "count": "87,024"
+        },
+        {
+            "word": "Array",
+            "count": "86,325"
+        },
+        {
+            "word": "T",
+            "count": "84,602"
+        },
+        {
+            "word": "Unit",
+            "count": "84,217"
+        },
+        {
+            "word": "Boolean",
+            "count": "81,090"
+        },
+        {
+            "word": "http",
+            "count": "79,598"
+        },
+        {
+            "word": "n",
+            "count": "79,175"
+        },
+        {
+            "word": "private",
+            "count": "78,946"
+        },
+        {
+            "word": "intercept",
+            "count": "78,196"
+        },
+        {
+            "word": "data",
+            "count": "76,142"
+        },
+        {
+            "word": "The",
+            "count": "73,701"
+        },
+        {
+            "word": "file",
+            "count": "73,693"
+        },
+        {
+            "word": "catch",
+            "count": "72,730"
+        },
+        {
+            "word": "Option",
+            "count": "71,093"
+        },
+        {
+            "word": "Future",
+            "count": "70,983"
+        },
+        {
+            "word": "twitter",
+            "count": "68,347"
+        },
+        {
+            "word": "or",
+            "count": "68,135"
+        },
+        {
+            "word": "Map",
+            "count": "68,029"
+        },
+        {
+            "word": "length",
+            "count": "67,525"
+        },
+        {
+            "word": "mutable",
+            "count": "67,371"
+        },
+        {
+            "word": "args",
+            "count": "66,804"
+        },
+        {
+            "word": "Test",
+            "count": "66,353"
+        },
+        {
+            "word": "throw",
+            "count": "65,286"
+        },
+        {
+            "word": "an",
+            "count": "65,282"
+        },
+        {
+            "word": "core",
+            "count": "64,316"
+        },
+        {
+            "word": "net",
+            "count": "63,715"
+        },
+        {
+            "word": "json",
+            "count": "63,664"
+        },
+        {
+            "word": "lang",
+            "count": "63,514"
+        },
+        {
+            "word": "config",
+            "count": "61,758"
+        },
+        {
+            "word": "toString",
+            "count": "60,639"
+        },
+        {
+            "word": "r",
+            "count": "59,984"
+        },
+        {
+            "word": "message",
+            "count": "59,826"
+        },
+        {
+            "word": "request",
+            "count": "59,620"
+        },
+        {
+            "word": "from",
+            "count": "58,981"
+        },
+        {
+            "word": "This",
+            "count": "58,355"
+        },
+        {
+            "word": "apply",
+            "count": "57,764"
+        },
+        {
+            "word": "by",
+            "count": "57,382"
+        },
+        {
+            "word": "author",
+            "count": "57,138"
+        },
+        {
+            "word": "TestFailedException",
+            "count": "56,627"
+        },
+        {
+            "word": "actor",
+            "count": "55,776"
+        },
+        {
+            "word": "Nil",
+            "count": "55,675"
+        },
+        {
+            "word": "run",
+            "count": "55,332"
+        },
+        {
+            "word": "key",
+            "count": "54,727"
+        },
+        {
+            "word": "Set",
+            "count": "54,486"
+        },
+        {
+            "word": "as",
+            "count": "54,432"
+        },
+        {
+            "word": "foreach",
+            "count": "54,277"
+        },
+        {
+            "word": "when",
+            "count": "53,889"
+        },
+        {
+            "word": "time",
+            "count": "53,343"
+        },
+        {
+            "word": "have",
+            "count": "53,215"
+        },
+        {
+            "word": "on",
+            "count": "52,966"
+        },
+        {
+            "word": "empty",
+            "count": "52,721"
+        },
+        {
+            "word": "Double",
+            "count": "51,461"
+        },
+        {
+            "word": "must",
+            "count": "50,678"
+        },
+        {
+            "word": "println",
+            "count": "50,603"
+        },
+        {
+            "word": "pre",
+            "count": "50,090"
+        },
+        {
+            "word": "close",
+            "count": "49,414"
+        },
+        {
+            "word": "ctx",
+            "count": "48,899"
+        },
+        {
+            "word": "method",
+            "count": "48,689"
+        },
+        {
+            "word": "classOf",
+            "count": "47,566"
+        },
+        {
+            "word": "error",
+            "count": "47,156"
+        },
+        {
+            "word": "d",
+            "count": "46,907"
+        },
+        {
+            "word": "tree",
+            "count": "44,977"
+        },
+        {
+            "word": "set",
+            "count": "44,549"
+        },
+        {
+            "word": "U",
+            "count": "44,423"
+        },
+        {
+            "word": "plugins",
+            "count": "44,199"
+        },
+        {
+            "word": "client",
+            "count": "44,151"
+        },
+        {
+            "word": "context",
+            "count": "44,003"
+        },
+        {
+            "word": "junit",
+            "count": "43,656"
+        },
+        {
+            "word": "__",
+            "count": "43,259"
+        },
+        {
+            "word": "jetbrains",
+            "count": "43,122"
+        },
+        {
+            "word": "File",
+            "count": "42,899"
+        },
+        {
+            "word": "log",
+            "count": "42,600"
+        },
+        {
+            "word": "path",
+            "count": "42,349"
+        },
+        {
+            "word": "props",
+            "count": "42,155"
+        },
+        {
+            "word": "common",
+            "count": "41,143"
+        },
+        {
+            "word": "undefined",
+            "count": "40,937"
+        },
+        {
+            "word": "Long",
+            "count": "40,819"
+        },
+        {
+            "word": "other",
+            "count": "40,359"
+        },
+        {
+            "word": "while",
+            "count": "39,967"
+        },
+        {
+            "word": "start",
+            "count": "39,517"
+        },
+        {
+            "word": "Any",
+            "count": "39,108"
+        },
+        {
+            "word": "info",
+            "count": "38,888"
+        },
+        {
+            "word": "text",
+            "count": "38,412"
+        },
+        {
+            "word": "all",
+            "count": "38,397"
+        },
+        {
+            "word": "asInstanceOf",
+            "count": "38,257"
+        },
+        {
+            "word": "status",
+            "count": "37,971"
+        },
+        {
+            "word": "B",
+            "count": "37,801"
+        },
+        {
+            "word": "server",
+            "count": "37,522"
+        },
+        {
+            "word": "group",
+            "count": "37,217"
+        },
+        {
+            "word": "index",
+            "count": "37,166"
+        },
+        {
+            "word": "topic",
+            "count": "37,140"
+        },
+        {
+            "word": "out",
+            "count": "37,118"
+        },
+        {
+            "word": "state",
+            "count": "36,948"
+        },
+        {
+            "word": "main",
+            "count": "36,664"
+        },
+        {
+            "word": "obj",
+            "count": "36,502"
+        },
+        {
+            "word": "model",
+            "count": "36,353"
+        },
+        {
+            "word": "builder",
+            "count": "35,877"
+        },
+        {
+            "word": "j",
+            "count": "35,768"
+        },
+        {
+            "word": "are",
+            "count": "35,767"
+        },
+        {
+            "word": "sql",
+            "count": "35,707"
+        },
+        {
+            "word": "duration",
+            "count": "35,172"
+        },
+        {
+            "word": "at",
+            "count": "35,009"
+        },
+        {
+            "word": "use",
+            "count": "34,748"
+        },
+        {
+            "word": "stripMargin",
+            "count": "34,659"
+        },
+        {
+            "word": "yield",
+            "count": "34,302"
+        },
+        {
+            "word": "l",
+            "count": "33,992"
+        },
+        {
+            "word": "count",
+            "count": "33,487"
+        },
+        {
+            "word": "res",
+            "count": "33,189"
+        },
+        {
+            "word": "psi",
+            "count": "33,033"
+        },
+        {
+            "word": "System",
+            "count": "32,741"
+        },
+        {
+            "word": "app",
+            "count": "32,678"
+        },
+        {
+            "word": "libs",
+            "count": "32,653"
+        },
+        {
+            "word": "format",
+            "count": "32,151"
+        },
+        {
+            "word": "user",
+            "count": "31,984"
+        },
+        {
+            "word": "UndefOr",
+            "count": "31,911"
+        },
+        {
+            "word": "finagle",
+            "count": "31,815"
+        },
+        {
+            "word": "do",
+            "count": "31,814"
+        },
+        {
+            "word": "will",
+            "count": "31,796"
+        },
+        {
+            "word": "response",
+            "count": "31,737"
+        },
+        {
+            "word": "trait",
+            "count": "31,700"
+        },
+        {
+            "word": "lazy",
+            "count": "31,628"
+        },
+        {
+            "word": "Exception",
+            "count": "31,598"
+        },
+        {
+            "word": "m",
+            "count": "31,264"
+        },
+        {
+            "word": "k",
+            "count": "31,260"
+        },
+        {
+            "word": "source",
+            "count": "31,224"
+        },
+        {
+            "word": "super",
+            "count": "30,598"
+        },
+        {
+            "word": "foo",
+            "count": "30,481"
+        },
+        {
+            "word": "event",
+            "count": "30,364"
+        },
+        {
+            "word": "list",
+            "count": "30,204"
+        },
+        {
+            "word": "buffer",
+            "count": "29,928"
+        },
+        {
+            "word": "kafka",
+            "count": "29,791"
+        },
+        {
+            "word": "head",
+            "count": "29,651"
+        },
+        {
+            "word": "repository",
+            "count": "29,527"
+        },
+        {
+            "word": "sc",
+            "count": "29,369"
+        },
+        {
+            "word": "values",
+            "count": "29,213"
+        },
+        {
+            "word": "V",
+            "count": "29,145"
+        },
+        {
+            "word": "settings",
+            "count": "28,956"
+        },
+        {
+            "word": "annotation",
+            "count": "28,902"
+        },
+        {
+            "word": "used",
+            "count": "28,897"
+        },
+        {
+            "word": "protected",
+            "count": "28,799"
+        },
+        {
+            "word": "one",
+            "count": "28,657"
+        },
+        {
+            "word": "input",
+            "count": "28,589"
+        },
+        {
+            "word": "o",
+            "count": "28,575"
+        },
+        {
+            "word": "\u21d2",
+            "count": "28,532"
+        },
+        {
+            "word": "~",
+            "count": "28,526"
+        },
+        {
+            "word": "filter",
+            "count": "28,524"
+        },
+        {
+            "word": "tp",
+            "count": "28,048"
+        },
+        {
+            "word": "function",
+            "count": "27,977"
+        },
+        {
+            "word": "Context",
+            "count": "27,881"
+        },
+        {
+            "word": "xml",
+            "count": "27,673"
+        },
+        {
+            "word": "can",
+            "count": "27,276"
+        },
+        {
+            "word": "e1",
+            "count": "27,244"
+        },
+        {
+            "word": "RDD",
+            "count": "27,211"
+        },
+        {
+            "word": "we",
+            "count": "27,153"
+        },
+        {
+            "word": "check",
+            "count": "26,817"
+        },
+        {
+            "word": "until",
+            "count": "26,749"
+        },
+        {
+            "word": "sbt",
+            "count": "26,661"
+        },
+        {
+            "word": "system",
+            "count": "26,584"
+        },
+        {
+            "word": "which",
+            "count": "26,558"
+        },
+        {
+            "word": "y",
+            "count": "26,426"
+        },
+        {
+            "word": "expected",
+            "count": "26,152"
+        },
+        {
+            "word": "Await",
+            "count": "26,011"
+        },
+        {
+            "word": "scalajs",
+            "count": "25,997"
+        },
+        {
+            "word": "Success",
+            "count": "25,951"
+        },
+        {
+            "word": "Type",
+            "count": "25,921"
+        },
+        {
+            "word": "params",
+            "count": "25,899"
+        },
+        {
+            "word": "ExecutionContext",
+            "count": "25,828"
+        },
+        {
+            "word": "read",
+            "count": "25,791"
+        },
+        {
+            "word": "getOrElse",
+            "count": "25,769"
+        },
+        {
+            "word": "service",
+            "count": "25,697"
+        },
+        {
+            "word": "intellij",
+            "count": "25,641"
+        },
+        {
+            "word": "Failure",
+            "count": "25,597"
+        },
+        {
+            "word": "partition",
+            "count": "25,571"
+        },
+        {
+            "word": "owner",
+            "count": "25,283"
+        },
+        {
+            "word": "language",
+            "count": "25,265"
+        },
+        {
+            "word": "_1",
+            "count": "25,014"
+        },
+        {
+            "word": "h",
+            "count": "24,939"
+        },
+        {
+            "word": "models",
+            "count": "24,920"
+        },
+        {
+            "word": "append",
+            "count": "24,869"
+        },
+        {
+            "word": "Row",
+            "count": "24,825"
+        },
+        {
+            "word": "db",
+            "count": "24,804"
+        },
+        {
+            "word": "body",
+            "count": "24,783"
+        },
+        {
+            "word": "base",
+            "count": "24,648"
+        },
+        {
+            "word": "assertEquals",
+            "count": "24,622"
+        },
+        {
+            "word": "RunWith",
+            "count": "24,595"
+        },
+        {
+            "word": "given",
+            "count": "24,587"
+        },
+        {
+            "word": "field",
+            "count": "24,329"
+        },
+        {
+            "word": "Throwable",
+            "count": "24,211"
+        },
+        {
+            "word": "Matchers",
+            "count": "24,195"
+        },
+        {
+            "word": "copy",
+            "count": "24,195"
+        },
+        {
+            "word": "specs2",
+            "count": "24,122"
+        },
+        {
+            "word": "query",
+            "count": "24,015"
+        },
+        {
+            "word": "mock",
+            "count": "23,821"
+        },
+        {
+            "word": "scalaz",
+            "count": "23,811"
+        },
+        {
+            "word": "github",
+            "count": "23,705"
+        },
+        {
+            "word": "Tree",
+            "count": "23,648"
+        },
+        {
+            "word": "types",
+            "count": "23,367"
+        },
+        {
+            "word": "_2",
+            "count": "23,333"
+        },
+        {
+            "word": "reflect",
+            "count": "23,323"
+        },
+        {
+            "word": "default",
+            "count": "23,279"
+        },
+        {
+            "word": "javax",
+            "count": "23,256"
+        },
+        {
+            "word": "any",
+            "count": "23,251"
+        },
+        {
+            "word": "finally",
+            "count": "23,212"
+        },
+        {
+            "word": "version",
+            "count": "23,173"
+        },
+        {
+            "word": "Try",
+            "count": "23,167"
+        },
+        {
+            "word": "ex",
+            "count": "23,167"
+        },
+        {
+            "word": "isEmpty",
+            "count": "23,008"
+        },
+        {
+            "word": "offset",
+            "count": "22,958"
+        },
+        {
+            "word": "F",
+            "count": "22,932"
+        },
+        {
+            "word": "S",
+            "count": "22,885"
+        },
+        {
+            "word": "build",
+            "count": "22,710"
+        },
+        {
+            "word": "Json",
+            "count": "22,657"
+        },
+        {
+            "word": "current",
+            "count": "22,609"
+        },
+        {
+            "word": "toList",
+            "count": "22,581"
+        },
+        {
+            "word": "update",
+            "count": "22,567"
+        },
+        {
+            "word": "If",
+            "count": "22,416"
+        },
+        {
+            "word": "element",
+            "count": "22,390"
+        },
+        {
+            "word": "rdd",
+            "count": "22,265"
+        },
+        {
+            "word": "JUnitRunner",
+            "count": "22,209"
+        },
+        {
+            "word": "typesafe",
+            "count": "22,165"
+        },
+        {
+            "word": "HNil",
+            "count": "22,154"
+        },
+        {
+            "word": "equal",
+            "count": "22,043"
+        },
+        {
+            "word": "next",
+            "count": "22,034"
+        },
+        {
+            "word": "conf",
+            "count": "22,018"
+        },
+        {
+            "word": "column",
+            "count": "21,747"
+        },
+        {
+            "word": "row",
+            "count": "21,666"
+        },
+        {
+            "word": "updateDynamic",
+            "count": "21,637"
+        },
+        {
+            "word": "utils",
+            "count": "21,615"
+        },
+        {
+            "word": "SparkContext",
+            "count": "21,602"
+        },
+        {
+            "word": "tailrec",
+            "count": "21,586"
+        },
+        {
+            "word": "output",
+            "count": "21,534"
+        },
+        {
+            "word": "msg",
+            "count": "21,300"
+        },
+        {
+            "word": "liftweb",
+            "count": "21,269"
+        },
+        {
+            "word": "node",
+            "count": "21,254"
+        },
+        {
+            "word": "create",
+            "count": "21,251"
+        },
+        {
+            "word": "project",
+            "count": "21,047"
+        },
+        {
+            "word": "spray",
+            "count": "20,954"
+        },
+        {
+            "word": "matrix",
+            "count": "20,907"
+        },
+        {
+            "word": "fixture",
+            "count": "20,852"
+        },
+        {
+            "word": "shouldBe",
+            "count": "20,799"
+        },
+        {
+            "word": "form",
+            "count": "20,737"
+        },
+        {
+            "word": "mesosphere",
+            "count": "20,657"
+        },
+        {
+            "word": "left",
+            "count": "20,607"
+        },
+        {
+            "word": "edu",
+            "count": "20,603"
+        },
+        {
+            "word": "put",
+            "count": "20,541"
+        },
+        {
+            "word": "stream",
+            "count": "20,430"
+        },
+        {
+            "word": "JavaConversions",
+            "count": "20,425"
+        },
+        {
+            "word": "syntax",
+            "count": "20,335"
+        },
+        {
+            "word": "Byte",
+            "count": "20,331"
+        },
+        {
+            "word": "self",
+            "count": "20,328"
+        },
+        {
+            "word": "ref",
+            "count": "20,298"
+        },
+        {
+            "word": "thisLineNumber",
+            "count": "20,291"
+        },
+        {
+            "word": "contains",
+            "count": "20,245"
+        },
+        {
+            "word": "write",
+            "count": "20,139"
+        },
+        {
+            "word": "number",
+            "count": "20,055"
+        },
+        {
+            "word": "string",
+            "count": "20,040"
+        },
+        {
+            "word": "application",
+            "count": "19,961"
+        },
+        {
+            "word": "marathon",
+            "count": "19,928"
+        },
+        {
+            "word": "joda",
+            "count": "19,749"
+        },
+        {
+            "word": "final",
+            "count": "19,725"
+        },
+        {
+            "word": "immutable",
+            "count": "19,721"
+        },
+        {
+            "word": "first",
+            "count": "19,683"
+        },
+        {
+            "word": "has",
+            "count": "19,647"
+        },
+        {
+            "word": "Logger",
+            "count": "19,586"
+        },
+        {
+            "word": "right",
+            "count": "19,556"
+        },
+        {
+            "word": "part",
+            "count": "19,545"
+        },
+        {
+            "word": "stop",
+            "count": "19,538"
+        },
+        {
+            "word": "w",
+            "count": "19,482"
+        },
+        {
+            "word": "add",
+            "count": "19,357"
+        },
+        {
+            "word": "Implicits",
+            "count": "19,216"
+        },
+        {
+            "word": "SyntheticEvent",
+            "count": "19,180"
+        },
+        {
+            "word": "u",
+            "count": "19,147"
+        },
+        {
+            "word": "throws",
+            "count": "18,880"
+        },
+        {
+            "word": "DateTime",
+            "count": "18,849"
+        },
+        {
+            "word": "Thread",
+            "count": "18,812"
+        },
+        {
+            "word": "q",
+            "count": "18,714"
+        },
+        {
+            "word": "C",
+            "count": "18,679"
+        },
+        {
+            "word": "no",
+            "count": "18,487"
+        },
+        {
+            "word": "sum",
+            "count": "18,370"
+        },
+        {
+            "word": "runner",
+            "count": "18,327"
+        },
+        {
+            "word": "uk",
+            "count": "18,271"
+        },
+        {
+            "word": "following",
+            "count": "18,175"
+        },
+        {
+            "word": "Date",
+            "count": "18,148"
+        },
+        {
+            "word": "nio",
+            "count": "18,125"
+        },
+        {
+            "word": "only",
+            "count": "17,978"
+        },
+        {
+            "word": "each",
+            "count": "17,894"
+        },
+        {
+            "word": "you",
+            "count": "17,859"
+        },
+        {
+            "word": "flatMap",
+            "count": "17,833"
+        },
+        {
+            "word": "line",
+            "count": "17,818"
+        },
+        {
+            "word": "since",
+            "count": "17,680"
+        },
+        {
+            "word": "failedCodeLineNumber",
+            "count": "17,635"
+        },
+        {
+            "word": "session",
+            "count": "17,599"
+        },
+        {
+            "word": "Random",
+            "count": "17,583"
+        },
+        {
+            "word": "contain",
+            "count": "17,558"
+        },
+        {
+            "word": "html",
+            "count": "17,530"
+        },
+        {
+            "word": "tests",
+            "count": "17,497"
+        },
+        {
+            "word": "expr",
+            "count": "17,373"
+        },
+        {
+            "word": "pos",
+            "count": "17,363"
+        },
+        {
+            "word": "url",
+            "count": "17,161"
+        },
+        {
+            "word": "stack",
+            "count": "17,142"
+        },
+        {
+            "word": "hadoop",
+            "count": "17,096"
+        },
+        {
+            "word": "g",
+            "count": "17,081"
+        },
+        {
+            "word": "getMessage",
+            "count": "16,956"
+        },
+        {
+            "word": "parse",
+            "count": "16,903"
+        },
+        {
+            "word": "Vector",
+            "count": "16,881"
+        },
+        {
+            "word": "driver",
+            "count": "16,846"
+        },
+        {
+            "word": "vector",
+            "count": "16,741"
+        },
+        {
+            "word": "exists",
+            "count": "16,715"
+        },
+        {
+            "word": "IllegalArgumentException",
+            "count": "16,589"
+        },
+        {
+            "word": "logger",
+            "count": "16,565"
+        },
+        {
+            "word": "failedCodeFileName",
+            "count": "16,526"
+        },
+        {
+            "word": "task",
+            "count": "16,513"
+        },
+        {
+            "word": "end",
+            "count": "16,495"
+        },
+        {
+            "word": "____",
+            "count": "16,482"
+        },
+        {
+            "word": "JavaConverters",
+            "count": "16,288"
+        },
+        {
+            "word": "FunSuite",
+            "count": "16,283"
+        },
+        {
+            "word": "execute",
+            "count": "16,247"
+        },
+        {
+            "word": "Project",
+            "count": "16,228"
+        },
+        {
+            "word": "using",
+            "count": "16,169"
+        },
+        {
+            "word": "buf",
+            "count": "16,141"
+        },
+        {
+            "word": "sym",
+            "count": "15,979"
+        },
+        {
+            "word": "K",
+            "count": "15,973"
+        },
+        {
+            "word": "parser",
+            "count": "15,942"
+        },
+        {
+            "word": "receive",
+            "count": "15,938"
+        },
+        {
+            "word": "gov",
+            "count": "15,930"
+        },
+        {
+            "word": "content",
+            "count": "15,835"
+        },
+        {
+            "word": "___",
+            "count": "15,823"
+        },
+        {
+            "word": "label",
+            "count": "15,819"
+        },
+        {
+            "word": "slick",
+            "count": "15,812"
+        },
+        {
+            "word": "req",
+            "count": "15,810"
+        },
+        {
+            "word": "was",
+            "count": "15,767"
+        },
+        {
+            "word": "internal",
+            "count": "15,731"
+        },
+        {
+            "word": "example",
+            "count": "15,687"
+        },
+        {
+            "word": "stHighlight",
+            "count": "15,676"
+        },
+        {
+            "word": "div",
+            "count": "15,673"
+        },
+        {
+            "word": "e2",
+            "count": "15,565"
+        },
+        {
+            "word": "fail",
+            "count": "15,534"
+        },
+        {
+            "word": "so",
+            "count": "15,500"
+        },
+        {
+            "word": "future",
+            "count": "15,364"
+        },
+        {
+            "word": "options",
+            "count": "15,359"
+        },
+        {
+            "word": "ActorSystem",
+            "count": "15,316"
+        },
+        {
+            "word": "shutdown",
+            "count": "15,314"
+        },
+        {
+            "word": "exceptions",
+            "count": "15,277"
+        },
+        {
+            "word": "bytes",
+            "count": "15,211"
+        },
+        {
+            "word": "Source",
+            "count": "15,186"
+        },
+        {
+            "word": "Observable",
+            "count": "15,173"
+        },
+        {
+            "word": "User",
+            "count": "15,157"
+        },
+        {
+            "word": "messages",
+            "count": "15,087"
+        },
+        {
+            "word": "table",
+            "count": "15,063"
+        },
+        {
+            "word": "N",
+            "count": "15,027"
+        },
+        {
+            "word": "I",
+            "count": "15,007"
+        },
+        {
+            "word": "nothing",
+            "count": "15,004"
+        },
+        {
+            "word": "global",
+            "count": "14,925"
+        },
+        {
+            "word": "env",
+            "count": "14,913"
+        },
+        {
+            "word": "information",
+            "count": "14,833"
+        },
+        {
+            "word": "normation",
+            "count": "14,822"
+        },
+        {
+            "word": "timeout",
+            "count": "14,806"
+        },
+        {
+            "word": "UUID",
+            "count": "14,792"
+        },
+        {
+            "word": "elements",
+            "count": "14,779"
+        },
+        {
+            "word": "exception",
+            "count": "14,759"
+        },
+        {
+            "word": "tpe",
+            "count": "14,719"
+        },
+        {
+            "word": "scope",
+            "count": "14,709"
+        },
+        {
+            "word": "FlatSpec",
+            "count": "14,694"
+        },
+        {
+            "word": "math",
+            "count": "14,682"
+        },
+        {
+            "word": "Logging",
+            "count": "14,681"
+        },
+        {
+            "word": "Config",
+            "count": "14,476"
+        },
+        {
+            "word": "slf4j",
+            "count": "14,471"
+        },
+        {
+            "word": "commons",
+            "count": "14,426"
+        },
+        {
+            "word": "provided",
+            "count": "14,329"
+        },
+        {
+            "word": "mkString",
+            "count": "14,310"
+        },
+        {
+            "word": "instance",
+            "count": "14,254"
+        },
+        {
+            "word": "android",
+            "count": "14,232"
+        },
+        {
+            "word": "work",
+            "count": "14,230"
+        },
+        {
+            "word": "after",
+            "count": "14,194"
+        },
+        {
+            "word": "op",
+            "count": "14,158"
+        },
+        {
+            "word": "results",
+            "count": "14,152"
+        },
+        {
+            "word": "isDefined",
+            "count": "14,147"
+        },
+        {
+            "word": "port",
+            "count": "14,112"
+        },
+        {
+            "word": "cache",
+            "count": "14,002"
+        },
+        {
+            "word": "two",
+            "count": "13,990"
+        },
+        {
+            "word": "step",
+            "count": "13,936"
+        },
+        {
+            "word": "sleep",
+            "count": "13,849"
+        },
+        {
+            "word": "R",
+            "count": "13,838"
+        },
+        {
+            "word": "xs",
+            "count": "13,743"
+        },
+        {
+            "word": "action",
+            "count": "13,678"
+        },
+        {
+            "word": "schema",
+            "count": "13,677"
+        },
+        {
+            "word": "td",
+            "count": "13,566"
+        },
+        {
+            "word": "L",
+            "count": "13,550"
+        },
+        {
+            "word": "mvc",
+            "count": "13,541"
+        },
+        {
+            "word": "array",
+            "count": "13,533"
+        },
+        {
+            "word": "getClass",
+            "count": "13,503"
+        },
+        {
+            "word": "item",
+            "count": "13,405"
+        },
+        {
+            "word": "protocol",
+            "count": "13,379"
+        },
+        {
+            "word": "Properties",
+            "count": "13,263"
+        },
+        {
+            "word": "writer",
+            "count": "13,244"
+        },
+        {
+            "word": "impl",
+            "count": "13,210"
+        },
+        {
+            "word": "but",
+            "count": "13,146"
+        },
+        {
+            "word": "before",
+            "count": "13,137"
+        },
+        {
+            "word": "HList",
+            "count": "13,118"
+        },
+        {
+            "word": "fields",
+            "count": "13,080"
+        },
+        {
+            "word": "returns",
+            "count": "13,071"
+        },
+        {
+            "word": "O",
+            "count": "13,061"
+        },
+        {
+            "word": "Request",
+            "count": "13,040"
+        },
+        {
+            "word": "google",
+            "count": "13,037"
+        },
+        {
+            "word": "Object",
+            "count": "12,955"
+        },
+        {
+            "word": "LoggerFactory",
+            "count": "12,950"
+        },
+        {
+            "word": "seconds",
+            "count": "12,944"
+        },
+        {
+            "word": "Duration",
+            "count": "12,933"
+        },
+        {
+            "word": "withFixture",
+            "count": "12,932"
+        },
+        {
+            "word": "For",
+            "count": "12,917"
+        },
+        {
+            "word": "caught1",
+            "count": "12,878"
+        },
+        {
+            "word": "ArrayBuffer",
+            "count": "12,870"
+        },
+        {
+            "word": "State",
+            "count": "12,830"
+        },
+        {
+            "word": "events",
+            "count": "12,814"
+        },
+        {
+            "word": "see",
+            "count": "12,814"
+        },
+        {
+            "word": "Scala",
+            "count": "12,793"
+        },
+        {
+            "word": "sb",
+            "count": "12,752"
+        },
+        {
+            "word": "checker",
+            "count": "12,678"
+        },
+        {
+            "word": "symbol",
+            "count": "12,673"
+        },
+        {
+            "word": "domain",
+            "count": "12,666"
+        },
+        {
+            "word": "order",
+            "count": "12,602"
+        },
+        {
+            "word": "hasNext",
+            "count": "12,573"
+        },
+        {
+            "word": "position",
+            "count": "12,526"
+        },
+        {
+            "word": "call",
+            "count": "12,523"
+        },
+        {
+            "word": "_root_",
+            "count": "12,514"
+        },
+        {
+            "word": "eclipse",
+            "count": "12,514"
+        },
+        {
+            "word": "correct",
+            "count": "12,505"
+        },
+        {
+            "word": "trim",
+            "count": "12,493"
+        },
+        {
+            "word": "json4s",
+            "count": "12,468"
+        },
+        {
+            "word": "into",
+            "count": "12,408"
+        },
+        {
+            "word": "now",
+            "count": "12,401"
+        },
+        {
+            "word": "runtime",
+            "count": "12,384"
+        },
+        {
+            "word": "tools",
+            "count": "12,344"
+        },
+        {
+            "word": "store",
+            "count": "12,339"
+        },
+        {
+            "word": "collect",
+            "count": "12,333"
+        },
+        {
+            "word": "hi",
+            "count": "12,327"
+        },
+        {
+            "word": "controller",
+            "count": "12,301"
+        },
+        {
+            "word": "rep",
+            "count": "12,283"
+        },
+        {
+            "word": "iterator",
+            "count": "12,282"
+        },
+        {
+            "word": "compiler",
+            "count": "12,215"
+        },
+        {
+            "word": "Props",
+            "count": "12,186"
+        },
+        {
+            "word": "www",
+            "count": "12,084"
+        },
+        {
+            "word": "header",
+            "count": "12,027"
+        },
+        {
+            "word": "native",
+            "count": "12,008"
+        },
+        {
+            "word": "ClassTag",
+            "count": "11,996"
+        },
+        {
+            "word": "same",
+            "count": "11,989"
+        },
+        {
+            "word": "partitions",
+            "count": "11,985"
+        },
+        {
+            "word": "universe",
+            "count": "11,953"
+        },
+        {
+            "word": "expression",
+            "count": "11,913"
+        },
+        {
+            "word": "controllers",
+            "count": "11,909"
+        },
+        {
+            "word": "debug",
+            "count": "11,900"
+        },
+        {
+            "word": "elem",
+            "count": "11,882"
+        },
+        {
+            "word": "then",
+            "count": "11,882"
+        },
+        {
+            "word": "Value",
+            "count": "11,802"
+        },
+        {
+            "word": "orbeon",
+            "count": "11,802"
+        },
+        {
+            "word": "find",
+            "count": "11,800"
+        },
+        {
+            "word": "actual",
+            "count": "11,772"
+        },
+        {
+            "word": "arg",
+            "count": "11,772"
+        },
+        {
+            "word": "success",
+            "count": "11,747"
+        },
+        {
+            "word": "without",
+            "count": "11,668"
+        },
+        {
+            "word": "parent",
+            "count": "11,642"
+        },
+        {
+            "word": "Path",
+            "count": "11,631"
+        },
+        {
+            "word": "testName",
+            "count": "11,624"
+        },
+        {
+            "word": "connection",
+            "count": "11,618"
+        },
+        {
+            "word": "successful",
+            "count": "11,599"
+        },
+        {
+            "word": "bar",
+            "count": "11,552"
+        },
+        {
+            "word": "failed",
+            "count": "11,537"
+        },
+        {
+            "word": "lila",
+            "count": "11,530"
+        },
+        {
+            "word": "block",
+            "count": "11,523"
+        },
+        {
+            "word": "require",
+            "count": "11,512"
+        },
+        {
+            "word": "Out",
+            "count": "11,500"
+        },
+        {
+            "word": "hmrc",
+            "count": "11,476"
+        },
+        {
+            "word": "delete",
+            "count": "11,463"
+        },
+        {
+            "word": "features",
+            "count": "11,449"
+        },
+        {
+            "word": "M",
+            "count": "11,433"
+        },
+        {
+            "word": "currentTimeMillis",
+            "count": "11,418"
+        },
+        {
+            "word": "some",
+            "count": "11,417"
+        },
+        {
+            "word": "In",
+            "count": "11,413"
+        },
+        {
+            "word": "up",
+            "count": "11,399"
+        },
+        {
+            "word": "target",
+            "count": "11,382"
+        },
+        {
+            "word": "pattern",
+            "count": "11,373"
+        },
+        {
+            "word": "stats",
+            "count": "11,373"
+        },
+        {
+            "word": "synchronized",
+            "count": "11,308"
+        },
+        {
+            "word": "Actor",
+            "count": "11,302"
+        },
+        {
+            "word": "send",
+            "count": "11,287"
+        },
+        {
+            "word": "tail",
+            "count": "11,220"
+        },
+        {
+            "word": "im",
+            "count": "11,216"
+        },
+        {
+            "word": "complete",
+            "count": "11,188"
+        },
+        {
+            "word": "more",
+            "count": "11,176"
+        },
+        {
+            "word": "services",
+            "count": "11,151"
+        },
+        {
+            "word": "description",
+            "count": "11,150"
+        },
+        {
+            "word": "specified",
+            "count": "11,095"
+        },
+        {
+            "word": "does",
+            "count": "11,070"
+        },
+        {
+            "word": "prefix",
+            "count": "11,067"
+        },
+        {
+            "word": "theTestThatCalled",
+            "count": "11,027"
+        },
+        {
+            "word": "ListBuffer",
+            "count": "11,015"
+        },
+        {
+            "word": "tag",
+            "count": "11,011"
+        },
+        {
+            "word": "where",
+            "count": "11,003"
+        },
+        {
+            "word": "files",
+            "count": "10,996"
+        },
+        {
+            "word": "ignore",
+            "count": "10,986"
+        },
+        {
+            "word": "its",
+            "count": "10,985"
+        },
+        {
+            "word": "range",
+            "count": "10,985"
+        },
+        {
+            "word": "topicAndPartition",
+            "count": "10,923"
+        },
+        {
+            "word": "theTestThisCalled",
+            "count": "10,922"
+        },
+        {
+            "word": "HashMap",
+            "count": "10,918"
+        },
+        {
+            "word": "cluster",
+            "count": "10,903"
+        },
+        {
+            "word": "toMap",
+            "count": "10,893"
+        },
+        {
+            "word": "de",
+            "count": "10,885"
+        },
+        {
+            "word": "toInt",
+            "count": "10,884"
+        },
+        {
+            "word": "fun",
+            "count": "10,864"
+        },
+        {
+            "word": "select",
+            "count": "10,852"
+        },
+        {
+            "word": "host",
+            "count": "10,847"
+        },
+        {
+            "word": "getName",
+            "count": "10,836"
+        },
+        {
+            "word": "z",
+            "count": "10,824"
+        },
+        {
+            "word": "Response",
+            "count": "10,814"
+        },
+        {
+            "word": "passed",
+            "count": "10,800"
+        },
+        {
+            "word": "rows",
+            "count": "10,776"
+        },
+        {
+            "word": "scheduler",
+            "count": "10,772"
+        },
+        {
+            "word": "doc",
+            "count": "10,763"
+        },
+        {
+            "word": "clear",
+            "count": "10,757"
+        },
+        {
+            "word": "Returns",
+            "count": "10,750"
+        },
+        {
+            "word": "storage",
+            "count": "10,731"
+        },
+        {
+            "word": "distribution",
+            "count": "10,715"
+        },
+        {
+            "word": "errors",
+            "count": "10,694"
+        },
+        {
+            "word": "fileName",
+            "count": "10,681"
+        },
+        {
+            "word": "local",
+            "count": "10,670"
+        },
+        {
+            "word": "li",
+            "count": "10,668"
+        },
+        {
+            "word": "process",
+            "count": "10,620"
+        },
+        {
+            "word": "exit",
+            "count": "10,613"
+        },
+        {
+            "word": "ch",
+            "count": "10,612"
+        },
+        {
+            "word": "ConfigFactory",
+            "count": "10,584"
+        },
+        {
+            "word": "mustEqual",
+            "count": "10,553"
+        },
+        {
+            "word": "inline",
+            "count": "10,538"
+        },
+        {
+            "word": "spec",
+            "count": "10,534"
+        },
+        {
+            "word": "Filter",
+            "count": "10,520"
+        },
+        {
+            "word": "col",
+            "count": "10,500"
+        },
+        {
+            "word": "SlowAsMolasses",
+            "count": "10,495"
+        },
+        {
+            "word": "underlying",
+            "count": "10,495"
+        },
+        {
+            "word": "inject",
+            "count": "10,456"
+        },
+        {
+            "word": "last",
+            "count": "10,427"
+        },
+        {
+            "word": "equals",
+            "count": "10,398"
+        },
+        {
+            "word": "https",
+            "count": "10,385"
+        },
+        {
+            "word": "parameters",
+            "count": "10,381"
+        },
+        {
+            "word": "split",
+            "count": "10,376"
+        },
+        {
+            "word": "token",
+            "count": "10,371"
+        },
+        {
+            "word": "level",
+            "count": "10,329"
+        },
+        {
+            "word": "graph",
+            "count": "10,286"
+        },
+        {
+            "word": "leader",
+            "count": "10,265"
+        },
+        {
+            "word": "root",
+            "count": "10,253"
+        },
+        {
+            "word": "typed",
+            "count": "10,245"
+        },
+        {
+            "word": "err",
+            "count": "10,198"
+        },
+        {
+            "word": "there",
+            "count": "10,184"
+        },
+        {
+            "word": "feature",
+            "count": "10,172"
+        },
+        {
+            "word": "resp",
+            "count": "10,163"
+        },
+        {
+            "word": "Node",
+            "count": "10,130"
+        },
+        {
+            "word": "title",
+            "count": "10,103"
+        },
+        {
+            "word": "scalacheck",
+            "count": "10,080"
+        },
+        {
+            "word": "headers",
+            "count": "10,073"
+        },
+        {
+            "word": "userName",
+            "count": "10,053"
+        },
+        {
+            "word": "Return",
+            "count": "10,051"
+        },
+        {
+            "word": "init",
+            "count": "10,043"
+        },
+        {
+            "word": "control",
+            "count": "9,995"
+        },
+        {
+            "word": "geomesa",
+            "count": "9,942"
+        },
+        {
+            "word": "minecraft",
+            "count": "9,932"
+        },
+        {
+            "word": "X",
+            "count": "9,894"
+        },
+        {
+            "word": "codec",
+            "count": "9,889"
+        },
+        {
+            "word": "dir",
+            "count": "9,888"
+        },
+        {
+            "word": "FixtureParam",
+            "count": "9,856"
+        },
+        {
+            "word": "ActorRef",
+            "count": "9,852"
+        },
+        {
+            "word": "promise",
+            "count": "9,833"
+        },
+        {
+            "word": "We",
+            "count": "9,822"
+        },
+        {
+            "word": "Time",
+            "count": "9,810"
+        },
+        {
+            "word": "ast",
+            "count": "9,794"
+        },
+        {
+            "word": "Assert",
+            "count": "9,781"
+        },
+        {
+            "word": "record",
+            "count": "9,766"
+        },
+        {
+            "word": "IOException",
+            "count": "9,756"
+        },
+        {
+            "word": "thread",
+            "count": "9,740"
+        },
+        {
+            "word": "second",
+            "count": "9,735"
+        },
+        {
+            "word": "locationtech",
+            "count": "9,730"
+        },
+        {
+            "word": "Timeout",
+            "count": "9,705"
+        },
+        {
+            "word": "enables",
+            "count": "9,702"
+        },
+        {
+            "word": "Configuration",
+            "count": "9,693"
+        },
+        {
+            "word": "Empty",
+            "count": "9,686"
+        },
+        {
+            "word": "Name",
+            "count": "9,673"
+        },
+        {
+            "word": "oxf",
+            "count": "9,650"
+        },
+        {
+            "word": "cc",
+            "count": "9,639"
+        },
+        {
+            "word": "configuration",
+            "count": "9,610"
+        },
+        {
+            "word": "E",
+            "count": "9,595"
+        },
+        {
+            "word": "AnyRef",
+            "count": "9,579"
+        },
+        {
+            "word": "Promise",
+            "count": "9,560"
+        },
+        {
+            "word": "netty",
+            "count": "9,557"
+        },
+        {
+            "word": "LINE",
+            "count": "9,524"
+        },
+        {
+            "word": "handler",
+            "count": "9,524"
+        },
+        {
+            "word": "remove",
+            "count": "9,514"
+        },
+        {
+            "word": "scaladsl",
+            "count": "9,513"
+        },
+        {
+            "word": "consumer",
+            "count": "9,506"
+        },
+        {
+            "word": "additional",
+            "count": "9,492"
+        },
+        {
+            "word": "forAll",
+            "count": "9,451"
+        },
+        {
+            "word": "openapi",
+            "count": "9,448"
+        },
+        {
+            "word": "entity",
+            "count": "9,389"
+        },
+        {
+            "word": "valid",
+            "count": "9,387"
+        },
+        {
+            "word": "fs",
+            "count": "9,382"
+        },
+        {
+            "word": "ByteBuffer",
+            "count": "9,304"
+        },
+        {
+            "word": "sys",
+            "count": "9,287"
+        },
+        {
+            "word": "date",
+            "count": "9,283"
+        },
+        {
+            "word": "broker",
+            "count": "9,247"
+        },
+        {
+            "word": "resource",
+            "count": "9,247"
+        },
+        {
+            "word": "TestUtils",
+            "count": "9,226"
+        },
+        {
+            "word": "module",
+            "count": "9,212"
+        },
+        {
+            "word": "required",
+            "count": "9,209"
+        },
+        {
+            "word": "max",
+            "count": "9,200"
+        },
+        {
+            "word": "URL",
+            "count": "9,178"
+        },
+        {
+            "word": "rhs",
+            "count": "9,171"
+        },
+        {
+            "word": "email",
+            "count": "9,169"
+        },
+        {
+            "word": "subject",
+            "count": "9,163"
+        },
+        {
+            "word": "rudder",
+            "count": "9,162"
+        },
+        {
+            "word": "tparam",
+            "count": "9,149"
+        },
+        {
+            "word": "channel",
+            "count": "9,135"
+        },
+        {
+            "word": "caught2",
+            "count": "9,131"
+        },
+        {
+            "word": "keys",
+            "count": "9,080"
+        },
+        {
+            "word": "Specification",
+            "count": "9,077"
+        },
+        {
+            "word": "tr",
+            "count": "9,048"
+        },
+        {
+            "word": "isInstanceOf",
+            "count": "9,040"
+        },
+        {
+            "word": "reporter",
+            "count": "9,032"
+        },
+        {
+            "word": "P",
+            "count": "9,025"
+        },
+        {
+            "word": "binary",
+            "count": "9,022"
+        },
+        {
+            "word": "Result",
+            "count": "8,999"
+        },
+        {
+            "word": "parameter",
+            "count": "8,995"
+        },
+        {
+            "word": "simple",
+            "count": "8,976"
+        },
+        {
+            "word": "metadata",
+            "count": "8,975"
+        },
+        {
+            "word": "StringBuilder",
+            "count": "8,935"
+        },
+        {
+            "word": "examples",
+            "count": "8,935"
+        },
+        {
+            "word": "Equality",
+            "count": "8,917"
+        },
+        {
+            "word": "command",
+            "count": "8,902"
+        },
+        {
+            "word": "style",
+            "count": "8,902"
+        },
+        {
+            "word": "Keys",
+            "count": "8,899"
+        },
+        {
+            "word": "Status",
+            "count": "8,874"
+        },
+        {
+            "word": "ac",
+            "count": "8,826"
+        },
+        {
+            "word": "t1",
+            "count": "8,825"
+        },
+        {
+            "word": "When",
+            "count": "8,807"
+        },
+        {
+            "word": "Ok",
+            "count": "8,783"
+        },
+        {
+            "word": "Rep",
+            "count": "8,758"
+        },
+        {
+            "word": "TODO",
+            "count": "8,720"
+        },
+        {
+            "word": "mytags",
+            "count": "8,664"
+        },
+        {
+            "word": "Key",
+            "count": "8,652"
+        },
+        {
+            "word": "Class",
+            "count": "8,634"
+        },
+        {
+            "word": "metrics",
+            "count": "8,634"
+        },
+        {
+            "word": "atomic",
+            "count": "8,625"
+        },
+        {
+            "word": "arguments",
+            "count": "8,615"
+        },
+        {
+            "word": "OK",
+            "count": "8,612"
+        },
+        {
+            "word": "Scope",
+            "count": "8,610"
+        },
+        {
+            "word": "awt",
+            "count": "8,606"
+        },
+        {
+            "word": "ct",
+            "count": "8,592"
+        },
+        {
+            "word": "TimeUnit",
+            "count": "8,591"
+        },
+        {
+            "word": "distributed",
+            "count": "8,590"
+        },
+        {
+            "word": "mockito",
+            "count": "8,583"
+        },
+        {
+            "word": "Created",
+            "count": "8,571"
+        },
+        {
+            "word": "limit",
+            "count": "8,571"
+        },
+        {
+            "word": "SparkConf",
+            "count": "8,563"
+        },
+        {
+            "word": "toSet",
+            "count": "8,552"
+        },
+        {
+            "word": "implementation",
+            "count": "8,528"
+        },
+        {
+            "word": "toSeq",
+            "count": "8,519"
+        },
+        {
+            "word": "str",
+            "count": "8,502"
+        },
+        {
+            "word": "take",
+            "count": "8,487"
+        },
+        {
+            "word": "producer",
+            "count": "8,470"
+        },
+        {
+            "word": "logging",
+            "count": "8,437"
+        },
+        {
+            "word": "span",
+            "count": "8,429"
+        },
+        {
+            "word": "Error",
+            "count": "8,400"
+        },
+        {
+            "word": "eq",
+            "count": "8,400"
+        },
+        {
+            "word": "Symbol",
+            "count": "8,383"
+        },
+        {
+            "word": "Task",
+            "count": "8,378"
+        },
+        {
+            "word": "OneArgTest",
+            "count": "8,365"
+        },
+        {
+            "word": "tags",
+            "count": "8,347"
+        },
+        {
+            "word": "Left",
+            "count": "8,337"
+        },
+        {
+            "word": "iter",
+            "count": "8,334"
+        },
+        {
+            "word": "items",
+            "count": "8,330"
+        },
+        {
+            "word": "len",
+            "count": "8,320"
+        },
+        {
+            "word": "breeze",
+            "count": "8,313"
+        },
+        {
+            "word": "Utils",
+            "count": "8,298"
+        },
+        {
+            "word": "verify",
+            "count": "8,292"
+        },
+        {
+            "word": "print",
+            "count": "8,288"
+        },
+        {
+            "word": "running",
+            "count": "8,287"
+        },
+        {
+            "word": "Service",
+            "count": "8,264"
+        },
+        {
+            "word": "caught3",
+            "count": "8,248"
+        },
+        {
+            "word": "flush",
+            "count": "8,247"
+        },
+        {
+            "word": "swing",
+            "count": "8,236"
+        },
+        {
+            "word": "make",
+            "count": "8,232"
+        },
+        {
+            "word": "reader",
+            "count": "8,232"
+        },
+        {
+            "word": "cls",
+            "count": "8,219"
+        },
+        {
+            "word": "gen",
+            "count": "8,218"
+        },
+        {
+            "word": "ret",
+            "count": "8,211"
+        },
+        {
+            "word": "See",
+            "count": "8,204"
+        },
+        {
+            "word": "created",
+            "count": "8,194"
+        },
+        {
+            "word": "than",
+            "count": "8,180"
+        },
+        {
+            "word": "chk",
+            "count": "8,178"
+        },
+        {
+            "word": "Mockito",
+            "count": "8,169"
+        },
+        {
+            "word": "methods",
+            "count": "8,146"
+        },
+        {
+            "word": "because",
+            "count": "8,132"
+        },
+        {
+            "word": "Float",
+            "count": "8,130"
+        },
+        {
+            "word": "here",
+            "count": "8,129"
+        },
+        {
+            "word": "found",
+            "count": "8,110"
+        },
+        {
+            "word": "tasks",
+            "count": "8,110"
+        },
+        {
+            "word": "auth",
+            "count": "8,108"
+        },
+        {
+            "word": "Gen",
+            "count": "8,070"
+        },
+        {
+            "word": "Stack",
+            "count": "8,066"
+        },
+        {
+            "word": "opts",
+            "count": "8,021"
+        },
+        {
+            "word": "int",
+            "count": "8,020"
+        },
+        {
+            "word": "mllib",
+            "count": "7,993"
+        },
+        {
+            "word": "cmd",
+            "count": "7,975"
+        },
+        {
+            "word": "KafkaConfig",
+            "count": "7,968"
+        },
+        {
+            "word": "children",
+            "count": "7,967"
+        },
+        {
+            "word": "load",
+            "count": "7,966"
+        },
+        {
+            "word": "git",
+            "count": "7,962"
+        },
+        {
+            "word": "failure",
+            "count": "7,931"
+        },
+        {
+            "word": "appId",
+            "count": "7,923"
+        },
+        {
+            "word": "unit",
+            "count": "7,910"
+        },
+        {
+            "word": "implicitConversions",
+            "count": "7,901"
+        },
+        {
+            "word": "reset",
+            "count": "7,900"
+        },
+        {
+            "word": "Args",
+            "count": "7,893"
+        },
+        {
+            "word": "conn",
+            "count": "7,882"
+        },
+        {
+            "word": "names",
+            "count": "7,878"
+        },
+        {
+            "word": "pending",
+            "count": "7,836"
+        },
+        {
+            "word": "testkit",
+            "count": "7,832"
+        },
+        {
+            "word": "jackson",
+            "count": "7,807"
+        },
+        {
+            "word": "PsiElement",
+            "count": "7,784"
+        },
+        {
+            "word": "expect",
+            "count": "7,784"
+        },
+        {
+            "word": "defined",
+            "count": "7,781"
+        },
+        {
+            "word": "suite",
+            "count": "7,779"
+        },
+        {
+            "word": "factory",
+            "count": "7,765"
+        },
+        {
+            "word": "non",
+            "count": "7,732"
+        },
+        {
+            "word": "rest",
+            "count": "7,713"
+        },
+        {
+            "word": "operation",
+            "count": "7,709"
+        },
+        {
+            "word": "entry",
+            "count": "7,707"
+        },
+        {
+            "word": "include",
+            "count": "7,701"
+        },
+        {
+            "word": "sft",
+            "count": "7,686"
+        },
+        {
+            "word": "such",
+            "count": "7,673"
+        },
+        {
+            "word": "DStream",
+            "count": "7,669"
+        },
+        {
+            "word": "sequence",
+            "count": "7,616"
+        },
+        {
+            "word": "zkClient",
+            "count": "7,613"
+        },
+        {
+            "word": "Req",
+            "count": "7,607"
+        },
+        {
+            "word": "getLogger",
+            "count": "7,606"
+        },
+        {
+            "word": "documentation",
+            "count": "7,590"
+        },
+        {
+            "word": "point",
+            "count": "7,573"
+        },
+        {
+            "word": "Function",
+            "count": "7,563"
+        },
+        {
+            "word": "WordSpec",
+            "count": "7,558"
+        },
+        {
+            "word": "need",
+            "count": "7,539"
+        },
+        {
+            "word": "IO",
+            "count": "7,502"
+        },
+        {
+            "word": "web",
+            "count": "7,494"
+        },
+        {
+            "word": "t2",
+            "count": "7,488"
+        },
+        {
+            "word": "dispatcher",
+            "count": "7,487"
+        },
+        {
+            "word": "Cons",
+            "count": "7,421"
+        },
+        {
+            "word": "reactivemongo",
+            "count": "7,420"
+        },
+        {
+            "word": "analysis",
+            "count": "7,411"
+        },
+        {
+            "word": "chain",
+            "count": "7,381"
+        },
+        {
+            "word": "TopicAndPartition",
+            "count": "7,380"
+        },
+        {
+            "word": "search",
+            "count": "7,378"
+        },
+        {
+            "word": "transform",
+            "count": "7,375"
+        },
+        {
+            "word": "validate",
+            "count": "7,356"
+        },
+        {
+            "word": "libraryDependencies",
+            "count": "7,354"
+        },
+        {
+            "word": "1L",
+            "count": "7,339"
+        },
+        {
+            "word": "nodes",
+            "count": "7,339"
+        },
+        {
+            "word": "change",
+            "count": "7,292"
+        },
+        {
+            "word": "zipkin",
+            "count": "7,291"
+        },
+        {
+            "word": "clazz",
+            "count": "7,282"
+        },
+        {
+            "word": "available",
+            "count": "7,266"
+        },
+        {
+            "word": "width",
+            "count": "7,255"
+        },
+        {
+            "word": "Create",
+            "count": "7,250"
+        },
+        {
+            "word": "0L",
+            "count": "7,244"
+        },
+        {
+            "word": "API",
+            "count": "7,235"
+        },
+        {
+            "word": "bind",
+            "count": "7,230"
+        },
+        {
+            "word": "es",
+            "count": "7,221"
+        },
+        {
+            "word": "go",
+            "count": "7,213"
+        },
+        {
+            "word": "called",
+            "count": "7,210"
+        },
+        {
+            "word": "random",
+            "count": "7,205"
+        },
+        {
+            "word": "GET",
+            "count": "7,200"
+        },
+        {
+            "word": "linalg",
+            "count": "7,196"
+        },
+        {
+            "word": "view",
+            "count": "7,187"
+        },
+        {
+            "word": "thenReturn",
+            "count": "7,174"
+        },
+        {
+            "word": "toArray",
+            "count": "7,174"
+        },
+        {
+            "word": "been",
+            "count": "7,165"
+        },
+        {
+            "word": "editor",
+            "count": "7,147"
+        },
+        {
+            "word": "depth",
+            "count": "7,145"
+        },
+        {
+            "word": "await",
+            "count": "7,140"
+        },
+        {
+            "word": "PropValue",
+            "count": "7,136"
+        },
+        {
+            "word": "Scalaz",
+            "count": "7,133"
+        },
+        {
+            "word": "section",
+            "count": "7,128"
+        },
+        {
+            "word": "lib",
+            "count": "7,126"
+        },
+        {
+            "word": "meta",
+            "count": "7,124"
+        },
+        {
+            "word": "single",
+            "count": "7,108"
+        },
+        {
+            "word": "prop",
+            "count": "7,105"
+        },
+        {
+            "word": "manager",
+            "count": "7,092"
+        },
+        {
+            "word": "color",
+            "count": "7,083"
+        },
+        {
+            "word": "rs",
+            "count": "7,059"
+        },
+        {
+            "word": "option",
+            "count": "7,052"
+        },
+        {
+            "word": "join",
+            "count": "7,051"
+        },
+        {
+            "word": "Process",
+            "count": "7,050"
+        },
+        {
+            "word": "Play",
+            "count": "7,022"
+        },
+        {
+            "word": "publish",
+            "count": "7,010"
+        },
+        {
+            "word": "src",
+            "count": "6,997"
+        },
+        {
+            "word": "Right",
+            "count": "6,993"
+        },
+        {
+            "word": "Helpers",
+            "count": "6,985"
+        },
+        {
+            "word": "Integer",
+            "count": "6,983"
+        },
+        {
+            "word": "Short",
+            "count": "6,981"
+        },
+        {
+            "word": "Action",
+            "count": "6,964"
+        },
+        {
+            "word": "macros",
+            "count": "6,940"
+        },
+        {
+            "word": "v2",
+            "count": "6,939"
+        },
+        {
+            "word": "scalastyle",
+            "count": "6,938"
+        },
+        {
+            "word": "repo",
+            "count": "6,931"
+        },
+        {
+            "word": "Message",
+            "count": "6,928"
+        },
+        {
+            "word": "pipeline",
+            "count": "6,911"
+        },
+        {
+            "word": "replica",
+            "count": "6,901"
+        },
+        {
+            "word": "also",
+            "count": "6,890"
+        },
+        {
+            "word": "functions",
+            "count": "6,890"
+        },
+        {
+            "word": "factorie",
+            "count": "6,878"
+        },
+        {
+            "word": "matches",
+            "count": "6,874"
+        },
+        {
+            "word": "cra",
+            "count": "6,846"
+        },
+        {
+            "word": "regex",
+            "count": "6,846"
+        },
+        {
+            "word": "OR",
+            "count": "6,843"
+        },
+        {
+            "word": "ul",
+            "count": "6,806"
+        },
+        {
+            "word": "optional",
+            "count": "6,798"
+        },
+        {
+            "word": "NonFatal",
+            "count": "6,797"
+        },
+        {
+            "word": "Suite",
+            "count": "6,793"
+        },
+        {
+            "word": "resources",
+            "count": "6,793"
+        },
+        {
+            "word": "checkAnswer",
+            "count": "6,780"
+        },
+        {
+            "word": "gatling",
+            "count": "6,776"
+        },
+        {
+            "word": "zero",
+            "count": "6,774"
+        },
+        {
+            "word": "nonEmpty",
+            "count": "6,769"
+        },
+        {
+            "word": "terms",
+            "count": "6,766"
+        },
+        {
+            "word": "charset",
+            "count": "6,763"
+        },
+        {
+            "word": "queue",
+            "count": "6,750"
+        },
+        {
+            "word": "idx",
+            "count": "6,743"
+        },
+        {
+            "word": "ID",
+            "count": "6,739"
+        },
+        {
+            "word": "v1",
+            "count": "6,724"
+        },
+        {
+            "word": "Full",
+            "count": "6,721"
+        },
+        {
+            "word": "argument",
+            "count": "6,718"
+        },
+        {
+            "word": "ec",
+            "count": "6,714"
+        },
+        {
+            "word": "streaming",
+            "count": "6,707"
+        },
+        {
+            "word": "tuple",
+            "count": "6,697"
+        },
+        {
+            "word": "timestamp",
+            "count": "6,655"
+        },
+        {
+            "word": "NodeSeq",
+            "count": "6,653"
+        },
+        {
+            "word": "Level",
+            "count": "6,649"
+        },
+        {
+            "word": "assertResult",
+            "count": "6,647"
+        },
+        {
+            "word": "generate",
+            "count": "6,637"
+        },
+        {
+            "word": "H",
+            "count": "6,618"
+        },
+        {
+            "word": "modify",
+            "count": "6,605"
+        },
+        {
+            "word": "loop",
+            "count": "6,584"
+        },
+        {
+            "word": "href",
+            "count": "6,580"
+        },
+        {
+            "word": "cfg",
+            "count": "6,577"
+        },
+        {
+            "word": "address",
+            "count": "6,558"
+        },
+        {
+            "word": "Stream",
+            "count": "6,550"
+        },
+        {
+            "word": "Iterator",
+            "count": "6,548"
+        },
+        {
+            "word": "requests",
+            "count": "6,547"
+        },
+        {
+            "word": "Arbitrary",
+            "count": "6,545"
+        },
+        {
+            "word": "Module",
+            "count": "6,543"
+        },
+        {
+            "word": "generated",
+            "count": "6,539"
+        },
+        {
+            "word": "D",
+            "count": "6,537"
+        },
+        {
+            "word": "mode",
+            "count": "6,533"
+        },
+        {
+            "word": "template",
+            "count": "6,533"
+        },
+        {
+            "word": "seq",
+            "count": "6,531"
+        },
+        {
+            "word": "properties",
+            "count": "6,526"
+        },
+        {
+            "word": "getInstance",
+            "count": "6,513"
+        },
+        {
+            "word": "servlet",
+            "count": "6,512"
+        },
+        {
+            "word": "TestProbe",
+            "count": "6,509"
+        },
+        {
+            "word": "NotAllowedException",
+            "count": "6,493"
+        },
+        {
+            "word": "AppDefinition",
+            "count": "6,491"
+        },
+        {
+            "word": "interval",
+            "count": "6,491"
+        },
+        {
+            "word": "abstract",
+            "count": "6,490"
+        },
+        {
+            "word": "game",
+            "count": "6,490"
+        },
+        {
+            "word": "FunSpec",
+            "count": "6,477"
+        },
+        {
+            "word": "Get",
+            "count": "6,467"
+        },
+        {
+            "word": "replicas",
+            "count": "6,452"
+        },
+        {
+            "word": "Group",
+            "count": "6,451"
+        },
+        {
+            "word": "forms",
+            "count": "6,450"
+        },
+        {
+            "word": "sealed",
+            "count": "6,448"
+        },
+        {
+            "word": "lhs",
+            "count": "6,445"
+        },
+        {
+            "word": "Select",
+            "count": "6,439"
+        },
+        {
+            "word": "Parser",
+            "count": "6,433"
+        },
+        {
+            "word": "page",
+            "count": "6,432"
+        },
+        {
+            "word": "kr",
+            "count": "6,430"
+        },
+        {
+            "word": "formatter",
+            "count": "6,426"
+        },
+        {
+            "word": "kaist",
+            "count": "6,419"
+        },
+        {
+            "word": "uri",
+            "count": "6,415"
+        },
+        {
+            "word": "URI",
+            "count": "6,414"
+        },
+        {
+            "word": "security",
+            "count": "6,412"
+        },
+        {
+            "word": "fold",
+            "count": "6,410"
+        },
+        {
+            "word": "ssc",
+            "count": "6,409"
+        },
+        {
+            "word": "post",
+            "count": "6,404"
+        },
+        {
+            "word": "provider",
+            "count": "6,394"
+        },
+        {
+            "word": "off",
+            "count": "6,383"
+        },
+        {
+            "word": "annotations",
+            "count": "6,377"
+        },
+        {
+            "word": "a1",
+            "count": "6,371"
+        },
+        {
+            "word": "report",
+            "count": "6,338"
+        },
+        {
+            "word": "jsaf",
+            "count": "6,337"
+        },
+        {
+            "word": "sqlContext",
+            "count": "6,332"
+        },
+        {
+            "word": "geotools",
+            "count": "6,306"
+        },
+        {
+            "word": "Every",
+            "count": "6,305"
+        },
+        {
+            "word": "thrift",
+            "count": "6,282"
+        },
+        {
+            "word": "constructor",
+            "count": "6,281"
+        },
+        {
+            "word": "Query",
+            "count": "6,277"
+        },
+        {
+            "word": "once",
+            "count": "6,274"
+        },
+        {
+            "word": "border",
+            "count": "6,265"
+        },
+        {
+            "word": "convert",
+            "count": "6,251"
+        },
+        {
+            "word": "cause",
+            "count": "6,249"
+        },
+        {
+            "word": "variable",
+            "count": "6,243"
+        }
+    ]
+}

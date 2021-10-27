@@ -1,0 +1,3837 @@
+{
+    "language": "lisp",
+    "words": [
+        {
+            "word": "nil",
+            "count": "147,553"
+        },
+        {
+            "word": "t",
+            "count": "132,544"
+        },
+        {
+            "word": "type",
+            "count": "123,575"
+        },
+        {
+            "word": "name",
+            "count": "110,487"
+        },
+        {
+            "word": "cl",
+            "count": "109,420"
+        },
+        {
+            "word": "in",
+            "count": "96,093"
+        },
+        {
+            "word": "let",
+            "count": "93,883"
+        },
+        {
+            "word": "the",
+            "count": "91,166"
+        },
+        {
+            "word": "a",
+            "count": "83,908"
+        },
+        {
+            "word": "if",
+            "count": "79,319"
+        },
+        {
+            "word": "setf",
+            "count": "77,464"
+        },
+        {
+            "word": "list",
+            "count": "75,995"
+        },
+        {
+            "word": "x",
+            "count": "71,037"
+        },
+        {
+            "word": "to",
+            "count": "70,131"
+        },
+        {
+            "word": "declare",
+            "count": "67,737"
+        },
+        {
+            "word": "string",
+            "count": "66,373"
+        },
+        {
+            "word": "with",
+            "count": "62,743"
+        },
+        {
+            "word": "package",
+            "count": "60,903"
+        },
+        {
+            "word": "f2cl",
+            "count": "60,249"
+        },
+        {
+            "word": "var",
+            "count": "59,831"
+        },
+        {
+            "word": "and",
+            "count": "59,716"
+        },
+        {
+            "word": "when",
+            "count": "59,162"
+        },
+        {
+            "word": "lib",
+            "count": "57,466"
+        },
+        {
+            "word": "value",
+            "count": "56,340"
+        },
+        {
+            "word": "i",
+            "count": "55,017"
+        },
+        {
+            "word": "stream",
+            "count": "51,132"
+        },
+        {
+            "word": "defun",
+            "count": "51,119"
+        },
+        {
+            "word": "for",
+            "count": "49,873"
+        },
+        {
+            "word": "p",
+            "count": "49,437"
+        },
+        {
+            "word": "byte",
+            "count": "47,796"
+        },
+        {
+            "word": "is",
+            "count": "47,707"
+        },
+        {
+            "word": "lambda",
+            "count": "45,854"
+        },
+        {
+            "word": "make",
+            "count": "45,524"
+        },
+        {
+            "word": "or",
+            "count": "45,222"
+        },
+        {
+            "word": "of",
+            "count": "45,100"
+        },
+        {
+            "word": "cond",
+            "count": "45,022"
+        },
+        {
+            "word": "error",
+            "count": "43,793"
+        },
+        {
+            "word": "c",
+            "count": "42,963"
+        },
+        {
+            "word": "function",
+            "count": "42,539"
+        },
+        {
+            "word": "loop",
+            "count": "40,983"
+        },
+        {
+            "word": "int",
+            "count": "40,106"
+        },
+        {
+            "word": "file",
+            "count": "39,919"
+        },
+        {
+            "word": "progn",
+            "count": "38,380"
+        },
+        {
+            "word": "ignore",
+            "count": "37,680"
+        },
+        {
+            "word": "not",
+            "count": "35,190"
+        },
+        {
+            "word": "form",
+            "count": "34,255"
+        },
+        {
+            "word": "return",
+            "count": "33,536"
+        },
+        {
+            "word": "symbol",
+            "count": "33,298"
+        },
+        {
+            "word": "array",
+            "count": "33,261"
+        },
+        {
+            "word": "output",
+            "count": "32,986"
+        },
+        {
+            "word": "format",
+            "count": "32,449"
+        },
+        {
+            "word": "data",
+            "count": "32,143"
+        },
+        {
+            "word": "pointer",
+            "count": "31,720"
+        },
+        {
+            "word": "direction",
+            "count": "31,198"
+        },
+        {
+            "word": "test",
+            "count": "30,828"
+        },
+        {
+            "word": "from",
+            "count": "30,735"
+        },
+        {
+            "word": "start",
+            "count": "30,569"
+        },
+        {
+            "word": "offset",
+            "count": "30,463"
+        },
+        {
+            "word": "n",
+            "count": "30,282"
+        },
+        {
+            "word": "NIL",
+            "count": "29,909"
+        },
+        {
+            "word": "DESCRIPTION",
+            "count": "29,279"
+        },
+        {
+            "word": "args",
+            "count": "29,252"
+        },
+        {
+            "word": "float",
+            "count": "29,180"
+        },
+        {
+            "word": "key",
+            "count": "29,154"
+        },
+        {
+            "word": "pathname",
+            "count": "29,084"
+        },
+        {
+            "word": "window",
+            "count": "28,992"
+        },
+        {
+            "word": "frame",
+            "count": "28,986"
+        },
+        {
+            "word": "body",
+            "count": "28,814"
+        },
+        {
+            "word": "result",
+            "count": "28,800"
+        },
+        {
+            "word": "element",
+            "count": "28,685"
+        },
+        {
+            "word": "lisp",
+            "count": "28,490"
+        },
+        {
+            "word": "end",
+            "count": "28,239"
+        },
+        {
+            "word": "values",
+            "count": "28,064"
+        },
+        {
+            "word": "source",
+            "count": "26,899"
+        },
+        {
+            "word": "s",
+            "count": "26,621"
+        },
+        {
+            "word": "do",
+            "count": "26,552"
+        },
+        {
+            "word": "y",
+            "count": "26,522"
+        },
+        {
+            "word": "setq",
+            "count": "26,495"
+        },
+        {
+            "word": "index",
+            "count": "25,214"
+        },
+        {
+            "word": "version",
+            "count": "23,892"
+        },
+        {
+            "word": "cons",
+            "count": "23,873"
+        },
+        {
+            "word": "object",
+            "count": "23,670"
+        },
+        {
+            "word": "class",
+            "count": "23,667"
+        },
+        {
+            "word": "read",
+            "count": "23,487"
+        },
+        {
+            "word": "by",
+            "count": "23,322"
+        },
+        {
+            "word": "buffer",
+            "count": "22,611"
+        },
+        {
+            "word": "condition",
+            "count": "21,748"
+        },
+        {
+            "word": "INITFORM",
+            "count": "21,510"
+        },
+        {
+            "word": "length",
+            "count": "21,372"
+        },
+        {
+            "word": "null",
+            "count": "21,046"
+        },
+        {
+            "word": "cdr",
+            "count": "21,001"
+        },
+        {
+            "word": "QUALIFIERS",
+            "count": "20,966"
+        },
+        {
+            "word": "thread",
+            "count": "20,938"
+        },
+        {
+            "word": "ldb",
+            "count": "20,835"
+        },
+        {
+            "word": "char",
+            "count": "20,782"
+        },
+        {
+            "word": "NAME",
+            "count": "20,630"
+        },
+        {
+            "word": "code",
+            "count": "19,940"
+        },
+        {
+            "word": "b",
+            "count": "19,932"
+        },
+        {
+            "word": "add",
+            "count": "19,814"
+        },
+        {
+            "word": "write",
+            "count": "19,800"
+        },
+        {
+            "word": "CIM",
+            "count": "19,717"
+        },
+        {
+            "word": "compile",
+            "count": "19,609"
+        },
+        {
+            "word": "bind",
+            "count": "19,584"
+        },
+        {
+            "word": "load",
+            "count": "19,488"
+        },
+        {
+            "word": "j",
+            "count": "19,457"
+        },
+        {
+            "word": "location",
+            "count": "19,330"
+        },
+        {
+            "word": "equal",
+            "count": "19,236"
+        },
+        {
+            "word": "case",
+            "count": "19,036"
+        },
+        {
+            "word": "CATEGORY",
+            "count": "18,802"
+        },
+        {
+            "word": "eval",
+            "count": "18,637"
+        },
+        {
+            "word": "double",
+            "count": "18,563"
+        },
+        {
+            "word": "method",
+            "count": "18,016"
+        },
+        {
+            "word": "input",
+            "count": "18,010"
+        },
+        {
+            "word": "car",
+            "count": "17,673"
+        },
+        {
+            "word": "slot",
+            "count": "17,507"
+        },
+        {
+            "word": "eq",
+            "count": "17,292"
+        },
+        {
+            "word": "multiple",
+            "count": "17,202"
+        },
+        {
+            "word": "toplevel",
+            "count": "17,141"
+        },
+        {
+            "word": "v",
+            "count": "17,132"
+        },
+        {
+            "word": "out",
+            "count": "16,984"
+        },
+        {
+            "word": "rest",
+            "count": "16,903"
+        },
+        {
+            "word": "line",
+            "count": "16,711"
+        },
+        {
+            "word": "find",
+            "count": "16,614"
+        },
+        {
+            "word": "fref",
+            "count": "16,537"
+        },
+        {
+            "word": "~",
+            "count": "16,443"
+        },
+        {
+            "word": "size",
+            "count": "16,437"
+        },
+        {
+            "word": "bits",
+            "count": "16,327"
+        },
+        {
+            "word": "component",
+            "count": "16,173"
+        },
+        {
+            "word": "pred",
+            "count": "15,898"
+        },
+        {
+            "word": "arg",
+            "count": "15,833"
+        },
+        {
+            "word": "use",
+            "count": "15,476"
+        },
+        {
+            "word": "directory",
+            "count": "15,233"
+        },
+        {
+            "word": "call",
+            "count": "15,170"
+        },
+        {
+            "word": "l",
+            "count": "15,067"
+        },
+        {
+            "word": "count",
+            "count": "14,808"
+        },
+        {
+            "word": "sb",
+            "count": "14,575"
+        },
+        {
+            "word": "state",
+            "count": "14,557"
+        },
+        {
+            "word": "that",
+            "count": "14,498"
+        },
+        {
+            "word": "initform",
+            "count": "14,284"
+        },
+        {
+            "word": "debug",
+            "count": "14,249"
+        },
+        {
+            "word": "Lisp",
+            "count": "14,048"
+        },
+        {
+            "word": "print",
+            "count": "13,998"
+        },
+        {
+            "word": "funcall",
+            "count": "13,945"
+        },
+        {
+            "word": "mem",
+            "count": "13,906"
+        },
+        {
+            "word": "next",
+            "count": "13,867"
+        },
+        {
+            "word": "get",
+            "count": "13,735"
+        },
+        {
+            "word": "table",
+            "count": "13,690"
+        },
+        {
+            "word": "defimplementation",
+            "count": "13,624"
+        },
+        {
+            "word": "z",
+            "count": "13,556"
+        },
+        {
+            "word": "id",
+            "count": "13,510"
+        },
+        {
+            "word": "connection",
+            "count": "13,491"
+        },
+        {
+            "word": "documentation",
+            "count": "13,481"
+        },
+        {
+            "word": "assert",
+            "count": "13,398"
+        },
+        {
+            "word": "current",
+            "count": "13,374"
+        },
+        {
+            "word": "has",
+            "count": "13,351"
+        },
+        {
+            "word": "m",
+            "count": "13,191"
+        },
+        {
+            "word": "loc",
+            "count": "13,005"
+        },
+        {
+            "word": "be",
+            "count": "12,950"
+        },
+        {
+            "word": "system",
+            "count": "12,904"
+        },
+        {
+            "word": "medium",
+            "count": "12,855"
+        },
+        {
+            "word": "default",
+            "count": "12,825"
+        },
+        {
+            "word": "socket",
+            "count": "12,678"
+        },
+        {
+            "word": "target",
+            "count": "12,648"
+        },
+        {
+            "word": "movie",
+            "count": "12,591"
+        },
+        {
+            "word": "The",
+            "count": "12,585"
+        },
+        {
+            "word": "unless",
+            "count": "12,451"
+        },
+        {
+            "word": "instance",
+            "count": "12,404"
+        },
+        {
+            "word": "other",
+            "count": "12,298"
+        },
+        {
+            "word": "optional",
+            "count": "12,067"
+        },
+        {
+            "word": "first",
+            "count": "12,046"
+        },
+        {
+            "word": "pos",
+            "count": "12,000"
+        },
+        {
+            "word": "mode",
+            "count": "11,868"
+        },
+        {
+            "word": "push",
+            "count": "11,851"
+        },
+        {
+            "word": "this",
+            "count": "11,666"
+        },
+        {
+            "word": "new",
+            "count": "11,401"
+        },
+        {
+            "word": "path",
+            "count": "11,262"
+        },
+        {
+            "word": "an",
+            "count": "11,193"
+        },
+        {
+            "word": "standard",
+            "count": "11,179"
+        },
+        {
+            "word": "A",
+            "count": "11,163"
+        },
+        {
+            "word": "number",
+            "count": "11,158"
+        },
+        {
+            "word": "vector",
+            "count": "10,881"
+        },
+        {
+            "word": "collect",
+            "count": "10,859"
+        },
+        {
+            "word": "handler",
+            "count": "10,800"
+        },
+        {
+            "word": "enum",
+            "count": "10,728"
+        },
+        {
+            "word": "e",
+            "count": "10,615"
+        },
+        {
+            "word": "on",
+            "count": "10,567"
+        },
+        {
+            "word": "info",
+            "count": "10,451"
+        },
+        {
+            "word": "swank",
+            "count": "10,432"
+        },
+        {
+            "word": "as",
+            "count": "10,395"
+        },
+        {
+            "word": "user",
+            "count": "10,361"
+        },
+        {
+            "word": "event",
+            "count": "10,339"
+        },
+        {
+            "word": "fixnum",
+            "count": "10,261"
+        },
+        {
+            "word": "width",
+            "count": "10,235"
+        },
+        {
+            "word": "ostream",
+            "count": "10,205"
+        },
+        {
+            "word": "istream",
+            "count": "10,138"
+        },
+        {
+            "word": "STRING",
+            "count": "10,125"
+        },
+        {
+            "word": "set",
+            "count": "10,088"
+        },
+        {
+            "word": "all",
+            "count": "10,079"
+        },
+        {
+            "word": "position",
+            "count": "10,022"
+        },
+        {
+            "word": "defvar",
+            "count": "9,973"
+        },
+        {
+            "word": "defmethod",
+            "count": "9,936"
+        },
+        {
+            "word": "check",
+            "count": "9,897"
+        },
+        {
+            "word": "mapcar",
+            "count": "9,894"
+        },
+        {
+            "word": "deprecated",
+            "count": "9,853"
+        },
+        {
+            "word": "unsigned",
+            "count": "9,815"
+        },
+        {
+            "word": "category",
+            "count": "9,504"
+        },
+        {
+            "word": "arglist",
+            "count": "9,495"
+        },
+        {
+            "word": "optimize",
+            "count": "9,492"
+        },
+        {
+            "word": "sys",
+            "count": "9,486"
+        },
+        {
+            "word": "definition",
+            "count": "9,450"
+        },
+        {
+            "word": "o",
+            "count": "9,393"
+        },
+        {
+            "word": "f",
+            "count": "9,256"
+        },
+        {
+            "word": "Reserved",
+            "count": "9,222"
+        },
+        {
+            "word": "sequence",
+            "count": "9,190"
+        },
+        {
+            "word": "hash",
+            "count": "9,151"
+        },
+        {
+            "word": "are",
+            "count": "9,106"
+        },
+        {
+            "word": "execute",
+            "count": "8,995"
+        },
+        {
+            "word": "expr",
+            "count": "8,936"
+        },
+        {
+            "word": "T",
+            "count": "8,888"
+        },
+        {
+            "word": "go",
+            "count": "8,886"
+        },
+        {
+            "word": "msg",
+            "count": "8,828"
+        },
+        {
+            "word": "operation",
+            "count": "8,807"
+        },
+        {
+            "word": "dolist",
+            "count": "8,790"
+        },
+        {
+            "word": "time",
+            "count": "8,717"
+        },
+        {
+            "word": "work",
+            "count": "8,685"
+        },
+        {
+            "word": "fn",
+            "count": "8,667"
+        },
+        {
+            "word": "indicates",
+            "count": "8,642"
+        },
+        {
+            "word": "",
+            "count": "8,631"
+        },
+        {
+            "word": "k",
+            "count": "8,616"
+        },
+        {
+            "word": "process",
+            "count": "8,573"
+        },
+        {
+            "word": "incf",
+            "count": "8,514"
+        },
+        {
+            "word": "screen",
+            "count": "8,514"
+        },
+        {
+            "word": "initarg",
+            "count": "8,489"
+        },
+        {
+            "word": "map",
+            "count": "8,460"
+        },
+        {
+            "word": "it",
+            "count": "8,423"
+        },
+        {
+            "word": "emacs",
+            "count": "8,326"
+        },
+        {
+            "word": "message",
+            "count": "8,304"
+        },
+        {
+            "word": "VALUE",
+            "count": "8,238"
+        },
+        {
+            "word": "integer4",
+            "count": "8,205"
+        },
+        {
+            "word": "define",
+            "count": "8,198"
+        },
+        {
+            "word": "V",
+            "count": "8,081"
+        },
+        {
+            "word": "sub",
+            "count": "8,063"
+        },
+        {
+            "word": "OF",
+            "count": "8,053"
+        },
+        {
+            "word": "was",
+            "count": "8,030"
+        },
+        {
+            "word": "pair",
+            "count": "7,934"
+        },
+        {
+            "word": "d",
+            "count": "7,898"
+        },
+        {
+            "word": "block",
+            "count": "7,832"
+        },
+        {
+            "word": "simple",
+            "count": "7,767"
+        },
+        {
+            "word": "height",
+            "count": "7,750"
+        },
+        {
+            "word": "context",
+            "count": "7,745"
+        },
+        {
+            "word": "group",
+            "count": "7,741"
+        },
+        {
+            "word": "gl",
+            "count": "7,722"
+        },
+        {
+            "word": "Mode",
+            "count": "7,712"
+        },
+        {
+            "word": "hook",
+            "count": "7,712"
+        },
+        {
+            "word": "tagbody",
+            "count": "7,628"
+        },
+        {
+            "word": "fortran",
+            "count": "7,620"
+        },
+        {
+            "word": "MAP",
+            "count": "7,612"
+        },
+        {
+            "word": "This",
+            "count": "7,612"
+        },
+        {
+            "word": "DMTF",
+            "count": "7,589"
+        },
+        {
+            "word": "keys",
+            "count": "7,579"
+        },
+        {
+            "word": "last",
+            "count": "7,516"
+        },
+        {
+            "word": "uint",
+            "count": "7,407"
+        },
+        {
+            "word": "part",
+            "count": "7,402"
+        },
+        {
+            "word": "copy",
+            "count": "7,387"
+        },
+        {
+            "word": "Common",
+            "count": "7,336"
+        },
+        {
+            "word": "forms",
+            "count": "7,282"
+        },
+        {
+            "word": "VALUES",
+            "count": "7,266"
+        },
+        {
+            "word": "common",
+            "count": "7,229"
+        },
+        {
+            "word": "compiler",
+            "count": "7,201"
+        },
+        {
+            "word": "void",
+            "count": "7,194"
+        },
+        {
+            "word": "MODEL",
+            "count": "7,151"
+        },
+        {
+            "word": "CORRESPONDENCE",
+            "count": "7,132"
+        },
+        {
+            "word": "display",
+            "count": "7,121"
+        },
+        {
+            "word": "apply",
+            "count": "7,096"
+        },
+        {
+            "word": "eql",
+            "count": "7,029"
+        },
+        {
+            "word": "command",
+            "count": "7,017"
+        },
+        {
+            "word": "slots",
+            "count": "7,013"
+        },
+        {
+            "word": "export",
+            "count": "7,009"
+        },
+        {
+            "word": "Return",
+            "count": "7,007"
+        },
+        {
+            "word": "OR",
+            "count": "7,002"
+        },
+        {
+            "word": "append",
+            "count": "6,894"
+        },
+        {
+            "word": "speed",
+            "count": "6,814"
+        },
+        {
+            "word": "item",
+            "count": "6,770"
+        },
+        {
+            "word": "parse",
+            "count": "6,767"
+        },
+        {
+            "word": "bindings",
+            "count": "6,652"
+        },
+        {
+            "word": "env",
+            "count": "6,641"
+        },
+        {
+            "word": "val",
+            "count": "6,606"
+        },
+        {
+            "word": "fun",
+            "count": "6,588"
+        },
+        {
+            "word": "defconstant",
+            "count": "6,586"
+        },
+        {
+            "word": "but",
+            "count": "6,564"
+        },
+        {
+            "word": "ext",
+            "count": "6,485"
+        },
+        {
+            "word": "initial",
+            "count": "6,437"
+        },
+        {
+            "word": "lock",
+            "count": "6,435"
+        },
+        {
+            "word": "op",
+            "count": "6,433"
+        },
+        {
+            "word": "dotimes",
+            "count": "6,432"
+        },
+        {
+            "word": "external",
+            "count": "6,415"
+        },
+        {
+            "word": "filename",
+            "count": "6,415"
+        },
+        {
+            "word": "arguments",
+            "count": "6,413"
+        },
+        {
+            "word": "host",
+            "count": "6,369"
+        },
+        {
+            "word": "one",
+            "count": "6,330"
+        },
+        {
+            "word": "michele",
+            "count": "6,327"
+        },
+        {
+            "word": "pasin",
+            "count": "6,327"
+        },
+        {
+            "word": "header",
+            "count": "6,301"
+        },
+        {
+            "word": "character",
+            "count": "6,264"
+        },
+        {
+            "word": "remove",
+            "count": "6,251"
+        },
+        {
+            "word": "port",
+            "count": "6,247"
+        },
+        {
+            "word": "property",
+            "count": "6,246"
+        },
+        {
+            "word": "carried",
+            "count": "6,213"
+        },
+        {
+            "word": "w",
+            "count": "6,208"
+        },
+        {
+            "word": "spec",
+            "count": "6,171"
+        },
+        {
+            "word": "we",
+            "count": "6,135"
+        },
+        {
+            "word": "program",
+            "count": "6,108"
+        },
+        {
+            "word": "fd",
+            "count": "6,090"
+        },
+        {
+            "word": "Error",
+            "count": "6,049"
+        },
+        {
+            "word": "obj",
+            "count": "6,032"
+        },
+        {
+            "word": "no",
+            "count": "6,010"
+        },
+        {
+            "word": "made",
+            "count": "6,002"
+        },
+        {
+            "word": "level",
+            "count": "5,985"
+        },
+        {
+            "word": "status",
+            "count": "5,982"
+        },
+        {
+            "word": "unwind",
+            "count": "5,981"
+        },
+        {
+            "word": "implementation",
+            "count": "5,945"
+        },
+        {
+            "word": "physical",
+            "count": "5,933"
+        },
+        {
+            "word": "expression",
+            "count": "5,932"
+        },
+        {
+            "word": "sbcl",
+            "count": "5,920"
+        },
+        {
+            "word": "syntax",
+            "count": "5,917"
+        },
+        {
+            "word": "color",
+            "count": "5,883"
+        },
+        {
+            "word": "variable",
+            "count": "5,868"
+        },
+        {
+            "word": "aref",
+            "count": "5,866"
+        },
+        {
+            "word": "Unknown",
+            "count": "5,842"
+        },
+        {
+            "word": "protect",
+            "count": "5,837"
+        },
+        {
+            "word": "module",
+            "count": "5,835"
+        },
+        {
+            "word": "r",
+            "count": "5,781"
+        },
+        {
+            "word": "temp",
+            "count": "5,771"
+        },
+        {
+            "word": "readtable",
+            "count": "5,769"
+        },
+        {
+            "word": "io",
+            "count": "5,745"
+        },
+        {
+            "word": "timeout",
+            "count": "5,709"
+        },
+        {
+            "word": "Not",
+            "count": "5,685"
+        },
+        {
+            "word": "integer",
+            "count": "5,659"
+        },
+        {
+            "word": "generic",
+            "count": "5,652"
+        },
+        {
+            "word": "UINT16",
+            "count": "5,632"
+        },
+        {
+            "word": "ensure",
+            "count": "5,594"
+        },
+        {
+            "word": "website",
+            "count": "5,547"
+        },
+        {
+            "word": "computer",
+            "count": "5,543"
+        },
+        {
+            "word": "second",
+            "count": "5,534"
+        },
+        {
+            "word": "node",
+            "count": "5,516"
+        },
+        {
+            "word": "mul",
+            "count": "5,515"
+        },
+        {
+            "word": "names",
+            "count": "5,510"
+        },
+        {
+            "word": "member",
+            "count": "5,498"
+        },
+        {
+            "word": "parent",
+            "count": "5,498"
+        },
+        {
+            "word": "label",
+            "count": "5,471"
+        },
+        {
+            "word": "com",
+            "count": "5,455"
+        },
+        {
+            "word": "debugger",
+            "count": "5,443"
+        },
+        {
+            "word": "pname",
+            "count": "5,441"
+        },
+        {
+            "word": "restart",
+            "count": "5,400"
+        },
+        {
+            "word": "action",
+            "count": "5,380"
+        },
+        {
+            "word": "ccl",
+            "count": "5,369"
+        },
+        {
+            "word": "max",
+            "count": "5,353"
+        },
+        {
+            "word": "_",
+            "count": "5,351"
+        },
+        {
+            "word": "bit",
+            "count": "5,342"
+        },
+        {
+            "word": "does",
+            "count": "5,333"
+        },
+        {
+            "word": "tree",
+            "count": "5,331"
+        },
+        {
+            "word": "fdo",
+            "count": "5,305"
+        },
+        {
+            "word": "seq",
+            "count": "5,216"
+        },
+        {
+            "word": "being",
+            "count": "5,148"
+        },
+        {
+            "word": "defmacro",
+            "count": "5,144"
+        },
+        {
+            "word": "newline",
+            "count": "5,132"
+        },
+        {
+            "word": "binary",
+            "count": "5,124"
+        },
+        {
+            "word": "If",
+            "count": "5,098"
+        },
+        {
+            "word": "foreign",
+            "count": "5,096"
+        },
+        {
+            "word": "west",
+            "count": "5,093"
+        },
+        {
+            "word": "at",
+            "count": "5,053"
+        },
+        {
+            "word": "~A",
+            "count": "5,040"
+        },
+        {
+            "word": "zero",
+            "count": "5,030"
+        },
+        {
+            "word": "simp",
+            "count": "5,025"
+        },
+        {
+            "word": "text",
+            "count": "5,022"
+        },
+        {
+            "word": "LISP",
+            "count": "5,017"
+        },
+        {
+            "word": "u",
+            "count": "5,017"
+        },
+        {
+            "word": "argument",
+            "count": "5,014"
+        },
+        {
+            "word": "reader",
+            "count": "4,991"
+        },
+        {
+            "word": "stack",
+            "count": "4,984"
+        },
+        {
+            "word": "str",
+            "count": "4,975"
+        },
+        {
+            "word": "asdf",
+            "count": "4,954"
+        },
+        {
+            "word": "close",
+            "count": "4,954"
+        },
+        {
+            "word": "functions",
+            "count": "4,944"
+        },
+        {
+            "word": "No",
+            "count": "4,922"
+        },
+        {
+            "word": "nth",
+            "count": "4,904"
+        },
+        {
+            "word": "params",
+            "count": "4,877"
+        },
+        {
+            "word": "merge",
+            "count": "4,855"
+        },
+        {
+            "word": "self",
+            "count": "4,849"
+        },
+        {
+            "word": "~S",
+            "count": "4,807"
+        },
+        {
+            "word": "slice",
+            "count": "4,805"
+        },
+        {
+            "word": "without",
+            "count": "4,789"
+        },
+        {
+            "word": "open",
+            "count": "4,769"
+        },
+        {
+            "word": "types",
+            "count": "4,764"
+        },
+        {
+            "word": "description",
+            "count": "4,747"
+        },
+        {
+            "word": "exists",
+            "count": "4,734"
+        },
+        {
+            "word": "can",
+            "count": "4,723"
+        },
+        {
+            "word": "report",
+            "count": "4,706"
+        },
+        {
+            "word": "consp",
+            "count": "4,700"
+        },
+        {
+            "word": "Vendor",
+            "count": "4,664"
+        },
+        {
+            "word": "top",
+            "count": "4,643"
+        },
+        {
+            "word": "sizei",
+            "count": "4,642"
+        },
+        {
+            "word": "will",
+            "count": "4,640"
+        },
+        {
+            "word": "ignorable",
+            "count": "4,624"
+        },
+        {
+            "word": "atom",
+            "count": "4,617"
+        },
+        {
+            "word": "wait",
+            "count": "4,587"
+        },
+        {
+            "word": "image",
+            "count": "4,573"
+        },
+        {
+            "word": "space",
+            "count": "4,573"
+        },
+        {
+            "word": "h",
+            "count": "4,547"
+        },
+        {
+            "word": "MAX",
+            "count": "4,545"
+        },
+        {
+            "word": "delete",
+            "count": "4,536"
+        },
+        {
+            "word": "cat",
+            "count": "4,535"
+        },
+        {
+            "word": "mop",
+            "count": "4,526"
+        },
+        {
+            "word": "accessor",
+            "count": "4,520"
+        },
+        {
+            "word": "res",
+            "count": "4,518"
+        },
+        {
+            "word": "run",
+            "count": "4,515"
+        },
+        {
+            "word": "rtoy",
+            "count": "4,481"
+        },
+        {
+            "word": "keyword",
+            "count": "4,477"
+        },
+        {
+            "word": "root",
+            "count": "4,473"
+        },
+        {
+            "word": "di",
+            "count": "4,466"
+        },
+        {
+            "word": "local",
+            "count": "4,460"
+        },
+        {
+            "word": "CIM_EnabledLogicalElement",
+            "count": "4,455"
+        },
+        {
+            "word": "cadr",
+            "count": "4,439"
+        },
+        {
+            "word": "lda",
+            "count": "4,436"
+        },
+        {
+            "word": "logxor",
+            "count": "4,433"
+        },
+        {
+            "word": "initargs",
+            "count": "4,425"
+        },
+        {
+            "word": "IN",
+            "count": "4,409"
+        },
+        {
+            "word": "errors",
+            "count": "4,398"
+        },
+        {
+            "word": "which",
+            "count": "4,393"
+        },
+        {
+            "word": "In",
+            "count": "4,389"
+        },
+        {
+            "word": "html",
+            "count": "4,386"
+        },
+        {
+            "word": "coerce",
+            "count": "4,360"
+        },
+        {
+            "word": "tag",
+            "count": "4,352"
+        },
+        {
+            "word": "pathnames",
+            "count": "4,339"
+        },
+        {
+            "word": "xlib",
+            "count": "4,338"
+        },
+        {
+            "word": "gethash",
+            "count": "4,314"
+        },
+        {
+            "word": "handle",
+            "count": "4,294"
+        },
+        {
+            "word": "len",
+            "count": "4,293"
+        },
+        {
+            "word": "operator",
+            "count": "4,292"
+        },
+        {
+            "word": "etypecase",
+            "count": "4,290"
+        },
+        {
+            "word": "gensym",
+            "count": "4,289"
+        },
+        {
+            "word": "non",
+            "count": "4,282"
+        },
+        {
+            "word": "allow",
+            "count": "4,281"
+        },
+        {
+            "word": "LEN",
+            "count": "4,258"
+        },
+        {
+            "word": "match",
+            "count": "4,242"
+        },
+        {
+            "word": "real",
+            "count": "4,239"
+        },
+        {
+            "word": "x86",
+            "count": "4,228"
+        },
+        {
+            "word": "ecase",
+            "count": "4,213"
+        },
+        {
+            "word": "then",
+            "count": "4,207"
+        },
+        {
+            "word": "symbols",
+            "count": "4,180"
+        },
+        {
+            "word": "zerop",
+            "count": "4,179"
+        },
+        {
+            "word": "DICTIONARY",
+            "count": "4,165"
+        },
+        {
+            "word": "C",
+            "count": "4,160"
+        },
+        {
+            "word": "warning",
+            "count": "4,155"
+        },
+        {
+            "word": "dir",
+            "count": "4,148"
+        },
+        {
+            "word": "sdl",
+            "count": "4,138"
+        },
+        {
+            "word": "win",
+            "count": "4,137"
+        },
+        {
+            "word": "create",
+            "count": "4,127"
+        },
+        {
+            "word": "entry",
+            "count": "4,110"
+        },
+        {
+            "word": "emit",
+            "count": "4,102"
+        },
+        {
+            "word": "option",
+            "count": "4,099"
+        },
+        {
+            "word": "conditions",
+            "count": "4,081"
+        },
+        {
+            "word": "so",
+            "count": "4,075"
+        },
+        {
+            "word": "style",
+            "count": "4,073"
+        },
+        {
+            "word": "safety",
+            "count": "4,068"
+        },
+        {
+            "word": "short",
+            "count": "4,064"
+        },
+        {
+            "word": "end_label",
+            "count": "4,056"
+        },
+        {
+            "word": "token",
+            "count": "4,055"
+        },
+        {
+            "word": "true",
+            "count": "4,048"
+        },
+        {
+            "word": "defaults",
+            "count": "4,046"
+        },
+        {
+            "word": "rev",
+            "count": "4,042"
+        },
+        {
+            "word": "fill",
+            "count": "4,037"
+        },
+        {
+            "word": "used",
+            "count": "4,035"
+        },
+        {
+            "word": "PHILOSOPHY",
+            "count": "4,027"
+        },
+        {
+            "word": "labels",
+            "count": "3,988"
+        },
+        {
+            "word": "files",
+            "count": "3,977"
+        },
+        {
+            "word": "gcl",
+            "count": "3,957"
+        },
+        {
+            "word": "clear",
+            "count": "3,955"
+        },
+        {
+            "word": "must",
+            "count": "3,955"
+        },
+        {
+            "word": "exist",
+            "count": "3,948"
+        },
+        {
+            "word": "limit",
+            "count": "3,915"
+        },
+        {
+            "word": "Syntax",
+            "count": "3,906"
+        },
+        {
+            "word": "while",
+            "count": "3,897"
+        },
+        {
+            "word": "environment",
+            "count": "3,873"
+        },
+        {
+            "word": "alien",
+            "count": "3,866"
+        },
+        {
+            "word": "kernel",
+            "count": "3,863"
+        },
+        {
+            "word": "OBJ",
+            "count": "3,859"
+        },
+        {
+            "word": "update",
+            "count": "3,854"
+        },
+        {
+            "word": "Enabled",
+            "count": "3,825"
+        },
+        {
+            "word": "pprint",
+            "count": "3,822"
+        },
+        {
+            "word": "options",
+            "count": "3,810"
+        },
+        {
+            "word": "single",
+            "count": "3,807"
+        },
+        {
+            "word": "only",
+            "count": "3,798"
+        },
+        {
+            "word": "relative",
+            "count": "3,793"
+        },
+        {
+            "word": "ptr",
+            "count": "3,771"
+        },
+        {
+            "word": "mp",
+            "count": "3,755"
+        },
+        {
+            "word": "done",
+            "count": "3,744"
+        },
+        {
+            "word": "below",
+            "count": "3,742"
+        },
+        {
+            "word": "methods",
+            "count": "3,732"
+        },
+        {
+            "word": "otherwise",
+            "count": "3,718"
+        },
+        {
+            "word": "unix",
+            "count": "3,706"
+        },
+        {
+            "word": "any",
+            "count": "3,705"
+        },
+        {
+            "word": "lap",
+            "count": "3,702"
+        },
+        {
+            "word": "base",
+            "count": "3,687"
+        },
+        {
+            "word": "allegro",
+            "count": "3,683"
+        },
+        {
+            "word": "Power",
+            "count": "3,675"
+        },
+        {
+            "word": "draw",
+            "count": "3,671"
+        },
+        {
+            "word": "g212",
+            "count": "3,670"
+        },
+        {
+            "word": "finally",
+            "count": "3,659"
+        },
+        {
+            "word": "g6",
+            "count": "3,655"
+        },
+        {
+            "word": "usocket",
+            "count": "3,641"
+        },
+        {
+            "word": "~a",
+            "count": "3,636"
+        },
+        {
+            "word": "http",
+            "count": "3,634"
+        },
+        {
+            "word": "remaining",
+            "count": "3,628"
+        },
+        {
+            "word": "concatenate",
+            "count": "3,624"
+        },
+        {
+            "word": "g",
+            "count": "3,622"
+        },
+        {
+            "word": "special",
+            "count": "3,593"
+        },
+        {
+            "word": "fspec",
+            "count": "3,580"
+        },
+        {
+            "word": "force",
+            "count": "3,579"
+        },
+        {
+            "word": "gf",
+            "count": "3,578"
+        },
+        {
+            "word": "pop",
+            "count": "3,576"
+        },
+        {
+            "word": "doc",
+            "count": "3,573"
+        },
+        {
+            "word": "Test",
+            "count": "3,561"
+        },
+        {
+            "word": "address",
+            "count": "3,549"
+        },
+        {
+            "word": "min",
+            "count": "3,539"
+        },
+        {
+            "word": "send",
+            "count": "3,533"
+        },
+        {
+            "word": "princ",
+            "count": "3,528"
+        },
+        {
+            "word": "macro",
+            "count": "3,527"
+        },
+        {
+            "word": "provided",
+            "count": "3,525"
+        },
+        {
+            "word": "kind",
+            "count": "3,518"
+        },
+        {
+            "word": "mod64",
+            "count": "3,504"
+        },
+        {
+            "word": "mailbox",
+            "count": "3,499"
+        },
+        {
+            "word": "namestring",
+            "count": "3,497"
+        },
+        {
+            "word": "failure",
+            "count": "3,488"
+        },
+        {
+            "word": "windows",
+            "count": "3,467"
+        },
+        {
+            "word": "prefix",
+            "count": "3,453"
+        },
+        {
+            "word": "point",
+            "count": "3,441"
+        },
+        {
+            "word": "Author",
+            "count": "3,431"
+        },
+        {
+            "word": "sym",
+            "count": "3,414"
+        },
+        {
+            "word": "maybe",
+            "count": "3,406"
+        },
+        {
+            "word": "init",
+            "count": "3,404"
+        },
+        {
+            "word": "definterface",
+            "count": "3,386"
+        },
+        {
+            "word": "lst",
+            "count": "3,384"
+        },
+        {
+            "word": "original",
+            "count": "3,351"
+        },
+        {
+            "word": "clisp",
+            "count": "3,344"
+        },
+        {
+            "word": "KEY",
+            "count": "3,325"
+        },
+        {
+            "word": "vars",
+            "count": "3,282"
+        },
+        {
+            "word": "indent",
+            "count": "3,275"
+        },
+        {
+            "word": "control",
+            "count": "3,261"
+        },
+        {
+            "word": "after",
+            "count": "3,251"
+        },
+        {
+            "word": "typep",
+            "count": "3,203"
+        },
+        {
+            "word": "server",
+            "count": "3,200"
+        },
+        {
+            "word": "substrate",
+            "count": "3,185"
+        },
+        {
+            "word": "else",
+            "count": "3,184"
+        },
+        {
+            "word": "lispworks",
+            "count": "3,182"
+        },
+        {
+            "word": "register",
+            "count": "3,172"
+        },
+        {
+            "word": "listp",
+            "count": "3,171"
+        },
+        {
+            "word": "direct",
+            "count": "3,167"
+        },
+        {
+            "word": "database",
+            "count": "3,164"
+        },
+        {
+            "word": "warnings",
+            "count": "3,160"
+        },
+        {
+            "word": "request",
+            "count": "3,145"
+        },
+        {
+            "word": "symbolp",
+            "count": "3,142"
+        },
+        {
+            "word": "UInt32",
+            "count": "3,133"
+        },
+        {
+            "word": "SizeI",
+            "count": "3,129"
+        },
+        {
+            "word": "inspect",
+            "count": "3,115"
+        },
+        {
+            "word": "registry",
+            "count": "3,108"
+        },
+        {
+            "word": "log",
+            "count": "3,099"
+        },
+        {
+            "word": "defslimefun",
+            "count": "3,091"
+        },
+        {
+            "word": "language",
+            "count": "3,087"
+        },
+        {
+            "word": "mtimes",
+            "count": "3,079"
+        },
+        {
+            "word": "sldb",
+            "count": "3,070"
+        },
+        {
+            "word": "bytes",
+            "count": "3,067"
+        },
+        {
+            "word": "prog1",
+            "count": "3,062"
+        },
+        {
+            "word": "Down",
+            "count": "3,058"
+        },
+        {
+            "word": "odysseus",
+            "count": "3,055"
+        },
+        {
+            "word": "verbose",
+            "count": "3,040"
+        },
+        {
+            "word": "font",
+            "count": "3,039"
+        },
+        {
+            "word": "decl",
+            "count": "3,037"
+        },
+        {
+            "word": "right",
+            "count": "3,037"
+        },
+        {
+            "word": "should",
+            "count": "3,028"
+        },
+        {
+            "word": "Disabled",
+            "count": "3,026"
+        },
+        {
+            "word": "into",
+            "count": "3,025"
+        },
+        {
+            "word": "CL",
+            "count": "3,020"
+        },
+        {
+            "word": "exp",
+            "count": "3,013"
+        },
+        {
+            "word": "USER",
+            "count": "3,009"
+        },
+        {
+            "word": "contents",
+            "count": "3,009"
+        },
+        {
+            "word": "trace",
+            "count": "3,009"
+        },
+        {
+            "word": "foo",
+            "count": "3,008"
+        },
+        {
+            "word": "THE",
+            "count": "2,999"
+        },
+        {
+            "word": "place",
+            "count": "2,997"
+        },
+        {
+            "word": "OK",
+            "count": "2,988"
+        },
+        {
+            "word": "left",
+            "count": "2,970"
+        },
+        {
+            "word": "alist",
+            "count": "2,969"
+        },
+        {
+            "word": "Package",
+            "count": "2,957"
+        },
+        {
+            "word": "flet",
+            "count": "2,957"
+        },
+        {
+            "word": "istate",
+            "count": "2,953"
+        },
+        {
+            "word": "texture",
+            "count": "2,947"
+        },
+        {
+            "word": "TYPE",
+            "count": "2,937"
+        },
+        {
+            "word": "more",
+            "count": "2,929"
+        },
+        {
+            "word": "you",
+            "count": "2,918"
+        },
+        {
+            "word": "cmu",
+            "count": "2,917"
+        },
+        {
+            "word": "order",
+            "count": "2,911"
+        },
+        {
+            "word": "view",
+            "count": "2,910"
+        },
+        {
+            "word": "elt",
+            "count": "2,909"
+        },
+        {
+            "word": "settings",
+            "count": "2,906"
+        },
+        {
+            "word": "long",
+            "count": "2,902"
+        },
+        {
+            "word": "boolean",
+            "count": "2,901"
+        },
+        {
+            "word": "keywords",
+            "count": "2,900"
+        },
+        {
+            "word": "q",
+            "count": "2,895"
+        },
+        {
+            "word": "destructuring",
+            "count": "2,892"
+        },
+        {
+            "word": "matrix",
+            "count": "2,885"
+        },
+        {
+            "word": "queue",
+            "count": "2,885"
+        },
+        {
+            "word": "b1",
+            "count": "2,877"
+        },
+        {
+            "word": "old",
+            "count": "2,843"
+        },
+        {
+            "word": "identity",
+            "count": "2,839"
+        },
+        {
+            "word": "finish",
+            "count": "2,828"
+        },
+        {
+            "word": "Emacs",
+            "count": "2,826"
+        },
+        {
+            "word": "Base",
+            "count": "2,816"
+        },
+        {
+            "word": "depth",
+            "count": "2,807"
+        },
+        {
+            "word": "VERSION_1_0",
+            "count": "2,796"
+        },
+        {
+            "word": "equalp",
+            "count": "2,786"
+        },
+        {
+            "word": "required",
+            "count": "2,752"
+        },
+        {
+            "word": "B",
+            "count": "2,746"
+        },
+        {
+            "word": "COMMON",
+            "count": "2,740"
+        },
+        {
+            "word": "STRINGS",
+            "count": "2,740"
+        },
+        {
+            "word": "query",
+            "count": "2,730"
+        },
+        {
+            "word": "found",
+            "count": "2,724"
+        },
+        {
+            "word": "border",
+            "count": "2,723"
+        },
+        {
+            "word": "mplus",
+            "count": "2,718"
+        },
+        {
+            "word": "alpha",
+            "count": "2,717"
+        },
+        {
+            "word": "logical",
+            "count": "2,713"
+        },
+        {
+            "word": "strings",
+            "count": "2,708"
+        },
+        {
+            "word": "acc",
+            "count": "2,701"
+        },
+        {
+            "word": "save",
+            "count": "2,699"
+        },
+        {
+            "word": "pattern",
+            "count": "2,692"
+        },
+        {
+            "word": "library",
+            "count": "2,690"
+        },
+        {
+            "word": "import",
+            "count": "2,687"
+        },
+        {
+            "word": "MAPPING",
+            "count": "2,679"
+        },
+        {
+            "word": "available",
+            "count": "2,678"
+        },
+        {
+            "word": "random",
+            "count": "2,675"
+        },
+        {
+            "word": "note",
+            "count": "2,661"
+        },
+        {
+            "word": "CIM_ManagedSystemElement",
+            "count": "2,660"
+        },
+        {
+            "word": "arg1",
+            "count": "2,655"
+        },
+        {
+            "word": "using",
+            "count": "2,652"
+        },
+        {
+            "word": "utf",
+            "count": "2,648"
+        },
+        {
+            "word": "Exp",
+            "count": "2,641"
+        },
+        {
+            "word": "defined",
+            "count": "2,641"
+        },
+        {
+            "word": "terpri",
+            "count": "2,633"
+        },
+        {
+            "word": "b0",
+            "count": "2,632"
+        },
+        {
+            "word": "src",
+            "count": "2,629"
+        },
+        {
+            "word": "internal",
+            "count": "2,622"
+        },
+        {
+            "word": "INT",
+            "count": "2,621"
+        },
+        {
+            "word": "coding",
+            "count": "2,619"
+        },
+        {
+            "word": "div",
+            "count": "2,618"
+        },
+        {
+            "word": "typecase",
+            "count": "2,616"
+        },
+        {
+            "word": "compilation",
+            "count": "2,611"
+        },
+        {
+            "word": "describes",
+            "count": "2,593"
+        },
+        {
+            "word": "describe",
+            "count": "2,590"
+        },
+        {
+            "word": "DEPRECATED",
+            "count": "2,585"
+        },
+        {
+            "word": "defclass",
+            "count": "2,584"
+        },
+        {
+            "word": "mexpt",
+            "count": "2,577"
+        },
+        {
+            "word": "range",
+            "count": "2,577"
+        },
+        {
+            "word": "some",
+            "count": "2,551"
+        },
+        {
+            "word": "Quiesce",
+            "count": "2,547"
+        },
+        {
+            "word": "maxima",
+            "count": "2,544"
+        },
+        {
+            "word": "thematic",
+            "count": "2,544"
+        },
+        {
+            "word": "probe",
+            "count": "2,540"
+        },
+        {
+            "word": "xwin",
+            "count": "2,540"
+        },
+        {
+            "word": "mal",
+            "count": "2,524"
+        },
+        {
+            "word": "P",
+            "count": "2,523"
+        },
+        {
+            "word": "tail",
+            "count": "2,520"
+        },
+        {
+            "word": "Failure",
+            "count": "2,512"
+        },
+        {
+            "word": "child",
+            "count": "2,511"
+        },
+        {
+            "word": "fname",
+            "count": "2,510"
+        },
+        {
+            "word": "plist",
+            "count": "2,503"
+        },
+        {
+            "word": "tests",
+            "count": "2,500"
+        },
+        {
+            "word": "english",
+            "count": "2,495"
+        },
+        {
+            "word": "s2",
+            "count": "2,494"
+        },
+        {
+            "word": "variables",
+            "count": "2,493"
+        },
+        {
+            "word": "b3",
+            "count": "2,490"
+        },
+        {
+            "word": "cache",
+            "count": "2,490"
+        },
+        {
+            "word": "bar",
+            "count": "2,488"
+        },
+        {
+            "word": "until",
+            "count": "2,488"
+        },
+        {
+            "word": "absolute",
+            "count": "2,485"
+        },
+        {
+            "word": "calls",
+            "count": "2,482"
+        },
+        {
+            "word": "b2",
+            "count": "2,480"
+        },
+        {
+            "word": "subseq",
+            "count": "2,474"
+        },
+        {
+            "word": "head",
+            "count": "2,472"
+        },
+        {
+            "word": "slime",
+            "count": "2,467"
+        },
+        {
+            "word": "ch",
+            "count": "2,456"
+        },
+        {
+            "word": "per",
+            "count": "2,454"
+        },
+        {
+            "word": "repeat",
+            "count": "2,451"
+        },
+        {
+            "word": "break",
+            "count": "2,444"
+        },
+        {
+            "word": "backtrace",
+            "count": "2,443"
+        },
+        {
+            "word": "Offline",
+            "count": "2,431"
+        },
+        {
+            "word": "documentary",
+            "count": "2,428"
+        },
+        {
+            "word": "protocol",
+            "count": "2,418"
+        },
+        {
+            "word": "have",
+            "count": "2,417"
+        },
+        {
+            "word": "requests",
+            "count": "2,392"
+        },
+        {
+            "word": "title",
+            "count": "2,392"
+        },
+        {
+            "word": "profile",
+            "count": "2,386"
+        },
+        {
+            "word": "java",
+            "count": "2,382"
+        },
+        {
+            "word": "aux",
+            "count": "2,380"
+        },
+        {
+            "word": "eu",
+            "count": "2,377"
+        },
+        {
+            "word": "tymoon",
+            "count": "2,377"
+        },
+        {
+            "word": "Degraded",
+            "count": "2,375"
+        },
+        {
+            "word": "Starting",
+            "count": "2,372"
+        },
+        {
+            "word": "tv",
+            "count": "2,369"
+        },
+        {
+            "word": "normal",
+            "count": "2,361"
+        },
+        {
+            "word": "~A~",
+            "count": "2,360"
+        },
+        {
+            "word": "plan",
+            "count": "2,355"
+        },
+        {
+            "word": "distribution",
+            "count": "2,352"
+        },
+        {
+            "word": "ret",
+            "count": "2,350"
+        },
+        {
+            "word": "backend",
+            "count": "2,346"
+        },
+        {
+            "word": "binding",
+            "count": "2,346"
+        },
+        {
+            "word": "defgeneric",
+            "count": "2,346"
+        },
+        {
+            "word": "__ros_str_len",
+            "count": "2,334"
+        },
+        {
+            "word": "threads",
+            "count": "2,333"
+        },
+        {
+            "word": "step",
+            "count": "2,331"
+        },
+        {
+            "word": "ref",
+            "count": "2,327"
+        },
+        {
+            "word": "signal",
+            "count": "2,325"
+        },
+        {
+            "word": "free",
+            "count": "2,323"
+        },
+        {
+            "word": "nreverse",
+            "count": "2,316"
+        },
+        {
+            "word": "__ros_arr_len",
+            "count": "2,310"
+        },
+        {
+            "word": "FORTRAN",
+            "count": "2,309"
+        },
+        {
+            "word": "compute",
+            "count": "2,309"
+        },
+        {
+            "word": "inspector",
+            "count": "2,308"
+        },
+        {
+            "word": "assoc",
+            "count": "2,307"
+        },
+        {
+            "word": "empty",
+            "count": "2,305"
+        },
+        {
+            "word": "translations",
+            "count": "2,304"
+        },
+        {
+            "word": "policy",
+            "count": "2,303"
+        },
+        {
+            "word": "Int32",
+            "count": "2,296"
+        },
+        {
+            "word": "opengl",
+            "count": "2,293"
+        },
+        {
+            "word": "Service",
+            "count": "2,292"
+        },
+        {
+            "word": "truename",
+            "count": "2,287"
+        },
+        {
+            "word": "complex16",
+            "count": "2,278"
+        },
+        {
+            "word": "interrupts",
+            "count": "2,278"
+        },
+        {
+            "word": "quit",
+            "count": "2,277"
+        },
+        {
+            "word": "cddr",
+            "count": "2,258"
+        },
+        {
+            "word": "sum",
+            "count": "2,257"
+        },
+        {
+            "word": "gc",
+            "count": "2,254"
+        },
+        {
+            "word": "store",
+            "count": "2,253"
+        },
+        {
+            "word": "invoke",
+            "count": "2,249"
+        },
+        {
+            "word": "bigfloat",
+            "count": "2,247"
+        },
+        {
+            "word": "drama",
+            "count": "2,245"
+        },
+        {
+            "word": "ENTLIST",
+            "count": "2,244"
+        },
+        {
+            "word": "interrupt",
+            "count": "2,240"
+        },
+        {
+            "word": "support",
+            "count": "2,240"
+        },
+        {
+            "word": "where",
+            "count": "2,238"
+        },
+        {
+            "word": "MA",
+            "count": "2,227"
+        },
+        {
+            "word": "also",
+            "count": "2,198"
+        },
+        {
+            "word": "arg2",
+            "count": "2,196"
+        },
+        {
+            "word": "require",
+            "count": "2,192"
+        },
+        {
+            "word": "const",
+            "count": "2,187"
+        },
+        {
+            "word": "pane",
+            "count": "2,181"
+        },
+        {
+            "word": "results",
+            "count": "2,181"
+        },
+        {
+            "word": "xref",
+            "count": "2,180"
+        },
+        {
+            "word": "cffi",
+            "count": "2,174"
+        },
+        {
+            "word": "dynamic",
+            "count": "2,174"
+        },
+        {
+            "word": "mlist",
+            "count": "2,158"
+        },
+        {
+            "word": "power",
+            "count": "2,157"
+        },
+        {
+            "word": "Description",
+            "count": "2,150"
+        },
+        {
+            "word": "USA",
+            "count": "2,150"
+        },
+        {
+            "word": "elements",
+            "count": "2,147"
+        },
+        {
+            "word": "rol64",
+            "count": "2,144"
+        },
+        {
+            "word": "ror64",
+            "count": "2,144"
+        },
+        {
+            "word": "inherit",
+            "count": "2,142"
+        },
+        {
+            "word": "Applicable",
+            "count": "2,124"
+        },
+        {
+            "word": "0x8000",
+            "count": "2,119"
+        },
+        {
+            "word": "flags",
+            "count": "2,119"
+        },
+        {
+            "word": "PACKAGE",
+            "count": "2,109"
+        },
+        {
+            "word": "needed",
+            "count": "2,108"
+        },
+        {
+            "word": "s1",
+            "count": "2,105"
+        },
+        {
+            "word": "reg",
+            "count": "2,095"
+        },
+        {
+            "word": "following",
+            "count": "2,094"
+        },
+        {
+            "word": "ERROR",
+            "count": "2,090"
+        },
+        {
+            "word": "ARRAY",
+            "count": "2,079"
+        },
+        {
+            "word": "constant",
+            "count": "2,076"
+        },
+        {
+            "word": "your",
+            "count": "2,070"
+        },
+        {
+            "word": "Boston",
+            "count": "2,068"
+        },
+        {
+            "word": "streams",
+            "count": "2,067"
+        },
+        {
+            "word": "Redistribution",
+            "count": "2,065"
+        },
+        {
+            "word": "components",
+            "count": "2,061"
+        },
+        {
+            "word": "stop",
+            "count": "2,059"
+        },
+        {
+            "word": "mov",
+            "count": "2,054"
+        },
+        {
+            "word": "USE",
+            "count": "2,051"
+        },
+        {
+            "word": "declarations",
+            "count": "2,049"
+        },
+        {
+            "word": "before",
+            "count": "2,048"
+        },
+        {
+            "word": "who",
+            "count": "2,044"
+        },
+        {
+            "word": "CFFI",
+            "count": "2,042"
+        },
+        {
+            "word": "children",
+            "count": "2,042"
+        },
+        {
+            "word": "move",
+            "count": "2,042"
+        },
+        {
+            "word": "dspec",
+            "count": "2,037"
+        },
+        {
+            "word": "SYSTEM",
+            "count": "2,030"
+        },
+        {
+            "word": "ldc",
+            "count": "2,024"
+        },
+        {
+            "word": "clause",
+            "count": "2,021"
+        },
+        {
+            "word": "expected",
+            "count": "2,019"
+        },
+        {
+            "word": "exit",
+            "count": "2,017"
+        },
+        {
+            "word": "features",
+            "count": "2,017"
+        },
+        {
+            "word": "supersede",
+            "count": "2,016"
+        },
+        {
+            "word": "Name",
+            "count": "2,007"
+        },
+        {
+            "word": "stringp",
+            "count": "2,002"
+        },
+        {
+            "word": "warn",
+            "count": "2,002"
+        },
+        {
+            "word": "above",
+            "count": "1,997"
+        },
+        {
+            "word": "history",
+            "count": "1,997"
+        },
+        {
+            "word": "macros",
+            "count": "1,996"
+        },
+        {
+            "word": "win32",
+            "count": "1,995"
+        },
+        {
+            "word": "decode",
+            "count": "1,994"
+        },
+        {
+            "word": "definitions",
+            "count": "1,991"
+        },
+        {
+            "word": "eax",
+            "count": "1,990"
+        },
+        {
+            "word": "up",
+            "count": "1,989"
+        },
+        {
+            "word": "field",
+            "count": "1,988"
+        },
+        {
+            "word": "decf",
+            "count": "1,986"
+        },
+        {
+            "word": "invalid",
+            "count": "1,981"
+        },
+        {
+            "word": "parameters",
+            "count": "1,977"
+        },
+        {
+            "word": "END",
+            "count": "1,976"
+        },
+        {
+            "word": "tabs",
+            "count": "1,973"
+        },
+        {
+            "word": "search",
+            "count": "1,968"
+        },
+        {
+            "word": "FUNCTION",
+            "count": "1,967"
+        },
+        {
+            "word": "db",
+            "count": "1,964"
+        },
+        {
+            "word": "EnabledState",
+            "count": "1,963"
+        },
+        {
+            "word": "transform",
+            "count": "1,962"
+        },
+        {
+            "word": "menu",
+            "count": "1,948"
+        },
+        {
+            "word": "record",
+            "count": "1,943"
+        },
+        {
+            "word": "app",
+            "count": "1,935"
+        },
+        {
+            "word": "upgradability",
+            "count": "1,935"
+        },
+        {
+            "word": "subject",
+            "count": "1,934"
+        },
+        {
+            "word": "word",
+            "count": "1,930"
+        },
+        {
+            "word": "excl",
+            "count": "1,928"
+        },
+        {
+            "word": "uiop",
+            "count": "1,923"
+        },
+        {
+            "word": "progress",
+            "count": "1,919"
+        },
+        {
+            "word": "content",
+            "count": "1,917"
+        },
+        {
+            "word": "regex",
+            "count": "1,916"
+        },
+        {
+            "word": "mbox",
+            "count": "1,915"
+        },
+        {
+            "word": "prompt",
+            "count": "1,913"
+        },
+        {
+            "word": "fasl",
+            "count": "1,911"
+        },
+        {
+            "word": "x1",
+            "count": "1,911"
+        },
+        {
+            "word": "main",
+            "count": "1,908"
+        },
+        {
+            "word": "previous",
+            "count": "1,908"
+        },
+        {
+            "word": "iwork",
+            "count": "1,907"
+        },
+        {
+            "word": "sheet",
+            "count": "1,902"
+        },
+        {
+            "word": "compiled",
+            "count": "1,901"
+        },
+        {
+            "word": "ansi",
+            "count": "1,900"
+        },
+        {
+            "word": "decls",
+            "count": "1,899"
+        },
+        {
+            "word": "met",
+            "count": "1,899"
+        },
+        {
+            "word": "ENT",
+            "count": "1,897"
+        },
+        {
+            "word": "auto",
+            "count": "1,890"
+        },
+        {
+            "word": "url",
+            "count": "1,888"
+        },
+        {
+            "word": "intern",
+            "count": "1,882"
+        },
+        {
+            "word": "indentation",
+            "count": "1,878"
+        },
+        {
+            "word": "vm",
+            "count": "1,870"
+        },
+        {
+            "word": "ebp",
+            "count": "1,869"
+        },
+        {
+            "word": "ok",
+            "count": "1,867"
+        },
+        {
+            "word": "struct",
+            "count": "1,866"
+        },
+        {
+            "word": "vec",
+            "count": "1,866"
+        },
+        {
+            "word": "S",
+            "count": "1,862"
+        },
+        {
+            "word": "orig",
+            "count": "1,857"
+        },
+        {
+            "word": "template",
+            "count": "1,855"
+        },
+        {
+            "word": "flag",
+            "count": "1,854"
+        },
+        {
+            "word": "false",
+            "count": "1,853"
+        },
+        {
+            "word": "roslisp",
+            "count": "1,852"
+        },
+        {
+            "word": "err",
+            "count": "1,851"
+        },
+        {
+            "word": "caar",
+            "count": "1,848"
+        },
+        {
+            "word": "simplify",
+            "count": "1,845"
+        },
+        {
+            "word": "fst",
+            "count": "1,843"
+        },
+        {
+            "word": "tmp",
+            "count": "1,840"
+        },
+        {
+            "word": "representation",
+            "count": "1,838"
+        },
+        {
+            "word": "two",
+            "count": "1,834"
+        },
+        {
+            "word": "counter",
+            "count": "1,833"
+        },
+        {
+            "word": "escape",
+            "count": "1,833"
+        },
+        {
+            "word": "textual",
+            "count": "1,833"
+        },
+        {
+            "word": "Non",
+            "count": "1,831"
+        },
+        {
+            "word": "rat",
+            "count": "1,828"
+        },
+        {
+            "word": "We",
+            "count": "1,827"
+        },
+        {
+            "word": "device",
+            "count": "1,827"
+        },
+        {
+            "word": "FILE",
+            "count": "1,825"
+        },
+        {
+            "word": "abs",
+            "count": "1,819"
+        },
+        {
+            "word": "called",
+            "count": "1,814"
+        },
+        {
+            "word": "safe",
+            "count": "1,814"
+        },
+        {
+            "word": "date",
+            "count": "1,807"
+        },
+        {
+            "word": "written",
+            "count": "1,805"
+        },
+        {
+            "word": "tbox",
+            "count": "1,803"
+        },
+        {
+            "word": "might",
+            "count": "1,796"
+        },
+        {
+            "word": "mutex",
+            "count": "1,795"
+        },
+        {
+            "word": "complex",
+            "count": "1,794"
+        },
+        {
+            "word": "events",
+            "count": "1,793"
+        },
+        {
+            "word": "parameter",
+            "count": "1,790"
+        },
+        {
+            "word": "enable",
+            "count": "1,789"
+        },
+        {
+            "word": "pretty",
+            "count": "1,787"
+        },
+        {
+            "word": "expand",
+            "count": "1,784"
+        },
+        {
+            "word": "informatimago",
+            "count": "1,784"
+        },
+        {
+            "word": "si",
+            "count": "1,781"
+        },
+        {
+            "word": "D",
+            "count": "1,779"
+        },
+        {
+            "word": "each",
+            "count": "1,779"
+        },
+        {
+            "word": "getf",
+            "count": "1,771"
+        },
+        {
+            "word": "abserr",
+            "count": "1,769"
+        },
+        {
+            "word": "openmcl",
+            "count": "1,766"
+        },
+        {
+            "word": "initialize",
+            "count": "1,765"
+        },
+        {
+            "word": "button",
+            "count": "1,762"
+        },
+        {
+            "word": "scanner",
+            "count": "1,762"
+        },
+        {
+            "word": "generated",
+            "count": "1,761"
+        },
+        {
+            "word": "predicate",
+            "count": "1,752"
+        },
+        {
+            "word": "FNV",
+            "count": "1,751"
+        },
+        {
+            "word": "boundp",
+            "count": "1,751"
+        },
+        {
+            "word": "matcher",
+            "count": "1,751"
+        },
+        {
+            "word": "resolve",
+            "count": "1,750"
+        },
+        {
+            "word": "sort",
+            "count": "1,750"
+        },
+        {
+            "word": "num",
+            "count": "1,746"
+        },
+        {
+            "word": "nconc",
+            "count": "1,741"
+        },
+        {
+            "word": "ex",
+            "count": "1,739"
+        },
+        {
+            "word": "cbuf",
+            "count": "1,735"
+        },
+        {
+            "word": "ierr",
+            "count": "1,731"
+        },
+        {
+            "word": "unit",
+            "count": "1,731"
+        },
+        {
+            "word": "s0",
+            "count": "1,729"
+        },
+        {
+            "word": "same",
+            "count": "1,727"
+        },
+        {
+            "word": "Save",
+            "count": "1,726"
+        },
+        {
+            "word": "goal",
+            "count": "1,721"
+        },
+        {
+            "word": "fresh",
+            "count": "1,718"
+        },
+        {
+            "word": "RequestedState",
+            "count": "1,716"
+        },
+        {
+            "word": "most",
+            "count": "1,710"
+        },
+        {
+            "word": "b5",
+            "count": "1,706"
+        },
+        {
+            "word": "ecl",
+            "count": "1,706"
+        },
+        {
+            "word": "configuration",
+            "count": "1,696"
+        },
+        {
+            "word": "b7",
+            "count": "1,688"
+        },
+        {
+            "word": "stl",
+            "count": "1,688"
+        },
+        {
+            "word": "Stopping",
+            "count": "1,681"
+        },
+        {
+            "word": "now",
+            "count": "1,681"
+        },
+        {
+            "word": "allocation",
+            "count": "1,677"
+        },
+        {
+            "word": "commands",
+            "count": "1,676"
+        },
+        {
+            "word": "encoding",
+            "count": "1,676"
+        },
+        {
+            "word": "points",
+            "count": "1,675"
+        },
+        {
+            "word": "ix",
+            "count": "1,674"
+        },
+        {
+            "word": "def",
+            "count": "1,672"
+        },
+        {
+            "word": "thing",
+            "count": "1,672"
+        },
+        {
+            "word": "abox",
+            "count": "1,671"
+        },
+        {
+            "word": "HealthState",
+            "count": "1,669"
+        },
+        {
+            "word": "Dormant",
+            "count": "1,666"
+        },
+        {
+            "word": "Predictive",
+            "count": "1,666"
+        },
+        {
+            "word": "defparameter",
+            "count": "1,666"
+        },
+        {
+            "word": "functioning",
+            "count": "1,666"
+        },
+        {
+            "word": "Reset",
+            "count": "1,662"
+        },
+        {
+            "word": "snd",
+            "count": "1,659"
+        },
+        {
+            "word": "missing",
+            "count": "1,658"
+        },
+        {
+            "word": "Returns",
+            "count": "1,657"
+        },
+        {
+            "word": "param",
+            "count": "1,655"
+        },
+        {
+            "word": "RequestStateChange",
+            "count": "1,653"
+        },
+        {
+            "word": "known",
+            "count": "1,653"
+        },
+        {
+            "word": "Other",
+            "count": "1,652"
+        },
+        {
+            "word": "Caption",
+            "count": "1,648"
+        },
+        {
+            "word": "objects",
+            "count": "1,647"
+        },
+        {
+            "word": "role",
+            "count": "1,643"
+        },
+        {
+            "word": "closure",
+            "count": "1,640"
+        },
+        {
+            "word": "N",
+            "count": "1,638"
+        },
+        {
+            "word": "METHOD",
+            "count": "1,637"
+        },
+        {
+            "word": "unreadable",
+            "count": "1,634"
+        },
+        {
+            "word": "OrgID",
+            "count": "1,629"
+        },
+        {
+            "word": "incx",
+            "count": "1,624"
+        },
+        {
+            "word": "term",
+            "count": "1,621"
+        }
+    ]
+}

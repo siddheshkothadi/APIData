@@ -1,0 +1,3905 @@
+{
+    "language": "rb",
+    "words": [
+        {
+            "word": "end",
+            "count": "39,967,296"
+        },
+        {
+            "word": "do",
+            "count": "8,561,211"
+        },
+        {
+            "word": "def",
+            "count": "6,884,688"
+        },
+        {
+            "word": "the",
+            "count": "5,035,709"
+        },
+        {
+            "word": "to",
+            "count": "4,255,951"
+        },
+        {
+            "word": "if",
+            "count": "3,132,826"
+        },
+        {
+            "word": "should",
+            "count": "2,666,276"
+        },
+        {
+            "word": "it",
+            "count": "2,633,444"
+        },
+        {
+            "word": "require",
+            "count": "2,605,511"
+        },
+        {
+            "word": "a",
+            "count": "2,552,859"
+        },
+        {
+            "word": "t",
+            "count": "2,246,316"
+        },
+        {
+            "word": "new",
+            "count": "2,212,031"
+        },
+        {
+            "word": "true",
+            "count": "2,177,733"
+        },
+        {
+            "word": "name",
+            "count": "2,038,366"
+        },
+        {
+            "word": "config",
+            "count": "1,988,793"
+        },
+        {
+            "word": "else",
+            "count": "1,971,334"
+        },
+        {
+            "word": "user",
+            "count": "1,796,801"
+        },
+        {
+            "word": "class",
+            "count": "1,783,579"
+        },
+        {
+            "word": "is",
+            "count": "1,780,885"
+        },
+        {
+            "word": "self",
+            "count": "1,733,581"
+        },
+        {
+            "word": "id",
+            "count": "1,679,246"
+        },
+        {
+            "word": "module",
+            "count": "1,668,400"
+        },
+        {
+            "word": "nil",
+            "count": "1,656,085"
+        },
+        {
+            "word": "false",
+            "count": "1,526,211"
+        },
+        {
+            "word": "for",
+            "count": "1,493,190"
+        },
+        {
+            "word": "return",
+            "count": "1,456,806"
+        },
+        {
+            "word": "and",
+            "count": "1,434,994"
+        },
+        {
+            "word": "of",
+            "count": "1,429,207"
+        },
+        {
+            "word": "expect",
+            "count": "1,414,692"
+        },
+        {
+            "word": "in",
+            "count": "1,301,140"
+        },
+        {
+            "word": "when",
+            "count": "1,293,658"
+        },
+        {
+            "word": "options",
+            "count": "1,278,868"
+        },
+        {
+            "word": "with",
+            "count": "1,156,351"
+        },
+        {
+            "word": "be",
+            "count": "1,049,937"
+        },
+        {
+            "word": "each",
+            "count": "1,040,932"
+        },
+        {
+            "word": "value",
+            "count": "1,031,686"
+        },
+        {
+            "word": "before",
+            "count": "1,013,435"
+        },
+        {
+            "word": "create",
+            "count": "992,161"
+        },
+        {
+            "word": "not",
+            "count": "951,841"
+        },
+        {
+            "word": "string",
+            "count": "945,893"
+        },
+        {
+            "word": "context",
+            "count": "922,516"
+        },
+        {
+            "word": "describe",
+            "count": "906,381"
+        },
+        {
+            "word": "include",
+            "count": "896,508"
+        },
+        {
+            "word": "this",
+            "count": "883,118"
+        },
+        {
+            "word": "File",
+            "count": "853,735"
+        },
+        {
+            "word": "default",
+            "count": "831,120"
+        },
+        {
+            "word": "params",
+            "count": "816,968"
+        },
+        {
+            "word": "response",
+            "count": "815,373"
+        },
+        {
+            "word": "get",
+            "count": "777,614"
+        },
+        {
+            "word": "file",
+            "count": "774,851"
+        },
+        {
+            "word": "you",
+            "count": "772,156"
+        },
+        {
+            "word": "s",
+            "count": "766,958"
+        },
+        {
+            "word": "assert_equal",
+            "count": "745,096"
+        },
+        {
+            "word": "let",
+            "count": "740,910"
+        },
+        {
+            "word": "test",
+            "count": "716,894"
+        },
+        {
+            "word": "all",
+            "count": "709,630"
+        },
+        {
+            "word": "key",
+            "count": "682,785"
+        },
+        {
+            "word": "eq",
+            "count": "679,682"
+        },
+        {
+            "word": "that",
+            "count": "668,082"
+        },
+        {
+            "word": "type",
+            "count": "667,761"
+        },
+        {
+            "word": "on",
+            "count": "643,811"
+        },
+        {
+            "word": "result",
+            "count": "639,119"
+        },
+        {
+            "word": "an",
+            "count": "638,722"
+        },
+        {
+            "word": "or",
+            "count": "633,079"
+        },
+        {
+            "word": "unless",
+            "count": "630,716"
+        },
+        {
+            "word": "path",
+            "count": "615,116"
+        },
+        {
+            "word": "args",
+            "count": "610,332"
+        },
+        {
+            "word": "index",
+            "count": "601,978"
+        },
+        {
+            "word": "format",
+            "count": "596,767"
+        },
+        {
+            "word": "The",
+            "count": "592,820"
+        },
+        {
+            "word": "e",
+            "count": "584,844"
+        },
+        {
+            "word": "private",
+            "count": "570,269"
+        },
+        {
+            "word": "json",
+            "count": "554,137"
+        },
+        {
+            "word": "as",
+            "count": "552,938"
+        },
+        {
+            "word": "from",
+            "count": "538,815"
+        },
+        {
+            "word": "data",
+            "count": "537,914"
+        },
+        {
+            "word": "will",
+            "count": "532,460"
+        },
+        {
+            "word": "can",
+            "count": "512,070"
+        },
+        {
+            "word": "your",
+            "count": "510,134"
+        },
+        {
+            "word": "are",
+            "count": "509,122"
+        },
+        {
+            "word": "com",
+            "count": "507,896"
+        },
+        {
+            "word": "request",
+            "count": "494,710"
+        },
+        {
+            "word": "post",
+            "count": "492,648"
+        },
+        {
+            "word": "begin",
+            "count": "491,403"
+        },
+        {
+            "word": "rescue",
+            "count": "488,660"
+        },
+        {
+            "word": "datetime",
+            "count": "484,548"
+        },
+        {
+            "word": "version",
+            "count": "477,553"
+        },
+        {
+            "word": "String",
+            "count": "476,434"
+        },
+        {
+            "word": "save",
+            "count": "465,594"
+        },
+        {
+            "word": "text",
+            "count": "463,501"
+        },
+        {
+            "word": "n",
+            "count": "463,137"
+        },
+        {
+            "word": "first",
+            "count": "456,801"
+        },
+        {
+            "word": "action",
+            "count": "455,092"
+        },
+        {
+            "word": "returns",
+            "count": "454,359"
+        },
+        {
+            "word": "body",
+            "count": "453,887"
+        },
+        {
+            "word": "method",
+            "count": "450,742"
+        },
+        {
+            "word": "to_s",
+            "count": "448,961"
+        },
+        {
+            "word": "error",
+            "count": "446,050"
+        },
+        {
+            "word": "by",
+            "count": "441,130"
+        },
+        {
+            "word": "set",
+            "count": "441,072"
+        },
+        {
+            "word": "http",
+            "count": "435,639"
+        },
+        {
+            "word": "initialize",
+            "count": "432,058"
+        },
+        {
+            "word": "spec_helper",
+            "count": "427,955"
+        },
+        {
+            "word": "status",
+            "count": "426,753"
+        },
+        {
+            "word": "subject",
+            "count": "424,369"
+        },
+        {
+            "word": "example",
+            "count": "423,672"
+        },
+        {
+            "word": "raise",
+            "count": "418,570"
+        },
+        {
+            "word": "message",
+            "count": "417,579"
+        },
+        {
+            "word": "email",
+            "count": "416,317"
+        },
+        {
+            "word": "use",
+            "count": "409,087"
+        },
+        {
+            "word": "integer",
+            "count": "407,361"
+        },
+        {
+            "word": "block",
+            "count": "407,171"
+        },
+        {
+            "word": "title",
+            "count": "404,414"
+        },
+        {
+            "word": "This",
+            "count": "402,401"
+        },
+        {
+            "word": "null",
+            "count": "396,543"
+        },
+        {
+            "word": "course",
+            "count": "393,973"
+        },
+        {
+            "word": "__FILE__",
+            "count": "393,039"
+        },
+        {
+            "word": "foo",
+            "count": "382,749"
+        },
+        {
+            "word": "render",
+            "count": "382,078"
+        },
+        {
+            "word": "page",
+            "count": "375,901"
+        },
+        {
+            "word": "rb",
+            "count": "374,755"
+        },
+        {
+            "word": "c",
+            "count": "371,552"
+        },
+        {
+            "word": "find",
+            "count": "371,312"
+        },
+        {
+            "word": "order",
+            "count": "367,285"
+        },
+        {
+            "word": "project",
+            "count": "365,999"
+        },
+        {
+            "word": "join",
+            "count": "364,457"
+        },
+        {
+            "word": "resource",
+            "count": "363,590"
+        },
+        {
+            "word": "f",
+            "count": "362,472"
+        },
+        {
+            "word": "url",
+            "count": "361,400"
+        },
+        {
+            "word": "Rails",
+            "count": "359,610"
+        },
+        {
+            "word": "object",
+            "count": "358,044"
+        },
+        {
+            "word": "param",
+            "count": "356,256"
+        },
+        {
+            "word": "html",
+            "count": "354,209"
+        },
+        {
+            "word": "users",
+            "count": "353,411"
+        },
+        {
+            "word": "ActiveRecord",
+            "count": "346,683"
+        },
+        {
+            "word": "puts",
+            "count": "344,247"
+        },
+        {
+            "word": "run",
+            "count": "341,311"
+        },
+        {
+            "word": "application",
+            "count": "337,981"
+        },
+        {
+            "word": "assert",
+            "count": "336,176"
+        },
+        {
+            "word": "p",
+            "count": "333,015"
+        },
+        {
+            "word": "attributes",
+            "count": "331,134"
+        },
+        {
+            "word": "root",
+            "count": "324,538"
+        },
+        {
+            "word": "Base",
+            "count": "324,222"
+        },
+        {
+            "word": "update",
+            "count": "323,524"
+        },
+        {
+            "word": "hash",
+            "count": "321,500"
+        },
+        {
+            "word": "app",
+            "count": "321,450"
+        },
+        {
+            "word": "code",
+            "count": "319,662"
+        },
+        {
+            "word": "opts",
+            "count": "316,057"
+        },
+        {
+            "word": "b",
+            "count": "309,997"
+        },
+        {
+            "word": "If",
+            "count": "308,902"
+        },
+        {
+            "word": "account",
+            "count": "305,162"
+        },
+        {
+            "word": "destroy",
+            "count": "304,066"
+        },
+        {
+            "word": "node",
+            "count": "303,861"
+        },
+        {
+            "word": "env",
+            "count": "302,505"
+        },
+        {
+            "word": "delete",
+            "count": "301,496"
+        },
+        {
+            "word": "i",
+            "count": "299,902"
+        },
+        {
+            "word": "change",
+            "count": "299,005"
+        },
+        {
+            "word": "server",
+            "count": "298,034"
+        },
+        {
+            "word": "group",
+            "count": "296,735"
+        },
+        {
+            "word": "super",
+            "count": "294,038"
+        },
+        {
+            "word": "size",
+            "count": "291,539"
+        },
+        {
+            "word": "person",
+            "count": "290,986"
+        },
+        {
+            "word": "password",
+            "count": "289,959"
+        },
+        {
+            "word": "count",
+            "count": "287,108"
+        },
+        {
+            "word": "r",
+            "count": "285,212"
+        },
+        {
+            "word": "tt",
+            "count": "285,126"
+        },
+        {
+            "word": "respond_to",
+            "count": "283,189"
+        },
+        {
+            "word": "case",
+            "count": "282,705"
+        },
+        {
+            "word": "success",
+            "count": "279,645"
+        },
+        {
+            "word": "User",
+            "count": "277,064"
+        },
+        {
+            "word": "description",
+            "count": "275,666"
+        },
+        {
+            "word": "line",
+            "count": "273,940"
+        },
+        {
+            "word": "Time",
+            "count": "273,612"
+        },
+        {
+            "word": "assets",
+            "count": "273,136"
+        },
+        {
+            "word": "option",
+            "count": "272,298"
+        },
+        {
+            "word": "source",
+            "count": "272,274"
+        },
+        {
+            "word": "d",
+            "count": "271,181"
+        },
+        {
+            "word": "only",
+            "count": "270,204"
+        },
+        {
+            "word": "show",
+            "count": "268,979"
+        },
+        {
+            "word": "time",
+            "count": "268,619"
+        },
+        {
+            "word": "setup",
+            "count": "268,210"
+        },
+        {
+            "word": "used",
+            "count": "267,978"
+        },
+        {
+            "word": "x",
+            "count": "266,517"
+        },
+        {
+            "word": "resources",
+            "count": "264,227"
+        },
+        {
+            "word": "have",
+            "count": "263,856"
+        },
+        {
+            "word": "map",
+            "count": "260,881"
+        },
+        {
+            "word": "attr_accessor",
+            "count": "260,513"
+        },
+        {
+            "word": "database",
+            "count": "258,792"
+        },
+        {
+            "word": "build",
+            "count": "258,227"
+        },
+        {
+            "word": "content",
+            "count": "258,183"
+        },
+        {
+            "word": "xml",
+            "count": "257,874"
+        },
+        {
+            "word": "encoding",
+            "count": "254,620"
+        },
+        {
+            "word": "created_at",
+            "count": "254,514"
+        },
+        {
+            "word": "using",
+            "count": "253,855"
+        },
+        {
+            "word": "files",
+            "count": "252,271"
+        },
+        {
+            "word": "errors",
+            "count": "251,769"
+        },
+        {
+            "word": "empty",
+            "count": "250,510"
+        },
+        {
+            "word": "w",
+            "count": "249,469"
+        },
+        {
+            "word": "A",
+            "count": "249,199"
+        },
+        {
+            "word": "list",
+            "count": "249,021"
+        },
+        {
+            "word": "dirname",
+            "count": "246,365"
+        },
+        {
+            "word": "controller",
+            "count": "243,595"
+        },
+        {
+            "word": "any",
+            "count": "243,302"
+        },
+        {
+            "word": "state",
+            "count": "240,451"
+        },
+        {
+            "word": "admin",
+            "count": "239,125"
+        },
+        {
+            "word": "call",
+            "count": "236,574"
+        },
+        {
+            "word": "Hash",
+            "count": "236,288"
+        },
+        {
+            "word": "command",
+            "count": "234,273"
+        },
+        {
+            "word": "after",
+            "count": "233,815"
+        },
+        {
+            "word": "assignment",
+            "count": "233,352"
+        },
+        {
+            "word": "edit",
+            "count": "231,849"
+        },
+        {
+            "word": "no",
+            "count": "230,790"
+        },
+        {
+            "word": "session",
+            "count": "228,886"
+        },
+        {
+            "word": "send",
+            "count": "226,226"
+        },
+        {
+            "word": "which",
+            "count": "226,152"
+        },
+        {
+            "word": "match",
+            "count": "224,980"
+        },
+        {
+            "word": "tag",
+            "count": "223,497"
+        },
+        {
+            "word": "topic",
+            "count": "221,350"
+        },
+        {
+            "word": "expand_path",
+            "count": "220,597"
+        },
+        {
+            "word": "user_id",
+            "count": "220,390"
+        },
+        {
+            "word": "install",
+            "count": "216,106"
+        },
+        {
+            "word": "other",
+            "count": "215,934"
+        },
+        {
+            "word": "system",
+            "count": "215,909"
+        },
+        {
+            "word": "updated_at",
+            "count": "215,526"
+        },
+        {
+            "word": "attribute",
+            "count": "212,041"
+        },
+        {
+            "word": "utf",
+            "count": "211,638"
+        },
+        {
+            "word": "Array",
+            "count": "210,246"
+        },
+        {
+            "word": "where",
+            "count": "207,351"
+        },
+        {
+            "word": "api",
+            "count": "206,654"
+        },
+        {
+            "word": "assert_response",
+            "count": "206,448"
+        },
+        {
+            "word": "client",
+            "count": "205,295"
+        },
+        {
+            "word": "parse",
+            "count": "204,348"
+        },
+        {
+            "word": "one",
+            "count": "202,971"
+        },
+        {
+            "word": "input",
+            "count": "202,696"
+        },
+        {
+            "word": "scope",
+            "count": "202,031"
+        },
+        {
+            "word": "configure",
+            "count": "201,610"
+        },
+        {
+            "word": "logger",
+            "count": "199,928"
+        },
+        {
+            "word": "field",
+            "count": "199,576"
+        },
+        {
+            "word": "spec",
+            "count": "198,407"
+        },
+        {
+            "word": "reload",
+            "count": "196,877"
+        },
+        {
+            "word": "output",
+            "count": "193,744"
+        },
+        {
+            "word": "ruby",
+            "count": "193,364"
+        },
+        {
+            "word": "current_user",
+            "count": "192,815"
+        },
+        {
+            "word": "v",
+            "count": "192,567"
+        },
+        {
+            "word": "array",
+            "count": "191,338"
+        },
+        {
+            "word": "https",
+            "count": "191,134"
+        },
+        {
+            "word": "then",
+            "count": "188,429"
+        },
+        {
+            "word": "instance",
+            "count": "188,154"
+        },
+        {
+            "word": "bin",
+            "count": "187,360"
+        },
+        {
+            "word": "number",
+            "count": "187,311"
+        },
+        {
+            "word": "read",
+            "count": "185,229"
+        },
+        {
+            "word": "attr_reader",
+            "count": "184,858"
+        },
+        {
+            "word": "length",
+            "count": "184,014"
+        },
+        {
+            "word": "create_table",
+            "count": "182,998"
+        },
+        {
+            "word": "query",
+            "count": "182,870"
+        },
+        {
+            "word": "ENV",
+            "count": "182,052"
+        },
+        {
+            "word": "~",
+            "count": "181,881"
+        },
+        {
+            "word": "uri",
+            "count": "181,158"
+        },
+        {
+            "word": "load",
+            "count": "181,068"
+        },
+        {
+            "word": "m",
+            "count": "181,009"
+        },
+        {
+            "word": "configuration",
+            "count": "180,826"
+        },
+        {
+            "word": "valid",
+            "count": "180,648"
+        },
+        {
+            "word": "given",
+            "count": "180,565"
+        },
+        {
+            "word": "document",
+            "count": "180,428"
+        },
+        {
+            "word": "up",
+            "count": "179,557"
+        },
+        {
+            "word": "model",
+            "count": "179,313"
+        },
+        {
+            "word": "item",
+            "count": "178,548"
+        },
+        {
+            "word": "EOS",
+            "count": "178,539"
+        },
+        {
+            "word": "now",
+            "count": "177,622"
+        },
+        {
+            "word": "transition",
+            "count": "177,376"
+        },
+        {
+            "word": "has",
+            "count": "174,537"
+        },
+        {
+            "word": "we",
+            "count": "174,150"
+        },
+        {
+            "word": "here",
+            "count": "173,654"
+        },
+        {
+            "word": "bar",
+            "count": "173,100"
+        },
+        {
+            "word": "token",
+            "count": "173,092"
+        },
+        {
+            "word": "db",
+            "count": "172,433"
+        },
+        {
+            "word": "Chef",
+            "count": "171,567"
+        },
+        {
+            "word": "val",
+            "count": "170,769"
+        },
+        {
+            "word": "headers",
+            "count": "170,622"
+        },
+        {
+            "word": "required",
+            "count": "170,581"
+        },
+        {
+            "word": "at",
+            "count": "170,072"
+        },
+        {
+            "word": "out",
+            "count": "169,936"
+        },
+        {
+            "word": "rspec",
+            "count": "169,657"
+        },
+        {
+            "word": "org",
+            "count": "169,631"
+        },
+        {
+            "word": "You",
+            "count": "168,631"
+        },
+        {
+            "word": "make",
+            "count": "168,278"
+        },
+        {
+            "word": "values",
+            "count": "168,096"
+        },
+        {
+            "word": "specified",
+            "count": "166,893"
+        },
+        {
+            "word": "klass",
+            "count": "165,787"
+        },
+        {
+            "word": "current",
+            "count": "165,759"
+        },
+        {
+            "word": "tz",
+            "count": "165,722"
+        },
+        {
+            "word": "redirect_to",
+            "count": "165,114"
+        },
+        {
+            "word": "add",
+            "count": "164,753"
+        },
+        {
+            "word": "provider",
+            "count": "164,393"
+        },
+        {
+            "word": "ensure",
+            "count": "163,158"
+        },
+        {
+            "word": "address",
+            "count": "162,405"
+        },
+        {
+            "word": "base",
+            "count": "161,238"
+        },
+        {
+            "word": "zone",
+            "count": "160,784"
+        },
+        {
+            "word": "keys",
+            "count": "159,468"
+        },
+        {
+            "word": "test_helper",
+            "count": "157,949"
+        },
+        {
+            "word": "host",
+            "count": "157,017"
+        },
+        {
+            "word": "schema",
+            "count": "156,979"
+        },
+        {
+            "word": "elsif",
+            "count": "156,978"
+        },
+        {
+            "word": "environment",
+            "count": "156,925"
+        },
+        {
+            "word": "username",
+            "count": "156,814"
+        },
+        {
+            "word": "yield",
+            "count": "156,785"
+        },
+        {
+            "word": "doc",
+            "count": "156,775"
+        },
+        {
+            "word": "log",
+            "count": "154,087"
+        },
+        {
+            "word": "GET",
+            "count": "152,678"
+        },
+        {
+            "word": "directory",
+            "count": "152,599"
+        },
+        {
+            "word": "www",
+            "count": "151,510"
+        },
+        {
+            "word": "column",
+            "count": "150,595"
+        },
+        {
+            "word": "last",
+            "count": "149,842"
+        },
+        {
+            "word": "allow",
+            "count": "149,191"
+        },
+        {
+            "word": "record",
+            "count": "148,736"
+        },
+        {
+            "word": "collection",
+            "count": "148,048"
+        },
+        {
+            "word": "mode",
+            "count": "147,753"
+        },
+        {
+            "word": "start",
+            "count": "147,546"
+        },
+        {
+            "word": "o",
+            "count": "147,360"
+        },
+        {
+            "word": "force",
+            "count": "147,268"
+        },
+        {
+            "word": "Returns",
+            "count": "147,241"
+        },
+        {
+            "word": "authentication",
+            "count": "146,225"
+        },
+        {
+            "word": "rails",
+            "count": "146,139"
+        },
+        {
+            "word": "merge",
+            "count": "145,829"
+        },
+        {
+            "word": "expected",
+            "count": "145,538"
+        },
+        {
+            "word": "to_i",
+            "count": "144,823"
+        },
+        {
+            "word": "should_not",
+            "count": "144,505"
+        },
+        {
+            "word": "res",
+            "count": "144,464"
+        },
+        {
+            "word": "event",
+            "count": "144,249"
+        },
+        {
+            "word": "more",
+            "count": "144,092"
+        },
+        {
+            "word": "next",
+            "count": "144,031"
+        },
+        {
+            "word": "does",
+            "count": "143,865"
+        },
+        {
+            "word": "raise_error",
+            "count": "143,119"
+        },
+        {
+            "word": "route",
+            "count": "142,188"
+        },
+        {
+            "word": "lambda",
+            "count": "142,095"
+        },
+        {
+            "word": "h",
+            "count": "141,589"
+        },
+        {
+            "word": "JSON",
+            "count": "141,314"
+        },
+        {
+            "word": "g",
+            "count": "141,313"
+        },
+        {
+            "word": "eql",
+            "count": "140,784"
+        },
+        {
+            "word": "store",
+            "count": "140,546"
+        },
+        {
+            "word": "target",
+            "count": "140,428"
+        },
+        {
+            "word": "without",
+            "count": "140,072"
+        },
+        {
+            "word": "limit",
+            "count": "139,437"
+        },
+        {
+            "word": "parameters",
+            "count": "139,152"
+        },
+        {
+            "word": "present",
+            "count": "139,087"
+        },
+        {
+            "word": "want",
+            "count": "139,085"
+        },
+        {
+            "word": "prefix",
+            "count": "137,613"
+        },
+        {
+            "word": "filename",
+            "count": "137,605"
+        },
+        {
+            "word": "date",
+            "count": "137,603"
+        },
+        {
+            "word": "into",
+            "count": "137,579"
+        },
+        {
+            "word": "extend",
+            "count": "136,967"
+        },
+        {
+            "word": "Application",
+            "count": "136,344"
+        },
+        {
+            "word": "Example",
+            "count": "136,144"
+        },
+        {
+            "word": "exception",
+            "count": "135,811"
+        },
+        {
+            "word": "and_return",
+            "count": "135,702"
+        },
+        {
+            "word": "is_a",
+            "count": "135,564"
+        },
+        {
+            "word": "parent",
+            "count": "135,322"
+        },
+        {
+            "word": "HTTP",
+            "count": "135,196"
+        },
+        {
+            "word": "so",
+            "count": "134,696"
+        },
+        {
+            "word": "but",
+            "count": "133,926"
+        },
+        {
+            "word": "Dir",
+            "count": "133,844"
+        },
+        {
+            "word": "info",
+            "count": "133,466"
+        },
+        {
+            "word": "products",
+            "count": "133,084"
+        },
+        {
+            "word": "belongs_to",
+            "count": "132,772"
+        },
+        {
+            "word": "Person",
+            "count": "132,562"
+        },
+        {
+            "word": "table",
+            "count": "132,219"
+        },
+        {
+            "word": "defined",
+            "count": "132,063"
+        },
+        {
+            "word": "str",
+            "count": "131,390"
+        },
+        {
+            "word": "connection",
+            "count": "130,624"
+        },
+        {
+            "word": "lib",
+            "count": "128,517"
+        },
+        {
+            "word": "profile",
+            "count": "127,762"
+        },
+        {
+            "word": "FactoryGirl",
+            "count": "127,572"
+        },
+        {
+            "word": "posts",
+            "count": "126,991"
+        },
+        {
+            "word": "routes",
+            "count": "126,716"
+        },
+        {
+            "word": "invalid",
+            "count": "126,667"
+        },
+        {
+            "word": "receive",
+            "count": "126,635"
+        },
+        {
+            "word": "usr",
+            "count": "126,412"
+        },
+        {
+            "word": "expects",
+            "count": "126,274"
+        },
+        {
+            "word": "k",
+            "count": "125,696"
+        },
+        {
+            "word": "depends_on",
+            "count": "125,565"
+        },
+        {
+            "word": "see",
+            "count": "124,391"
+        },
+        {
+            "word": "Use",
+            "count": "123,242"
+        },
+        {
+            "word": "RSpec",
+            "count": "123,041"
+        },
+        {
+            "word": "fields",
+            "count": "122,918"
+        },
+        {
+            "word": "select",
+            "count": "122,738"
+        },
+        {
+            "word": "be_nil",
+            "count": "122,720"
+        },
+        {
+            "word": "property",
+            "count": "122,496"
+        },
+        {
+            "word": "obj",
+            "count": "122,287"
+        },
+        {
+            "word": "was",
+            "count": "122,247"
+        },
+        {
+            "word": "active",
+            "count": "121,943"
+        },
+        {
+            "word": "nodoc",
+            "count": "121,881"
+        },
+        {
+            "word": "Set",
+            "count": "121,760"
+        },
+        {
+            "word": "since",
+            "count": "121,180"
+        },
+        {
+            "word": "template",
+            "count": "120,963"
+        },
+        {
+            "word": "comment",
+            "count": "120,516"
+        },
+        {
+            "word": "close",
+            "count": "120,463"
+        },
+        {
+            "word": "debug",
+            "count": "120,436"
+        },
+        {
+            "word": "namespace",
+            "count": "120,067"
+        },
+        {
+            "word": "Configuration",
+            "count": "119,591"
+        },
+        {
+            "word": "its",
+            "count": "117,861"
+        },
+        {
+            "word": "login",
+            "count": "117,817"
+        },
+        {
+            "word": "settings",
+            "count": "117,444"
+        },
+        {
+            "word": "check",
+            "count": "116,908"
+        },
+        {
+            "word": "cache",
+            "count": "116,506"
+        },
+        {
+            "word": "ArgumentError",
+            "count": "115,506"
+        },
+        {
+            "word": "assigns",
+            "count": "115,215"
+        },
+        {
+            "word": "available",
+            "count": "115,173"
+        },
+        {
+            "word": "Default",
+            "count": "115,025"
+        },
+        {
+            "word": "need",
+            "count": "114,107"
+        },
+        {
+            "word": "protected",
+            "count": "114,107"
+        },
+        {
+            "word": "open",
+            "count": "113,808"
+        },
+        {
+            "word": "freeze",
+            "count": "112,789"
+        },
+        {
+            "word": "port",
+            "count": "112,786"
+        },
+        {
+            "word": "l",
+            "count": "112,749"
+        },
+        {
+            "word": "exists",
+            "count": "112,549"
+        },
+        {
+            "word": "category",
+            "count": "112,138"
+        },
+        {
+            "word": "public",
+            "count": "111,959"
+        },
+        {
+            "word": "For",
+            "count": "111,465"
+        },
+        {
+            "word": "service",
+            "count": "111,040"
+        },
+        {
+            "word": "dir",
+            "count": "110,809"
+        },
+        {
+            "word": "_",
+            "count": "110,778"
+        },
+        {
+            "word": "there",
+            "count": "110,296"
+        },
+        {
+            "word": "access",
+            "count": "110,080"
+        },
+        {
+            "word": "site",
+            "count": "109,800"
+        },
+        {
+            "word": "exist",
+            "count": "109,523"
+        },
+        {
+            "word": "support",
+            "count": "109,468"
+        },
+        {
+            "word": "results",
+            "count": "109,233"
+        },
+        {
+            "word": "student",
+            "count": "108,777"
+        },
+        {
+            "word": "form",
+            "count": "108,682"
+        },
+        {
+            "word": "timestamps",
+            "count": "108,036"
+        },
+        {
+            "word": "write",
+            "count": "107,959"
+        },
+        {
+            "word": "execute",
+            "count": "107,545"
+        },
+        {
+            "word": "tags",
+            "count": "107,490"
+        },
+        {
+            "word": "It",
+            "count": "107,323"
+        },
+        {
+            "word": "down",
+            "count": "106,817"
+        },
+        {
+            "word": "comments",
+            "count": "106,606"
+        },
+        {
+            "word": "locale",
+            "count": "106,566"
+        },
+        {
+            "word": "loaded",
+            "count": "106,424"
+        },
+        {
+            "word": "link",
+            "count": "106,263"
+        },
+        {
+            "word": "boolean",
+            "count": "106,209"
+        },
+        {
+            "word": "ActiveSupport",
+            "count": "106,040"
+        },
+        {
+            "word": "owner",
+            "count": "105,709"
+        },
+        {
+            "word": "methods",
+            "count": "105,671"
+        },
+        {
+            "word": "has_many",
+            "count": "104,395"
+        },
+        {
+            "word": "items",
+            "count": "104,309"
+        },
+        {
+            "word": "active_record",
+            "count": "104,296"
+        },
+        {
+            "word": "cmd",
+            "count": "103,948"
+        },
+        {
+            "word": "like",
+            "count": "103,871"
+        },
+        {
+            "word": "groups",
+            "count": "103,849"
+        },
+        {
+            "word": "new_resource",
+            "count": "103,729"
+        },
+        {
+            "word": "product",
+            "count": "103,417"
+        },
+        {
+            "word": "blank",
+            "count": "103,342"
+        },
+        {
+            "word": "row",
+            "count": "102,822"
+        },
+        {
+            "word": "disable",
+            "count": "102,629"
+        },
+        {
+            "word": "put",
+            "count": "102,578"
+        },
+        {
+            "word": "Google",
+            "count": "102,548"
+        },
+        {
+            "word": "src",
+            "count": "102,501"
+        },
+        {
+            "word": "gem",
+            "count": "102,194"
+        },
+        {
+            "word": "ApplicationController",
+            "count": "102,026"
+        },
+        {
+            "word": "auto",
+            "count": "101,565"
+        },
+        {
+            "word": "header",
+            "count": "101,329"
+        },
+        {
+            "word": "git",
+            "count": "100,897"
+        },
+        {
+            "word": "visit",
+            "count": "100,885"
+        },
+        {
+            "word": "attachment",
+            "count": "100,736"
+        },
+        {
+            "word": "Object",
+            "count": "100,419"
+        },
+        {
+            "word": "created",
+            "count": "100,293"
+        },
+        {
+            "word": "stubs",
+            "count": "100,132"
+        },
+        {
+            "word": "amount",
+            "count": "100,007"
+        },
+        {
+            "word": "stub",
+            "count": "99,718"
+        },
+        {
+            "word": "enabled",
+            "count": "99,268"
+        },
+        {
+            "word": "q",
+            "count": "99,253"
+        },
+        {
+            "word": "Test",
+            "count": "98,525"
+        },
+        {
+            "word": "validate",
+            "count": "98,436"
+        },
+        {
+            "word": "I",
+            "count": "98,322"
+        },
+        {
+            "word": "github",
+            "count": "98,167"
+        },
+        {
+            "word": "enable",
+            "count": "98,087"
+        },
+        {
+            "word": "migrations",
+            "count": "97,981"
+        },
+        {
+            "word": "split",
+            "count": "97,489"
+        },
+        {
+            "word": "search",
+            "count": "97,442"
+        },
+        {
+            "word": "courses",
+            "count": "97,012"
+        },
+        {
+            "word": "relation",
+            "count": "96,726"
+        },
+        {
+            "word": "yml",
+            "count": "96,546"
+        },
+        {
+            "word": "break",
+            "count": "96,192"
+        },
+        {
+            "word": "VERSION",
+            "count": "95,494"
+        },
+        {
+            "word": "task",
+            "count": "95,448"
+        },
+        {
+            "word": "quiz",
+            "count": "95,420"
+        },
+        {
+            "word": "over",
+            "count": "95,330"
+        },
+        {
+            "word": "dependency",
+            "count": "95,035"
+        },
+        {
+            "word": "found",
+            "count": "94,889"
+        },
+        {
+            "word": "those",
+            "count": "94,832"
+        },
+        {
+            "word": "automatically",
+            "count": "94,709"
+        },
+        {
+            "word": "I18n",
+            "count": "94,411"
+        },
+        {
+            "word": "is_expected",
+            "count": "94,401"
+        },
+        {
+            "word": "exit",
+            "count": "93,984"
+        },
+        {
+            "word": "times",
+            "count": "93,946"
+        },
+        {
+            "word": "part",
+            "count": "93,758"
+        },
+        {
+            "word": "some",
+            "count": "93,709"
+        },
+        {
+            "word": "not_to",
+            "count": "93,630"
+        },
+        {
+            "word": "head",
+            "count": "93,348"
+        },
+        {
+            "word": "optional",
+            "count": "93,287"
+        },
+        {
+            "word": "names",
+            "count": "92,929"
+        },
+        {
+            "word": "helper",
+            "count": "92,870"
+        },
+        {
+            "word": "Type",
+            "count": "92,798"
+        },
+        {
+            "word": "Devise",
+            "count": "92,359"
+        },
+        {
+            "word": "Error",
+            "count": "92,201"
+        },
+        {
+            "word": "entry",
+            "count": "92,088"
+        },
+        {
+            "word": "local",
+            "count": "91,948"
+        },
+        {
+            "word": "API",
+            "count": "91,741"
+        },
+        {
+            "word": "same",
+            "count": "91,245"
+        },
+        {
+            "word": "js",
+            "count": "90,844"
+        },
+        {
+            "word": "inspect",
+            "count": "90,661"
+        },
+        {
+            "word": "u",
+            "count": "90,654"
+        },
+        {
+            "word": "metadata",
+            "count": "89,883"
+        },
+        {
+            "word": "label",
+            "count": "89,455"
+        },
+        {
+            "word": "Record",
+            "count": "89,223"
+        },
+        {
+            "word": "package",
+            "count": "88,864"
+        },
+        {
+            "word": "Spree",
+            "count": "88,724"
+        },
+        {
+            "word": "take",
+            "count": "88,457"
+        },
+        {
+            "word": "rake",
+            "count": "88,187"
+        },
+        {
+            "word": "active_support",
+            "count": "87,995"
+        },
+        {
+            "word": "y",
+            "count": "87,929"
+        },
+        {
+            "word": "conditions",
+            "count": "87,842"
+        },
+        {
+            "word": "generate",
+            "count": "87,820"
+        },
+        {
+            "word": "Integer",
+            "count": "87,762"
+        },
+        {
+            "word": "gsub",
+            "count": "87,059"
+        },
+        {
+            "word": "criteria",
+            "count": "87,003"
+        },
+        {
+            "word": "sure",
+            "count": "86,644"
+        },
+        {
+            "word": "location",
+            "count": "86,242"
+        },
+        {
+            "word": "running",
+            "count": "86,075"
+        },
+        {
+            "word": "io",
+            "count": "85,637"
+        },
+        {
+            "word": "div",
+            "count": "85,225"
+        },
+        {
+            "word": "gems",
+            "count": "85,013"
+        },
+        {
+            "word": "element",
+            "count": "84,910"
+        },
+        {
+            "word": "author",
+            "count": "84,885"
+        },
+        {
+            "word": "Apis",
+            "count": "84,761"
+        },
+        {
+            "word": "ActionController",
+            "count": "84,594"
+        },
+        {
+            "word": "within",
+            "count": "84,479"
+        },
+        {
+            "word": "than",
+            "count": "84,276"
+        },
+        {
+            "word": "action_controller",
+            "count": "84,080"
+        },
+        {
+            "word": "etc",
+            "count": "84,065"
+        },
+        {
+            "word": "UTF",
+            "count": "83,840"
+        },
+        {
+            "word": "rule",
+            "count": "83,408"
+        },
+        {
+            "word": "following",
+            "count": "83,396"
+        },
+        {
+            "word": "must",
+            "count": "83,099"
+        },
+        {
+            "word": "Exception",
+            "count": "83,078"
+        },
+        {
+            "word": "net",
+            "count": "82,852"
+        },
+        {
+            "word": "asset",
+            "count": "82,851"
+        },
+        {
+            "word": "filter",
+            "count": "82,716"
+        },
+        {
+            "word": "Configure",
+            "count": "82,659"
+        },
+        {
+            "word": "desc",
+            "count": "82,628"
+        },
+        {
+            "word": "add_index",
+            "count": "82,614"
+        },
+        {
+            "word": "Settings",
+            "count": "82,608"
+        },
+        {
+            "word": "image",
+            "count": "82,423"
+        },
+        {
+            "word": "passed",
+            "count": "82,206"
+        },
+        {
+            "word": "modify",
+            "count": "82,204"
+        },
+        {
+            "word": "while",
+            "count": "81,792"
+        },
+        {
+            "word": "Bundler",
+            "count": "81,742"
+        },
+        {
+            "word": "tests",
+            "count": "81,565"
+        },
+        {
+            "word": "last_response",
+            "count": "81,474"
+        },
+        {
+            "word": "mock",
+            "count": "81,359"
+        },
+        {
+            "word": "process",
+            "count": "81,243"
+        },
+        {
+            "word": "article",
+            "count": "81,042"
+        },
+        {
+            "word": "restart",
+            "count": "80,833"
+        },
+        {
+            "word": "submission",
+            "count": "80,766"
+        },
+        {
+            "word": "Name",
+            "count": "80,732"
+        },
+        {
+            "word": "messages",
+            "count": "80,559"
+        },
+        {
+            "word": "generated",
+            "count": "80,552"
+        },
+        {
+            "word": "mail",
+            "count": "80,459"
+        },
+        {
+            "word": "level",
+            "count": "80,430"
+        },
+        {
+            "word": "sub",
+            "count": "80,263"
+        },
+        {
+            "word": "included",
+            "count": "80,260"
+        },
+        {
+            "word": "information",
+            "count": "80,107"
+        },
+        {
+            "word": "days",
+            "count": "79,667"
+        },
+        {
+            "word": "Rack",
+            "count": "79,648"
+        },
+        {
+            "word": "transaction",
+            "count": "79,485"
+        },
+        {
+            "word": "reset",
+            "count": "79,345"
+        },
+        {
+            "word": "Date",
+            "count": "79,200"
+        },
+        {
+            "word": "msg",
+            "count": "79,192"
+        },
+        {
+            "word": "position",
+            "count": "79,160"
+        },
+        {
+            "word": "development",
+            "count": "78,959"
+        },
+        {
+            "word": "role",
+            "count": "78,880"
+        },
+        {
+            "word": "their",
+            "count": "78,765"
+        },
+        {
+            "word": "sleep",
+            "count": "78,745"
+        },
+        {
+            "word": "arg",
+            "count": "78,713"
+        },
+        {
+            "word": "argument",
+            "count": "78,636"
+        },
+        {
+            "word": "through",
+            "count": "78,617"
+        },
+        {
+            "word": "Active",
+            "count": "78,063"
+        },
+        {
+            "word": "fail",
+            "count": "78,053"
+        },
+        {
+            "word": "production",
+            "count": "77,753"
+        },
+        {
+            "word": "URI",
+            "count": "77,721"
+        },
+        {
+            "word": "already",
+            "count": "77,641"
+        },
+        {
+            "word": "provided",
+            "count": "77,566"
+        },
+        {
+            "word": "repository",
+            "count": "77,434"
+        },
+        {
+            "word": "Class",
+            "count": "77,260"
+        },
+        {
+            "word": "Core",
+            "count": "77,175"
+        },
+        {
+            "word": "cop",
+            "count": "77,171"
+        },
+        {
+            "word": "projects",
+            "count": "76,996"
+        },
+        {
+            "word": "gateway",
+            "count": "76,958"
+        },
+        {
+            "word": "Mongoid",
+            "count": "76,118"
+        },
+        {
+            "word": "erb",
+            "count": "75,909"
+        },
+        {
+            "word": "rubygems",
+            "count": "75,868"
+        },
+        {
+            "word": "content_type",
+            "count": "75,798"
+        },
+        {
+            "word": "i18n",
+            "count": "75,742"
+        },
+        {
+            "word": "secret",
+            "count": "75,698"
+        },
+        {
+            "word": "See",
+            "count": "75,466"
+        },
+        {
+            "word": "instead",
+            "count": "75,303"
+        },
+        {
+            "word": "sets",
+            "count": "75,162"
+        },
+        {
+            "word": "fixtures",
+            "count": "74,951"
+        },
+        {
+            "word": "color",
+            "count": "74,741"
+        },
+        {
+            "word": "arguments",
+            "count": "74,704"
+        },
+        {
+            "word": "req",
+            "count": "74,479"
+        },
+        {
+            "word": "require_relative",
+            "count": "74,463"
+        },
+        {
+            "word": "deprecation",
+            "count": "74,392"
+        },
+        {
+            "word": "re",
+            "count": "74,159"
+        },
+        {
+            "word": "sort",
+            "count": "74,063"
+        },
+        {
+            "word": "flash",
+            "count": "73,896"
+        },
+        {
+            "word": "definition",
+            "count": "73,833"
+        },
+        {
+            "word": "actions",
+            "count": "73,775"
+        },
+        {
+            "word": "member",
+            "count": "73,423"
+        },
+        {
+            "word": "ret",
+            "count": "73,153"
+        },
+        {
+            "word": "both",
+            "count": "73,149"
+        },
+        {
+            "word": "just",
+            "count": "73,136"
+        },
+        {
+            "word": "Net",
+            "count": "72,994"
+        },
+        {
+            "word": "define",
+            "count": "72,873"
+        },
+        {
+            "word": "view",
+            "count": "72,854"
+        },
+        {
+            "word": "Config",
+            "count": "72,734"
+        },
+        {
+            "word": "lines",
+            "count": "72,630"
+        },
+        {
+            "word": "changes",
+            "count": "72,308"
+        },
+        {
+            "word": "Ruby",
+            "count": "72,199"
+        },
+        {
+            "word": "stderr",
+            "count": "72,196"
+        },
+        {
+            "word": "style",
+            "count": "72,106"
+        },
+        {
+            "word": "unshift",
+            "count": "72,071"
+        },
+        {
+            "word": "X",
+            "count": "71,203"
+        },
+        {
+            "word": "ll",
+            "count": "71,130"
+        },
+        {
+            "word": "chef",
+            "count": "71,003"
+        },
+        {
+            "word": "stdout",
+            "count": "70,826"
+        },
+        {
+            "word": "child",
+            "count": "70,553"
+        },
+        {
+            "word": "cookies",
+            "count": "70,372"
+        },
+        {
+            "word": "different",
+            "count": "70,307"
+        },
+        {
+            "word": "requests",
+            "count": "70,276"
+        },
+        {
+            "word": "Migration",
+            "count": "70,111"
+        },
+        {
+            "word": "rails_helper",
+            "count": "69,825"
+        },
+        {
+            "word": "css",
+            "count": "69,758"
+        },
+        {
+            "word": "defaults",
+            "count": "69,150"
+        },
+        {
+            "word": "issue",
+            "count": "69,142"
+        },
+        {
+            "word": "it_should_behave_like",
+            "count": "68,985"
+        },
+        {
+            "word": "about",
+            "count": "68,835"
+        },
+        {
+            "word": "between",
+            "count": "68,543"
+        },
+        {
+            "word": "action_mailer",
+            "count": "68,435"
+        },
+        {
+            "word": "TestCase",
+            "count": "68,385"
+        },
+        {
+            "word": "been",
+            "count": "68,255"
+        },
+        {
+            "word": "work",
+            "count": "68,247"
+        },
+        {
+            "word": "remove",
+            "count": "68,197"
+        },
+        {
+            "word": "requirement",
+            "count": "67,944"
+        },
+        {
+            "word": "clear",
+            "count": "67,863"
+        },
+        {
+            "word": "Post",
+            "count": "67,740"
+        },
+        {
+            "word": "kind_of",
+            "count": "67,679"
+        },
+        {
+            "word": "redirect",
+            "count": "67,668"
+        },
+        {
+            "word": "FileUtils",
+            "count": "67,572"
+        },
+        {
+            "word": "additional",
+            "count": "67,474"
+        },
+        {
+            "word": "described_class",
+            "count": "67,452"
+        },
+        {
+            "word": "v1",
+            "count": "67,422"
+        },
+        {
+            "word": "Gem",
+            "count": "67,017"
+        },
+        {
+            "word": "homepage",
+            "count": "67,001"
+        },
+        {
+            "word": "SOAP",
+            "count": "66,922"
+        },
+        {
+            "word": "var",
+            "count": "66,732"
+        },
+        {
+            "word": "my",
+            "count": "66,692"
+        },
+        {
+            "word": "block_given",
+            "count": "66,688"
+        },
+        {
+            "word": "two",
+            "count": "66,479"
+        },
+        {
+            "word": "EOF",
+            "count": "66,369"
+        },
+        {
+            "word": "C",
+            "count": "66,368"
+        },
+        {
+            "word": "parser",
+            "count": "66,355"
+        },
+        {
+            "word": "formula",
+            "count": "66,340"
+        },
+        {
+            "word": "long",
+            "count": "66,233"
+        },
+        {
+            "word": "precedence",
+            "count": "66,190"
+        },
+        {
+            "word": "builder",
+            "count": "66,172"
+        },
+        {
+            "word": "click",
+            "count": "66,014"
+        },
+        {
+            "word": "en",
+            "count": "65,980"
+        },
+        {
+            "word": "repo",
+            "count": "65,561"
+        },
+        {
+            "word": "nothing",
+            "count": "65,525"
+        },
+        {
+            "word": "li",
+            "count": "65,477"
+        },
+        {
+            "word": "specs",
+            "count": "65,468"
+        },
+        {
+            "word": "accept",
+            "count": "65,461"
+        },
+        {
+            "word": "details",
+            "count": "65,451"
+        },
+        {
+            "word": "timeout",
+            "count": "65,240"
+        },
+        {
+            "word": "Account",
+            "count": "65,152"
+        },
+        {
+            "word": "setting",
+            "count": "65,138"
+        },
+        {
+            "word": "pending",
+            "count": "65,063"
+        },
+        {
+            "word": "Content",
+            "count": "64,790"
+        },
+        {
+            "word": "to_sym",
+            "count": "64,741"
+        },
+        {
+            "word": "paths",
+            "count": "64,372"
+        },
+        {
+            "word": "dup",
+            "count": "64,218"
+        },
+        {
+            "word": "should_receive",
+            "count": "64,217"
+        },
+        {
+            "word": "layout",
+            "count": "64,212"
+        },
+        {
+            "word": "rack",
+            "count": "64,164"
+        },
+        {
+            "word": "non",
+            "count": "64,153"
+        },
+        {
+            "word": "purchase",
+            "count": "64,049"
+        },
+        {
+            "word": "alias",
+            "count": "64,037"
+        },
+        {
+            "word": "sql",
+            "count": "63,670"
+        },
+        {
+            "word": "failed",
+            "count": "63,618"
+        },
+        {
+            "word": "association",
+            "count": "63,525"
+        },
+        {
+            "word": "models",
+            "count": "63,397"
+        },
+        {
+            "word": "correct",
+            "count": "63,387"
+        },
+        {
+            "word": "Author",
+            "count": "63,205"
+        },
+        {
+            "word": "attr",
+            "count": "63,157"
+        },
+        {
+            "word": "B",
+            "count": "63,130"
+        },
+        {
+            "word": "commit",
+            "count": "63,047"
+        },
+        {
+            "word": "them",
+            "count": "62,915"
+        },
+        {
+            "word": "section",
+            "count": "62,842"
+        },
+        {
+            "word": "o2",
+            "count": "62,640"
+        },
+        {
+            "word": "tasks",
+            "count": "62,619"
+        },
+        {
+            "word": "boot",
+            "count": "62,404"
+        },
+        {
+            "word": "also",
+            "count": "62,365"
+        },
+        {
+            "word": "assignments",
+            "count": "62,242"
+        },
+        {
+            "word": "don",
+            "count": "62,210"
+        },
+        {
+            "word": "z",
+            "count": "62,141"
+        },
+        {
+            "word": "documents",
+            "count": "62,074"
+        },
+        {
+            "word": "events",
+            "count": "62,008"
+        },
+        {
+            "word": "Thrift",
+            "count": "61,951"
+        },
+        {
+            "word": "addresses",
+            "count": "61,944"
+        },
+        {
+            "word": "day",
+            "count": "61,842"
+        },
+        {
+            "word": "HTML",
+            "count": "61,812"
+        },
+        {
+            "word": "proc",
+            "count": "61,792"
+        },
+        {
+            "word": "issues",
+            "count": "61,785"
+        },
+        {
+            "word": "custom",
+            "count": "61,733"
+        },
+        {
+            "word": "tmp",
+            "count": "61,731"
+        },
+        {
+            "word": "URL",
+            "count": "61,715"
+        },
+        {
+            "word": "home",
+            "count": "61,616"
+        },
+        {
+            "word": "master",
+            "count": "61,596"
+        },
+        {
+            "word": "pos",
+            "count": "61,529"
+        },
+        {
+            "word": "identifier",
+            "count": "61,368"
+        },
+        {
+            "word": "via",
+            "count": "61,248"
+        },
+        {
+            "word": "CSS",
+            "count": "61,221"
+        },
+        {
+            "word": "Document",
+            "count": "61,164"
+        },
+        {
+            "word": "POST",
+            "count": "60,797"
+        },
+        {
+            "word": "raises",
+            "count": "60,760"
+        },
+        {
+            "word": "types",
+            "count": "60,743"
+        },
+        {
+            "word": "platform",
+            "count": "60,711"
+        },
+        {
+            "word": "txt",
+            "count": "60,683"
+        },
+        {
+            "word": "called",
+            "count": "60,682"
+        },
+        {
+            "word": "equal",
+            "count": "60,676"
+        },
+        {
+            "word": "SQL",
+            "count": "60,666"
+        },
+        {
+            "word": "Enable",
+            "count": "60,542"
+        },
+        {
+            "word": "When",
+            "count": "60,350"
+        },
+        {
+            "word": "deleted",
+            "count": "60,321"
+        },
+        {
+            "word": "ok",
+            "count": "60,317"
+        },
+        {
+            "word": "Run",
+            "count": "59,887"
+        },
+        {
+            "word": "locales",
+            "count": "59,822"
+        },
+        {
+            "word": "Note",
+            "count": "59,812"
+        },
+        {
+            "word": "typesig",
+            "count": "59,812"
+        },
+        {
+            "word": "be_empty",
+            "count": "59,649"
+        },
+        {
+            "word": "push",
+            "count": "59,545"
+        },
+        {
+            "word": "convert",
+            "count": "59,520"
+        },
+        {
+            "word": "offset",
+            "count": "59,430"
+        },
+        {
+            "word": "another",
+            "count": "59,170"
+        },
+        {
+            "word": "workflow_state",
+            "count": "59,041"
+        },
+        {
+            "word": "Get",
+            "count": "59,006"
+        },
+        {
+            "word": "go",
+            "count": "58,852"
+        },
+        {
+            "word": "err",
+            "count": "58,744"
+        },
+        {
+            "word": "Puppet",
+            "count": "58,615"
+        },
+        {
+            "word": "mysql",
+            "count": "58,497"
+        },
+        {
+            "word": "copy",
+            "count": "57,786"
+        },
+        {
+            "word": "fetch",
+            "count": "57,746"
+        },
+        {
+            "word": "matches",
+            "count": "57,700"
+        },
+        {
+            "word": "plugins",
+            "count": "57,679"
+        },
+        {
+            "word": "requires",
+            "count": "57,662"
+        },
+        {
+            "word": "plugin",
+            "count": "57,573"
+        },
+        {
+            "word": "examples",
+            "count": "57,526"
+        },
+        {
+            "word": "auth",
+            "count": "57,462"
+        },
+        {
+            "word": "year",
+            "count": "57,431"
+        },
+        {
+            "word": "ClassMethods",
+            "count": "57,213"
+        },
+        {
+            "word": "ID",
+            "count": "57,155"
+        },
+        {
+            "word": "once",
+            "count": "57,069"
+        },
+        {
+            "word": "LOAD_PATH",
+            "count": "56,950"
+        },
+        {
+            "word": "specify",
+            "count": "56,925"
+        },
+        {
+            "word": "Do",
+            "count": "56,783"
+        },
+        {
+            "word": "skip",
+            "count": "56,749"
+        },
+        {
+            "word": "XML",
+            "count": "56,740"
+        },
+        {
+            "word": "unique",
+            "count": "56,727"
+        },
+        {
+            "word": "be_true",
+            "count": "56,678"
+        },
+        {
+            "word": "sign",
+            "count": "56,562"
+        },
+        {
+            "word": "Symbol",
+            "count": "56,451"
+        },
+        {
+            "word": "table_name",
+            "count": "56,324"
+        },
+        {
+            "word": "hello",
+            "count": "55,920"
+        },
+        {
+            "word": "Fog",
+            "count": "55,842"
+        },
+        {
+            "word": "note",
+            "count": "55,690"
+        },
+        {
+            "word": "course_id",
+            "count": "55,646"
+        },
+        {
+            "word": "text_as_statement",
+            "count": "55,581"
+        },
+        {
+            "word": "enrollment",
+            "count": "55,559"
+        },
+        {
+            "word": "cdef",
+            "count": "55,538"
+        },
+        {
+            "word": "how",
+            "count": "55,449"
+        },
+        {
+            "word": "parameter",
+            "count": "55,228"
+        },
+        {
+            "word": "script",
+            "count": "55,167"
+        },
+        {
+            "word": "D",
+            "count": "55,132"
+        },
+        {
+            "word": "Add",
+            "count": "55,047"
+        },
+        {
+            "word": "strategy",
+            "count": "55,024"
+        },
+        {
+            "word": "class_name",
+            "count": "55,008"
+        },
+        {
+            "word": "unit",
+            "count": "55,000"
+        },
+        {
+            "word": "multiple",
+            "count": "54,937"
+        },
+        {
+            "word": "dependencies",
+            "count": "54,927"
+        },
+        {
+            "word": "properties",
+            "count": "54,822"
+        },
+        {
+            "word": "opt",
+            "count": "54,677"
+        },
+        {
+            "word": "Project",
+            "count": "54,290"
+        },
+        {
+            "word": "override",
+            "count": "54,238"
+        },
+        {
+            "word": "elements",
+            "count": "54,000"
+        },
+        {
+            "word": "class_eval",
+            "count": "53,995"
+        },
+        {
+            "word": "kind",
+            "count": "53,985"
+        },
+        {
+            "word": "strip",
+            "count": "53,976"
+        },
+        {
+            "word": "devise",
+            "count": "53,966"
+        },
+        {
+            "word": "sass",
+            "count": "53,920"
+        },
+        {
+            "word": "variable",
+            "count": "53,910"
+        },
+        {
+            "word": "Fabricate",
+            "count": "53,863"
+        },
+        {
+            "word": "conf",
+            "count": "53,848"
+        },
+        {
+            "word": "step",
+            "count": "53,706"
+        },
+        {
+            "word": "named",
+            "count": "53,677"
+        },
+        {
+            "word": "based",
+            "count": "53,625"
+        },
+        {
+            "word": "views",
+            "count": "53,534"
+        },
+        {
+            "word": "No",
+            "count": "53,486"
+        },
+        {
+            "word": "railtie",
+            "count": "53,288"
+        },
+        {
+            "word": "validates",
+            "count": "53,247"
+        },
+        {
+            "word": "register",
+            "count": "53,214"
+        },
+        {
+            "word": "o1",
+            "count": "53,167"
+        },
+        {
+            "word": "random",
+            "count": "53,066"
+        },
+        {
+            "word": "active_all",
+            "count": "52,994"
+        },
+        {
+            "word": "be_valid",
+            "count": "52,986"
+        },
+        {
+            "word": "Log",
+            "count": "52,898"
+        },
+        {
+            "word": "pass",
+            "count": "52,854"
+        },
+        {
+            "word": "To",
+            "count": "52,649"
+        },
+        {
+            "word": "doesn",
+            "count": "52,538"
+        },
+        {
+            "word": "Java",
+            "count": "52,525"
+        },
+        {
+            "word": "attrs",
+            "count": "52,484"
+        },
+        {
+            "word": "payment",
+            "count": "52,481"
+        },
+        {
+            "word": "notice",
+            "count": "52,473"
+        },
+        {
+            "word": "credit_card",
+            "count": "52,433"
+        },
+        {
+            "word": "alias_method",
+            "count": "52,419"
+        },
+        {
+            "word": "condition_A",
+            "count": "52,310"
+        },
+        {
+            "word": "Client",
+            "count": "52,280"
+        },
+        {
+            "word": "feature",
+            "count": "52,063"
+        },
+        {
+            "word": "be_success",
+            "count": "52,032"
+        },
+        {
+            "word": "width",
+            "count": "52,031"
+        },
+        {
+            "word": "primary",
+            "count": "51,976"
+        },
+        {
+            "word": "children",
+            "count": "51,960"
+        },
+        {
+            "word": "baz",
+            "count": "51,871"
+        },
+        {
+            "word": "must_equal",
+            "count": "51,607"
+        },
+        {
+            "word": "columns",
+            "count": "51,519"
+        },
+        {
+            "word": "handle",
+            "count": "51,509"
+        },
+        {
+            "word": "print",
+            "count": "51,435"
+        },
+        {
+            "word": "Boolean",
+            "count": "51,268"
+        },
+        {
+            "word": "suite",
+            "count": "51,136"
+        },
+        {
+            "word": "to_json",
+            "count": "51,079"
+        },
+        {
+            "word": "topic_id",
+            "count": "51,043"
+        },
+        {
+            "word": "existing",
+            "count": "51,011"
+        },
+        {
+            "word": "Resource",
+            "count": "50,919"
+        },
+        {
+            "word": "domain",
+            "count": "50,915"
+        },
+        {
+            "word": "ids",
+            "count": "50,867"
+        },
+        {
+            "word": "action_dispatch",
+            "count": "50,837"
+        },
+        {
+            "word": "uses",
+            "count": "50,643"
+        },
+        {
+            "word": "full",
+            "count": "50,624"
+        },
+        {
+            "word": "delivery",
+            "count": "50,615"
+        },
+        {
+            "word": "includes",
+            "count": "50,593"
+        },
+        {
+            "word": "sessions",
+            "count": "50,560"
+        },
+        {
+            "word": "presence",
+            "count": "50,544"
+        },
+        {
+            "word": "Errors",
+            "count": "50,466"
+        },
+        {
+            "word": "agent",
+            "count": "50,454"
+        },
+        {
+            "word": "help",
+            "count": "50,223"
+        },
+        {
+            "word": "country",
+            "count": "50,192"
+        },
+        {
+            "word": "recommended",
+            "count": "50,178"
+        },
+        {
+            "word": "constraints",
+            "count": "50,165"
+        },
+        {
+            "word": "Version",
+            "count": "50,136"
+        },
+        {
+            "word": "Helpers",
+            "count": "50,065"
+        },
+        {
+            "word": "authorization",
+            "count": "50,000"
+        },
+        {
+            "word": "question",
+            "count": "49,891"
+        },
+        {
+            "word": "formats",
+            "count": "49,885"
+        },
+        {
+            "word": "specific",
+            "count": "49,843"
+        },
+        {
+            "word": "versions",
+            "count": "49,827"
+        },
+        {
+            "word": "priority",
+            "count": "49,767"
+        },
+        {
+            "word": "seed",
+            "count": "49,714"
+        },
+        {
+            "word": "caching",
+            "count": "49,691"
+        },
+        {
+            "word": "insert",
+            "count": "49,516"
+        },
+        {
+            "word": "images",
+            "count": "49,451"
+        },
+        {
+            "word": "added",
+            "count": "49,450"
+        },
+        {
+            "word": "Encoding",
+            "count": "49,434"
+        },
+        {
+            "word": "environments",
+            "count": "49,359"
+        },
+        {
+            "word": "actual",
+            "count": "49,293"
+        },
+        {
+            "word": "web",
+            "count": "49,281"
+        },
+        {
+            "word": "objects",
+            "count": "49,173"
+        },
+        {
+            "word": "none",
+            "count": "49,120"
+        },
+        {
+            "word": "Don",
+            "count": "49,082"
+        },
+        {
+            "word": "Request",
+            "count": "48,999"
+        },
+        {
+            "word": "concat",
+            "count": "48,950"
+        },
+        {
+            "word": "Model",
+            "count": "48,938"
+        },
+        {
+            "word": "Create",
+            "count": "48,842"
+        },
+        {
+            "word": "socket",
+            "count": "48,778"
+        },
+        {
+            "word": "machine",
+            "count": "48,758"
+        },
+        {
+            "word": "records",
+            "count": "48,740"
+        },
+        {
+            "word": "import",
+            "count": "48,486"
+        },
+        {
+            "word": "payload",
+            "count": "48,427"
+        },
+        {
+            "word": "dependent",
+            "count": "48,377"
+        },
+        {
+            "word": "single",
+            "count": "48,353"
+        },
+        {
+            "word": "max",
+            "count": "48,171"
+        },
+        {
+            "word": "double",
+            "count": "48,048"
+        },
+        {
+            "word": "pages",
+            "count": "48,015"
+        },
+        {
+            "word": "syntax",
+            "count": "47,938"
+        },
+        {
+            "word": "people",
+            "count": "47,775"
+        },
+        {
+            "word": "selector",
+            "count": "47,768"
+        },
+        {
+            "word": "compact",
+            "count": "47,719"
+        },
+        {
+            "word": "Engine",
+            "count": "47,633"
+        },
+        {
+            "word": "right",
+            "count": "47,602"
+        },
+        {
+            "word": "driver",
+            "count": "47,597"
+        },
+        {
+            "word": "Topic",
+            "count": "47,482"
+        },
+        {
+            "word": "ARGV",
+            "count": "47,457"
+        },
+        {
+            "word": "download",
+            "count": "47,413"
+        },
+        {
+            "word": "lock",
+            "count": "47,372"
+        },
+        {
+            "word": "FROM",
+            "count": "47,343"
+        },
+        {
+            "word": "first_name",
+            "count": "47,322"
+        },
+        {
+            "word": "uuid",
+            "count": "47,306"
+        },
+        {
+            "word": "Response",
+            "count": "47,282"
+        },
+        {
+            "word": "_tmp",
+            "count": "47,200"
+        },
+        {
+            "word": "links",
+            "count": "47,180"
+        },
+        {
+            "word": "formatter",
+            "count": "47,156"
+        },
+        {
+            "word": "verbose",
+            "count": "47,098"
+        },
+        {
+            "word": "contents",
+            "count": "46,953"
+        },
+        {
+            "word": "unlock",
+            "count": "46,902"
+        },
+        {
+            "word": "TODO",
+            "count": "46,839"
+        },
+        {
+            "word": "entries",
+            "count": "46,803"
+        },
+        {
+            "word": "reports",
+            "count": "46,683"
+        },
+        {
+            "word": "topics",
+            "count": "46,668"
+        },
+        {
+            "word": "tap",
+            "count": "46,609"
+        },
+        {
+            "word": "raw",
+            "count": "46,561"
+        },
+        {
+            "word": "main",
+            "count": "46,515"
+        },
+        {
+            "word": "core",
+            "count": "46,508"
+        },
+        {
+            "word": "Logger",
+            "count": "46,507"
+        },
+        {
+            "word": "yaml",
+            "count": "46,337"
+        },
+        {
+            "word": "digest",
+            "count": "46,313"
+        },
+        {
+            "word": "cannot",
+            "count": "46,111"
+        },
+        {
+            "word": "coding",
+            "count": "46,030"
+        },
+        {
+            "word": "interval",
+            "count": "45,974"
+        },
+        {
+            "word": "to_a",
+            "count": "45,962"
+        },
+        {
+            "word": "try",
+            "count": "45,947"
+        },
+        {
+            "word": "control",
+            "count": "45,927"
+        },
+        {
+            "word": "bottle",
+            "count": "45,717"
+        },
+        {
+            "word": "back",
+            "count": "45,691"
+        },
+        {
+            "word": "disabled",
+            "count": "45,668"
+        },
+        {
+            "word": "perform",
+            "count": "45,667"
+        },
+        {
+            "word": "wiki",
+            "count": "45,648"
+        },
+        {
+            "word": "age",
+            "count": "45,471"
+        },
+        {
+            "word": "installed",
+            "count": "45,447"
+        },
+        {
+            "word": "href",
+            "count": "45,418"
+        },
+        {
+            "word": "they",
+            "count": "45,397"
+        },
+        {
+            "word": "below",
+            "count": "45,321"
+        },
+        {
+            "word": "teacher",
+            "count": "45,227"
+        },
+        {
+            "word": "downcase",
+            "count": "45,197"
+        },
+        {
+            "word": "sha256",
+            "count": "45,187"
+        },
+        {
+            "word": "updated",
+            "count": "45,126"
+        },
+        {
+            "word": "StandardError",
+            "count": "45,010"
+        },
+        {
+            "word": "returned",
+            "count": "44,979"
+        },
+        {
+            "word": "click_button",
+            "count": "44,903"
+        },
+        {
+            "word": "engine",
+            "count": "44,889"
+        },
+        {
+            "word": "png",
+            "count": "44,887"
+        },
+        {
+            "word": "slug",
+            "count": "44,855"
+        },
+        {
+            "word": "In",
+            "count": "44,838"
+        },
+        {
+            "word": "total",
+            "count": "44,761"
+        },
+        {
+            "word": "real",
+            "count": "44,701"
+        },
+        {
+            "word": "old",
+            "count": "44,620"
+        },
+        {
+            "word": "job",
+            "count": "44,597"
+        },
+        {
+            "word": "roles",
+            "count": "44,565"
+        },
+        {
+            "word": "nginx",
+            "count": "44,473"
+        },
+        {
+            "word": "cascade",
+            "count": "44,435"
+        },
+        {
+            "word": "Formula",
+            "count": "44,359"
+        },
+        {
+            "word": "categories",
+            "count": "44,359"
+        },
+        {
+            "word": "characters",
+            "count": "44,344"
+        },
+        {
+            "word": "What",
+            "count": "44,256"
+        },
+        {
+            "word": "Options",
+            "count": "44,254"
+        },
+        {
+            "word": "Admin",
+            "count": "44,204"
+        },
+        {
+            "word": "stop",
+            "count": "44,000"
+        }
+    ]
+}

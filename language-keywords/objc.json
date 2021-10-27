@@ -1,0 +1,3849 @@
+{
+    "language": "objc",
+    "words": [
+        {
+            "word": "self",
+            "count": "7,837,039"
+        },
+        {
+            "word": "if",
+            "count": "6,303,821"
+        },
+        {
+            "word": "return",
+            "count": "5,307,743"
+        },
+        {
+            "word": "end",
+            "count": "5,144,219"
+        },
+        {
+            "word": "the",
+            "count": "3,132,079"
+        },
+        {
+            "word": "void",
+            "count": "3,120,574"
+        },
+        {
+            "word": "nil",
+            "count": "2,588,536"
+        },
+        {
+            "word": "else",
+            "count": "2,533,323"
+        },
+        {
+            "word": "h",
+            "count": "2,185,067"
+        },
+        {
+            "word": "import",
+            "count": "1,739,686"
+        },
+        {
+            "word": "NSString",
+            "count": "1,647,071"
+        },
+        {
+            "word": "to",
+            "count": "1,570,837"
+        },
+        {
+            "word": "for",
+            "count": "1,323,239"
+        },
+        {
+            "word": "id",
+            "count": "1,308,902"
+        },
+        {
+            "word": "YES",
+            "count": "1,288,232"
+        },
+        {
+            "word": "super",
+            "count": "1,173,241"
+        },
+        {
+            "word": "error",
+            "count": "1,107,330"
+        },
+        {
+            "word": "i",
+            "count": "1,080,529"
+        },
+        {
+            "word": "NO",
+            "count": "1,069,066"
+        },
+        {
+            "word": "of",
+            "count": "1,058,733"
+        },
+        {
+            "word": "a",
+            "count": "1,038,327"
+        },
+        {
+            "word": "BOOL",
+            "count": "1,011,653"
+        },
+        {
+            "word": "case",
+            "count": "961,741"
+        },
+        {
+            "word": "is",
+            "count": "947,482"
+        },
+        {
+            "word": "in",
+            "count": "941,059"
+        },
+        {
+            "word": "pragma",
+            "count": "899,397"
+        },
+        {
+            "word": "break",
+            "count": "891,693"
+        },
+        {
+            "word": "view",
+            "count": "817,370"
+        },
+        {
+            "word": "mark",
+            "count": "813,713"
+        },
+        {
+            "word": "size",
+            "count": "812,578"
+        },
+        {
+            "word": "init",
+            "count": "798,977"
+        },
+        {
+            "word": "and",
+            "count": "787,276"
+        },
+        {
+            "word": "alloc",
+            "count": "763,508"
+        },
+        {
+            "word": "int",
+            "count": "731,419"
+        },
+        {
+            "word": "data",
+            "count": "686,196"
+        },
+        {
+            "word": "value",
+            "count": "673,358"
+        },
+        {
+            "word": "result",
+            "count": "642,574"
+        },
+        {
+            "word": "frame",
+            "count": "641,589"
+        },
+        {
+            "word": "tableView",
+            "count": "614,315"
+        },
+        {
+            "word": "NULL",
+            "count": "555,571"
+        },
+        {
+            "word": "key",
+            "count": "535,831"
+        },
+        {
+            "word": "length",
+            "count": "531,514"
+        },
+        {
+            "word": "class",
+            "count": "530,056"
+        },
+        {
+            "word": "x",
+            "count": "526,224"
+        },
+        {
+            "word": "on",
+            "count": "507,364"
+        },
+        {
+            "word": "s",
+            "count": "505,037"
+        },
+        {
+            "word": "be",
+            "count": "486,309"
+        },
+        {
+            "word": "const",
+            "count": "486,179"
+        },
+        {
+            "word": "context",
+            "count": "474,832"
+        },
+        {
+            "word": "endif",
+            "count": "464,679"
+        },
+        {
+            "word": "this",
+            "count": "463,779"
+        },
+        {
+            "word": "selector",
+            "count": "458,091"
+        },
+        {
+            "word": "NSDictionary",
+            "count": "451,953"
+        },
+        {
+            "word": "object",
+            "count": "443,323"
+        },
+        {
+            "word": "application",
+            "count": "437,753"
+        },
+        {
+            "word": "height",
+            "count": "432,180"
+        },
+        {
+            "word": "count",
+            "count": "429,800"
+        },
+        {
+            "word": "width",
+            "count": "428,505"
+        },
+        {
+            "word": "t",
+            "count": "422,479"
+        },
+        {
+            "word": "animated",
+            "count": "420,548"
+        },
+        {
+            "word": "name",
+            "count": "420,072"
+        },
+        {
+            "word": "delegate",
+            "count": "410,285"
+        },
+        {
+            "word": "y",
+            "count": "403,198"
+        },
+        {
+            "word": "we",
+            "count": "398,074"
+        },
+        {
+            "word": "include",
+            "count": "396,225"
+        },
+        {
+            "word": "CGFloat",
+            "count": "393,205"
+        },
+        {
+            "word": "Q",
+            "count": "378,521"
+        },
+        {
+            "word": "n",
+            "count": "368,304"
+        },
+        {
+            "word": "release",
+            "count": "367,989"
+        },
+        {
+            "word": "NSInteger",
+            "count": "367,066"
+        },
+        {
+            "word": "image",
+            "count": "361,174"
+        },
+        {
+            "word": "window",
+            "count": "360,662"
+        },
+        {
+            "word": "it",
+            "count": "359,548"
+        },
+        {
+            "word": "NSError",
+            "count": "355,088"
+        },
+        {
+            "word": "m",
+            "count": "351,640"
+        },
+        {
+            "word": "cell",
+            "count": "349,783"
+        },
+        {
+            "word": "UIApplication",
+            "count": "349,380"
+        },
+        {
+            "word": "NSArray",
+            "count": "349,171"
+        },
+        {
+            "word": "that",
+            "count": "346,176"
+        },
+        {
+            "word": "with",
+            "count": "345,404"
+        },
+        {
+            "word": "static",
+            "count": "338,493"
+        },
+        {
+            "word": "not",
+            "count": "335,499"
+        },
+        {
+            "word": "This",
+            "count": "332,871"
+        },
+        {
+            "word": "code",
+            "count": "324,851"
+        },
+        {
+            "word": "by",
+            "count": "320,002"
+        },
+        {
+            "word": "type",
+            "count": "319,687"
+        },
+        {
+            "word": "set",
+            "count": "317,869"
+        },
+        {
+            "word": "implementation",
+            "count": "316,428"
+        },
+        {
+            "word": "property",
+            "count": "311,350"
+        },
+        {
+            "word": "method",
+            "count": "300,830"
+        },
+        {
+            "word": "or",
+            "count": "299,387"
+        },
+        {
+            "word": "request",
+            "count": "297,478"
+        },
+        {
+            "word": "dealloc",
+            "count": "297,449"
+        },
+        {
+            "word": "UIView",
+            "count": "295,336"
+        },
+        {
+            "word": "event",
+            "count": "289,247"
+        },
+        {
+            "word": "NSMutableArray",
+            "count": "289,107"
+        },
+        {
+            "word": "p",
+            "count": "284,823"
+        },
+        {
+            "word": "indexPath",
+            "count": "283,305"
+        },
+        {
+            "word": "viewDidLoad",
+            "count": "280,855"
+        },
+        {
+            "word": "from",
+            "count": "279,604"
+        },
+        {
+            "word": "path",
+            "count": "276,759"
+        },
+        {
+            "word": "S",
+            "count": "271,695"
+        },
+        {
+            "word": "string",
+            "count": "268,347"
+        },
+        {
+            "word": "NSUInteger",
+            "count": "260,755"
+        },
+        {
+            "word": "D",
+            "count": "260,419"
+        },
+        {
+            "word": "file",
+            "count": "259,960"
+        },
+        {
+            "word": "X",
+            "count": "258,160"
+        },
+        {
+            "word": "UIColor",
+            "count": "253,872"
+        },
+        {
+            "word": "forKey",
+            "count": "253,231"
+        },
+        {
+            "word": "bounds",
+            "count": "252,873"
+        },
+        {
+            "word": "index",
+            "count": "250,988"
+        },
+        {
+            "word": "get",
+            "count": "248,611"
+        },
+        {
+            "word": "sender",
+            "count": "244,818"
+        },
+        {
+            "word": "char",
+            "count": "244,252"
+        },
+        {
+            "word": "synthesize",
+            "count": "240,218"
+        },
+        {
+            "word": "UITableView",
+            "count": "237,119"
+        },
+        {
+            "word": "item",
+            "count": "233,040"
+        },
+        {
+            "word": "new",
+            "count": "232,578"
+        },
+        {
+            "word": "CGRect",
+            "count": "230,379"
+        },
+        {
+            "word": "options",
+            "count": "229,400"
+        },
+        {
+            "word": "array",
+            "count": "228,434"
+        },
+        {
+            "word": "args",
+            "count": "228,255"
+        },
+        {
+            "word": "NSMutableDictionary",
+            "count": "225,999"
+        },
+        {
+            "word": "handles",
+            "count": "223,727"
+        },
+        {
+            "word": "obj",
+            "count": "222,670"
+        },
+        {
+            "word": "any",
+            "count": "222,055"
+        },
+        {
+            "word": "url",
+            "count": "221,613"
+        },
+        {
+            "word": "default",
+            "count": "219,819"
+        },
+        {
+            "word": "text",
+            "count": "219,747"
+        },
+        {
+            "word": "nonatomic",
+            "count": "219,420"
+        },
+        {
+            "word": "d",
+            "count": "218,947"
+        },
+        {
+            "word": "origin",
+            "count": "211,428"
+        },
+        {
+            "word": "c",
+            "count": "209,485"
+        },
+        {
+            "word": "button",
+            "count": "209,160"
+        },
+        {
+            "word": "an",
+            "count": "208,190"
+        },
+        {
+            "word": "AppDelegate",
+            "count": "207,290"
+        },
+        {
+            "word": "NSNumber",
+            "count": "206,934"
+        },
+        {
+            "word": "switch",
+            "count": "205,652"
+        },
+        {
+            "word": "rect",
+            "count": "204,035"
+        },
+        {
+            "word": "can",
+            "count": "203,988"
+        },
+        {
+            "word": "r",
+            "count": "203,246"
+        },
+        {
+            "word": "addObject",
+            "count": "199,819"
+        },
+        {
+            "word": "completion",
+            "count": "198,851"
+        },
+        {
+            "word": "true",
+            "count": "198,559"
+        },
+        {
+            "word": "0f",
+            "count": "198,198"
+        },
+        {
+            "word": "The",
+            "count": "197,963"
+        },
+        {
+            "word": "node",
+            "count": "195,956"
+        },
+        {
+            "word": "CHECK",
+            "count": "192,663"
+        },
+        {
+            "word": "false",
+            "count": "191,326"
+        },
+        {
+            "word": "dict",
+            "count": "190,778"
+        },
+        {
+            "word": "do",
+            "count": "190,156"
+        },
+        {
+            "word": "are",
+            "count": "189,890"
+        },
+        {
+            "word": "section",
+            "count": "189,417"
+        },
+        {
+            "word": "after",
+            "count": "189,323"
+        },
+        {
+            "word": "isKindOfClass",
+            "count": "188,832"
+        },
+        {
+            "word": "all",
+            "count": "188,691"
+        },
+        {
+            "word": "state",
+            "count": "188,343"
+        },
+        {
+            "word": "as",
+            "count": "188,187"
+        },
+        {
+            "word": "use",
+            "count": "187,876"
+        },
+        {
+            "word": "f",
+            "count": "186,097"
+        },
+        {
+            "word": "function",
+            "count": "182,209"
+        },
+        {
+            "word": "title",
+            "count": "181,011"
+        },
+        {
+            "word": "NSLog",
+            "count": "180,718"
+        },
+        {
+            "word": "isEqualToString",
+            "count": "179,339"
+        },
+        {
+            "word": "initWithFrame",
+            "count": "179,036"
+        },
+        {
+            "word": "objectForKey",
+            "count": "178,888"
+        },
+        {
+            "word": "addSubview",
+            "count": "178,415"
+        },
+        {
+            "word": "will",
+            "count": "177,152"
+        },
+        {
+            "word": "controller",
+            "count": "176,339"
+        },
+        {
+            "word": "base",
+            "count": "175,786"
+        },
+        {
+            "word": "NEXT",
+            "count": "174,425"
+        },
+        {
+            "word": "UIImage",
+            "count": "173,847"
+        },
+        {
+            "word": "test",
+            "count": "169,984"
+        },
+        {
+            "word": "NSData",
+            "count": "169,750"
+        },
+        {
+            "word": "N",
+            "count": "168,503"
+        },
+        {
+            "word": "should",
+            "count": "167,242"
+        },
+        {
+            "word": "so",
+            "count": "167,151"
+        },
+        {
+            "word": "message",
+            "count": "167,061"
+        },
+        {
+            "word": "main",
+            "count": "165,505"
+        },
+        {
+            "word": "copy",
+            "count": "165,322"
+        },
+        {
+            "word": "NSIndexPath",
+            "count": "164,607"
+        },
+        {
+            "word": "didReceiveMemoryWarning",
+            "count": "163,756"
+        },
+        {
+            "word": "here",
+            "count": "163,711"
+        },
+        {
+            "word": "have",
+            "count": "163,447"
+        },
+        {
+            "word": "NSURL",
+            "count": "162,367"
+        },
+        {
+            "word": "block",
+            "count": "161,168"
+        },
+        {
+            "word": "target",
+            "count": "159,346"
+        },
+        {
+            "word": "interface",
+            "count": "158,672"
+        },
+        {
+            "word": "status",
+            "count": "158,318"
+        },
+        {
+            "word": "properties",
+            "count": "157,286"
+        },
+        {
+            "word": "row",
+            "count": "157,250"
+        },
+        {
+            "word": "instancetype",
+            "count": "155,679"
+        },
+        {
+            "word": "A",
+            "count": "154,026"
+        },
+        {
+            "word": "range",
+            "count": "153,576"
+        },
+        {
+            "word": "location",
+            "count": "152,441"
+        },
+        {
+            "word": "If",
+            "count": "150,674"
+        },
+        {
+            "word": "response",
+            "count": "150,229"
+        },
+        {
+            "word": "success",
+            "count": "150,164"
+        },
+        {
+            "word": "userInfo",
+            "count": "148,529"
+        },
+        {
+            "word": "autorelease",
+            "count": "147,691"
+        },
+        {
+            "word": "objectAtIndex",
+            "count": "146,770"
+        },
+        {
+            "word": "while",
+            "count": "146,324"
+        },
+        {
+            "word": "called",
+            "count": "146,211"
+        },
+        {
+            "word": "I",
+            "count": "145,026"
+        },
+        {
+            "word": "j",
+            "count": "143,822"
+        },
+        {
+            "word": "try",
+            "count": "143,253"
+        },
+        {
+            "word": "point",
+            "count": "142,844"
+        },
+        {
+            "word": "label",
+            "count": "141,640"
+        },
+        {
+            "word": "you",
+            "count": "141,550"
+        },
+        {
+            "word": "unsigned",
+            "count": "140,109"
+        },
+        {
+            "word": "UIKit",
+            "count": "140,067"
+        },
+        {
+            "word": "retain",
+            "count": "139,845"
+        },
+        {
+            "word": "color",
+            "count": "138,855"
+        },
+        {
+            "word": "proxy",
+            "count": "138,016"
+        },
+        {
+            "word": "model",
+            "count": "136,794"
+        },
+        {
+            "word": "nargin",
+            "count": "135,468"
+        },
+        {
+            "word": "NSNotificationCenter",
+            "count": "135,294"
+        },
+        {
+            "word": "com",
+            "count": "134,425"
+        },
+        {
+            "word": "failure",
+            "count": "134,000"
+        },
+        {
+            "word": "Foundation",
+            "count": "133,576"
+        },
+        {
+            "word": "scrollView",
+            "count": "133,241"
+        },
+        {
+            "word": "alpha",
+            "count": "133,026"
+        },
+        {
+            "word": "user",
+            "count": "132,956"
+        },
+        {
+            "word": "at",
+            "count": "132,926"
+        },
+        {
+            "word": "when",
+            "count": "132,160"
+        },
+        {
+            "word": "action",
+            "count": "131,681"
+        },
+        {
+            "word": "parameters",
+            "count": "130,905"
+        },
+        {
+            "word": "b",
+            "count": "130,676"
+        },
+        {
+            "word": "layer",
+            "count": "130,365"
+        },
+        {
+            "word": "k",
+            "count": "130,296"
+        },
+        {
+            "word": "font",
+            "count": "129,887"
+        },
+        {
+            "word": "backgroundColor",
+            "count": "129,257"
+        },
+        {
+            "word": "NSDate",
+            "count": "129,256"
+        },
+        {
+            "word": "source",
+            "count": "128,666"
+        },
+        {
+            "word": "Created",
+            "count": "128,562"
+        },
+        {
+            "word": "integer",
+            "count": "128,175"
+        },
+        {
+            "word": "buffer",
+            "count": "127,235"
+        },
+        {
+            "word": "notification",
+            "count": "126,715"
+        },
+        {
+            "word": "exception",
+            "count": "126,539"
+        },
+        {
+            "word": "e",
+            "count": "126,067"
+        },
+        {
+            "word": "line",
+            "count": "125,983"
+        },
+        {
+            "word": "stringWithFormat",
+            "count": "124,353"
+        },
+        {
+            "word": "number",
+            "count": "124,128"
+        },
+        {
+            "word": "out",
+            "count": "123,685"
+        },
+        {
+            "word": "float",
+            "count": "123,281"
+        },
+        {
+            "word": "respondsToSelector",
+            "count": "122,984"
+        },
+        {
+            "word": "style",
+            "count": "121,557"
+        },
+        {
+            "word": "defaultCenter",
+            "count": "120,908"
+        },
+        {
+            "word": "http",
+            "count": "120,575"
+        },
+        {
+            "word": "offset",
+            "count": "118,050"
+        },
+        {
+            "word": "err",
+            "count": "117,631"
+        },
+        {
+            "word": "invocation",
+            "count": "117,034"
+        },
+        {
+            "word": "define",
+            "count": "116,823"
+        },
+        {
+            "word": "dictionary",
+            "count": "115,504"
+        },
+        {
+            "word": "withObject",
+            "count": "115,492"
+        },
+        {
+            "word": "date",
+            "count": "115,372"
+        },
+        {
+            "word": "position",
+            "count": "114,508"
+        },
+        {
+            "word": "setup",
+            "count": "113,870"
+        },
+        {
+            "word": "info",
+            "count": "113,732"
+        },
+        {
+            "word": "time",
+            "count": "113,460"
+        },
+        {
+            "word": "catch",
+            "count": "112,918"
+        },
+        {
+            "word": "format",
+            "count": "112,891"
+        },
+        {
+            "word": "dispatch_async",
+            "count": "112,812"
+        },
+        {
+            "word": "see",
+            "count": "112,767"
+        },
+        {
+            "word": "no",
+            "count": "112,693"
+        },
+        {
+            "word": "G",
+            "count": "112,514"
+        },
+        {
+            "word": "figure",
+            "count": "112,474"
+        },
+        {
+            "word": "each",
+            "count": "112,459"
+        },
+        {
+            "word": "browser",
+            "count": "112,416"
+        },
+        {
+            "word": "R",
+            "count": "112,289"
+        },
+        {
+            "word": "version",
+            "count": "111,484"
+        },
+        {
+            "word": "ifdef",
+            "count": "111,060"
+        },
+        {
+            "word": "hold",
+            "count": "110,951"
+        },
+        {
+            "word": "long",
+            "count": "110,809"
+        },
+        {
+            "word": "callback",
+            "count": "109,804"
+        },
+        {
+            "word": "ui",
+            "count": "108,415"
+        },
+        {
+            "word": "start",
+            "count": "107,736"
+        },
+        {
+            "word": "o",
+            "count": "107,729"
+        },
+        {
+            "word": "struct",
+            "count": "107,144"
+        },
+        {
+            "word": "description",
+            "count": "107,060"
+        },
+        {
+            "word": "methods",
+            "count": "107,032"
+        },
+        {
+            "word": "close",
+            "count": "106,891"
+        },
+        {
+            "word": "argc",
+            "count": "106,742"
+        },
+        {
+            "word": "defined",
+            "count": "106,149"
+        },
+        {
+            "word": "input",
+            "count": "105,828"
+        },
+        {
+            "word": "TiUtils",
+            "count": "105,760"
+        },
+        {
+            "word": "strong",
+            "count": "105,504"
+        },
+        {
+            "word": "values",
+            "count": "104,519"
+        },
+        {
+            "word": "output",
+            "count": "104,401"
+        },
+        {
+            "word": "argv",
+            "count": "104,391"
+        },
+        {
+            "word": "continue",
+            "count": "103,620"
+        },
+        {
+            "word": "operation",
+            "count": "103,615"
+        },
+        {
+            "word": "before",
+            "count": "103,293"
+        },
+        {
+            "word": "setObject",
+            "count": "103,079"
+        },
+        {
+            "word": "bool",
+            "count": "102,498"
+        },
+        {
+            "word": "tag",
+            "count": "102,192"
+        },
+        {
+            "word": "_",
+            "count": "102,139"
+        },
+        {
+            "word": "off",
+            "count": "101,234"
+        },
+        {
+            "word": "stop",
+            "count": "100,883"
+        },
+        {
+            "word": "only",
+            "count": "100,412"
+        },
+        {
+            "word": "ctx",
+            "count": "100,003"
+        },
+        {
+            "word": "RationalField",
+            "count": "99,829"
+        },
+        {
+            "word": "hObject",
+            "count": "99,817"
+        },
+        {
+            "word": "NSRect",
+            "count": "99,714"
+        },
+        {
+            "word": "cfg",
+            "count": "99,097"
+        },
+        {
+            "word": "setUp",
+            "count": "98,809"
+        },
+        {
+            "word": "CGPoint",
+            "count": "98,775"
+        },
+        {
+            "word": "connection",
+            "count": "98,165"
+        },
+        {
+            "word": "following",
+            "count": "97,678"
+        },
+        {
+            "word": "varargin",
+            "count": "95,464"
+        },
+        {
+            "word": "XCTest",
+            "count": "94,718"
+        },
+        {
+            "word": "navigationController",
+            "count": "94,352"
+        },
+        {
+            "word": "content",
+            "count": "94,081"
+        },
+        {
+            "word": "task",
+            "count": "94,045"
+        },
+        {
+            "word": "selected",
+            "count": "92,730"
+        },
+        {
+            "word": "sizeof",
+            "count": "92,166"
+        },
+        {
+            "word": "double",
+            "count": "91,813"
+        },
+        {
+            "word": "sharedApplication",
+            "count": "91,791"
+        },
+        {
+            "word": "fprintf",
+            "count": "91,655"
+        },
+        {
+            "word": "ViewController",
+            "count": "91,539"
+        },
+        {
+            "word": "other",
+            "count": "90,893"
+        },
+        {
+            "word": "using",
+            "count": "90,339"
+        },
+        {
+            "word": "RELEASE_TO_NIL",
+            "count": "90,149"
+        },
+        {
+            "word": "session",
+            "count": "89,992"
+        },
+        {
+            "word": "duration",
+            "count": "89,937"
+        },
+        {
+            "word": "param",
+            "count": "89,889"
+        },
+        {
+            "word": "tearDown",
+            "count": "89,682"
+        },
+        {
+            "word": "queue",
+            "count": "89,391"
+        },
+        {
+            "word": "body",
+            "count": "89,171"
+        },
+        {
+            "word": "mode",
+            "count": "88,798"
+        },
+        {
+            "word": "str",
+            "count": "88,705"
+        },
+        {
+            "word": "which",
+            "count": "88,418"
+        },
+        {
+            "word": "v",
+            "count": "87,880"
+        },
+        {
+            "word": "Put",
+            "count": "87,379"
+        },
+        {
+            "word": "g",
+            "count": "87,320"
+        },
+        {
+            "word": "dispatch_get_main_queue",
+            "count": "87,020"
+        },
+        {
+            "word": "has",
+            "count": "86,864"
+        },
+        {
+            "word": "query",
+            "count": "86,789"
+        },
+        {
+            "word": "L",
+            "count": "86,517"
+        },
+        {
+            "word": "flags",
+            "count": "86,497"
+        },
+        {
+            "word": "need",
+            "count": "86,420"
+        },
+        {
+            "word": "params",
+            "count": "86,033"
+        },
+        {
+            "word": "chrome",
+            "count": "85,710"
+        },
+        {
+            "word": "center",
+            "count": "85,321"
+        },
+        {
+            "word": "show",
+            "count": "85,213"
+        },
+        {
+            "word": "UITableViewCell",
+            "count": "85,122"
+        },
+        {
+            "word": "idx",
+            "count": "85,030"
+        },
+        {
+            "word": "We",
+            "count": "84,543"
+        },
+        {
+            "word": "31IA",
+            "count": "84,256"
+        },
+        {
+            "word": "command",
+            "count": "84,011"
+        },
+        {
+            "word": "NSUserDefaults",
+            "count": "83,763"
+        },
+        {
+            "word": "bundle",
+            "count": "83,596"
+        },
+        {
+            "word": "autoreleasepool",
+            "count": "83,224"
+        },
+        {
+            "word": "CGSize",
+            "count": "82,849"
+        },
+        {
+            "word": "hidden",
+            "count": "82,848"
+        },
+        {
+            "word": "lock",
+            "count": "82,472"
+        },
+        {
+            "word": "bytes",
+            "count": "82,443"
+        },
+        {
+            "word": "want",
+            "count": "81,876"
+        },
+        {
+            "word": "K",
+            "count": "81,823"
+        },
+        {
+            "word": "one",
+            "count": "80,654"
+        },
+        {
+            "word": "but",
+            "count": "80,569"
+        },
+        {
+            "word": "ret",
+            "count": "80,514"
+        },
+        {
+            "word": "Y",
+            "count": "80,379"
+        },
+        {
+            "word": "C",
+            "count": "80,141"
+        },
+        {
+            "word": "transform",
+            "count": "80,026"
+        },
+        {
+            "word": "weakSelf",
+            "count": "79,667"
+        },
+        {
+            "word": "NSException",
+            "count": "79,453"
+        },
+        {
+            "word": "animation",
+            "count": "79,379"
+        },
+        {
+            "word": "structure",
+            "count": "79,011"
+        },
+        {
+            "word": "was",
+            "count": "78,914"
+        },
+        {
+            "word": "onceToken",
+            "count": "78,699"
+        },
+        {
+            "word": "menu",
+            "count": "78,652"
+        },
+        {
+            "word": "up",
+            "count": "78,500"
+        },
+        {
+            "word": "encoding",
+            "count": "78,449"
+        },
+        {
+            "word": "first",
+            "count": "78,357"
+        },
+        {
+            "word": "arguments",
+            "count": "78,105"
+        },
+        {
+            "word": "attributes",
+            "count": "77,789"
+        },
+        {
+            "word": "collectionView",
+            "count": "77,363"
+        },
+        {
+            "word": "size_t",
+            "count": "76,866"
+        },
+        {
+            "word": "alert",
+            "count": "76,733"
+        },
+        {
+            "word": "current",
+            "count": "76,592"
+        },
+        {
+            "word": "w",
+            "count": "76,455"
+        },
+        {
+            "word": "app",
+            "count": "76,339"
+        },
+        {
+            "word": "html",
+            "count": "76,321"
+        },
+        {
+            "word": "subject",
+            "count": "76,274"
+        },
+        {
+            "word": "scale",
+            "count": "75,964"
+        },
+        {
+            "word": "table",
+            "count": "75,668"
+        },
+        {
+            "word": "make",
+            "count": "75,566"
+        },
+        {
+            "word": "arg",
+            "count": "75,320"
+        },
+        {
+            "word": "re",
+            "count": "75,312"
+        },
+        {
+            "word": "part",
+            "count": "74,565"
+        },
+        {
+            "word": "fid",
+            "count": "74,536"
+        },
+        {
+            "word": "P",
+            "count": "74,456"
+        },
+        {
+            "word": "then",
+            "count": "74,302"
+        },
+        {
+            "word": "NSObject",
+            "count": "74,025"
+        },
+        {
+            "word": "finished",
+            "count": "73,987"
+        },
+        {
+            "word": "Class",
+            "count": "73,963"
+        },
+        {
+            "word": "into",
+            "count": "73,671"
+        },
+        {
+            "word": "reloadData",
+            "count": "73,207"
+        },
+        {
+            "word": "val",
+            "count": "73,157"
+        },
+        {
+            "word": "TODO",
+            "count": "73,014"
+        },
+        {
+            "word": "webView",
+            "count": "72,881"
+        },
+        {
+            "word": "clear",
+            "count": "72,814"
+        },
+        {
+            "word": "sharedInstance",
+            "count": "72,791"
+        },
+        {
+            "word": "NSFileManager",
+            "count": "72,761"
+        },
+        {
+            "word": "read",
+            "count": "72,075"
+        },
+        {
+            "word": "page",
+            "count": "71,919"
+        },
+        {
+            "word": "CGRectMake",
+            "count": "71,525"
+        },
+        {
+            "word": "animations",
+            "count": "71,459"
+        },
+        {
+            "word": "left",
+            "count": "70,894"
+        },
+        {
+            "word": "valueForKey",
+            "count": "70,395"
+        },
+        {
+            "word": "loading",
+            "count": "70,328"
+        },
+        {
+            "word": "screen",
+            "count": "70,126"
+        },
+        {
+            "word": "imageView",
+            "count": "70,085"
+        },
+        {
+            "word": "your",
+            "count": "69,756"
+        },
+        {
+            "word": "B",
+            "count": "69,752"
+        },
+        {
+            "word": "check",
+            "count": "69,607"
+        },
+        {
+            "word": "__block",
+            "count": "69,548"
+        },
+        {
+            "word": "pool",
+            "count": "69,207"
+        },
+        {
+            "word": "std",
+            "count": "68,981"
+        },
+        {
+            "word": "must",
+            "count": "68,636"
+        },
+        {
+            "word": "URL",
+            "count": "68,590"
+        },
+        {
+            "word": "eventdata",
+            "count": "68,563"
+        },
+        {
+            "word": "NSBundle",
+            "count": "68,446"
+        },
+        {
+            "word": "without",
+            "count": "68,274"
+        },
+        {
+            "word": "resources",
+            "count": "68,121"
+        },
+        {
+            "word": "def",
+            "count": "67,864"
+        },
+        {
+            "word": "NSNotification",
+            "count": "67,739"
+        },
+        {
+            "word": "list",
+            "count": "67,655"
+        },
+        {
+            "word": "diagnostic",
+            "count": "67,626"
+        },
+        {
+            "word": "contentView",
+            "count": "67,621"
+        },
+        {
+            "word": "Set",
+            "count": "67,599"
+        },
+        {
+            "word": "results",
+            "count": "67,585"
+        },
+        {
+            "word": "elseif",
+            "count": "67,061"
+        },
+        {
+            "word": "viewWillAppear",
+            "count": "66,644"
+        },
+        {
+            "word": "jsContext",
+            "count": "66,439"
+        },
+        {
+            "word": "parent",
+            "count": "66,389"
+        },
+        {
+            "word": "identifier",
+            "count": "66,377"
+        },
+        {
+            "word": "NSMutableString",
+            "count": "66,151"
+        },
+        {
+            "word": "items",
+            "count": "66,013"
+        },
+        {
+            "word": "Do",
+            "count": "65,704"
+        },
+        {
+            "word": "max",
+            "count": "65,645"
+        },
+        {
+            "word": "SEL",
+            "count": "65,541"
+        },
+        {
+            "word": "conditions",
+            "count": "65,071"
+        },
+        {
+            "word": "empty",
+            "count": "64,962"
+        },
+        {
+            "word": "components",
+            "count": "64,942"
+        },
+        {
+            "word": "filename",
+            "count": "64,899"
+        },
+        {
+            "word": "call",
+            "count": "64,855"
+        },
+        {
+            "word": "handle",
+            "count": "64,653"
+        },
+        {
+            "word": "CFRelease",
+            "count": "64,406"
+        },
+        {
+            "word": "create",
+            "count": "64,152"
+        },
+        {
+            "word": "pos",
+            "count": "64,146"
+        },
+        {
+            "word": "recreated",
+            "count": "64,003"
+        },
+        {
+            "word": "MATLAB",
+            "count": "63,814"
+        },
+        {
+            "word": "z",
+            "count": "63,779"
+        },
+        {
+            "word": "right",
+            "count": "63,725"
+        },
+        {
+            "word": "See",
+            "count": "63,510"
+        },
+        {
+            "word": "UIButton",
+            "count": "63,494"
+        },
+        {
+            "word": "removeFromSuperview",
+            "count": "63,377"
+        },
+        {
+            "word": "attribute",
+            "count": "63,290"
+        },
+        {
+            "word": "NSUTF8StringEncoding",
+            "count": "63,192"
+        },
+        {
+            "word": "isempty",
+            "count": "63,176"
+        },
+        {
+            "word": "setValue",
+            "count": "62,907"
+        },
+        {
+            "word": "clang",
+            "count": "62,865"
+        },
+        {
+            "word": "support",
+            "count": "62,835"
+        },
+        {
+            "word": "Dispose",
+            "count": "62,655"
+        },
+        {
+            "word": "additional",
+            "count": "62,476"
+        },
+        {
+            "word": "launchOptions",
+            "count": "62,138"
+        },
+        {
+            "word": "used",
+            "count": "61,976"
+        },
+        {
+            "word": "namespace",
+            "count": "61,800"
+        },
+        {
+            "word": "~isempty",
+            "count": "61,734"
+        },
+        {
+            "word": "In",
+            "count": "61,715"
+        },
+        {
+            "word": "intValue",
+            "count": "61,664"
+        },
+        {
+            "word": "withEvent",
+            "count": "61,587"
+        },
+        {
+            "word": "element",
+            "count": "61,536"
+        },
+        {
+            "word": "W",
+            "count": "61,516"
+        },
+        {
+            "word": "axis",
+            "count": "61,389"
+        },
+        {
+            "word": "example",
+            "count": "61,333"
+        },
+        {
+            "word": "our",
+            "count": "61,071"
+        },
+        {
+            "word": "NSAutoreleasePool",
+            "count": "61,061"
+        },
+        {
+            "word": "don",
+            "count": "61,059"
+        },
+        {
+            "word": "Override",
+            "count": "60,975"
+        },
+        {
+            "word": "stream",
+            "count": "60,874"
+        },
+        {
+            "word": "whiteColor",
+            "count": "60,632"
+        },
+        {
+            "word": "reuseIdentifier",
+            "count": "60,593"
+        },
+        {
+            "word": "clearColor",
+            "count": "60,456"
+        },
+        {
+            "word": "atIndex",
+            "count": "60,446"
+        },
+        {
+            "word": "initWithCoder",
+            "count": "60,419"
+        },
+        {
+            "word": "progress",
+            "count": "60,259"
+        },
+        {
+            "word": "Get",
+            "count": "60,255"
+        },
+        {
+            "word": "instance",
+            "count": "60,110"
+        },
+        {
+            "word": "free",
+            "count": "60,033"
+        },
+        {
+            "word": "textField",
+            "count": "59,859"
+        },
+        {
+            "word": "find",
+            "count": "59,798"
+        },
+        {
+            "word": "NSCoder",
+            "count": "59,710"
+        },
+        {
+            "word": "public",
+            "count": "59,554"
+        },
+        {
+            "word": "add",
+            "count": "59,198"
+        },
+        {
+            "word": "www",
+            "count": "59,114"
+        },
+        {
+            "word": "touches",
+            "count": "59,091"
+        },
+        {
+            "word": "done",
+            "count": "58,924"
+        },
+        {
+            "word": "U",
+            "count": "58,890"
+        },
+        {
+            "word": "Error",
+            "count": "58,875"
+        },
+        {
+            "word": "appendString",
+            "count": "58,875"
+        },
+        {
+            "word": "top",
+            "count": "58,409"
+        },
+        {
+            "word": "load",
+            "count": "58,222"
+        },
+        {
+            "word": "viewController",
+            "count": "57,671"
+        },
+        {
+            "word": "otherwise",
+            "count": "57,622"
+        },
+        {
+            "word": "org",
+            "count": "57,304"
+        },
+        {
+            "word": "UILabel",
+            "count": "57,301"
+        },
+        {
+            "word": "disp",
+            "count": "57,048"
+        },
+        {
+            "word": "UIViewController",
+            "count": "56,630"
+        },
+        {
+            "word": "l",
+            "count": "56,565"
+        },
+        {
+            "word": "NSNotFound",
+            "count": "56,548"
+        },
+        {
+            "word": "animateWithDuration",
+            "count": "56,234"
+        },
+        {
+            "word": "display",
+            "count": "55,938"
+        },
+        {
+            "word": "next",
+            "count": "55,727"
+        },
+        {
+            "word": "run",
+            "count": "55,703"
+        },
+        {
+            "word": "modify",
+            "count": "55,665"
+        },
+        {
+            "word": "res",
+            "count": "55,663"
+        },
+        {
+            "word": "addObserver",
+            "count": "55,647"
+        },
+        {
+            "word": "subviews",
+            "count": "55,643"
+        },
+        {
+            "word": "update",
+            "count": "55,635"
+        },
+        {
+            "word": "flag",
+            "count": "55,586"
+        },
+        {
+            "word": "objects",
+            "count": "55,578"
+        },
+        {
+            "word": "now",
+            "count": "55,577"
+        },
+        {
+            "word": "there",
+            "count": "55,500"
+        },
+        {
+            "word": "completionHandler",
+            "count": "55,429"
+        },
+        {
+            "word": "zeros",
+            "count": "55,279"
+        },
+        {
+            "word": "removeObserver",
+            "count": "54,833"
+        },
+        {
+            "word": "player",
+            "count": "54,806"
+        },
+        {
+            "word": "E",
+            "count": "54,579"
+        },
+        {
+            "word": "json",
+            "count": "54,542"
+        },
+        {
+            "word": "manager",
+            "count": "54,535"
+        },
+        {
+            "word": "Create",
+            "count": "54,494"
+        },
+        {
+            "word": "NSEvent",
+            "count": "54,375"
+        },
+        {
+            "word": "NSRange",
+            "count": "54,173"
+        },
+        {
+            "word": "standardUserDefaults",
+            "count": "54,120"
+        },
+        {
+            "word": "change",
+            "count": "53,815"
+        },
+        {
+            "word": "setNeedsDisplay",
+            "count": "53,779"
+        },
+        {
+            "word": "reset",
+            "count": "53,769"
+        },
+        {
+            "word": "future",
+            "count": "53,633"
+        },
+        {
+            "word": "unlock",
+            "count": "53,539"
+        },
+        {
+            "word": "rand",
+            "count": "53,524"
+        },
+        {
+            "word": "subplot",
+            "count": "53,493"
+        },
+        {
+            "word": "superview",
+            "count": "53,202"
+        },
+        {
+            "word": "NSAssert",
+            "count": "53,176"
+        },
+        {
+            "word": "expect",
+            "count": "53,173"
+        },
+        {
+            "word": "String",
+            "count": "53,057"
+        },
+        {
+            "word": "null",
+            "count": "53,016"
+        },
+        {
+            "word": "IBAction",
+            "count": "52,842"
+        },
+        {
+            "word": "group",
+            "count": "52,814"
+        },
+        {
+            "word": "~",
+            "count": "52,549"
+        },
+        {
+            "word": "handler",
+            "count": "52,528"
+        },
+        {
+            "word": "its",
+            "count": "52,475"
+        },
+        {
+            "word": "segue",
+            "count": "52,448"
+        },
+        {
+            "word": "cache",
+            "count": "52,349"
+        },
+        {
+            "word": "initWithNibName",
+            "count": "52,211"
+        },
+        {
+            "word": "strcmp",
+            "count": "52,105"
+        },
+        {
+            "word": "layoutSubviews",
+            "count": "51,593"
+        },
+        {
+            "word": "merge",
+            "count": "51,390"
+        },
+        {
+            "word": "UIScrollView",
+            "count": "51,326"
+        },
+        {
+            "word": "child",
+            "count": "51,113"
+        },
+        {
+            "word": "module",
+            "count": "51,061"
+        },
+        {
+            "word": "NSDateFormatter",
+            "count": "50,829"
+        },
+        {
+            "word": "publish",
+            "count": "50,778"
+        },
+        {
+            "word": "NSSet",
+            "count": "50,775"
+        },
+        {
+            "word": "isEqual",
+            "count": "50,682"
+        },
+        {
+            "word": "reserved",
+            "count": "50,539"
+        },
+        {
+            "word": "token",
+            "count": "50,490"
+        },
+        {
+            "word": "performSelector",
+            "count": "50,407"
+        },
+        {
+            "word": "import_module",
+            "count": "50,396"
+        },
+        {
+            "word": "distribute",
+            "count": "49,965"
+        },
+        {
+            "word": "boolValue",
+            "count": "49,933"
+        },
+        {
+            "word": "dispatch_once_t",
+            "count": "49,851"
+        },
+        {
+            "word": "OR",
+            "count": "49,769"
+        },
+        {
+            "word": "io",
+            "count": "49,761"
+        },
+        {
+            "word": "BackgroundColor",
+            "count": "49,485"
+        },
+        {
+            "word": "msg",
+            "count": "49,458"
+        },
+        {
+            "word": "mainScreen",
+            "count": "49,349"
+        },
+        {
+            "word": "DEBUG",
+            "count": "49,228"
+        },
+        {
+            "word": "UIImageView",
+            "count": "49,108"
+        },
+        {
+            "word": "coder",
+            "count": "49,029"
+        },
+        {
+            "word": "sublicense",
+            "count": "49,013"
+        },
+        {
+            "word": "sell",
+            "count": "49,005"
+        },
+        {
+            "word": "head",
+            "count": "48,859"
+        },
+        {
+            "word": "NSStringFromClass",
+            "count": "48,791"
+        },
+        {
+            "word": "cellForRowAtIndexPath",
+            "count": "48,775"
+        },
+        {
+            "word": "timer",
+            "count": "48,692"
+        },
+        {
+            "word": "T",
+            "count": "48,588"
+        },
+        {
+            "word": "db",
+            "count": "48,584"
+        },
+        {
+            "word": "NSTimeInterval",
+            "count": "48,474"
+        },
+        {
+            "word": "device",
+            "count": "48,459"
+        },
+        {
+            "word": "defaults",
+            "count": "48,445"
+        },
+        {
+            "word": "found",
+            "count": "48,401"
+        },
+        {
+            "word": "enabled",
+            "count": "48,171"
+        },
+        {
+            "word": "KrollObject",
+            "count": "48,128"
+        },
+        {
+            "word": "step",
+            "count": "48,084"
+        },
+        {
+            "word": "plot",
+            "count": "48,011"
+        },
+        {
+            "word": "textView",
+            "count": "47,974"
+        },
+        {
+            "word": "didFinishLaunchingWithOptions",
+            "count": "47,944"
+        },
+        {
+            "word": "same",
+            "count": "47,863"
+        },
+        {
+            "word": "map",
+            "count": "47,696"
+        },
+        {
+            "word": "dispatch_once",
+            "count": "47,607"
+        },
+        {
+            "word": "UIScreen",
+            "count": "47,552"
+        },
+        {
+            "word": "NSView",
+            "count": "47,322"
+        },
+        {
+            "word": "initialize",
+            "count": "47,285"
+        },
+        {
+            "word": "UIFont",
+            "count": "47,179"
+        },
+        {
+            "word": "ind",
+            "count": "47,144"
+        },
+        {
+            "word": "host",
+            "count": "47,133"
+        },
+        {
+            "word": "valid",
+            "count": "47,039"
+        },
+        {
+            "word": "M",
+            "count": "46,952"
+        },
+        {
+            "word": "Private",
+            "count": "46,935"
+        },
+        {
+            "word": "forState",
+            "count": "46,833"
+        },
+        {
+            "word": "thread",
+            "count": "46,799"
+        },
+        {
+            "word": "tmp",
+            "count": "46,700"
+        },
+        {
+            "word": "setFrame",
+            "count": "46,618"
+        },
+        {
+            "word": "tab",
+            "count": "46,588"
+        },
+        {
+            "word": "also",
+            "count": "46,421"
+        },
+        {
+            "word": "Check",
+            "count": "46,341"
+        },
+        {
+            "word": "background",
+            "count": "46,236"
+        },
+        {
+            "word": "nibNameOrNil",
+            "count": "46,195"
+        },
+        {
+            "word": "synchronized",
+            "count": "46,189"
+        },
+        {
+            "word": "aDecoder",
+            "count": "46,102"
+        },
+        {
+            "word": "nibBundleOrNil",
+            "count": "46,056"
+        },
+        {
+            "word": "provided",
+            "count": "45,486"
+        },
+        {
+            "word": "Return",
+            "count": "45,465"
+        },
+        {
+            "word": "information",
+            "count": "45,274"
+        },
+        {
+            "word": "field",
+            "count": "45,245"
+        },
+        {
+            "word": "initWithStyle",
+            "count": "45,233"
+        },
+        {
+            "word": "orientation",
+            "count": "45,108"
+        },
+        {
+            "word": "vector",
+            "count": "45,053"
+        },
+        {
+            "word": "layout",
+            "count": "45,002"
+        },
+        {
+            "word": "ii",
+            "count": "44,959"
+        },
+        {
+            "word": "floatValue",
+            "count": "44,858"
+        },
+        {
+            "word": "defaultManager",
+            "count": "44,670"
+        },
+        {
+            "word": "assert",
+            "count": "44,559"
+        },
+        {
+            "word": "theEvent",
+            "count": "44,458"
+        },
+        {
+            "word": "F",
+            "count": "44,423"
+        },
+        {
+            "word": "numberOfRowsInSection",
+            "count": "44,378"
+        },
+        {
+            "word": "save",
+            "count": "44,343"
+        },
+        {
+            "word": "private",
+            "count": "44,326"
+        },
+        {
+            "word": "just",
+            "count": "44,298"
+        },
+        {
+            "word": "callbackId",
+            "count": "44,187"
+        },
+        {
+            "word": "len",
+            "count": "44,167"
+        },
+        {
+            "word": "applicationWillTerminate",
+            "count": "44,114"
+        },
+        {
+            "word": "drawRect",
+            "count": "44,042"
+        },
+        {
+            "word": "exists",
+            "count": "43,980"
+        },
+        {
+            "word": "bar",
+            "count": "43,898"
+        },
+        {
+            "word": "header",
+            "count": "43,787"
+        },
+        {
+            "word": "IO",
+            "count": "43,717"
+        },
+        {
+            "word": "TiValueRef",
+            "count": "43,701"
+        },
+        {
+            "word": "xx",
+            "count": "43,686"
+        },
+        {
+            "word": "Returns",
+            "count": "43,520"
+        },
+        {
+            "word": "launch",
+            "count": "43,453"
+        },
+        {
+            "word": "NSThread",
+            "count": "43,382"
+        },
+        {
+            "word": "zone",
+            "count": "43,337"
+        },
+        {
+            "word": "setTitle",
+            "count": "43,229"
+        },
+        {
+            "word": "dynamic",
+            "count": "43,188"
+        },
+        {
+            "word": "alertView",
+            "count": "43,180"
+        },
+        {
+            "word": "equal",
+            "count": "43,143"
+        },
+        {
+            "word": "opt",
+            "count": "43,074"
+        },
+        {
+            "word": "given",
+            "count": "43,024"
+        },
+        {
+            "word": "touch",
+            "count": "42,917"
+        },
+        {
+            "word": "than",
+            "count": "42,906"
+        },
+        {
+            "word": "more",
+            "count": "42,841"
+        },
+        {
+            "word": "statement",
+            "count": "42,630"
+        },
+        {
+            "word": "cocoa",
+            "count": "42,588"
+        },
+        {
+            "word": "applicationDidEnterBackground",
+            "count": "42,479"
+        },
+        {
+            "word": "matrix",
+            "count": "42,466"
+        },
+        {
+            "word": "titleLabel",
+            "count": "42,402"
+        },
+        {
+            "word": "applicationDidBecomeActive",
+            "count": "42,384"
+        },
+        {
+            "word": "CGPointMake",
+            "count": "42,360"
+        },
+        {
+            "word": "No",
+            "count": "42,315"
+        },
+        {
+            "word": "textColor",
+            "count": "42,285"
+        },
+        {
+            "word": "NSNull",
+            "count": "42,211"
+        },
+        {
+            "word": "weak",
+            "count": "42,203"
+        },
+        {
+            "word": "Author",
+            "count": "42,188"
+        },
+        {
+            "word": "dataSource",
+            "count": "42,184"
+        },
+        {
+            "word": "cancel",
+            "count": "42,137"
+        },
+        {
+            "word": "NAME",
+            "count": "41,942"
+        },
+        {
+            "word": "already",
+            "count": "41,821"
+        },
+        {
+            "word": "fields",
+            "count": "41,791"
+        },
+        {
+            "word": "Status",
+            "count": "41,707"
+        },
+        {
+            "word": "_delegate",
+            "count": "41,677"
+        },
+        {
+            "word": "XCTAssertTrue",
+            "count": "41,588"
+        },
+        {
+            "word": "furnished",
+            "count": "41,569"
+        },
+        {
+            "word": "NSApp",
+            "count": "41,568"
+        },
+        {
+            "word": "been",
+            "count": "41,492"
+        },
+        {
+            "word": "NSMakeRange",
+            "count": "41,479"
+        },
+        {
+            "word": "pause",
+            "count": "41,306"
+        },
+        {
+            "word": "throw",
+            "count": "41,252"
+        },
+        {
+            "word": "u",
+            "count": "41,212"
+        },
+        {
+            "word": "Methods",
+            "count": "41,125"
+        },
+        {
+            "word": "Use",
+            "count": "41,077"
+        },
+        {
+            "word": "Cocoa",
+            "count": "40,997"
+        },
+        {
+            "word": "hash",
+            "count": "40,937"
+        },
+        {
+            "word": "applicationWillResignActive",
+            "count": "40,924"
+        },
+        {
+            "word": "based",
+            "count": "40,842"
+        },
+        {
+            "word": "returns",
+            "count": "40,833"
+        },
+        {
+            "word": "awakeFromNib",
+            "count": "40,729"
+        },
+        {
+            "word": "_NS",
+            "count": "40,728"
+        },
+        {
+            "word": "applicationWillEnterForeground",
+            "count": "40,668"
+        },
+        {
+            "word": "EXPECT_EQ",
+            "count": "40,656"
+        },
+        {
+            "word": "managedObjectContext",
+            "count": "40,649"
+        },
+        {
+            "word": "radius",
+            "count": "40,608"
+        },
+        {
+            "word": "NSColor",
+            "count": "40,516"
+        },
+        {
+            "word": "global",
+            "count": "40,465"
+        },
+        {
+            "word": "does",
+            "count": "40,439"
+        },
+        {
+            "word": "buttons",
+            "count": "40,339"
+        },
+        {
+            "word": "during",
+            "count": "40,319"
+        },
+        {
+            "word": "J",
+            "count": "40,308"
+        },
+        {
+            "word": "formatter",
+            "count": "40,264"
+        },
+        {
+            "word": "q",
+            "count": "40,101"
+        },
+        {
+            "word": "gca",
+            "count": "40,099"
+        },
+        {
+            "word": "level",
+            "count": "40,094"
+        },
+        {
+            "word": "views",
+            "count": "39,988"
+        },
+        {
+            "word": "write",
+            "count": "39,896"
+        },
+        {
+            "word": "UTF8String",
+            "count": "39,782"
+        },
+        {
+            "word": "because",
+            "count": "39,777"
+        },
+        {
+            "word": "__bridge",
+            "count": "39,757"
+        },
+        {
+            "word": "responseObject",
+            "count": "39,423"
+        },
+        {
+            "word": "keys",
+            "count": "39,369"
+        },
+        {
+            "word": "iOS",
+            "count": "39,368"
+        },
+        {
+            "word": "entry",
+            "count": "39,364"
+        },
+        {
+            "word": "doesn",
+            "count": "39,311"
+        },
+        {
+            "word": "_cmd",
+            "count": "39,254"
+        },
+        {
+            "word": "open",
+            "count": "39,193"
+        },
+        {
+            "word": "completionBlock",
+            "count": "39,052"
+        },
+        {
+            "word": "NSURLRequest",
+            "count": "39,045"
+        },
+        {
+            "word": "rows",
+            "count": "38,871"
+        },
+        {
+            "word": "__weak",
+            "count": "38,793"
+        },
+        {
+            "word": "V",
+            "count": "38,748"
+        },
+        {
+            "word": "parameter",
+            "count": "38,687"
+        },
+        {
+            "word": "grid",
+            "count": "38,681"
+        },
+        {
+            "word": "UIEvent",
+            "count": "38,637"
+        },
+        {
+            "word": "nargout",
+            "count": "38,561"
+        },
+        {
+            "word": "profile",
+            "count": "38,511"
+        },
+        {
+            "word": "DQ",
+            "count": "38,472"
+        },
+        {
+            "word": "stringValue",
+            "count": "38,413"
+        },
+        {
+            "word": "port",
+            "count": "38,349"
+        },
+        {
+            "word": "GUIDATA",
+            "count": "38,340"
+        },
+        {
+            "word": "CFStringRef",
+            "count": "38,260"
+        },
+        {
+            "word": "password",
+            "count": "38,249"
+        },
+        {
+            "word": "blue",
+            "count": "38,231"
+        },
+        {
+            "word": "viewDidAppear",
+            "count": "38,211"
+        },
+        {
+            "word": "socket",
+            "count": "38,195"
+        },
+        {
+            "word": "sure",
+            "count": "38,175"
+        },
+        {
+            "word": "objc",
+            "count": "38,172"
+        },
+        {
+            "word": "bottom",
+            "count": "38,015"
+        },
+        {
+            "word": "client",
+            "count": "37,916"
+        },
+        {
+            "word": "assign",
+            "count": "37,802"
+        },
+        {
+            "word": "contents",
+            "count": "37,715"
+        },
+        {
+            "word": "hdr",
+            "count": "37,656"
+        },
+        {
+            "word": "remove",
+            "count": "37,643"
+        },
+        {
+            "word": "generated",
+            "count": "37,534"
+        },
+        {
+            "word": "green",
+            "count": "37,447"
+        },
+        {
+            "word": "min",
+            "count": "37,436"
+        },
+        {
+            "word": "navigationItem",
+            "count": "37,203"
+        },
+        {
+            "word": "document",
+            "count": "37,046"
+        },
+        {
+            "word": "ok",
+            "count": "36,970"
+        },
+        {
+            "word": "NSParameterAssert",
+            "count": "36,882"
+        },
+        {
+            "word": "icon",
+            "count": "36,880"
+        },
+        {
+            "word": "richcontent",
+            "count": "36,859"
+        },
+        {
+            "word": "TARGET_OS_IPHONE",
+            "count": "36,800"
+        },
+        {
+            "word": "For",
+            "count": "36,796"
+        },
+        {
+            "word": "points",
+            "count": "36,780"
+        },
+        {
+            "word": "gfx",
+            "count": "36,705"
+        },
+        {
+            "word": "created",
+            "count": "36,650"
+        },
+        {
+            "word": "images",
+            "count": "36,617"
+        },
+        {
+            "word": "white",
+            "count": "36,616"
+        },
+        {
+            "word": "UIApplicationMain",
+            "count": "36,465"
+        },
+        {
+            "word": "binary",
+            "count": "36,419"
+        },
+        {
+            "word": "address",
+            "count": "36,399"
+        },
+        {
+            "word": "XCTAssertEqual",
+            "count": "36,386"
+        },
+        {
+            "word": "override",
+            "count": "36,367"
+        },
+        {
+            "word": "teardown",
+            "count": "36,311"
+        },
+        {
+            "word": "since",
+            "count": "36,300"
+        },
+        {
+            "word": "log",
+            "count": "36,293"
+        },
+        {
+            "word": "IBOutlet",
+            "count": "36,239"
+        },
+        {
+            "word": "where",
+            "count": "36,225"
+        },
+        {
+            "word": "sap",
+            "count": "36,101"
+        },
+        {
+            "word": "AFHTTPRequestOperation",
+            "count": "36,076"
+        },
+        {
+            "word": "visible",
+            "count": "36,057"
+        },
+        {
+            "word": "dateFormatter",
+            "count": "36,026"
+        },
+        {
+            "word": "CGContextRef",
+            "count": "36,012"
+        },
+        {
+            "word": "files",
+            "count": "35,990"
+        },
+        {
+            "word": "order",
+            "count": "35,938"
+        },
+        {
+            "word": "temp",
+            "count": "35,826"
+        },
+        {
+            "word": "delay",
+            "count": "35,673"
+        },
+        {
+            "word": "non",
+            "count": "35,538"
+        },
+        {
+            "word": "strongSelf",
+            "count": "35,527"
+        },
+        {
+            "word": "sum",
+            "count": "35,452"
+        },
+        {
+            "word": "setDelegate",
+            "count": "35,352"
+        },
+        {
+            "word": "some",
+            "count": "35,221"
+        },
+        {
+            "word": "reason",
+            "count": "35,123"
+        },
+        {
+            "word": "toolbar",
+            "count": "35,100"
+        },
+        {
+            "word": "det",
+            "count": "35,093"
+        },
+        {
+            "word": "NSMutableData",
+            "count": "35,011"
+        },
+        {
+            "word": "distribution",
+            "count": "34,944"
+        },
+        {
+            "word": "numel",
+            "count": "34,898"
+        },
+        {
+            "word": "specified",
+            "count": "34,826"
+        },
+        {
+            "word": "col",
+            "count": "34,733"
+        },
+        {
+            "word": "nib",
+            "count": "34,703"
+        },
+        {
+            "word": "mac",
+            "count": "34,532"
+        },
+        {
+            "word": "xlabel",
+            "count": "34,467"
+        },
+        {
+            "word": "parseState",
+            "count": "34,436"
+        },
+        {
+            "word": "container",
+            "count": "34,407"
+        },
+        {
+            "word": "fclose",
+            "count": "34,376"
+        },
+        {
+            "word": "ch",
+            "count": "34,250"
+        },
+        {
+            "word": "UIControlStateNormal",
+            "count": "34,107"
+        },
+        {
+            "word": "IN",
+            "count": "34,085"
+        },
+        {
+            "word": "img",
+            "count": "33,973"
+        },
+        {
+            "word": "NSPoint",
+            "count": "33,955"
+        },
+        {
+            "word": "protocol",
+            "count": "33,928"
+        },
+        {
+            "word": "Pass",
+            "count": "33,820"
+        },
+        {
+            "word": "URLWithString",
+            "count": "33,810"
+        },
+        {
+            "word": "back",
+            "count": "33,788"
+        },
+        {
+            "word": "HDR",
+            "count": "33,741"
+        },
+        {
+            "word": "Add",
+            "count": "33,454"
+        },
+        {
+            "word": "timeout",
+            "count": "33,340"
+        },
+        {
+            "word": "UIAlertView",
+            "count": "33,281"
+        },
+        {
+            "word": "imageSize",
+            "count": "33,268"
+        },
+        {
+            "word": "XCTAssert",
+            "count": "33,219"
+        },
+        {
+            "word": "Initialization",
+            "count": "33,216"
+        },
+        {
+            "word": "customization",
+            "count": "33,160"
+        },
+        {
+            "word": "Note",
+            "count": "33,154"
+        },
+        {
+            "word": "NSWindow",
+            "count": "33,134"
+        },
+        {
+            "word": "setting",
+            "count": "33,051"
+        },
+        {
+            "word": "filter",
+            "count": "33,030"
+        },
+        {
+            "word": "parser",
+            "count": "32,982"
+        },
+        {
+            "word": "Update",
+            "count": "32,935"
+        },
+        {
+            "word": "push",
+            "count": "32,878"
+        },
+        {
+            "word": "documentation",
+            "count": "32,838"
+        },
+        {
+            "word": "warning",
+            "count": "32,834"
+        },
+        {
+            "word": "QuartzCore",
+            "count": "32,772"
+        },
+        {
+            "word": "4000000000000000e",
+            "count": "32,763"
+        },
+        {
+            "word": "8000000000000000e",
+            "count": "32,763"
+        },
+        {
+            "word": "match",
+            "count": "32,753"
+        },
+        {
+            "word": "CGSizeMake",
+            "count": "32,671"
+        },
+        {
+            "word": "withString",
+            "count": "32,646"
+        },
+        {
+            "word": "initialization",
+            "count": "32,632"
+        },
+        {
+            "word": "Input",
+            "count": "32,473"
+        },
+        {
+            "word": "until",
+            "count": "32,405"
+        },
+        {
+            "word": "events",
+            "count": "32,368"
+        },
+        {
+            "word": "num2str",
+            "count": "32,214"
+        },
+        {
+            "word": "failed",
+            "count": "32,138"
+        },
+        {
+            "word": "filePath",
+            "count": "32,115"
+        },
+        {
+            "word": "buttonIndex",
+            "count": "32,110"
+        },
+        {
+            "word": "setEnabled",
+            "count": "32,083"
+        },
+        {
+            "word": "store",
+            "count": "32,021"
+        },
+        {
+            "word": "It",
+            "count": "32,015"
+        },
+        {
+            "word": "condition",
+            "count": "31,945"
+        },
+        {
+            "word": "MAKE_SYSTEM_PROP",
+            "count": "31,832"
+        },
+        {
+            "word": "viewWillDisappear",
+            "count": "31,797"
+        },
+        {
+            "word": "OF",
+            "count": "31,758"
+        },
+        {
+            "word": "inProtocol",
+            "count": "31,754"
+        },
+        {
+            "word": "didSelectRowAtIndexPath",
+            "count": "31,707"
+        },
+        {
+            "word": "delete",
+            "count": "31,619"
+        },
+        {
+            "word": "webview",
+            "count": "31,569"
+        },
+        {
+            "word": "NSStringFromSelector",
+            "count": "31,559"
+        },
+        {
+            "word": "prop",
+            "count": "31,554"
+        },
+        {
+            "word": "children",
+            "count": "31,542"
+        },
+        {
+            "word": "testExample",
+            "count": "31,475"
+        },
+        {
+            "word": "navigation",
+            "count": "31,360"
+        },
+        {
+            "word": "tests",
+            "count": "31,295"
+        },
+        {
+            "word": "DCHECK",
+            "count": "31,102"
+        },
+        {
+            "word": "single",
+            "count": "31,100"
+        },
+        {
+            "word": "exist",
+            "count": "31,086"
+        },
+        {
+            "word": "available",
+            "count": "31,056"
+        },
+        {
+            "word": "uint32_t",
+            "count": "30,978"
+        },
+        {
+            "word": "column",
+            "count": "30,968"
+        },
+        {
+            "word": "dismissViewControllerAnimated",
+            "count": "30,841"
+        },
+        {
+            "word": "UIWindow",
+            "count": "30,803"
+        },
+        {
+            "word": "FontSize",
+            "count": "30,678"
+        },
+        {
+            "word": "ex",
+            "count": "30,671"
+        },
+        {
+            "word": "0x00",
+            "count": "30,622"
+        },
+        {
+            "word": "blackColor",
+            "count": "30,614"
+        },
+        {
+            "word": "https",
+            "count": "30,614"
+        },
+        {
+            "word": "sprintf",
+            "count": "30,601"
+        },
+        {
+            "word": "pop",
+            "count": "30,511"
+        },
+        {
+            "word": "typedef",
+            "count": "30,493"
+        },
+        {
+            "word": "control",
+            "count": "30,462"
+        },
+        {
+            "word": "NOT",
+            "count": "30,402"
+        },
+        {
+            "word": "CDVPluginResult",
+            "count": "30,397"
+        },
+        {
+            "word": "textLabel",
+            "count": "30,309"
+        },
+        {
+            "word": "dictionaryWithObjectsAndKeys",
+            "count": "30,235"
+        },
+        {
+            "word": "editing",
+            "count": "30,153"
+        },
+        {
+            "word": "details",
+            "count": "30,151"
+        },
+        {
+            "word": "UIDevice",
+            "count": "30,098"
+        },
+        {
+            "word": "Public",
+            "count": "30,089"
+        },
+        {
+            "word": "config",
+            "count": "30,071"
+        },
+        {
+            "word": "own",
+            "count": "30,005"
+        },
+        {
+            "word": "UIInterfaceOrientation",
+            "count": "29,999"
+        },
+        {
+            "word": "NSLocalizedString",
+            "count": "29,979"
+        },
+        {
+            "word": "readwrite",
+            "count": "29,972"
+        },
+        {
+            "word": "setSelected",
+            "count": "29,967"
+        },
+        {
+            "word": "gradient",
+            "count": "29,957"
+        },
+        {
+            "word": "decoder",
+            "count": "29,946"
+        },
+        {
+            "word": "raise",
+            "count": "29,938"
+        },
+        {
+            "word": "edge",
+            "count": "29,885"
+        },
+        {
+            "word": "UI",
+            "count": "29,837"
+        },
+        {
+            "word": "CGColor",
+            "count": "29,815"
+        },
+        {
+            "word": "hasPrefix",
+            "count": "29,752"
+        },
+        {
+            "word": "ifndef",
+            "count": "29,696"
+        },
+        {
+            "word": "UITextField",
+            "count": "29,677"
+        },
+        {
+            "word": "contentOffset",
+            "count": "29,626"
+        },
+        {
+            "word": "names",
+            "count": "29,550"
+        },
+        {
+            "word": "NSURLConnection",
+            "count": "29,548"
+        },
+        {
+            "word": "picker",
+            "count": "29,546"
+        },
+        {
+            "word": "numberOfSectionsInTableView",
+            "count": "29,487"
+        },
+        {
+            "word": "sys",
+            "count": "29,437"
+        },
+        {
+            "word": "vc",
+            "count": "29,350"
+        },
+        {
+            "word": "runtime",
+            "count": "29,311"
+        },
+        {
+            "word": "NSMutableURLRequest",
+            "count": "29,309"
+        },
+        {
+            "word": "net",
+            "count": "29,254"
+        },
+        {
+            "word": "collection",
+            "count": "29,244"
+        },
+        {
+            "word": "cursor",
+            "count": "29,229"
+        },
+        {
+            "word": "required",
+            "count": "29,116"
+        },
+        {
+            "word": "noErr",
+            "count": "29,106"
+        },
+        {
+            "word": "sel",
+            "count": "28,997"
+        },
+        {
+            "word": "imageNamed",
+            "count": "28,940"
+        },
+        {
+            "word": "keyPath",
+            "count": "28,789"
+        },
+        {
+            "word": "these",
+            "count": "28,789"
+        },
+        {
+            "word": "root",
+            "count": "28,767"
+        },
+        {
+            "word": "types",
+            "count": "28,745"
+        },
+        {
+            "word": "work",
+            "count": "28,667"
+        },
+        {
+            "word": "realm",
+            "count": "28,619"
+        },
+        {
+            "word": "invalidate",
+            "count": "28,576"
+        },
+        {
+            "word": "channel",
+            "count": "28,515"
+        },
+        {
+            "word": "DA",
+            "count": "28,423"
+        },
+        {
+            "word": "removeAllObjects",
+            "count": "28,407"
+        },
+        {
+            "word": "API",
+            "count": "28,338"
+        },
+        {
+            "word": "prepareForSegue",
+            "count": "28,326"
+        },
+        {
+            "word": "NSMenuItem",
+            "count": "28,307"
+        },
+        {
+            "word": "gcf",
+            "count": "28,291"
+        },
+        {
+            "word": "var",
+            "count": "28,253"
+        },
+        {
+            "word": "ignored",
+            "count": "28,247"
+        },
+        {
+            "word": "contentSize",
+            "count": "28,230"
+        },
+        {
+            "word": "UIStoryboardSegue",
+            "count": "28,162"
+        },
+        {
+            "word": "OK",
+            "count": "28,147"
+        },
+        {
+            "word": "expected",
+            "count": "28,144"
+        },
+        {
+            "word": "last",
+            "count": "28,138"
+        },
+        {
+            "word": "between",
+            "count": "28,116"
+        },
+        {
+            "word": "extension",
+            "count": "28,090"
+        },
+        {
+            "word": "loop",
+            "count": "28,045"
+        },
+        {
+            "word": "Data",
+            "count": "28,042"
+        },
+        {
+            "word": "_tableView",
+            "count": "28,025"
+        },
+        {
+            "word": "outProtocol",
+            "count": "27,985"
+        },
+        {
+            "word": "listener",
+            "count": "27,980"
+        },
+        {
+            "word": "performance",
+            "count": "27,966"
+        },
+        {
+            "word": "functions",
+            "count": "27,944"
+        },
+        {
+            "word": "int64_t",
+            "count": "27,805"
+        },
+        {
+            "word": "space",
+            "count": "27,779"
+        },
+        {
+            "word": "about",
+            "count": "27,681"
+        },
+        {
+            "word": "scanner",
+            "count": "27,664"
+        },
+        {
+            "word": "forms",
+            "count": "27,616"
+        },
+        {
+            "word": "system",
+            "count": "27,608"
+        },
+        {
+            "word": "Output",
+            "count": "27,604"
+        },
+        {
+            "word": "NSCalendar",
+            "count": "27,563"
+        },
+        {
+            "word": "controller_",
+            "count": "27,554"
+        },
+        {
+            "word": "service",
+            "count": "27,507"
+        }
+    ]
+}

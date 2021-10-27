@@ -1,0 +1,3897 @@
+{
+    "language": "clj",
+    "words": [
+        {
+            "word": "as",
+            "count": "158,444"
+        },
+        {
+            "word": "nil",
+            "count": "156,278"
+        },
+        {
+            "word": "clojure",
+            "count": "146,742"
+        },
+        {
+            "word": "defn",
+            "count": "137,894"
+        },
+        {
+            "word": "xs",
+            "count": "132,507"
+        },
+        {
+            "word": "a",
+            "count": "99,109"
+        },
+        {
+            "word": "coll",
+            "count": "96,139"
+        },
+        {
+            "word": "x",
+            "count": "90,356"
+        },
+        {
+            "word": "if",
+            "count": "86,977"
+        },
+        {
+            "word": "let",
+            "count": "86,729"
+        },
+        {
+            "word": "fn",
+            "count": "85,477"
+        },
+        {
+            "word": "core",
+            "count": "80,279"
+        },
+        {
+            "word": "the",
+            "count": "78,604"
+        },
+        {
+            "word": "refer",
+            "count": "77,557"
+        },
+        {
+            "word": "is",
+            "count": "77,507"
+        },
+        {
+            "word": "require",
+            "count": "73,422"
+        },
+        {
+            "word": "test",
+            "count": "72,169"
+        },
+        {
+            "word": "true",
+            "count": "65,254"
+        },
+        {
+            "word": "s",
+            "count": "62,246"
+        },
+        {
+            "word": "db",
+            "count": "60,641"
+        },
+        {
+            "word": "count",
+            "count": "59,552"
+        },
+        {
+            "word": "f",
+            "count": "59,248"
+        },
+        {
+            "word": "org",
+            "count": "56,757"
+        },
+        {
+            "word": "to",
+            "count": "52,392"
+        },
+        {
+            "word": "n",
+            "count": "48,964"
+        },
+        {
+            "word": "not",
+            "count": "48,036"
+        },
+        {
+            "word": "state",
+            "count": "47,658"
+        },
+        {
+            "word": "map",
+            "count": "47,061"
+        },
+        {
+            "word": "this",
+            "count": "46,008"
+        },
+        {
+            "word": "all",
+            "count": "45,352"
+        },
+        {
+            "word": "v",
+            "count": "45,236"
+        },
+        {
+            "word": "inc",
+            "count": "45,008"
+        },
+        {
+            "word": "and",
+            "count": "44,531"
+        },
+        {
+            "word": "content",
+            "count": "44,100"
+        },
+        {
+            "word": "name",
+            "count": "43,436"
+        },
+        {
+            "word": "when",
+            "count": "43,155"
+        },
+        {
+            "word": "with",
+            "count": "43,147"
+        },
+        {
+            "word": "range",
+            "count": "42,912"
+        },
+        {
+            "word": "http",
+            "count": "42,677"
+        },
+        {
+            "word": "k",
+            "count": "42,566"
+        },
+        {
+            "word": "of",
+            "count": "42,492"
+        },
+        {
+            "word": "id",
+            "count": "42,152"
+        },
+        {
+            "word": "tag",
+            "count": "42,104"
+        },
+        {
+            "word": "string",
+            "count": "41,684"
+        },
+        {
+            "word": "i",
+            "count": "41,478"
+        },
+        {
+            "word": "ndx0",
+            "count": "38,912"
+        },
+        {
+            "word": "ndx1",
+            "count": "38,912"
+        },
+        {
+            "word": "ndx2",
+            "count": "38,912"
+        },
+        {
+            "word": "type",
+            "count": "38,890"
+        },
+        {
+            "word": "in",
+            "count": "38,880"
+        },
+        {
+            "word": "e",
+            "count": "37,965"
+        },
+        {
+            "word": "do",
+            "count": "37,125"
+        },
+        {
+            "word": "key",
+            "count": "36,671"
+        },
+        {
+            "word": "seq",
+            "count": "35,885"
+        },
+        {
+            "word": "for",
+            "count": "35,531"
+        },
+        {
+            "word": "y",
+            "count": "35,460"
+        },
+        {
+            "word": "attrs",
+            "count": "35,431"
+        },
+        {
+            "word": "set",
+            "count": "35,138"
+        },
+        {
+            "word": "val",
+            "count": "34,057"
+        },
+        {
+            "word": "false",
+            "count": "33,366"
+        },
+        {
+            "word": "str",
+            "count": "31,866"
+        },
+        {
+            "word": "br",
+            "count": "31,526"
+        },
+        {
+            "word": "url",
+            "count": "31,294"
+        },
+        {
+            "word": "_",
+            "count": "31,126"
+        },
+        {
+            "word": "clj",
+            "count": "30,794"
+        },
+        {
+            "word": "js",
+            "count": "30,491"
+        },
+        {
+            "word": "get",
+            "count": "30,423"
+        },
+        {
+            "word": "ring",
+            "count": "30,153"
+        },
+        {
+            "word": "html",
+            "count": "30,045"
+        },
+        {
+            "word": "value",
+            "count": "29,683"
+        },
+        {
+            "word": "first",
+            "count": "29,297"
+        },
+        {
+            "word": "ndx3",
+            "count": "29,184"
+        },
+        {
+            "word": "java",
+            "count": "29,170"
+        },
+        {
+            "word": "args",
+            "count": "28,841"
+        },
+        {
+            "word": "meta",
+            "count": "28,447"
+        },
+        {
+            "word": "cond",
+            "count": "27,820"
+        },
+        {
+            "word": "b",
+            "count": "27,797"
+        },
+        {
+            "word": "or",
+            "count": "27,690"
+        },
+        {
+            "word": "node",
+            "count": "27,523"
+        },
+        {
+            "word": "cljs",
+            "count": "27,128"
+        },
+        {
+            "word": "time",
+            "count": "26,585"
+        },
+        {
+            "word": "user",
+            "count": "26,366"
+        },
+        {
+            "word": "io",
+            "count": "26,360"
+        },
+        {
+            "word": "c",
+            "count": "25,890"
+        },
+        {
+            "word": "body",
+            "count": "25,767"
+        },
+        {
+            "word": "def",
+            "count": "25,686"
+        },
+        {
+            "word": "m",
+            "count": "24,745"
+        },
+        {
+            "word": "data",
+            "count": "24,369"
+        },
+        {
+            "word": "app",
+            "count": "24,343"
+        },
+        {
+            "word": "new",
+            "count": "23,941"
+        },
+        {
+            "word": "response",
+            "count": "23,781"
+        },
+        {
+            "word": "start",
+            "count": "23,771"
+        },
+        {
+            "word": "hash",
+            "count": "23,609"
+        },
+        {
+            "word": "arr",
+            "count": "23,464"
+        },
+        {
+            "word": "event",
+            "count": "22,965"
+        },
+        {
+            "word": "FIXME",
+            "count": "22,840"
+        },
+        {
+            "word": "status",
+            "count": "22,706"
+        },
+        {
+            "word": "com",
+            "count": "22,532"
+        },
+        {
+            "word": "result",
+            "count": "22,020"
+        },
+        {
+            "word": "path",
+            "count": "21,887"
+        },
+        {
+            "word": "div",
+            "count": "21,815"
+        },
+        {
+            "word": "dependencies",
+            "count": "20,660"
+        },
+        {
+            "word": "handler",
+            "count": "20,582"
+        },
+        {
+            "word": "assoc",
+            "count": "20,478"
+        },
+        {
+            "word": "request",
+            "count": "20,009"
+        },
+        {
+            "word": "server",
+            "count": "19,995"
+        },
+        {
+            "word": "file",
+            "count": "19,806"
+        },
+        {
+            "word": "target",
+            "count": "19,674"
+        },
+        {
+            "word": "source",
+            "count": "19,601"
+        },
+        {
+            "word": "d",
+            "count": "19,535"
+        },
+        {
+            "word": "t",
+            "count": "19,412"
+        },
+        {
+            "word": "testing",
+            "count": "19,396"
+        },
+        {
+            "word": "message",
+            "count": "19,357"
+        },
+        {
+            "word": "description",
+            "count": "19,312"
+        },
+        {
+            "word": "env",
+            "count": "19,248"
+        },
+        {
+            "word": "json",
+            "count": "19,185"
+        },
+        {
+            "word": "async",
+            "count": "19,131"
+        },
+        {
+            "word": "reduce",
+            "count": "18,998"
+        },
+        {
+            "word": "writer",
+            "count": "18,827"
+        },
+        {
+            "word": "try",
+            "count": "18,804"
+        },
+        {
+            "word": "array",
+            "count": "18,802"
+        },
+        {
+            "word": "config",
+            "count": "18,756"
+        },
+        {
+            "word": "use",
+            "count": "18,588"
+        },
+        {
+            "word": "init",
+            "count": "18,267"
+        },
+        {
+            "word": "list",
+            "count": "18,168"
+        },
+        {
+            "word": "om",
+            "count": "17,965"
+        },
+        {
+            "word": "o",
+            "count": "17,822"
+        },
+        {
+            "word": "Returns",
+            "count": "17,651"
+        },
+        {
+            "word": "main",
+            "count": "17,612"
+        },
+        {
+            "word": "else",
+            "count": "17,267"
+        },
+        {
+            "word": "error",
+            "count": "17,230"
+        },
+        {
+            "word": "recur",
+            "count": "17,139"
+        },
+        {
+            "word": "opts",
+            "count": "17,135"
+        },
+        {
+            "word": "keys",
+            "count": "16,935"
+        },
+        {
+            "word": "found",
+            "count": "16,803"
+        },
+        {
+            "word": "wrap",
+            "count": "16,652"
+        },
+        {
+            "word": "port",
+            "count": "16,373"
+        },
+        {
+            "word": "class",
+            "count": "16,287"
+        },
+        {
+            "word": "out",
+            "count": "16,200"
+        },
+        {
+            "word": "on",
+            "count": "16,151"
+        },
+        {
+            "word": "onyx",
+            "count": "15,886"
+        },
+        {
+            "word": "root",
+            "count": "15,827"
+        },
+        {
+            "word": "macros",
+            "count": "15,645"
+        },
+        {
+            "word": "component",
+            "count": "15,285"
+        },
+        {
+            "word": "next",
+            "count": "15,284"
+        },
+        {
+            "word": "resources",
+            "count": "14,955"
+        },
+        {
+            "word": "print",
+            "count": "14,644"
+        },
+        {
+            "word": "be",
+            "count": "14,593"
+        },
+        {
+            "word": "catch",
+            "count": "14,556"
+        },
+        {
+            "word": "r",
+            "count": "14,512"
+        },
+        {
+            "word": "loop",
+            "count": "14,372"
+        },
+        {
+            "word": "client",
+            "count": "14,298"
+        },
+        {
+            "word": "www",
+            "count": "14,297"
+        },
+        {
+            "word": "ns",
+            "count": "14,114"
+        },
+        {
+            "word": "epl",
+            "count": "14,072"
+        },
+        {
+            "word": "v10",
+            "count": "14,072"
+        },
+        {
+            "word": "right",
+            "count": "13,978"
+        },
+        {
+            "word": "gen",
+            "count": "13,973"
+        },
+        {
+            "word": "apply",
+            "count": "13,960"
+        },
+        {
+            "word": "throw",
+            "count": "13,849"
+        },
+        {
+            "word": "paths",
+            "count": "13,815"
+        },
+        {
+            "word": "write",
+            "count": "13,556"
+        },
+        {
+            "word": "from",
+            "count": "13,553"
+        },
+        {
+            "word": "params",
+            "count": "13,548"
+        },
+        {
+            "word": "certname",
+            "count": "13,478"
+        },
+        {
+            "word": "tools",
+            "count": "13,475"
+        },
+        {
+            "word": "deftest",
+            "count": "13,400"
+        },
+        {
+            "word": "util",
+            "count": "13,380"
+        },
+        {
+            "word": "eclipse",
+            "count": "13,359"
+        },
+        {
+            "word": "legal",
+            "count": "13,315"
+        },
+        {
+            "word": "lein",
+            "count": "13,188"
+        },
+        {
+            "word": "query",
+            "count": "13,092"
+        },
+        {
+            "word": "pr",
+            "count": "13,077"
+        },
+        {
+            "word": "method",
+            "count": "13,057"
+        },
+        {
+            "word": "h",
+            "count": "12,943"
+        },
+        {
+            "word": "left",
+            "count": "12,929"
+        },
+        {
+            "word": "example",
+            "count": "12,821"
+        },
+        {
+            "word": "events",
+            "count": "12,787"
+        },
+        {
+            "word": "other",
+            "count": "12,780"
+        },
+        {
+            "word": "empty",
+            "count": "12,753"
+        },
+        {
+            "word": "cnt",
+            "count": "12,687"
+        },
+        {
+            "word": "schema",
+            "count": "12,641"
+        },
+        {
+            "word": "log",
+            "count": "12,152"
+        },
+        {
+            "word": "number",
+            "count": "12,124"
+        },
+        {
+            "word": "size",
+            "count": "12,106"
+        },
+        {
+            "word": "aget",
+            "count": "12,077"
+        },
+        {
+            "word": "p",
+            "count": "12,002"
+        },
+        {
+            "word": "compojure",
+            "count": "11,987"
+        },
+        {
+            "word": "src",
+            "count": "11,921"
+        },
+        {
+            "word": "g",
+            "count": "11,839"
+        },
+        {
+            "word": "bit",
+            "count": "11,813"
+        },
+        {
+            "word": "run",
+            "count": "11,727"
+        },
+        {
+            "word": "that",
+            "count": "11,609"
+        },
+        {
+            "word": "msg",
+            "count": "11,594"
+        },
+        {
+            "word": "obj",
+            "count": "11,480"
+        },
+        {
+            "word": "output",
+            "count": "11,324"
+        },
+        {
+            "word": "input",
+            "count": "11,306"
+        },
+        {
+            "word": "index",
+            "count": "11,280"
+        },
+        {
+            "word": "text",
+            "count": "11,280"
+        },
+        {
+            "word": "logging",
+            "count": "11,255"
+        },
+        {
+            "word": "service",
+            "count": "11,229"
+        },
+        {
+            "word": "by",
+            "count": "11,184"
+        },
+        {
+            "word": "default",
+            "count": "11,167"
+        },
+        {
+            "word": "dev",
+            "count": "11,040"
+        },
+        {
+            "word": "version",
+            "count": "11,034"
+        },
+        {
+            "word": "println",
+            "count": "10,910"
+        },
+        {
+            "word": "middleware",
+            "count": "10,821"
+        },
+        {
+            "word": "idx",
+            "count": "10,810"
+        },
+        {
+            "word": "api",
+            "count": "10,760"
+        },
+        {
+            "word": "dispatch",
+            "count": "10,597"
+        },
+        {
+            "word": "go",
+            "count": "10,427"
+        },
+        {
+            "word": "shift",
+            "count": "10,414"
+        },
+        {
+            "word": "req",
+            "count": "10,389"
+        },
+        {
+            "word": "rest",
+            "count": "10,383"
+        },
+        {
+            "word": "atom",
+            "count": "10,352"
+        },
+        {
+            "word": "dom",
+            "count": "10,325"
+        },
+        {
+            "word": "figwheel",
+            "count": "10,315"
+        },
+        {
+            "word": "numeric",
+            "count": "10,173"
+        },
+        {
+            "word": "solve",
+            "count": "10,153"
+        },
+        {
+            "word": "phaser",
+            "count": "10,152"
+        },
+        {
+            "word": "boolean",
+            "count": "10,116"
+        },
+        {
+            "word": "stream",
+            "count": "10,109"
+        },
+        {
+            "word": "j",
+            "count": "10,062"
+        },
+        {
+            "word": "repl",
+            "count": "10,044"
+        },
+        {
+            "word": "add",
+            "count": "10,032"
+        },
+        {
+            "word": "inode",
+            "count": "10,020"
+        },
+        {
+            "word": "more",
+            "count": "9,961"
+        },
+        {
+            "word": "conj",
+            "count": "9,941"
+        },
+        {
+            "word": "context",
+            "count": "9,919"
+        },
+        {
+            "word": "instance",
+            "count": "9,889"
+        },
+        {
+            "word": "part",
+            "count": "9,862"
+        },
+        {
+            "word": "q",
+            "count": "9,736"
+        },
+        {
+            "word": "into",
+            "count": "9,730"
+        },
+        {
+            "word": "ret",
+            "count": "9,723"
+        },
+        {
+            "word": "resource",
+            "count": "9,718"
+        },
+        {
+            "word": "render",
+            "count": "9,706"
+        },
+        {
+            "word": "returns",
+            "count": "9,658"
+        },
+        {
+            "word": "options",
+            "count": "9,610"
+        },
+        {
+            "word": "end",
+            "count": "9,582"
+        },
+        {
+            "word": "puppetlabs",
+            "count": "9,539"
+        },
+        {
+            "word": "an",
+            "count": "9,455"
+        },
+        {
+            "word": "public",
+            "count": "9,444"
+        },
+        {
+            "word": "table",
+            "count": "9,410"
+        },
+        {
+            "word": "utils",
+            "count": "9,347"
+        },
+        {
+            "word": "cljsbuild",
+            "count": "9,163"
+        },
+        {
+            "word": "are",
+            "count": "9,156"
+        },
+        {
+            "word": "Exception",
+            "count": "9,024"
+        },
+        {
+            "word": "tree",
+            "count": "8,951"
+        },
+        {
+            "word": "route",
+            "count": "8,919"
+        },
+        {
+            "word": "equiv",
+            "count": "8,903"
+        },
+        {
+            "word": "import",
+            "count": "8,889"
+        },
+        {
+            "word": "function",
+            "count": "8,885"
+        },
+        {
+            "word": "added",
+            "count": "8,690"
+        },
+        {
+            "word": "foo",
+            "count": "8,600"
+        },
+        {
+            "word": "will",
+            "count": "8,592"
+        },
+        {
+            "word": "nth",
+            "count": "8,512"
+        },
+        {
+            "word": "I",
+            "count": "8,500"
+        },
+        {
+            "word": "page",
+            "count": "8,475"
+        },
+        {
+            "word": "vector",
+            "count": "8,443"
+        },
+        {
+            "word": "create",
+            "count": "8,442"
+        },
+        {
+            "word": "routes",
+            "count": "8,433"
+        },
+        {
+            "word": "form",
+            "count": "8,429"
+        },
+        {
+            "word": "lang",
+            "count": "8,414"
+        },
+        {
+            "word": "include",
+            "count": "8,274"
+        },
+        {
+            "word": "read",
+            "count": "8,215"
+        },
+        {
+            "word": "defaults",
+            "count": "8,094"
+        },
+        {
+            "word": "stop",
+            "count": "8,058"
+        },
+        {
+            "word": "dir",
+            "count": "7,993"
+        },
+        {
+            "word": "reagent",
+            "count": "7,992"
+        },
+        {
+            "word": "timestamp",
+            "count": "7,992"
+        },
+        {
+            "word": "len",
+            "count": "7,934"
+        },
+        {
+            "word": "z",
+            "count": "7,846"
+        },
+        {
+            "word": "update",
+            "count": "7,839"
+        },
+        {
+            "word": "no",
+            "count": "7,812"
+        },
+        {
+            "word": "ch",
+            "count": "7,795"
+        },
+        {
+            "word": "catalog",
+            "count": "7,780"
+        },
+        {
+            "word": "tcoll",
+            "count": "7,594"
+        },
+        {
+            "word": "headers",
+            "count": "7,587"
+        },
+        {
+            "word": "jdbc",
+            "count": "7,502"
+        },
+        {
+            "word": "session",
+            "count": "7,426"
+        },
+        {
+            "word": "level",
+            "count": "7,393"
+        },
+        {
+            "word": "metric",
+            "count": "7,385"
+        },
+        {
+            "word": "lookup",
+            "count": "7,366"
+        },
+        {
+            "word": "zero",
+            "count": "7,365"
+        },
+        {
+            "word": "l",
+            "count": "7,364"
+        },
+        {
+            "word": "format",
+            "count": "7,324"
+        },
+        {
+            "word": "one",
+            "count": "7,301"
+        },
+        {
+            "word": "title",
+            "count": "7,248"
+        },
+        {
+            "word": "edit",
+            "count": "7,242"
+        },
+        {
+            "word": "it",
+            "count": "7,232"
+        },
+        {
+            "word": "lazy",
+            "count": "7,193"
+        },
+        {
+            "word": "~",
+            "count": "7,182"
+        },
+        {
+            "word": "children",
+            "count": "7,138"
+        },
+        {
+            "word": "fail",
+            "count": "7,063"
+        },
+        {
+            "word": "info",
+            "count": "6,984"
+        },
+        {
+            "word": "code",
+            "count": "6,962"
+        },
+        {
+            "word": "item",
+            "count": "6,892"
+        },
+        {
+            "word": "goog",
+            "count": "6,891"
+        },
+        {
+            "word": "line",
+            "count": "6,885"
+        },
+        {
+            "word": "merge",
+            "count": "6,862"
+        },
+        {
+            "word": "reader",
+            "count": "6,858"
+        },
+        {
+            "word": "at",
+            "count": "6,760"
+        },
+        {
+            "word": "make",
+            "count": "6,748"
+        },
+        {
+            "word": "object",
+            "count": "6,736"
+        },
+        {
+            "word": "comment",
+            "count": "6,722"
+        },
+        {
+            "word": "aset",
+            "count": "6,697"
+        },
+        {
+            "word": "re",
+            "count": "6,660"
+        },
+        {
+            "word": "NOT",
+            "count": "6,634"
+        },
+        {
+            "word": "reset",
+            "count": "6,623"
+        },
+        {
+            "word": "NULL",
+            "count": "6,618"
+        },
+        {
+            "word": "doseq",
+            "count": "6,580"
+        },
+        {
+            "word": "Object",
+            "count": "6,519"
+        },
+        {
+            "word": "css",
+            "count": "6,519"
+        },
+        {
+            "word": "cardinality",
+            "count": "6,465"
+        },
+        {
+            "word": "vec",
+            "count": "6,456"
+        },
+        {
+            "word": "cons",
+            "count": "6,444"
+        },
+        {
+            "word": "ks",
+            "count": "6,437"
+        },
+        {
+            "word": "profiles",
+            "count": "6,406"
+        },
+        {
+            "word": "plugins",
+            "count": "6,393"
+        },
+        {
+            "word": "pprint",
+            "count": "6,385"
+        },
+        {
+            "word": "fs",
+            "count": "6,381"
+        },
+        {
+            "word": "group",
+            "count": "6,381"
+        },
+        {
+            "word": "items",
+            "count": "6,338"
+        },
+        {
+            "word": "current",
+            "count": "6,332"
+        },
+        {
+            "word": "which",
+            "count": "6,322"
+        },
+        {
+            "word": "only",
+            "count": "6,319"
+        },
+        {
+            "word": "Error",
+            "count": "6,317"
+        },
+        {
+            "word": "resp",
+            "count": "6,295"
+        },
+        {
+            "word": "chan",
+            "count": "6,271"
+        },
+        {
+            "word": "should",
+            "count": "6,258"
+        },
+        {
+            "word": "match",
+            "count": "6,238"
+        },
+        {
+            "word": "sql",
+            "count": "6,220"
+        },
+        {
+            "word": "parent",
+            "count": "6,197"
+        },
+        {
+            "word": "parse",
+            "count": "6,182"
+        },
+        {
+            "word": "post",
+            "count": "6,176"
+        },
+        {
+            "word": "pred",
+            "count": "6,144"
+        },
+        {
+            "word": "reload",
+            "count": "6,124"
+        },
+        {
+            "word": "take",
+            "count": "6,114"
+        },
+        {
+            "word": "collection",
+            "count": "6,110"
+        },
+        {
+            "word": "call",
+            "count": "6,100"
+        },
+        {
+            "word": "min",
+            "count": "6,096"
+        },
+        {
+            "word": "res",
+            "count": "6,091"
+        },
+        {
+            "word": "command",
+            "count": "6,075"
+        },
+        {
+            "word": "entry",
+            "count": "6,048"
+        },
+        {
+            "word": "environ",
+            "count": "6,041"
+        },
+        {
+            "word": "chunk",
+            "count": "6,032"
+        },
+        {
+            "word": "optimizations",
+            "count": "5,981"
+        },
+        {
+            "word": "conn",
+            "count": "5,947"
+        },
+        {
+            "word": "check",
+            "count": "5,935"
+        },
+        {
+            "word": "identical",
+            "count": "5,911"
+        },
+        {
+            "word": "int",
+            "count": "5,911"
+        },
+        {
+            "word": "midje",
+            "count": "5,900"
+        },
+        {
+            "word": "invoke",
+            "count": "5,894"
+        },
+        {
+            "word": "host",
+            "count": "5,879"
+        },
+        {
+            "word": "provided",
+            "count": "5,869"
+        },
+        {
+            "word": "row",
+            "count": "5,852"
+        },
+        {
+            "word": "channel",
+            "count": "5,716"
+        },
+        {
+            "word": "last",
+            "count": "5,704"
+        },
+        {
+            "word": "any",
+            "count": "5,688"
+        },
+        {
+            "word": "reify",
+            "count": "5,661"
+        },
+        {
+            "word": "swap",
+            "count": "5,655"
+        },
+        {
+            "word": "where",
+            "count": "5,633"
+        },
+        {
+            "word": "subject",
+            "count": "5,619"
+        },
+        {
+            "word": "build",
+            "count": "5,596"
+        },
+        {
+            "word": "case",
+            "count": "5,558"
+        },
+        {
+            "word": "environment",
+            "count": "5,558"
+        },
+        {
+            "word": "doc",
+            "count": "5,532"
+        },
+        {
+            "word": "alength",
+            "count": "5,509"
+        },
+        {
+            "word": "storm",
+            "count": "5,439"
+        },
+        {
+            "word": "timbre",
+            "count": "5,435"
+        },
+        {
+            "word": "jetty",
+            "count": "5,409"
+        },
+        {
+            "word": "aot",
+            "count": "5,375"
+        },
+        {
+            "word": "facts",
+            "count": "5,308"
+        },
+        {
+            "word": "If",
+            "count": "5,284"
+        },
+        {
+            "word": "contains",
+            "count": "5,276"
+        },
+        {
+            "word": "expected",
+            "count": "5,273"
+        },
+        {
+            "word": "__hash",
+            "count": "5,240"
+        },
+        {
+            "word": "tail",
+            "count": "5,238"
+        },
+        {
+            "word": "can",
+            "count": "5,220"
+        },
+        {
+            "word": "project",
+            "count": "5,213"
+        },
+        {
+            "word": "lt",
+            "count": "5,207"
+        },
+        {
+            "word": "editable",
+            "count": "5,156"
+        },
+        {
+            "word": "puppetdb",
+            "count": "5,152"
+        },
+        {
+            "word": "compiler",
+            "count": "5,137"
+        },
+        {
+            "word": "max",
+            "count": "5,117"
+        },
+        {
+            "word": "dec",
+            "count": "5,115"
+        },
+        {
+            "word": "values",
+            "count": "5,110"
+        },
+        {
+            "word": "task",
+            "count": "5,086"
+        },
+        {
+            "word": "cheshire",
+            "count": "5,015"
+        },
+        {
+            "word": "defroutes",
+            "count": "5,015"
+        },
+        {
+            "word": "remove",
+            "count": "4,975"
+        },
+        {
+            "word": "sequential",
+            "count": "4,944"
+        },
+        {
+            "word": "ctx",
+            "count": "4,934"
+        },
+        {
+            "word": "has",
+            "count": "4,932"
+        },
+        {
+            "word": "step",
+            "count": "4,930"
+        },
+        {
+            "word": "fact",
+            "count": "4,929"
+        },
+        {
+            "word": "The",
+            "count": "4,921"
+        },
+        {
+            "word": "field",
+            "count": "4,913"
+        },
+        {
+            "word": "pos",
+            "count": "4,913"
+        },
+        {
+            "word": "store",
+            "count": "4,901"
+        },
+        {
+            "word": "identity",
+            "count": "4,890"
+        },
+        {
+            "word": "batch",
+            "count": "4,873"
+        },
+        {
+            "word": "keyword",
+            "count": "4,858"
+        },
+        {
+            "word": "builds",
+            "count": "4,834"
+        },
+        {
+            "word": "join",
+            "count": "4,830"
+        },
+        {
+            "word": "system",
+            "count": "4,816"
+        },
+        {
+            "word": "comp",
+            "count": "4,813"
+        },
+        {
+            "word": "callback",
+            "count": "4,808"
+        },
+        {
+            "word": "uberjar",
+            "count": "4,805"
+        },
+        {
+            "word": "cache",
+            "count": "4,764"
+        },
+        {
+            "word": "concat",
+            "count": "4,733"
+        },
+        {
+            "word": "thrown",
+            "count": "4,731"
+        },
+        {
+            "word": "errors",
+            "count": "4,729"
+        },
+        {
+            "word": "put",
+            "count": "4,715"
+        },
+        {
+            "word": "close",
+            "count": "4,709"
+        },
+        {
+            "word": "unchecked",
+            "count": "4,686"
+        },
+        {
+            "word": "tags",
+            "count": "4,683"
+        },
+        {
+            "word": "var",
+            "count": "4,643"
+        },
+        {
+            "word": "deftype",
+            "count": "4,610"
+        },
+        {
+            "word": "filter",
+            "count": "4,588"
+        },
+        {
+            "word": "mutable",
+            "count": "4,582"
+        },
+        {
+            "word": "nrepl",
+            "count": "4,542"
+        },
+        {
+            "word": "base",
+            "count": "4,528"
+        },
+        {
+            "word": "second",
+            "count": "4,508"
+        },
+        {
+            "word": "spec",
+            "count": "4,483"
+        },
+        {
+            "word": "child",
+            "count": "4,480"
+        },
+        {
+            "word": "cert",
+            "count": "4,479"
+        },
+        {
+            "word": "objs",
+            "count": "4,467"
+        },
+        {
+            "word": "GET",
+            "count": "4,463"
+        },
+        {
+            "word": "defprotocol",
+            "count": "4,457"
+        },
+        {
+            "word": "hiccup",
+            "count": "4,455"
+        },
+        {
+            "word": "game",
+            "count": "4,437"
+        },
+        {
+            "word": "find",
+            "count": "4,394"
+        },
+        {
+            "word": "some",
+            "count": "4,386"
+        },
+        {
+            "word": "conf",
+            "count": "4,343"
+        },
+        {
+            "word": "pv",
+            "count": "4,326"
+        },
+        {
+            "word": "site",
+            "count": "4,320"
+        },
+        {
+            "word": "results",
+            "count": "4,293"
+        },
+        {
+            "word": "jar",
+            "count": "4,276"
+        },
+        {
+            "word": "mock",
+            "count": "4,235"
+        },
+        {
+            "word": "net",
+            "count": "4,223"
+        },
+        {
+            "word": "pretty",
+            "count": "4,217"
+        },
+        {
+            "word": "bar",
+            "count": "4,211"
+        },
+        {
+            "word": "satisfies",
+            "count": "4,209"
+        },
+        {
+            "word": "return",
+            "count": "4,188"
+        },
+        {
+            "word": "delete",
+            "count": "4,184"
+        },
+        {
+            "word": "This",
+            "count": "4,164"
+        },
+        {
+            "word": "jruby",
+            "count": "4,158"
+        },
+        {
+            "word": "Thread",
+            "count": "4,157"
+        },
+        {
+            "word": "replace",
+            "count": "4,136"
+        },
+        {
+            "word": "persistent",
+            "count": "4,127"
+        },
+        {
+            "word": "settings",
+            "count": "4,127"
+        },
+        {
+            "word": "uri",
+            "count": "4,112"
+        },
+        {
+            "word": "files",
+            "count": "4,097"
+        },
+        {
+            "word": "console",
+            "count": "4,096"
+        },
+        {
+            "word": "runner",
+            "count": "4,086"
+        },
+        {
+            "word": "File",
+            "count": "4,078"
+        },
+        {
+            "word": "localhost",
+            "count": "4,076"
+        },
+        {
+            "word": "cemerick",
+            "count": "4,047"
+        },
+        {
+            "word": "hierarchy",
+            "count": "4,033"
+        },
+        {
+            "word": "String",
+            "count": "4,026"
+        },
+        {
+            "word": "transient",
+            "count": "4,007"
+        },
+        {
+            "word": "timeout",
+            "count": "4,005"
+        },
+        {
+            "word": "IllegalArgumentException",
+            "count": "4,003"
+        },
+        {
+            "word": "mf",
+            "count": "3,993"
+        },
+        {
+            "word": "declare",
+            "count": "3,982"
+        },
+        {
+            "word": "stack",
+            "count": "3,971"
+        },
+        {
+            "word": "each",
+            "count": "3,953"
+        },
+        {
+            "word": "pre",
+            "count": "3,944"
+        },
+        {
+            "word": "old",
+            "count": "3,937"
+        },
+        {
+            "word": "password",
+            "count": "3,924"
+        },
+        {
+            "word": "EMPTY",
+            "count": "3,917"
+        },
+        {
+            "word": "debug",
+            "count": "3,915"
+        },
+        {
+            "word": "column",
+            "count": "3,878"
+        },
+        {
+            "word": "react",
+            "count": "3,864"
+        },
+        {
+            "word": "nodes",
+            "count": "3,859"
+        },
+        {
+            "word": "interval",
+            "count": "3,858"
+        },
+        {
+            "word": "entity",
+            "count": "3,852"
+        },
+        {
+            "word": "validate",
+            "count": "3,850"
+        },
+        {
+            "word": "frame",
+            "count": "3,836"
+        },
+        {
+            "word": "sweet",
+            "count": "3,810"
+        },
+        {
+            "word": "report",
+            "count": "3,786"
+        },
+        {
+            "word": "after",
+            "count": "3,784"
+        },
+        {
+            "word": "mount",
+            "count": "3,784"
+        },
+        {
+            "word": "model",
+            "count": "3,779"
+        },
+        {
+            "word": "edn",
+            "count": "3,763"
+        },
+        {
+            "word": "connection",
+            "count": "3,760"
+        },
+        {
+            "word": "width",
+            "count": "3,753"
+        },
+        {
+            "word": "ref",
+            "count": "3,751"
+        },
+        {
+            "word": "sleep",
+            "count": "3,742"
+        },
+        {
+            "word": "common",
+            "count": "3,739"
+        },
+        {
+            "word": "sequence",
+            "count": "3,732"
+        },
+        {
+            "word": "assert",
+            "count": "3,726"
+        },
+        {
+            "word": "symbol",
+            "count": "3,718"
+        },
+        {
+            "word": "rf",
+            "count": "3,709"
+        },
+        {
+            "word": "plugin",
+            "count": "3,697"
+        },
+        {
+            "word": "style",
+            "count": "3,695"
+        },
+        {
+            "word": "now",
+            "count": "3,672"
+        },
+        {
+            "word": "ex",
+            "count": "3,671"
+        },
+        {
+            "word": "RedNode",
+            "count": "3,670"
+        },
+        {
+            "word": "cluster",
+            "count": "3,666"
+        },
+        {
+            "word": "without",
+            "count": "3,648"
+        },
+        {
+            "word": "register",
+            "count": "3,646"
+        },
+        {
+            "word": "taoensso",
+            "count": "3,635"
+        },
+        {
+            "word": "lifecycle",
+            "count": "3,625"
+        },
+        {
+            "word": "setup",
+            "count": "3,617"
+        },
+        {
+            "word": "install",
+            "count": "3,599"
+        },
+        {
+            "word": "enable",
+            "count": "3,579"
+        },
+        {
+            "word": "bitmap",
+            "count": "3,575"
+        },
+        {
+            "word": "change",
+            "count": "3,569"
+        },
+        {
+            "word": "cli",
+            "count": "3,560"
+        },
+        {
+            "word": "off",
+            "count": "3,553"
+        },
+        {
+            "word": "job",
+            "count": "3,552"
+        },
+        {
+            "word": "_attribute",
+            "count": "3,551"
+        },
+        {
+            "word": "day",
+            "count": "3,551"
+        },
+        {
+            "word": "System",
+            "count": "3,510"
+        },
+        {
+            "word": "deref",
+            "count": "3,492"
+        },
+        {
+            "word": "window",
+            "count": "3,490"
+        },
+        {
+            "word": "ins",
+            "count": "3,475"
+        },
+        {
+            "word": "expect",
+            "count": "3,471"
+        },
+        {
+            "word": "dissoc",
+            "count": "3,465"
+        },
+        {
+            "word": "leaf",
+            "count": "3,462"
+        },
+        {
+            "word": "col",
+            "count": "3,450"
+        },
+        {
+            "word": "native",
+            "count": "3,446"
+        },
+        {
+            "word": "arguments",
+            "count": "3,443"
+        },
+        {
+            "word": "topology",
+            "count": "3,442"
+        },
+        {
+            "word": "push",
+            "count": "3,440"
+        },
+        {
+            "word": "application",
+            "count": "3,427"
+        },
+        {
+            "word": "riemann",
+            "count": "3,423"
+        },
+        {
+            "word": "none",
+            "count": "3,422"
+        },
+        {
+            "word": "eval",
+            "count": "3,414"
+        },
+        {
+            "word": "supplied",
+            "count": "3,381"
+        },
+        {
+            "word": "toString",
+            "count": "3,353"
+        },
+        {
+            "word": "clojurescript",
+            "count": "3,339"
+        },
+        {
+            "word": "database",
+            "count": "3,331"
+        },
+        {
+            "word": "ok",
+            "count": "3,330"
+        },
+        {
+            "word": "defmacro",
+            "count": "3,326"
+        },
+        {
+            "word": "sorted",
+            "count": "3,316"
+        },
+        {
+            "word": "namespace",
+            "count": "3,300"
+        },
+        {
+            "word": "open",
+            "count": "3,284"
+        },
+        {
+            "word": "exit",
+            "count": "3,283"
+        },
+        {
+            "word": "action",
+            "count": "3,280"
+        },
+        {
+            "word": "buffer",
+            "count": "3,275"
+        },
+        {
+            "word": "you",
+            "count": "3,267"
+        },
+        {
+            "word": "up",
+            "count": "3,252"
+        },
+        {
+            "word": "must",
+            "count": "3,240"
+        },
+        {
+            "word": "while",
+            "count": "3,234"
+        },
+        {
+            "word": "private",
+            "count": "3,231"
+        },
+        {
+            "word": "load",
+            "count": "3,228"
+        },
+        {
+            "word": "integer",
+            "count": "3,209"
+        },
+        {
+            "word": "leiningen",
+            "count": "3,208"
+        },
+        {
+            "word": "color",
+            "count": "3,203"
+        },
+        {
+            "word": "section",
+            "count": "3,203"
+        },
+        {
+            "word": "span",
+            "count": "3,196"
+        },
+        {
+            "word": "math",
+            "count": "3,189"
+        },
+        {
+            "word": "reaction",
+            "count": "3,179"
+        },
+        {
+            "word": "side",
+            "count": "3,179"
+        },
+        {
+            "word": "Content",
+            "count": "3,169"
+        },
+        {
+            "word": "card",
+            "count": "3,168"
+        },
+        {
+            "word": "every",
+            "count": "3,165"
+        },
+        {
+            "word": "V",
+            "count": "3,159"
+        },
+        {
+            "word": "pool",
+            "count": "3,141"
+        },
+        {
+            "word": "valueType",
+            "count": "3,139"
+        },
+        {
+            "word": "doto",
+            "count": "3,127"
+        },
+        {
+            "word": "clone",
+            "count": "3,109"
+        },
+        {
+            "word": "corp",
+            "count": "3,109"
+        },
+        {
+            "word": "header",
+            "count": "3,097"
+        },
+        {
+            "word": "fill",
+            "count": "3,078"
+        },
+        {
+            "word": "u",
+            "count": "3,077"
+        },
+        {
+            "word": "datetime",
+            "count": "3,074"
+        },
+        {
+            "word": "done",
+            "count": "3,074"
+        },
+        {
+            "word": "dosync",
+            "count": "3,069"
+        },
+        {
+            "word": "secretary",
+            "count": "3,063"
+        },
+        {
+            "word": "length",
+            "count": "3,057"
+        },
+        {
+            "word": "stuartsierra",
+            "count": "3,055"
+        },
+        {
+            "word": "binding",
+            "count": "3,043"
+        },
+        {
+            "word": "stats",
+            "count": "3,038"
+        },
+        {
+            "word": "have",
+            "count": "3,034"
+        },
+        {
+            "word": "peer",
+            "count": "3,032"
+        },
+        {
+            "word": "vals",
+            "count": "3,026"
+        },
+        {
+            "word": "called",
+            "count": "3,010"
+        },
+        {
+            "word": "exception",
+            "count": "3,007"
+        },
+        {
+            "word": "p2",
+            "count": "2,992"
+        },
+        {
+            "word": "p1",
+            "count": "2,983"
+        },
+        {
+            "word": "given",
+            "count": "2,971"
+        },
+        {
+            "word": "static",
+            "count": "2,965"
+        },
+        {
+            "word": "optional",
+            "count": "2,964"
+        },
+        {
+            "word": "button",
+            "count": "2,956"
+        },
+        {
+            "word": "watch",
+            "count": "2,952"
+        },
+        {
+            "word": "puppet",
+            "count": "2,950"
+        },
+        {
+            "word": "services",
+            "count": "2,946"
+        },
+        {
+            "word": "acc",
+            "count": "2,944"
+        },
+        {
+            "word": "Integer",
+            "count": "2,937"
+        },
+        {
+            "word": "Throwable",
+            "count": "2,933"
+        },
+        {
+            "word": "enlive",
+            "count": "2,929"
+        },
+        {
+            "word": "top",
+            "count": "2,925"
+        },
+        {
+            "word": "local",
+            "count": "2,921"
+        },
+        {
+            "word": "warn",
+            "count": "2,920"
+        },
+        {
+            "word": "order",
+            "count": "2,918"
+        },
+        {
+            "word": "token",
+            "count": "2,900"
+        },
+        {
+            "word": "prefix",
+            "count": "2,897"
+        },
+        {
+            "word": "pop",
+            "count": "2,884"
+        },
+        {
+            "word": "global",
+            "count": "2,871"
+        },
+        {
+            "word": "IEquiv",
+            "count": "2,869"
+        },
+        {
+            "word": "piggieback",
+            "count": "2,864"
+        },
+        {
+            "word": "doall",
+            "count": "2,855"
+        },
+        {
+            "word": "calls",
+            "count": "2,846"
+        },
+        {
+            "word": "kv",
+            "count": "2,839"
+        },
+        {
+            "word": "than",
+            "count": "2,838"
+        },
+        {
+            "word": "csr",
+            "count": "2,834"
+        },
+        {
+            "word": "owner",
+            "count": "2,834"
+        },
+        {
+            "word": "tests",
+            "count": "2,832"
+        },
+        {
+            "word": "sym",
+            "count": "2,824"
+        },
+        {
+            "word": "ws",
+            "count": "2,817"
+        },
+        {
+            "word": "Str",
+            "count": "2,811"
+        },
+        {
+            "word": "same",
+            "count": "2,811"
+        },
+        {
+            "word": "auth",
+            "count": "2,810"
+        },
+        {
+            "word": "exists",
+            "count": "2,807"
+        },
+        {
+            "word": "names",
+            "count": "2,797"
+        },
+        {
+            "word": "handle",
+            "count": "2,770"
+        },
+        {
+            "word": "basic",
+            "count": "2,765"
+        },
+        {
+            "word": "types",
+            "count": "2,758"
+        },
+        {
+            "word": "expired",
+            "count": "2,752"
+        },
+        {
+            "word": "IHash",
+            "count": "2,747"
+        },
+        {
+            "word": "its",
+            "count": "2,745"
+        },
+        {
+            "word": "Type",
+            "count": "2,742"
+        },
+        {
+            "word": "weasel",
+            "count": "2,739"
+        },
+        {
+            "word": "we",
+            "count": "2,736"
+        },
+        {
+            "word": "testutils",
+            "count": "2,724"
+        },
+        {
+            "word": "flush",
+            "count": "2,723"
+        },
+        {
+            "word": "append",
+            "count": "2,722"
+        },
+        {
+            "word": "effect",
+            "count": "2,717"
+        },
+        {
+            "word": "metabase",
+            "count": "2,717"
+        },
+        {
+            "word": "compare",
+            "count": "2,715"
+        },
+        {
+            "word": "ensure",
+            "count": "2,714"
+        },
+        {
+            "word": "ISeqable",
+            "count": "2,707"
+        },
+        {
+            "word": "metadata",
+            "count": "2,702"
+        },
+        {
+            "word": "zip",
+            "count": "2,683"
+        },
+        {
+            "word": "active",
+            "count": "2,681"
+        },
+        {
+            "word": "ca",
+            "count": "2,680"
+        },
+        {
+            "word": "auto",
+            "count": "2,675"
+        },
+        {
+            "word": "fields",
+            "count": "2,671"
+        },
+        {
+            "word": "expr",
+            "count": "2,668"
+        },
+        {
+            "word": "exclude",
+            "count": "2,666"
+        },
+        {
+            "word": "used",
+            "count": "2,659"
+        },
+        {
+            "word": "clojars",
+            "count": "2,646"
+        },
+        {
+            "word": "board",
+            "count": "2,645"
+        },
+        {
+            "word": "home",
+            "count": "2,640"
+        },
+        {
+            "word": "Hello",
+            "count": "2,634"
+        },
+        {
+            "word": "adapter",
+            "count": "2,623"
+        },
+        {
+            "word": "uuid",
+            "count": "2,619"
+        },
+        {
+            "word": "ast",
+            "count": "2,617"
+        },
+        {
+            "word": "don",
+            "count": "2,612"
+        },
+        {
+            "word": "select",
+            "count": "2,612"
+        },
+        {
+            "word": "BlackNode",
+            "count": "2,605"
+        },
+        {
+            "word": "walk",
+            "count": "2,600"
+        },
+        {
+            "word": "certificate",
+            "count": "2,593"
+        },
+        {
+            "word": "send",
+            "count": "2,583"
+        },
+        {
+            "word": "helper",
+            "count": "2,581"
+        },
+        {
+            "word": "mode",
+            "count": "2,576"
+        },
+        {
+            "word": "finally",
+            "count": "2,575"
+        },
+        {
+            "word": "IMeta",
+            "count": "2,574"
+        },
+        {
+            "word": "available",
+            "count": "2,568"
+        },
+        {
+            "word": "success",
+            "count": "2,551"
+        },
+        {
+            "word": "etc",
+            "count": "2,550"
+        },
+        {
+            "word": "reduced",
+            "count": "2,537"
+        },
+        {
+            "word": "iter",
+            "count": "2,535"
+        },
+        {
+            "word": "once",
+            "count": "2,532"
+        },
+        {
+            "word": "draw",
+            "count": "2,531"
+        },
+        {
+            "word": "email",
+            "count": "2,525"
+        },
+        {
+            "word": "matches",
+            "count": "2,523"
+        },
+        {
+            "word": "drop",
+            "count": "2,521"
+        },
+        {
+            "word": "connect",
+            "count": "2,510"
+        },
+        {
+            "word": "best",
+            "count": "2,502"
+        },
+        {
+            "word": "nimbus",
+            "count": "2,501"
+        },
+        {
+            "word": "newline",
+            "count": "2,496"
+        },
+        {
+            "word": "fixtures",
+            "count": "2,486"
+        },
+        {
+            "word": "World",
+            "count": "2,479"
+        },
+        {
+            "word": "endpoint",
+            "count": "2,474"
+        },
+        {
+            "word": "split",
+            "count": "2,472"
+        },
+        {
+            "word": "props",
+            "count": "2,441"
+        },
+        {
+            "word": "tr",
+            "count": "2,436"
+        },
+        {
+            "word": "indexed",
+            "count": "2,429"
+        },
+        {
+            "word": "sc",
+            "count": "2,427"
+        },
+        {
+            "word": "Parameters",
+            "count": "2,426"
+        },
+        {
+            "word": "scf",
+            "count": "2,426"
+        },
+        {
+            "word": "del",
+            "count": "2,424"
+        },
+        {
+            "word": "extend",
+            "count": "2,418"
+        },
+        {
+            "word": "month",
+            "count": "2,417"
+        },
+        {
+            "word": "random",
+            "count": "2,411"
+        },
+        {
+            "word": "sort",
+            "count": "2,409"
+        },
+        {
+            "word": "copy",
+            "count": "2,402"
+        },
+        {
+            "word": "head",
+            "count": "2,396"
+        },
+        {
+            "word": "DEV",
+            "count": "2,393"
+        },
+        {
+            "word": "varchar",
+            "count": "2,373"
+        },
+        {
+            "word": "date",
+            "count": "2,360"
+        },
+        {
+            "word": "tv",
+            "count": "2,359"
+        },
+        {
+            "word": "IRender",
+            "count": "2,358"
+        },
+        {
+            "word": "container",
+            "count": "2,354"
+        },
+        {
+            "word": "h1",
+            "count": "2,352"
+        },
+        {
+            "word": "exec",
+            "count": "2,335"
+        },
+        {
+            "word": "label",
+            "count": "2,327"
+        },
+        {
+            "word": "forms",
+            "count": "2,324"
+        },
+        {
+            "word": "PersistentVector",
+            "count": "2,322"
+        },
+        {
+            "word": "xml",
+            "count": "2,314"
+        },
+        {
+            "word": "partial",
+            "count": "2,312"
+        },
+        {
+            "word": "chunked",
+            "count": "2,301"
+        },
+        {
+            "word": "actions",
+            "count": "2,300"
+        },
+        {
+            "word": "document",
+            "count": "2,297"
+        },
+        {
+            "word": "ICollection",
+            "count": "2,293"
+        },
+        {
+            "word": "executor",
+            "count": "2,286"
+        },
+        {
+            "word": "num",
+            "count": "2,278"
+        },
+        {
+            "word": "long",
+            "count": "2,275"
+        },
+        {
+            "word": "scheduler",
+            "count": "2,272"
+        },
+        {
+            "word": "browser",
+            "count": "2,270"
+        },
+        {
+            "word": "IWithMeta",
+            "count": "2,262"
+        },
+        {
+            "word": "before",
+            "count": "2,262"
+        },
+        {
+            "word": "iterator",
+            "count": "2,256"
+        },
+        {
+            "word": "ICounted",
+            "count": "2,236"
+        },
+        {
+            "word": "position",
+            "count": "2,232"
+        },
+        {
+            "word": "servlet",
+            "count": "2,232"
+        },
+        {
+            "word": "bindings",
+            "count": "2,231"
+        },
+        {
+            "word": "dotimes",
+            "count": "2,230"
+        },
+        {
+            "word": "times",
+            "count": "2,227"
+        },
+        {
+            "word": "cases",
+            "count": "2,222"
+        },
+        {
+            "word": "jiksnu",
+            "count": "2,211"
+        },
+        {
+            "word": "web",
+            "count": "2,207"
+        },
+        {
+            "word": "link",
+            "count": "2,195"
+        },
+        {
+            "word": "es6",
+            "count": "2,180"
+        },
+        {
+            "word": "reports",
+            "count": "2,175"
+        },
+        {
+            "word": "so",
+            "count": "2,174"
+        },
+        {
+            "word": "summary",
+            "count": "2,173"
+        },
+        {
+            "word": "world",
+            "count": "2,168"
+        },
+        {
+            "word": "colls",
+            "count": "2,162"
+        },
+        {
+            "word": "bootstrap",
+            "count": "2,155"
+        },
+        {
+            "word": "parser",
+            "count": "2,141"
+        },
+        {
+            "word": "quil",
+            "count": "2,138"
+        },
+        {
+            "word": "but",
+            "count": "2,134"
+        },
+        {
+            "word": "me",
+            "count": "2,134"
+        },
+        {
+            "word": "lot",
+            "count": "2,133"
+        },
+        {
+            "word": "triggers",
+            "count": "2,133"
+        },
+        {
+            "word": "functions",
+            "count": "2,132"
+        },
+        {
+            "word": "IEmptyableCollection",
+            "count": "2,125"
+        },
+        {
+            "word": "ISeq",
+            "count": "2,120"
+        },
+        {
+            "word": "clear",
+            "count": "2,117"
+        },
+        {
+            "word": "non",
+            "count": "2,114"
+        },
+        {
+            "word": "username",
+            "count": "2,112"
+        },
+        {
+            "word": "A",
+            "count": "2,105"
+        },
+        {
+            "word": "IFn",
+            "count": "2,098"
+        },
+        {
+            "word": "parameters",
+            "count": "2,098"
+        },
+        {
+            "word": "w",
+            "count": "2,094"
+        },
+        {
+            "word": "slingshot",
+            "count": "2,093"
+        },
+        {
+            "word": "streams",
+            "count": "2,090"
+        },
+        {
+            "word": "valid",
+            "count": "2,088"
+        },
+        {
+            "word": "whole",
+            "count": "2,079"
+        },
+        {
+            "word": "reg",
+            "count": "2,078"
+        },
+        {
+            "word": "advanced",
+            "count": "2,077"
+        },
+        {
+            "word": "show",
+            "count": "2,076"
+        },
+        {
+            "word": "chromex",
+            "count": "2,068"
+        },
+        {
+            "word": "protocol",
+            "count": "2,066"
+        },
+        {
+            "word": "height",
+            "count": "2,059"
+        },
+        {
+            "word": "prod",
+            "count": "2,059"
+        },
+        {
+            "word": "ordered",
+            "count": "2,053"
+        },
+        {
+            "word": "partition",
+            "count": "2,053"
+        },
+        {
+            "word": "script",
+            "count": "2,052"
+        },
+        {
+            "word": "ajax",
+            "count": "2,049"
+        },
+        {
+            "word": "md",
+            "count": "2,047"
+        },
+        {
+            "word": "Note",
+            "count": "2,042"
+        },
+        {
+            "word": "cpu",
+            "count": "2,038"
+        },
+        {
+            "word": "distribution",
+            "count": "2,033"
+        },
+        {
+            "word": "queue",
+            "count": "2,028"
+        },
+        {
+            "word": "segments",
+            "count": "2,027"
+        },
+        {
+            "word": "actual",
+            "count": "2,001"
+        },
+        {
+            "word": "nval",
+            "count": "1,997"
+        },
+        {
+            "word": "alpha",
+            "count": "1,990"
+        },
+        {
+            "word": "pem",
+            "count": "1,989"
+        },
+        {
+            "word": "parseInt",
+            "count": "1,981"
+        },
+        {
+            "word": "insert",
+            "count": "1,979"
+        },
+        {
+            "word": "ssl",
+            "count": "1,976"
+        },
+        {
+            "word": "repo",
+            "count": "1,970"
+        },
+        {
+            "word": "cat",
+            "count": "1,966"
+        },
+        {
+            "word": "rate",
+            "count": "1,963"
+        },
+        {
+            "word": "UUID",
+            "count": "1,956"
+        },
+        {
+            "word": "sum",
+            "count": "1,953"
+        },
+        {
+            "word": "maps",
+            "count": "1,950"
+        },
+        {
+            "word": "scale",
+            "count": "1,948"
+        },
+        {
+            "word": "cursor",
+            "count": "1,947"
+        },
+        {
+            "word": "click",
+            "count": "1,944"
+        },
+        {
+            "word": "invalid",
+            "count": "1,941"
+        },
+        {
+            "word": "alter",
+            "count": "1,940"
+        },
+        {
+            "word": "Lifecycle",
+            "count": "1,938"
+        },
+        {
+            "word": "IReduce",
+            "count": "1,935"
+        },
+        {
+            "word": "SNAPSHOT",
+            "count": "1,933"
+        },
+        {
+            "word": "char",
+            "count": "1,933"
+        },
+        {
+            "word": "rdr",
+            "count": "1,933"
+        },
+        {
+            "word": "future",
+            "count": "1,931"
+        },
+        {
+            "word": "clean",
+            "count": "1,929"
+        },
+        {
+            "word": "help",
+            "count": "1,928"
+        },
+        {
+            "word": "metrics",
+            "count": "1,920"
+        },
+        {
+            "word": "ExceptionInfo",
+            "count": "1,919"
+        },
+        {
+            "word": "ui",
+            "count": "1,917"
+        },
+        {
+            "word": "slurp",
+            "count": "1,913"
+        },
+        {
+            "word": "total",
+            "count": "1,911"
+        },
+        {
+            "word": "rng",
+            "count": "1,908"
+        },
+        {
+            "word": "limit",
+            "count": "1,906"
+        },
+        {
+            "word": "element",
+            "count": "1,900"
+        },
+        {
+            "word": "dim",
+            "count": "1,895"
+        },
+        {
+            "word": "domain",
+            "count": "1,895"
+        },
+        {
+            "word": "frontend",
+            "count": "1,894"
+        },
+        {
+            "word": "arglist",
+            "count": "1,892"
+        },
+        {
+            "word": "implements",
+            "count": "1,889"
+        },
+        {
+            "word": "commands",
+            "count": "1,883"
+        },
+        {
+            "word": "master",
+            "count": "1,882"
+        },
+        {
+            "word": "caching",
+            "count": "1,874"
+        },
+        {
+            "word": "defonce",
+            "count": "1,871"
+        },
+        {
+            "word": "coerce",
+            "count": "1,869"
+        },
+        {
+            "word": "kitchensink",
+            "count": "1,868"
+        },
+        {
+            "word": "generate",
+            "count": "1,867"
+        },
+        {
+            "word": "dynamic",
+            "count": "1,863"
+        },
+        {
+            "word": "sb",
+            "count": "1,860"
+        },
+        {
+            "word": "foobar",
+            "count": "1,857"
+        },
+        {
+            "word": "ul",
+            "count": "1,855"
+        },
+        {
+            "word": "ISequential",
+            "count": "1,851"
+        },
+        {
+            "word": "subidx",
+            "count": "1,847"
+        },
+        {
+            "word": "resolve",
+            "count": "1,843"
+        },
+        {
+            "word": "arg",
+            "count": "1,841"
+        },
+        {
+            "word": "bound",
+            "count": "1,840"
+        },
+        {
+            "word": "es",
+            "count": "1,836"
+        },
+        {
+            "word": "hooks",
+            "count": "1,834"
+        },
+        {
+            "word": "cgrand",
+            "count": "1,833"
+        },
+        {
+            "word": "reflection",
+            "count": "1,831"
+        },
+        {
+            "word": "err",
+            "count": "1,826"
+        },
+        {
+            "word": "ed",
+            "count": "1,824"
+        },
+        {
+            "word": "initial",
+            "count": "1,822"
+        },
+        {
+            "word": "box",
+            "count": "1,821"
+        },
+        {
+            "word": "extensions",
+            "count": "1,821"
+        },
+        {
+            "word": "running",
+            "count": "1,820"
+        },
+        {
+            "word": "credits",
+            "count": "1,819"
+        },
+        {
+            "word": "proxy",
+            "count": "1,817"
+        },
+        {
+            "word": "loc",
+            "count": "1,814"
+        },
+        {
+            "word": "process",
+            "count": "1,813"
+        },
+        {
+            "word": "program",
+            "count": "1,813"
+        },
+        {
+            "word": "template",
+            "count": "1,810"
+        },
+        {
+            "word": "ci",
+            "count": "1,806"
+        },
+        {
+            "word": "rescue",
+            "count": "1,805"
+        },
+        {
+            "word": "display",
+            "count": "1,804"
+        },
+        {
+            "word": "view",
+            "count": "1,803"
+        },
+        {
+            "word": "shutdown",
+            "count": "1,802"
+        },
+        {
+            "word": "List",
+            "count": "1,801"
+        },
+        {
+            "word": "geospace",
+            "count": "1,799"
+        },
+        {
+            "word": "ps",
+            "count": "1,790"
+        },
+        {
+            "word": "about",
+            "count": "1,789"
+        },
+        {
+            "word": "argument",
+            "count": "1,785"
+        },
+        {
+            "word": "background",
+            "count": "1,779"
+        },
+        {
+            "word": "compile",
+            "count": "1,775"
+        },
+        {
+            "word": "csv",
+            "count": "1,773"
+        },
+        {
+            "word": "entries",
+            "count": "1,772"
+        },
+        {
+            "word": "effects",
+            "count": "1,766"
+        },
+        {
+            "word": "your",
+            "count": "1,763"
+        },
+        {
+            "word": "exclusions",
+            "count": "1,760"
+        },
+        {
+            "word": "alt",
+            "count": "1,757"
+        },
+        {
+            "word": "ascending",
+            "count": "1,756"
+        },
+        {
+            "word": "trapperkeeper",
+            "count": "1,752"
+        },
+        {
+            "word": "release",
+            "count": "1,745"
+        },
+        {
+            "word": "using",
+            "count": "1,745"
+        },
+        {
+            "word": "then",
+            "count": "1,740"
+        },
+        {
+            "word": "simple",
+            "count": "1,737"
+        },
+        {
+            "word": "compiled",
+            "count": "1,736"
+        },
+        {
+            "word": "agent",
+            "count": "1,735"
+        },
+        {
+            "word": "tmp",
+            "count": "1,729"
+        },
+        {
+            "word": "ENTERPRISE_ID",
+            "count": "1,726"
+        },
+        {
+            "word": "ILookup",
+            "count": "1,725"
+        },
+        {
+            "word": "charset",
+            "count": "1,725"
+        },
+        {
+            "word": "users",
+            "count": "1,723"
+        },
+        {
+            "word": "catalogs",
+            "count": "1,717"
+        },
+        {
+            "word": "rand",
+            "count": "1,717"
+        },
+        {
+            "word": "properties",
+            "count": "1,715"
+        },
+        {
+            "word": "fixed",
+            "count": "1,703"
+        },
+        {
+            "word": "discard",
+            "count": "1,701"
+        },
+        {
+            "word": "filename",
+            "count": "1,701"
+        },
+        {
+            "word": "Date",
+            "count": "1,700"
+        },
+        {
+            "word": "methods",
+            "count": "1,695"
+        },
+        {
+            "word": "sub",
+            "count": "1,691"
+        },
+        {
+            "word": "comparator",
+            "count": "1,688"
+        },
+        {
+            "word": "editor",
+            "count": "1,674"
+        },
+        {
+            "word": "datomic",
+            "count": "1,656"
+        },
+        {
+            "word": "extract",
+            "count": "1,656"
+        },
+        {
+            "word": "instruction",
+            "count": "1,648"
+        },
+        {
+            "word": "https",
+            "count": "1,645"
+        },
+        {
+            "word": "diff",
+            "count": "1,642"
+        },
+        {
+            "word": "Example",
+            "count": "1,640"
+        },
+        {
+            "word": "storage",
+            "count": "1,639"
+        },
+        {
+            "word": "helpers",
+            "count": "1,636"
+        },
+        {
+            "word": "When",
+            "count": "1,632"
+        },
+        {
+            "word": "javax",
+            "count": "1,632"
+        },
+        {
+            "word": "afn",
+            "count": "1,630"
+        },
+        {
+            "word": "exceptions",
+            "count": "1,630"
+        },
+        {
+            "word": "DELETED",
+            "count": "1,628"
+        },
+        {
+            "word": "publish",
+            "count": "1,628"
+        },
+        {
+            "word": "otherwise",
+            "count": "1,626"
+        },
+        {
+            "word": "attr",
+            "count": "1,618"
+        },
+        {
+            "word": "hand",
+            "count": "1,617"
+        },
+        {
+            "word": "inject",
+            "count": "1,615"
+        },
+        {
+            "word": "dt",
+            "count": "1,613"
+        },
+        {
+            "word": "assets",
+            "count": "1,607"
+        },
+        {
+            "word": "broker",
+            "count": "1,605"
+        },
+        {
+            "word": "slf4j",
+            "count": "1,604"
+        },
+        {
+            "word": "s1",
+            "count": "1,602"
+        },
+        {
+            "word": "param",
+            "count": "1,588"
+        },
+        {
+            "word": "production",
+            "count": "1,587"
+        },
+        {
+            "word": "bad",
+            "count": "1,585"
+        },
+        {
+            "word": "pattern",
+            "count": "1,583"
+        },
+        {
+            "word": "panel",
+            "count": "1,577"
+        },
+        {
+            "word": "matrix",
+            "count": "1,575"
+        },
+        {
+            "word": "prefer",
+            "count": "1,571"
+        },
+        {
+            "word": "FROM",
+            "count": "1,569"
+        },
+        {
+            "word": "fp",
+            "count": "1,567"
+        },
+        {
+            "word": "parts",
+            "count": "1,567"
+        },
+        {
+            "word": "EventType",
+            "count": "1,566"
+        },
+        {
+            "word": "cause",
+            "count": "1,564"
+        },
+        {
+            "word": "groups",
+            "count": "1,558"
+        },
+        {
+            "word": "li",
+            "count": "1,557"
+        },
+        {
+            "word": "PersistentHashMap",
+            "count": "1,556"
+        },
+        {
+            "word": "offset",
+            "count": "1,553"
+        },
+        {
+            "word": "xform",
+            "count": "1,553"
+        },
+        {
+            "word": "asset",
+            "count": "1,547"
+        },
+        {
+            "word": "play",
+            "count": "1,546"
+        },
+        {
+            "word": "impl",
+            "count": "1,545"
+        },
+        {
+            "word": "counter",
+            "count": "1,541"
+        },
+        {
+            "word": "BitmapIndexedNode",
+            "count": "1,530"
+        },
+        {
+            "word": "PersistentArrayMap",
+            "count": "1,528"
+        },
+        {
+            "word": "socket",
+            "count": "1,525"
+        },
+        {
+            "word": "validation",
+            "count": "1,524"
+        },
+        {
+            "word": "JavaScript",
+            "count": "1,523"
+        },
+        {
+            "word": "thread",
+            "count": "1,520"
+        },
+        {
+            "word": "s2",
+            "count": "1,515"
+        },
+        {
+            "word": "ys",
+            "count": "1,515"
+        },
+        {
+            "word": "httpkit",
+            "count": "1,513"
+        },
+        {
+            "word": "location",
+            "count": "1,511"
+        },
+        {
+            "word": "screen",
+            "count": "1,509"
+        },
+        {
+            "word": "prn",
+            "count": "1,508"
+        },
+        {
+            "word": "unique",
+            "count": "1,505"
+        },
+        {
+            "word": "Return",
+            "count": "1,502"
+        },
+        {
+            "word": "flatten",
+            "count": "1,502"
+        },
+        {
+            "word": "rows",
+            "count": "1,502"
+        },
+        {
+            "word": "p3",
+            "count": "1,501"
+        },
+        {
+            "word": "balance",
+            "count": "1,498"
+        },
+        {
+            "word": "refresh",
+            "count": "1,498"
+        },
+        {
+            "word": "mseq",
+            "count": "1,496"
+        },
+        {
+            "word": "ability",
+            "count": "1,494"
+        },
+        {
+            "word": "tagged",
+            "count": "1,490"
+        },
+        {
+            "word": "reverse",
+            "count": "1,485"
+        },
+        {
+            "word": "serial",
+            "count": "1,485"
+        },
+        {
+            "word": "href",
+            "count": "1,482"
+        },
+        {
+            "word": "td",
+            "count": "1,481"
+        },
+        {
+            "word": "pallet",
+            "count": "1,479"
+        },
+        {
+            "word": "prompt",
+            "count": "1,475"
+        },
+        {
+            "word": "passed",
+            "count": "1,462"
+        },
+        {
+            "word": "kit",
+            "count": "1,457"
+        },
+        {
+            "word": "entities",
+            "count": "1,455"
+        },
+        {
+            "word": "Keyword",
+            "count": "1,454"
+        },
+        {
+            "word": "sentinel",
+            "count": "1,445"
+        },
+        {
+            "word": "structure",
+            "count": "1,445"
+        },
+        {
+            "word": "Not",
+            "count": "1,442"
+        },
+        {
+            "word": "replica",
+            "count": "1,439"
+        },
+        {
+            "word": "unit",
+            "count": "1,438"
+        },
+        {
+            "word": "autosign",
+            "count": "1,437"
+        },
+        {
+            "word": "down",
+            "count": "1,436"
+        },
+        {
+            "word": "layout",
+            "count": "1,435"
+        },
+        {
+            "word": "required",
+            "count": "1,433"
+        },
+        {
+            "word": "media",
+            "count": "1,432"
+        },
+        {
+            "word": "postgresql",
+            "count": "1,431"
+        },
+        {
+            "word": "c1",
+            "count": "1,426"
+        }
+    ]
+}

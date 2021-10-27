@@ -1,0 +1,3873 @@
+{
+    "language": "js",
+    "words": [
+        {
+            "word": "this",
+            "count": "177,418,572"
+        },
+        {
+            "word": "function",
+            "count": "134,194,066"
+        },
+        {
+            "word": "if",
+            "count": "127,673,519"
+        },
+        {
+            "word": "var",
+            "count": "122,443,917"
+        },
+        {
+            "word": "return",
+            "count": "100,434,317"
+        },
+        {
+            "word": "the",
+            "count": "81,751,266"
+        },
+        {
+            "word": "i",
+            "count": "53,964,536"
+        },
+        {
+            "word": "a",
+            "count": "46,624,466"
+        },
+        {
+            "word": "to",
+            "count": "45,175,824"
+        },
+        {
+            "word": "value",
+            "count": "34,035,179"
+        },
+        {
+            "word": "else",
+            "count": "33,590,298"
+        },
+        {
+            "word": "for",
+            "count": "33,094,584"
+        },
+        {
+            "word": "true",
+            "count": "31,628,655"
+        },
+        {
+            "word": "length",
+            "count": "30,078,748"
+        },
+        {
+            "word": "data",
+            "count": "27,275,655"
+        },
+        {
+            "word": "false",
+            "count": "26,970,708"
+        },
+        {
+            "word": "name",
+            "count": "26,956,943"
+        },
+        {
+            "word": "null",
+            "count": "26,734,142"
+        },
+        {
+            "word": "options",
+            "count": "26,023,965"
+        },
+        {
+            "word": "is",
+            "count": "25,940,634"
+        },
+        {
+            "word": "type",
+            "count": "25,262,082"
+        },
+        {
+            "word": "of",
+            "count": "25,033,200"
+        },
+        {
+            "word": "param",
+            "count": "22,633,716"
+        },
+        {
+            "word": "in",
+            "count": "21,439,878"
+        },
+        {
+            "word": "new",
+            "count": "20,550,195"
+        },
+        {
+            "word": "element",
+            "count": "20,096,355"
+        },
+        {
+            "word": "s",
+            "count": "18,158,343"
+        },
+        {
+            "word": "e",
+            "count": "17,982,944"
+        },
+        {
+            "word": "event",
+            "count": "17,909,747"
+        },
+        {
+            "word": "and",
+            "count": "17,513,435"
+        },
+        {
+            "word": "object",
+            "count": "17,029,508"
+        },
+        {
+            "word": "prototype",
+            "count": "15,486,042"
+        },
+        {
+            "word": "x",
+            "count": "14,816,158"
+        },
+        {
+            "word": "jQuery",
+            "count": "14,810,913"
+        },
+        {
+            "word": "that",
+            "count": "14,487,536"
+        },
+        {
+            "word": "t",
+            "count": "14,397,098"
+        },
+        {
+            "word": "key",
+            "count": "14,386,941"
+        },
+        {
+            "word": "id",
+            "count": "14,110,035"
+        },
+        {
+            "word": "The",
+            "count": "13,589,044"
+        },
+        {
+            "word": "string",
+            "count": "13,390,723"
+        },
+        {
+            "word": "self",
+            "count": "13,302,619"
+        },
+        {
+            "word": "elem",
+            "count": "12,876,364"
+        },
+        {
+            "word": "node",
+            "count": "12,746,892"
+        },
+        {
+            "word": "on",
+            "count": "12,534,087"
+        },
+        {
+            "word": "be",
+            "count": "12,499,884"
+        },
+        {
+            "word": "n",
+            "count": "12,014,658"
+        },
+        {
+            "word": "b",
+            "count": "11,865,756"
+        },
+        {
+            "word": "index",
+            "count": "11,782,010"
+        },
+        {
+            "word": "case",
+            "count": "11,269,766"
+        },
+        {
+            "word": "d",
+            "count": "11,264,355"
+        },
+        {
+            "word": "result",
+            "count": "11,218,640"
+        },
+        {
+            "word": "callback",
+            "count": "11,029,728"
+        },
+        {
+            "word": "it",
+            "count": "10,788,782"
+        },
+        {
+            "word": "undefined",
+            "count": "10,738,185"
+        },
+        {
+            "word": "require",
+            "count": "10,450,737"
+        },
+        {
+            "word": "y",
+            "count": "10,066,749"
+        },
+        {
+            "word": "obj",
+            "count": "9,824,593"
+        },
+        {
+            "word": "document",
+            "count": "9,794,684"
+        },
+        {
+            "word": "module",
+            "count": "9,785,661"
+        },
+        {
+            "word": "from",
+            "count": "9,747,160"
+        },
+        {
+            "word": "push",
+            "count": "9,665,122"
+        },
+        {
+            "word": "not",
+            "count": "9,628,235"
+        },
+        {
+            "word": "or",
+            "count": "9,582,252"
+        },
+        {
+            "word": "c",
+            "count": "9,459,848"
+        },
+        {
+            "word": "call",
+            "count": "9,458,315"
+        },
+        {
+            "word": "typeof",
+            "count": "9,401,264"
+        },
+        {
+            "word": "an",
+            "count": "9,314,235"
+        },
+        {
+            "word": "_",
+            "count": "9,097,393"
+        },
+        {
+            "word": "text",
+            "count": "9,069,255"
+        },
+        {
+            "word": "exports",
+            "count": "8,961,912"
+        },
+        {
+            "word": "method",
+            "count": "8,955,278"
+        },
+        {
+            "word": "width",
+            "count": "8,894,561"
+        },
+        {
+            "word": "with",
+            "count": "8,872,815"
+        },
+        {
+            "word": "div",
+            "count": "8,834,251"
+        },
+        {
+            "word": "use",
+            "count": "8,825,678"
+        },
+        {
+            "word": "target",
+            "count": "8,580,300"
+        },
+        {
+            "word": "break",
+            "count": "8,562,663"
+        },
+        {
+            "word": "get",
+            "count": "8,558,958"
+        },
+        {
+            "word": "state",
+            "count": "8,385,278"
+        },
+        {
+            "word": "array",
+            "count": "8,337,852"
+        },
+        {
+            "word": "set",
+            "count": "8,267,691"
+        },
+        {
+            "word": "Object",
+            "count": "8,234,499"
+        },
+        {
+            "word": "style",
+            "count": "8,176,736"
+        },
+        {
+            "word": "context",
+            "count": "8,174,555"
+        },
+        {
+            "word": "scope",
+            "count": "8,123,531"
+        },
+        {
+            "word": "error",
+            "count": "8,122,203"
+        },
+        {
+            "word": "input",
+            "count": "7,780,977"
+        },
+        {
+            "word": "height",
+            "count": "7,755,774"
+        },
+        {
+            "word": "arguments",
+            "count": "7,747,847"
+        },
+        {
+            "word": "window",
+            "count": "7,717,816"
+        },
+        {
+            "word": "p",
+            "count": "7,643,043"
+        },
+        {
+            "word": "left",
+            "count": "7,563,480"
+        },
+        {
+            "word": "test",
+            "count": "7,478,459"
+        },
+        {
+            "word": "val",
+            "count": "7,355,914"
+        },
+        {
+            "word": "fn",
+            "count": "7,220,564"
+        },
+        {
+            "word": "we",
+            "count": "7,084,202"
+        },
+        {
+            "word": "default",
+            "count": "7,062,532"
+        },
+        {
+            "word": "o",
+            "count": "7,041,207"
+        },
+        {
+            "word": "el",
+            "count": "7,029,653"
+        },
+        {
+            "word": "item",
+            "count": "6,861,606"
+        },
+        {
+            "word": "number",
+            "count": "6,840,290"
+        },
+        {
+            "word": "start",
+            "count": "6,714,975"
+        },
+        {
+            "word": "as",
+            "count": "6,685,650"
+        },
+        {
+            "word": "path",
+            "count": "6,472,743"
+        },
+        {
+            "word": "top",
+            "count": "6,472,680"
+        },
+        {
+            "word": "j",
+            "count": "6,472,360"
+        },
+        {
+            "word": "class",
+            "count": "6,455,555"
+        },
+        {
+            "word": "Math",
+            "count": "6,358,303"
+        },
+        {
+            "word": "url",
+            "count": "6,295,411"
+        },
+        {
+            "word": "match",
+            "count": "6,241,016"
+        },
+        {
+            "word": "each",
+            "count": "6,228,457"
+        },
+        {
+            "word": "by",
+            "count": "6,207,510"
+        },
+        {
+            "word": "html",
+            "count": "6,196,071"
+        },
+        {
+            "word": "are",
+            "count": "6,164,194"
+        },
+        {
+            "word": "will",
+            "count": "6,159,660"
+        },
+        {
+            "word": "err",
+            "count": "6,148,541"
+        },
+        {
+            "word": "attr",
+            "count": "6,145,692"
+        },
+        {
+            "word": "args",
+            "count": "6,114,773"
+        },
+        {
+            "word": "ui",
+            "count": "6,064,473"
+        },
+        {
+            "word": "g",
+            "count": "6,003,608"
+        },
+        {
+            "word": "end",
+            "count": "5,981,237"
+        },
+        {
+            "word": "offset",
+            "count": "5,966,733"
+        },
+        {
+            "word": "js",
+            "count": "5,917,845"
+        },
+        {
+            "word": "parent",
+            "count": "5,855,614"
+        },
+        {
+            "word": "String",
+            "count": "5,709,684"
+        },
+        {
+            "word": "config",
+            "count": "5,628,633"
+        },
+        {
+            "word": "settings",
+            "count": "5,467,207"
+        },
+        {
+            "word": "css",
+            "count": "5,414,688"
+        },
+        {
+            "word": "when",
+            "count": "5,395,936"
+        },
+        {
+            "word": "r",
+            "count": "5,374,691"
+        },
+        {
+            "word": "source",
+            "count": "5,365,866"
+        },
+        {
+            "word": "returns",
+            "count": "5,360,068"
+        },
+        {
+            "word": "If",
+            "count": "5,350,424"
+        },
+        {
+            "word": "position",
+            "count": "5,340,144"
+        },
+        {
+            "word": "property",
+            "count": "5,312,987"
+        },
+        {
+            "word": "Array",
+            "count": "5,299,082"
+        },
+        {
+            "word": "all",
+            "count": "5,222,561"
+        },
+        {
+            "word": "code",
+            "count": "5,200,486"
+        },
+        {
+            "word": "selector",
+            "count": "5,182,308"
+        },
+        {
+            "word": "can",
+            "count": "5,044,327"
+        },
+        {
+            "word": "http",
+            "count": "4,972,489"
+        },
+        {
+            "word": "com",
+            "count": "4,955,540"
+        },
+        {
+            "word": "next",
+            "count": "4,924,930"
+        },
+        {
+            "word": "should",
+            "count": "4,868,858"
+        },
+        {
+            "word": "line",
+            "count": "4,864,463"
+        },
+        {
+            "word": "add",
+            "count": "4,839,044"
+        },
+        {
+            "word": "values",
+            "count": "4,814,497"
+        },
+        {
+            "word": "body",
+            "count": "4,770,496"
+        },
+        {
+            "word": "m",
+            "count": "4,730,223"
+        },
+        {
+            "word": "find",
+            "count": "4,726,452"
+        },
+        {
+            "word": "replace",
+            "count": "4,669,835"
+        },
+        {
+            "word": "while",
+            "count": "4,620,083"
+        },
+        {
+            "word": "strict",
+            "count": "4,584,606"
+        },
+        {
+            "word": "content",
+            "count": "4,510,147"
+        },
+        {
+            "word": "apply",
+            "count": "4,499,225"
+        },
+        {
+            "word": "expect",
+            "count": "4,493,562"
+        },
+        {
+            "word": "v",
+            "count": "4,478,135"
+        },
+        {
+            "word": "current",
+            "count": "4,446,026"
+        },
+        {
+            "word": "extend",
+            "count": "4,325,532"
+        },
+        {
+            "word": "doc",
+            "count": "4,293,444"
+        },
+        {
+            "word": "remove",
+            "count": "4,290,335"
+        },
+        {
+            "word": "list",
+            "count": "4,274,717"
+        },
+        {
+            "word": "done",
+            "count": "4,232,010"
+        },
+        {
+            "word": "file",
+            "count": "4,225,246"
+        },
+        {
+            "word": "map",
+            "count": "4,213,754"
+        },
+        {
+            "word": "throw",
+            "count": "4,186,673"
+        },
+        {
+            "word": "This",
+            "count": "4,184,261"
+        },
+        {
+            "word": "message",
+            "count": "4,161,797"
+        },
+        {
+            "word": "then",
+            "count": "4,160,491"
+        },
+        {
+            "word": "opts",
+            "count": "4,141,086"
+        },
+        {
+            "word": "container",
+            "count": "4,128,928"
+        },
+        {
+            "word": "instance",
+            "count": "4,120,431"
+        },
+        {
+            "word": "params",
+            "count": "4,098,684"
+        },
+        {
+            "word": "row",
+            "count": "4,087,708"
+        },
+        {
+            "word": "f",
+            "count": "4,069,866"
+        },
+        {
+            "word": "events",
+            "count": "4,052,017"
+        },
+        {
+            "word": "first",
+            "count": "4,036,388"
+        },
+        {
+            "word": "elements",
+            "count": "4,021,209"
+        },
+        {
+            "word": "date",
+            "count": "3,996,987"
+        },
+        {
+            "word": "form",
+            "count": "3,903,873"
+        },
+        {
+            "word": "prop",
+            "count": "3,873,737"
+        },
+        {
+            "word": "link",
+            "count": "3,858,099"
+        },
+        {
+            "word": "log",
+            "count": "3,833,151"
+        },
+        {
+            "word": "src",
+            "count": "3,801,835"
+        },
+        {
+            "word": "A",
+            "count": "3,797,803"
+        },
+        {
+            "word": "ret",
+            "count": "3,779,439"
+        },
+        {
+            "word": "response",
+            "count": "3,778,361"
+        },
+        {
+            "word": "range",
+            "count": "3,774,512"
+        },
+        {
+            "word": "size",
+            "count": "3,740,420"
+        },
+        {
+            "word": "props",
+            "count": "3,727,988"
+        },
+        {
+            "word": "which",
+            "count": "3,693,730"
+        },
+        {
+            "word": "pos",
+            "count": "3,691,157"
+        },
+        {
+            "word": "color",
+            "count": "3,643,176"
+        },
+        {
+            "word": "click",
+            "count": "3,618,519"
+        },
+        {
+            "word": "column",
+            "count": "3,615,261"
+        },
+        {
+            "word": "l",
+            "count": "3,607,789"
+        },
+        {
+            "word": "right",
+            "count": "3,607,540"
+        },
+        {
+            "word": "has",
+            "count": "3,597,551"
+        },
+        {
+            "word": "user",
+            "count": "3,597,214"
+        },
+        {
+            "word": "k",
+            "count": "3,596,651"
+        },
+        {
+            "word": "title",
+            "count": "3,572,489"
+        },
+        {
+            "word": "core",
+            "count": "3,544,923"
+        },
+        {
+            "word": "model",
+            "count": "3,528,424"
+        },
+        {
+            "word": "have",
+            "count": "3,515,581"
+        },
+        {
+            "word": "len",
+            "count": "3,512,226"
+        },
+        {
+            "word": "used",
+            "count": "3,511,176"
+        },
+        {
+            "word": "res",
+            "count": "3,494,378"
+        },
+        {
+            "word": "children",
+            "count": "3,463,958"
+        },
+        {
+            "word": "one",
+            "count": "3,461,648"
+        },
+        {
+            "word": "private",
+            "count": "3,421,252"
+        },
+        {
+            "word": "h",
+            "count": "3,406,570"
+        },
+        {
+            "word": "button",
+            "count": "3,380,949"
+        },
+        {
+            "word": "so",
+            "count": "3,375,386"
+        },
+        {
+            "word": "example",
+            "count": "3,375,353"
+        },
+        {
+            "word": "no",
+            "count": "3,363,833"
+        },
+        {
+            "word": "bind",
+            "count": "3,313,750"
+        },
+        {
+            "word": "trigger",
+            "count": "3,309,144"
+        },
+        {
+            "word": "option",
+            "count": "3,301,672"
+        },
+        {
+            "word": "catch",
+            "count": "3,293,052"
+        },
+        {
+            "word": "max",
+            "count": "3,292,192"
+        },
+        {
+            "word": "only",
+            "count": "3,291,825"
+        },
+        {
+            "word": "console",
+            "count": "3,289,948"
+        },
+        {
+            "word": "filter",
+            "count": "3,264,754"
+        },
+        {
+            "word": "try",
+            "count": "3,258,009"
+        },
+        {
+            "word": "display",
+            "count": "3,254,254"
+        },
+        {
+            "word": "w",
+            "count": "3,225,543"
+        },
+        {
+            "word": "goog",
+            "count": "3,224,281"
+        },
+        {
+            "word": "view",
+            "count": "3,222,327"
+        },
+        {
+            "word": "active",
+            "count": "3,219,325"
+        },
+        {
+            "word": "token",
+            "count": "3,191,508"
+        },
+        {
+            "word": "show",
+            "count": "3,170,514"
+        },
+        {
+            "word": "keys",
+            "count": "3,167,961"
+        },
+        {
+            "word": "constructor",
+            "count": "3,152,716"
+        },
+        {
+            "word": "items",
+            "count": "3,095,919"
+        },
+        {
+            "word": "table",
+            "count": "3,095,371"
+        },
+        {
+            "word": "Number",
+            "count": "3,090,340"
+        },
+        {
+            "word": "addClass",
+            "count": "3,089,704"
+        },
+        {
+            "word": "str",
+            "count": "3,088,276"
+        },
+        {
+            "word": "promise",
+            "count": "3,075,327"
+        },
+        {
+            "word": "indexOf",
+            "count": "3,069,860"
+        },
+        {
+            "word": "slice",
+            "count": "3,062,704"
+        },
+        {
+            "word": "className",
+            "count": "3,060,401"
+        },
+        {
+            "word": "query",
+            "count": "3,035,978"
+        },
+        {
+            "word": "ctx",
+            "count": "3,030,275"
+        },
+        {
+            "word": "Date",
+            "count": "3,023,642"
+        },
+        {
+            "word": "create",
+            "count": "3,007,111"
+        },
+        {
+            "word": "assert",
+            "count": "2,966,746"
+        },
+        {
+            "word": "select",
+            "count": "2,953,249"
+        },
+        {
+            "word": "cache",
+            "count": "2,941,940"
+        },
+        {
+            "word": "Drupal",
+            "count": "2,940,781"
+        },
+        {
+            "word": "time",
+            "count": "2,920,855"
+        },
+        {
+            "word": "hide",
+            "count": "2,917,708"
+        },
+        {
+            "word": "handler",
+            "count": "2,911,226"
+        },
+        {
+            "word": "properties",
+            "count": "2,892,205"
+        },
+        {
+            "word": "request",
+            "count": "2,873,265"
+        },
+        {
+            "word": "child",
+            "count": "2,864,730"
+        },
+        {
+            "word": "dom",
+            "count": "2,839,703"
+        },
+        {
+            "word": "base",
+            "count": "2,836,272"
+        },
+        {
+            "word": "status",
+            "count": "2,816,657"
+        },
+        {
+            "word": "update",
+            "count": "2,814,399"
+        },
+        {
+            "word": "min",
+            "count": "2,810,442"
+        },
+        {
+            "word": "https",
+            "count": "2,808,778"
+        },
+        {
+            "word": "format",
+            "count": "2,801,202"
+        },
+        {
+            "word": "DOM",
+            "count": "2,773,383"
+        },
+        {
+            "word": "results",
+            "count": "2,766,750"
+        },
+        {
+            "word": "Ext",
+            "count": "2,765,503"
+        },
+        {
+            "word": "inst",
+            "count": "2,757,030"
+        },
+        {
+            "word": "at",
+            "count": "2,749,745"
+        },
+        {
+            "word": "disabled",
+            "count": "2,747,920"
+        },
+        {
+            "word": "label",
+            "count": "2,725,151"
+        },
+        {
+            "word": "support",
+            "count": "2,721,991"
+        },
+        {
+            "word": "Error",
+            "count": "2,714,312"
+        },
+        {
+            "word": "out",
+            "count": "2,712,927"
+        },
+        {
+            "word": "span",
+            "count": "2,690,756"
+        },
+        {
+            "word": "check",
+            "count": "2,663,429"
+        },
+        {
+            "word": "collection",
+            "count": "2,652,597"
+        },
+        {
+            "word": "field",
+            "count": "2,636,768"
+        },
+        {
+            "word": "editor",
+            "count": "2,628,079"
+        },
+        {
+            "word": "Function",
+            "count": "2,626,930"
+        },
+        {
+            "word": "me",
+            "count": "2,598,949"
+        },
+        {
+            "word": "any",
+            "count": "2,597,436"
+        },
+        {
+            "word": "z",
+            "count": "2,594,529"
+        },
+        {
+            "word": "selected",
+            "count": "2,586,326"
+        },
+        {
+            "word": "delete",
+            "count": "2,580,561"
+        },
+        {
+            "word": "angular",
+            "count": "2,573,591"
+        },
+        {
+            "word": "split",
+            "count": "2,570,172"
+        },
+        {
+            "word": "other",
+            "count": "2,562,946"
+        },
+        {
+            "word": "after",
+            "count": "2,560,337"
+        },
+        {
+            "word": "root",
+            "count": "2,551,316"
+        },
+        {
+            "word": "init",
+            "count": "2,548,452"
+        },
+        {
+            "word": "change",
+            "count": "2,510,870"
+        },
+        {
+            "word": "render",
+            "count": "2,494,830"
+        },
+        {
+            "word": "boolean",
+            "count": "2,480,312"
+        },
+        {
+            "word": "json",
+            "count": "2,477,261"
+        },
+        {
+            "word": "app",
+            "count": "2,474,188"
+        },
+        {
+            "word": "process",
+            "count": "2,425,081"
+        },
+        {
+            "word": "page",
+            "count": "2,422,407"
+        },
+        {
+            "word": "href",
+            "count": "2,409,994"
+        },
+        {
+            "word": "equal",
+            "count": "2,406,592"
+        },
+        {
+            "word": "li",
+            "count": "2,399,643"
+        },
+        {
+            "word": "template",
+            "count": "2,394,018"
+        },
+        {
+            "word": "tag",
+            "count": "2,390,950"
+        },
+        {
+            "word": "parentNode",
+            "count": "2,384,418"
+        },
+        {
+            "word": "api",
+            "count": "2,377,416"
+        },
+        {
+            "word": "join",
+            "count": "2,374,803"
+        },
+        {
+            "word": "but",
+            "count": "2,360,710"
+        },
+        {
+            "word": "version",
+            "count": "2,358,939"
+        },
+        {
+            "word": "count",
+            "count": "2,339,349"
+        },
+        {
+            "word": "global",
+            "count": "2,339,027"
+        },
+        {
+            "word": "nodes",
+            "count": "2,316,078"
+        },
+        {
+            "word": "removeClass",
+            "count": "2,309,747"
+        },
+        {
+            "word": "createElement",
+            "count": "2,309,668"
+        },
+        {
+            "word": "menu",
+            "count": "2,306,457"
+        },
+        {
+            "word": "Returns",
+            "count": "2,300,206"
+        },
+        {
+            "word": "mode",
+            "count": "2,294,098"
+        },
+        {
+            "word": "last",
+            "count": "2,277,129"
+        },
+        {
+            "word": "attribute",
+            "count": "2,269,991"
+        },
+        {
+            "word": "point",
+            "count": "2,262,184"
+        },
+        {
+            "word": "before",
+            "count": "2,261,932"
+        },
+        {
+            "word": "browser",
+            "count": "2,258,526"
+        },
+        {
+            "word": "location",
+            "count": "2,254,557"
+        },
+        {
+            "word": "__webpack_require__",
+            "count": "2,240,062"
+        },
+        {
+            "word": "into",
+            "count": "2,237,479"
+        },
+        {
+            "word": "you",
+            "count": "2,236,847"
+        },
+        {
+            "word": "toString",
+            "count": "2,220,844"
+        },
+        {
+            "word": "focus",
+            "count": "2,201,021"
+        },
+        {
+            "word": "attributes",
+            "count": "2,200,250"
+        },
+        {
+            "word": "append",
+            "count": "2,194,444"
+        },
+        {
+            "word": "action",
+            "count": "2,188,674"
+        },
+        {
+            "word": "arr",
+            "count": "2,186,382"
+        },
+        {
+            "word": "description",
+            "count": "2,175,564"
+        },
+        {
+            "word": "define",
+            "count": "2,172,197"
+        },
+        {
+            "word": "ng",
+            "count": "2,166,438"
+        },
+        {
+            "word": "hash",
+            "count": "2,164,817"
+        },
+        {
+            "word": "up",
+            "count": "2,164,423"
+        },
+        {
+            "word": "block",
+            "count": "2,123,338"
+        },
+        {
+            "word": "selection",
+            "count": "2,114,935"
+        },
+        {
+            "word": "hidden",
+            "count": "2,104,000"
+        },
+        {
+            "word": "component",
+            "count": "2,098,550"
+        },
+        {
+            "word": "do",
+            "count": "2,092,258"
+        },
+        {
+            "word": "instanceof",
+            "count": "2,088,163"
+        },
+        {
+            "word": "empty",
+            "count": "2,070,105"
+        },
+        {
+            "word": "success",
+            "count": "2,066,215"
+        },
+        {
+            "word": "func",
+            "count": "2,061,554"
+        },
+        {
+            "word": "group",
+            "count": "2,046,132"
+        },
+        {
+            "word": "was",
+            "count": "2,041,569"
+        },
+        {
+            "word": "util",
+            "count": "2,040,028"
+        },
+        {
+            "word": "preventDefault",
+            "count": "2,033,649"
+        },
+        {
+            "word": "nodeType",
+            "count": "2,027,752"
+        },
+        {
+            "word": "forEach",
+            "count": "2,027,638"
+        },
+        {
+            "word": "script",
+            "count": "2,026,275"
+        },
+        {
+            "word": "given",
+            "count": "2,024,739"
+        },
+        {
+            "word": "switch",
+            "count": "2,015,177"
+        },
+        {
+            "word": "Y",
+            "count": "2,008,572"
+        },
+        {
+            "word": "_this",
+            "count": "2,008,168"
+        },
+        {
+            "word": "output",
+            "count": "2,004,998"
+        },
+        {
+            "word": "clone",
+            "count": "1,993,612"
+        },
+        {
+            "word": "cljs",
+            "count": "1,991,279"
+        },
+        {
+            "word": "THREE",
+            "count": "1,965,760"
+        },
+        {
+            "word": "IE",
+            "count": "1,957,048"
+        },
+        {
+            "word": "resolve",
+            "count": "1,956,291"
+        },
+        {
+            "word": "image",
+            "count": "1,939,575"
+        },
+        {
+            "word": "setTimeout",
+            "count": "1,922,449"
+        },
+        {
+            "word": "close",
+            "count": "1,914,174"
+        },
+        {
+            "word": "load",
+            "count": "1,912,215"
+        },
+        {
+            "word": "using",
+            "count": "1,909,355"
+        },
+        {
+            "word": "hasOwnProperty",
+            "count": "1,890,496"
+        },
+        {
+            "word": "org",
+            "count": "1,871,387"
+        },
+        {
+            "word": "queue",
+            "count": "1,863,996"
+        },
+        {
+            "word": "search",
+            "count": "1,860,997"
+        },
+        {
+            "word": "parse",
+            "count": "1,860,572"
+        },
+        {
+            "word": "appendChild",
+            "count": "1,853,230"
+        },
+        {
+            "word": "tmp",
+            "count": "1,852,430"
+        },
+        {
+            "word": "see",
+            "count": "1,847,321"
+        },
+        {
+            "word": "static",
+            "count": "1,844,908"
+        },
+        {
+            "word": "px",
+            "count": "1,844,906"
+        },
+        {
+            "word": "nodeName",
+            "count": "1,843,067"
+        },
+        {
+            "word": "ajax",
+            "count": "1,842,281"
+        },
+        {
+            "word": "called",
+            "count": "1,839,982"
+        },
+        {
+            "word": "buffer",
+            "count": "1,839,858"
+        },
+        {
+            "word": "attrs",
+            "count": "1,827,986"
+        },
+        {
+            "word": "duration",
+            "count": "1,816,368"
+        },
+        {
+            "word": "server",
+            "count": "1,812,571"
+        },
+        {
+            "word": "q",
+            "count": "1,808,482"
+        },
+        {
+            "word": "copy",
+            "count": "1,804,566"
+        },
+        {
+            "word": "toLowerCase",
+            "count": "1,802,502"
+        },
+        {
+            "word": "widget",
+            "count": "1,800,085"
+        },
+        {
+            "word": "store",
+            "count": "1,779,029"
+        },
+        {
+            "word": "must",
+            "count": "1,774,959"
+        },
+        {
+            "word": "Boolean",
+            "count": "1,771,513"
+        },
+        {
+            "word": "handle",
+            "count": "1,770,053"
+        },
+        {
+            "word": "xhr",
+            "count": "1,769,953"
+        },
+        {
+            "word": "bottom",
+            "count": "1,765,481"
+        },
+        {
+            "word": "continue",
+            "count": "1,765,038"
+        },
+        {
+            "word": "td",
+            "count": "1,763,102"
+        },
+        {
+            "word": "defaults",
+            "count": "1,761,911"
+        },
+        {
+            "word": "scale",
+            "count": "1,759,533"
+        },
+        {
+            "word": "tr",
+            "count": "1,751,250"
+        },
+        {
+            "word": "req",
+            "count": "1,748,491"
+        },
+        {
+            "word": "cm",
+            "count": "1,730,628"
+        },
+        {
+            "word": "types",
+            "count": "1,715,904"
+        },
+        {
+            "word": "now",
+            "count": "1,712,647"
+        },
+        {
+            "word": "need",
+            "count": "1,709,967"
+        },
+        {
+            "word": "parseInt",
+            "count": "1,707,443"
+        },
+        {
+            "word": "defined",
+            "count": "1,702,681"
+        },
+        {
+            "word": "required",
+            "count": "1,701,005"
+        },
+        {
+            "word": "opacity",
+            "count": "1,693,384"
+        },
+        {
+            "word": "chart",
+            "count": "1,693,198"
+        },
+        {
+            "word": "open",
+            "count": "1,692,005"
+        },
+        {
+            "word": "objects",
+            "count": "1,688,241"
+        },
+        {
+            "word": "timeout",
+            "count": "1,678,052"
+        },
+        {
+            "word": "isArray",
+            "count": "1,667,736"
+        },
+        {
+            "word": "cb",
+            "count": "1,663,787"
+        },
+        {
+            "word": "Ember",
+            "count": "1,661,493"
+        },
+        {
+            "word": "stack",
+            "count": "1,653,350"
+        },
+        {
+            "word": "application",
+            "count": "1,652,417"
+        },
+        {
+            "word": "specified",
+            "count": "1,651,024"
+        },
+        {
+            "word": "peg",
+            "count": "1,647,935"
+        },
+        {
+            "word": "level",
+            "count": "1,646,075"
+        },
+        {
+            "word": "methods",
+            "count": "1,631,130"
+        },
+        {
+            "word": "header",
+            "count": "1,624,446"
+        },
+        {
+            "word": "import",
+            "count": "1,620,362"
+        },
+        {
+            "word": "tree",
+            "count": "1,613,978"
+        },
+        {
+            "word": "ready",
+            "count": "1,609,273"
+        },
+        {
+            "word": "none",
+            "count": "1,600,473"
+        },
+        {
+            "word": "there",
+            "count": "1,581,529"
+        },
+        {
+            "word": "Blockly",
+            "count": "1,581,302"
+        },
+        {
+            "word": "re",
+            "count": "1,579,958"
+        },
+        {
+            "word": "cur",
+            "count": "1,578,241"
+        },
+        {
+            "word": "Event",
+            "count": "1,575,892"
+        },
+        {
+            "word": "passed",
+            "count": "1,571,801"
+        },
+        {
+            "word": "animation",
+            "count": "1,570,415"
+        },
+        {
+            "word": "Set",
+            "count": "1,569,563"
+        },
+        {
+            "word": "files",
+            "count": "1,561,162"
+        },
+        {
+            "word": "headers",
+            "count": "1,550,380"
+        },
+        {
+            "word": "canvas",
+            "count": "1,547,799"
+        },
+        {
+            "word": "matches",
+            "count": "1,544,931"
+        },
+        {
+            "word": "order",
+            "count": "1,544,607"
+        },
+        {
+            "word": "JSON",
+            "count": "1,540,389"
+        },
+        {
+            "word": "contains",
+            "count": "1,529,305"
+        },
+        {
+            "word": "checked",
+            "count": "1,529,216"
+        },
+        {
+            "word": "env",
+            "count": "1,526,614"
+        },
+        {
+            "word": "visible",
+            "count": "1,517,496"
+        },
+        {
+            "word": "grid",
+            "count": "1,517,011"
+        },
+        {
+            "word": "expression",
+            "count": "1,515,728"
+        },
+        {
+            "word": "run",
+            "count": "1,515,486"
+        },
+        {
+            "word": "wrapper",
+            "count": "1,514,989"
+        },
+        {
+            "word": "const",
+            "count": "1,512,617"
+        },
+        {
+            "word": "stop",
+            "count": "1,510,525"
+        },
+        {
+            "word": "debug",
+            "count": "1,499,160"
+        },
+        {
+            "word": "msg",
+            "count": "1,494,776"
+        },
+        {
+            "word": "its",
+            "count": "1,493,528"
+        },
+        {
+            "word": "Promise",
+            "count": "1,493,166"
+        },
+        {
+            "word": "controller",
+            "count": "1,483,401"
+        },
+        {
+            "word": "off",
+            "count": "1,481,447"
+        },
+        {
+            "word": "isFunction",
+            "count": "1,477,394"
+        },
+        {
+            "word": "lang",
+            "count": "1,469,133"
+        },
+        {
+            "word": "xml",
+            "count": "1,464,258"
+        },
+        {
+            "word": "utils",
+            "count": "1,459,339"
+        },
+        {
+            "word": "www",
+            "count": "1,458,064"
+        },
+        {
+            "word": "box",
+            "count": "1,448,237"
+        },
+        {
+            "word": "prefix",
+            "count": "1,448,124"
+        },
+        {
+            "word": "tab",
+            "count": "1,442,902"
+        },
+        {
+            "word": "axis",
+            "count": "1,441,900"
+        },
+        {
+            "word": "found",
+            "count": "1,432,600"
+        },
+        {
+            "word": "same",
+            "count": "1,418,360"
+        },
+        {
+            "word": "already",
+            "count": "1,412,699"
+        },
+        {
+            "word": "parts",
+            "count": "1,410,166"
+        },
+        {
+            "word": "info",
+            "count": "1,402,036"
+        },
+        {
+            "word": "listener",
+            "count": "1,400,332"
+        },
+        {
+            "word": "concat",
+            "count": "1,392,850"
+        },
+        {
+            "word": "plugin",
+            "count": "1,387,621"
+        },
+        {
+            "word": "original",
+            "count": "1,386,045"
+        },
+        {
+            "word": "idx",
+            "count": "1,375,128"
+        },
+        {
+            "word": "num",
+            "count": "1,373,298"
+        },
+        {
+            "word": "destroy",
+            "count": "1,369,730"
+        },
+        {
+            "word": "deferred",
+            "count": "1,368,217"
+        },
+        {
+            "word": "github",
+            "count": "1,368,133"
+        },
+        {
+            "word": "animate",
+            "count": "1,368,010"
+        },
+        {
+            "word": "been",
+            "count": "1,363,396"
+        },
+        {
+            "word": "year",
+            "count": "1,360,321"
+        },
+        {
+            "word": "directive",
+            "count": "1,359,729"
+        },
+        {
+            "word": "ch",
+            "count": "1,354,574"
+        },
+        {
+            "word": "tokens",
+            "count": "1,347,883"
+        },
+        {
+            "word": "public",
+            "count": "1,347,823"
+        },
+        {
+            "word": "dialog",
+            "count": "1,345,573"
+        },
+        {
+            "word": "stream",
+            "count": "1,342,425"
+        },
+        {
+            "word": "more",
+            "count": "1,342,272"
+        },
+        {
+            "word": "don",
+            "count": "1,340,451"
+        },
+        {
+            "word": "foo",
+            "count": "1,335,589"
+        },
+        {
+            "word": "names",
+            "count": "1,334,275"
+        },
+        {
+            "word": "lib",
+            "count": "1,333,906"
+        },
+        {
+            "word": "dir",
+            "count": "1,320,498"
+        },
+        {
+            "word": "arg",
+            "count": "1,319,081"
+        },
+        {
+            "word": "provided",
+            "count": "1,315,330"
+        },
+        {
+            "word": "Element",
+            "count": "1,312,862"
+        },
+        {
+            "word": "argument",
+            "count": "1,311,826"
+        },
+        {
+            "word": "scroll",
+            "count": "1,309,665"
+        },
+        {
+            "word": "special",
+            "count": "1,307,362"
+        },
+        {
+            "word": "React",
+            "count": "1,304,176"
+        },
+        {
+            "word": "RegExp",
+            "count": "1,303,760"
+        },
+        {
+            "word": "here",
+            "count": "1,303,739"
+        },
+        {
+            "word": "Add",
+            "count": "1,303,644"
+        },
+        {
+            "word": "col",
+            "count": "1,302,041"
+        },
+        {
+            "word": "month",
+            "count": "1,297,897"
+        },
+        {
+            "word": "transition",
+            "count": "1,295,668"
+        },
+        {
+            "word": "cursor",
+            "count": "1,290,961"
+        },
+        {
+            "word": "Check",
+            "count": "1,290,521"
+        },
+        {
+            "word": "regex",
+            "count": "1,288,918"
+        },
+        {
+            "word": "styles",
+            "count": "1,288,426"
+        },
+        {
+            "word": "reject",
+            "count": "1,283,373"
+        },
+        {
+            "word": "valid",
+            "count": "1,280,146"
+        },
+        {
+            "word": "session",
+            "count": "1,278,487"
+        },
+        {
+            "word": "functions",
+            "count": "1,277,728"
+        },
+        {
+            "word": "L",
+            "count": "1,274,078"
+        },
+        {
+            "word": "opt",
+            "count": "1,269,159"
+        },
+        {
+            "word": "img",
+            "count": "1,264,310"
+        },
+        {
+            "word": "helper",
+            "count": "1,260,767"
+        },
+        {
+            "word": "Msg",
+            "count": "1,259,851"
+        },
+        {
+            "word": "Get",
+            "count": "1,259,739"
+        },
+        {
+            "word": "center",
+            "count": "1,254,856"
+        },
+        {
+            "word": "jquery",
+            "count": "1,249,685"
+        },
+        {
+            "word": "handlers",
+            "count": "1,248,183"
+        },
+        {
+            "word": "matrix",
+            "count": "1,246,871"
+        },
+        {
+            "word": "sort",
+            "count": "1,244,721"
+        },
+        {
+            "word": "margin",
+            "count": "1,243,460"
+        },
+        {
+            "word": "like",
+            "count": "1,242,237"
+        },
+        {
+            "word": "evt",
+            "count": "1,240,465"
+        },
+        {
+            "word": "async",
+            "count": "1,239,261"
+        },
+        {
+            "word": "non",
+            "count": "1,237,948"
+        },
+        {
+            "word": "toolbar",
+            "count": "1,237,717"
+        },
+        {
+            "word": "slider",
+            "count": "1,234,806"
+        },
+        {
+            "word": "bar",
+            "count": "1,233,119"
+        },
+        {
+            "word": "move",
+            "count": "1,232,895"
+        },
+        {
+            "word": "exec",
+            "count": "1,231,678"
+        },
+        {
+            "word": "prev",
+            "count": "1,231,265"
+        },
+        {
+            "word": "let",
+            "count": "1,230,458"
+        },
+        {
+            "word": "summary",
+            "count": "1,228,880"
+        },
+        {
+            "word": "optional",
+            "count": "1,228,682"
+        },
+        {
+            "word": "where",
+            "count": "1,226,540"
+        },
+        {
+            "word": "We",
+            "count": "1,225,583"
+        },
+        {
+            "word": "cell",
+            "count": "1,225,259"
+        },
+        {
+            "word": "icon",
+            "count": "1,224,366"
+        },
+        {
+            "word": "step",
+            "count": "1,224,264"
+        },
+        {
+            "word": "ID",
+            "count": "1,223,949"
+        },
+        {
+            "word": "parameters",
+            "count": "1,220,962"
+        },
+        {
+            "word": "modal",
+            "count": "1,220,344"
+        },
+        {
+            "word": "client",
+            "count": "1,217,250"
+        },
+        {
+            "word": "build",
+            "count": "1,217,002"
+        },
+        {
+            "word": "namespace",
+            "count": "1,216,689"
+        },
+        {
+            "word": "hooks",
+            "count": "1,216,686"
+        },
+        {
+            "word": "expected",
+            "count": "1,212,722"
+        },
+        {
+            "word": "TODO",
+            "count": "1,210,545"
+        },
+        {
+            "word": "complete",
+            "count": "1,209,908"
+        },
+        {
+            "word": "innerHTML",
+            "count": "1,206,759"
+        },
+        {
+            "word": "points",
+            "count": "1,201,939"
+        },
+        {
+            "word": "rows",
+            "count": "1,201,527"
+        },
+        {
+            "word": "since",
+            "count": "1,201,300"
+        },
+        {
+            "word": "classes",
+            "count": "1,196,499"
+        },
+        {
+            "word": "reset",
+            "count": "1,196,189"
+        },
+        {
+            "word": "than",
+            "count": "1,194,529"
+        },
+        {
+            "word": "transform",
+            "count": "1,193,494"
+        },
+        {
+            "word": "splice",
+            "count": "1,191,699"
+        },
+        {
+            "word": "br",
+            "count": "1,188,218"
+        },
+        {
+            "word": "direction",
+            "count": "1,182,614"
+        },
+        {
+            "word": "ul",
+            "count": "1,174,315"
+        },
+        {
+            "word": "does",
+            "count": "1,172,297"
+        },
+        {
+            "word": "make",
+            "count": "1,171,398"
+        },
+        {
+            "word": "toggle",
+            "count": "1,169,648"
+        },
+        {
+            "word": "once",
+            "count": "1,166,335"
+        },
+        {
+            "word": "datepicker",
+            "count": "1,165,673"
+        },
+        {
+            "word": "u",
+            "count": "1,163,909"
+        },
+        {
+            "word": "internal",
+            "count": "1,159,856"
+        },
+        {
+            "word": "For",
+            "count": "1,158,670"
+        },
+        {
+            "word": "C",
+            "count": "1,155,815"
+        },
+        {
+            "word": "some",
+            "count": "1,154,745"
+        },
+        {
+            "word": "record",
+            "count": "1,144,595"
+        },
+        {
+            "word": "scrollTop",
+            "count": "1,141,686"
+        },
+        {
+            "word": "M",
+            "count": "1,138,854"
+        },
+        {
+            "word": "auto",
+            "count": "1,135,618"
+        },
+        {
+            "word": "just",
+            "count": "1,135,492"
+        },
+        {
+            "word": "dojo",
+            "count": "1,134,354"
+        },
+        {
+            "word": "void",
+            "count": "1,131,195"
+        },
+        {
+            "word": "series",
+            "count": "1,128,823"
+        },
+        {
+            "word": "An",
+            "count": "1,122,890"
+        },
+        {
+            "word": "day",
+            "count": "1,122,125"
+        },
+        {
+            "word": "fields",
+            "count": "1,121,181"
+        },
+        {
+            "word": "keyCode",
+            "count": "1,121,105"
+        },
+        {
+            "word": "entry",
+            "count": "1,116,015"
+        },
+        {
+            "word": "HTML",
+            "count": "1,114,094"
+        },
+        {
+            "word": "oSettings",
+            "count": "1,112,063"
+        },
+        {
+            "word": "shift",
+            "count": "1,111,235"
+        },
+        {
+            "word": "_dereq_",
+            "count": "1,110,830"
+        },
+        {
+            "word": "padding",
+            "count": "1,108,802"
+        },
+        {
+            "word": "tooltip",
+            "count": "1,107,254"
+        },
+        {
+            "word": "fragment",
+            "count": "1,107,175"
+        },
+        {
+            "word": "send",
+            "count": "1,106,150"
+        },
+        {
+            "word": "enabled",
+            "count": "1,105,767"
+        },
+        {
+            "word": "errors",
+            "count": "1,105,343"
+        },
+        {
+            "word": "border",
+            "count": "1,101,548"
+        },
+        {
+            "word": "gl",
+            "count": "1,100,522"
+        },
+        {
+            "word": "addEventListener",
+            "count": "1,099,440"
+        },
+        {
+            "word": "actual",
+            "count": "1,098,229"
+        },
+        {
+            "word": "factory",
+            "count": "1,096,681"
+        },
+        {
+            "word": "pre",
+            "count": "1,096,609"
+        },
+        {
+            "word": "old",
+            "count": "1,094,391"
+        },
+        {
+            "word": "URL",
+            "count": "1,093,365"
+        },
+        {
+            "word": "expr",
+            "count": "1,090,462"
+        },
+        {
+            "word": "loaded",
+            "count": "1,087,703"
+        },
+        {
+            "word": "S",
+            "count": "1,086,644"
+        },
+        {
+            "word": "dd",
+            "count": "1,086,087"
+        },
+        {
+            "word": "setAttribute",
+            "count": "1,085,345"
+        },
+        {
+            "word": "ev",
+            "count": "1,084,809"
+        },
+        {
+            "word": "instead",
+            "count": "1,084,292"
+        },
+        {
+            "word": "listeners",
+            "count": "1,080,930"
+        },
+        {
+            "word": "relative",
+            "count": "1,080,495"
+        },
+        {
+            "word": "ok",
+            "count": "1,079,704"
+        },
+        {
+            "word": "hasClass",
+            "count": "1,078,775"
+        },
+        {
+            "word": "control",
+            "count": "1,067,740"
+        },
+        {
+            "word": "progress",
+            "count": "1,066,253"
+        },
+        {
+            "word": "wrap",
+            "count": "1,064,913"
+        },
+        {
+            "word": "grunt",
+            "count": "1,064,702"
+        },
+        {
+            "word": "resize",
+            "count": "1,056,759"
+        },
+        {
+            "word": "save",
+            "count": "1,055,897"
+        },
+        {
+            "word": "category",
+            "count": "1,055,864"
+        },
+        {
+            "word": "gulp",
+            "count": "1,050,972"
+        },
+        {
+            "word": "part",
+            "count": "1,042,562"
+        },
+        {
+            "word": "two",
+            "count": "1,040,883"
+        },
+        {
+            "word": "font",
+            "count": "1,039,202"
+        },
+        {
+            "word": "over",
+            "count": "1,038,604"
+        },
+        {
+            "word": "reference",
+            "count": "1,038,513"
+        },
+        {
+            "word": "Create",
+            "count": "1,037,294"
+        },
+        {
+            "word": "ref",
+            "count": "1,033,765"
+        },
+        {
+            "word": "delay",
+            "count": "1,032,680"
+        },
+        {
+            "word": "previous",
+            "count": "1,032,200"
+        },
+        {
+            "word": "because",
+            "count": "1,024,765"
+        },
+        {
+            "word": "also",
+            "count": "1,024,517"
+        },
+        {
+            "word": "dest",
+            "count": "1,022,747"
+        },
+        {
+            "word": "fs",
+            "count": "1,017,743"
+        },
+        {
+            "word": "Use",
+            "count": "1,017,702"
+        },
+        {
+            "word": "Node",
+            "count": "1,013,911"
+        },
+        {
+            "word": "extra",
+            "count": "1,007,579"
+        },
+        {
+            "word": "custom",
+            "count": "1,005,572"
+        },
+        {
+            "word": "s3",
+            "count": "1,004,435"
+        },
+        {
+            "word": "substring",
+            "count": "1,000,825"
+        },
+        {
+            "word": "available",
+            "count": "1,000,797"
+        },
+        {
+            "word": "getAttribute",
+            "count": "1,000,250"
+        },
+        {
+            "word": "charAt",
+            "count": "999,432"
+        },
+        {
+            "word": "layout",
+            "count": "995,958"
+        },
+        {
+            "word": "them",
+            "count": "995,304"
+        },
+        {
+            "word": "through",
+            "count": "994,408"
+        },
+        {
+            "word": "clear",
+            "count": "992,077"
+        },
+        {
+            "word": "without",
+            "count": "991,192"
+        },
+        {
+            "word": "added",
+            "count": "989,670"
+        },
+        {
+            "word": "created",
+            "count": "987,896"
+        },
+        {
+            "word": "callbacks",
+            "count": "987,772"
+        },
+        {
+            "word": "multiple",
+            "count": "986,230"
+        },
+        {
+            "word": "proxy",
+            "count": "979,751"
+        },
+        {
+            "word": "sure",
+            "count": "979,437"
+        },
+        {
+            "word": "desc",
+            "count": "978,198"
+        },
+        {
+            "word": "changes",
+            "count": "970,709"
+        },
+        {
+            "word": "iframe",
+            "count": "969,360"
+        },
+        {
+            "word": "changed",
+            "count": "969,310"
+        },
+        {
+            "word": "md",
+            "count": "967,815"
+        },
+        {
+            "word": "they",
+            "count": "967,779"
+        },
+        {
+            "word": "CSS",
+            "count": "965,568"
+        },
+        {
+            "word": "meta",
+            "count": "963,903"
+        },
+        {
+            "word": "parameter",
+            "count": "962,857"
+        },
+        {
+            "word": "fill",
+            "count": "962,337"
+        },
+        {
+            "word": "parser",
+            "count": "961,276"
+        },
+        {
+            "word": "media",
+            "count": "961,149"
+        },
+        {
+            "word": "lines",
+            "count": "959,735"
+        },
+        {
+            "word": "UI",
+            "count": "954,955"
+        },
+        {
+            "word": "rootScope",
+            "count": "954,528"
+        },
+        {
+            "word": "ms",
+            "count": "952,781"
+        },
+        {
+            "word": "second",
+            "count": "951,746"
+        },
+        {
+            "word": "layer",
+            "count": "950,080"
+        },
+        {
+            "word": "trim",
+            "count": "949,597"
+        },
+        {
+            "word": "Remove",
+            "count": "945,783"
+        },
+        {
+            "word": "_i",
+            "count": "943,491"
+        },
+        {
+            "word": "insert",
+            "count": "943,232"
+        },
+        {
+            "word": "modules",
+            "count": "939,443"
+        },
+        {
+            "word": "command",
+            "count": "937,858"
+        },
+        {
+            "word": "pass",
+            "count": "936,522"
+        },
+        {
+            "word": "back",
+            "count": "935,172"
+        },
+        {
+            "word": "binding",
+            "count": "934,868"
+        },
+        {
+            "word": "google",
+            "count": "933,943"
+        },
+        {
+            "word": "based",
+            "count": "933,779"
+        },
+        {
+            "word": "fx",
+            "count": "931,938"
+        },
+        {
+            "word": "comment",
+            "count": "931,514"
+        },
+        {
+            "word": "post",
+            "count": "931,217"
+        },
+        {
+            "word": "lodash",
+            "count": "930,209"
+        },
+        {
+            "word": "single",
+            "count": "928,138"
+        },
+        {
+            "word": "easing",
+            "count": "928,111"
+        },
+        {
+            "word": "within",
+            "count": "927,727"
+        },
+        {
+            "word": "substr",
+            "count": "926,489"
+        },
+        {
+            "word": "author",
+            "count": "925,868"
+        },
+        {
+            "word": "op",
+            "count": "924,063"
+        },
+        {
+            "word": "removed",
+            "count": "923,974"
+        },
+        {
+            "word": "fail",
+            "count": "921,172"
+        },
+        {
+            "word": "toBe",
+            "count": "919,139"
+        },
+        {
+            "word": "doesn",
+            "count": "917,754"
+        },
+        {
+            "word": "See",
+            "count": "914,374"
+        },
+        {
+            "word": "eq",
+            "count": "914,278"
+        },
+        {
+            "word": "aria",
+            "count": "914,148"
+        },
+        {
+            "word": "fire",
+            "count": "912,826"
+        },
+        {
+            "word": "initialize",
+            "count": "910,905"
+        },
+        {
+            "word": "svg",
+            "count": "908,787"
+        },
+        {
+            "word": "alert",
+            "count": "907,086"
+        },
+        {
+            "word": "route",
+            "count": "907,057"
+        },
+        {
+            "word": "win",
+            "count": "906,139"
+        },
+        {
+            "word": "service",
+            "count": "905,993"
+        },
+        {
+            "word": "dataType",
+            "count": "903,682"
+        },
+        {
+            "word": "plugins",
+            "count": "902,805"
+        },
+        {
+            "word": "compile",
+            "count": "898,699"
+        },
+        {
+            "word": "faces",
+            "count": "898,617"
+        },
+        {
+            "word": "abs",
+            "count": "898,603"
+        },
+        {
+            "word": "firstChild",
+            "count": "897,948"
+        },
+        {
+            "word": "iterator",
+            "count": "897,888"
+        },
+        {
+            "word": "loading",
+            "count": "897,534"
+        },
+        {
+            "word": "pop",
+            "count": "897,132"
+        },
+        {
+            "word": "columns",
+            "count": "897,005"
+        },
+        {
+            "word": "speed",
+            "count": "896,137"
+        },
+        {
+            "word": "tagName",
+            "count": "895,520"
+        },
+        {
+            "word": "pattern",
+            "count": "895,401"
+        },
+        {
+            "word": "being",
+            "count": "891,181"
+        },
+        {
+            "word": "head",
+            "count": "890,558"
+        },
+        {
+            "word": "d3",
+            "count": "885,370"
+        },
+        {
+            "word": "matched",
+            "count": "878,046"
+        },
+        {
+            "word": "spec",
+            "count": "874,955"
+        },
+        {
+            "word": "twitter",
+            "count": "874,927"
+        },
+        {
+            "word": "placeholder",
+            "count": "872,990"
+        },
+        {
+            "word": "emit",
+            "count": "871,860"
+        },
+        {
+            "word": "main",
+            "count": "871,671"
+        },
+        {
+            "word": "always",
+            "count": "871,574"
+        },
+        {
+            "word": "jpg",
+            "count": "869,812"
+        },
+        {
+            "word": "API",
+            "count": "867,264"
+        },
+        {
+            "word": "round",
+            "count": "865,784"
+        },
+        {
+            "word": "connection",
+            "count": "865,196"
+        },
+        {
+            "word": "otherwise",
+            "count": "864,903"
+        },
+        {
+            "word": "geometry",
+            "count": "864,320"
+        },
+        {
+            "word": "requires",
+            "count": "861,712"
+        },
+        {
+            "word": "memberOf",
+            "count": "857,157"
+        },
+        {
+            "word": "merge",
+            "count": "855,730"
+        },
+        {
+            "word": "db",
+            "count": "855,100"
+        },
+        {
+            "word": "ngdoc",
+            "count": "855,002"
+        },
+        {
+            "word": "space",
+            "count": "852,675"
+        },
+        {
+            "word": "normal",
+            "count": "851,405"
+        },
+        {
+            "word": "helpers",
+            "count": "849,012"
+        },
+        {
+            "word": "anchor",
+            "count": "846,232"
+        },
+        {
+            "word": "want",
+            "count": "845,375"
+        },
+        {
+            "word": "setting",
+            "count": "843,907"
+        },
+        {
+            "word": "down",
+            "count": "842,653"
+        },
+        {
+            "word": "floor",
+            "count": "840,794"
+        },
+        {
+            "word": "distance",
+            "count": "838,300"
+        },
+        {
+            "word": "domain",
+            "count": "837,933"
+        },
+        {
+            "word": "Support",
+            "count": "837,808"
+        },
+        {
+            "word": "getElementById",
+            "count": "836,983"
+        },
+        {
+            "word": "absolute",
+            "count": "833,846"
+        },
+        {
+            "word": "ctrl",
+            "count": "833,687"
+        },
+        {
+            "word": "_data",
+            "count": "831,871"
+        },
+        {
+            "word": "computed",
+            "count": "830,484"
+        },
+        {
+            "word": "elems",
+            "count": "830,171"
+        },
+        {
+            "word": "task",
+            "count": "829,727"
+        },
+        {
+            "word": "your",
+            "count": "828,323"
+        },
+        {
+            "word": "strings",
+            "count": "825,106"
+        },
+        {
+            "word": "work",
+            "count": "823,547"
+        },
+        {
+            "word": "host",
+            "count": "823,522"
+        },
+        {
+            "word": "timer",
+            "count": "820,496"
+        },
+        {
+            "word": "tabs",
+            "count": "819,578"
+        },
+        {
+            "word": "rules",
+            "count": "819,162"
+        },
+        {
+            "word": "delta",
+            "count": "817,516"
+        },
+        {
+            "word": "background",
+            "count": "816,461"
+        },
+        {
+            "word": "en",
+            "count": "815,623"
+        },
+        {
+            "word": "marker",
+            "count": "809,744"
+        },
+        {
+            "word": "slide",
+            "count": "809,625"
+        },
+        {
+            "word": "contents",
+            "count": "806,937"
+        },
+        {
+            "word": "dist",
+            "count": "806,908"
+        },
+        {
+            "word": "D",
+            "count": "806,554"
+        },
+        {
+            "word": "mouse",
+            "count": "805,234"
+        },
+        {
+            "word": "Backbone",
+            "count": "805,178"
+        },
+        {
+            "word": "submit",
+            "count": "803,956"
+        },
+        {
+            "word": "javascript",
+            "count": "802,751"
+        },
+        {
+            "word": "effect",
+            "count": "801,361"
+        },
+        {
+            "word": "loader",
+            "count": "800,188"
+        },
+        {
+            "word": "textarea",
+            "count": "798,246"
+        },
+        {
+            "word": "documentElement",
+            "count": "797,581"
+        },
+        {
+            "word": "language",
+            "count": "796,174"
+        },
+        {
+            "word": "childNodes",
+            "count": "795,922"
+        },
+        {
+            "word": "returned",
+            "count": "795,237"
+        },
+        {
+            "word": "buttons",
+            "count": "795,221"
+        },
+        {
+            "word": "mm",
+            "count": "794,901"
+        },
+        {
+            "word": "moment",
+            "count": "794,818"
+        },
+        {
+            "word": "H",
+            "count": "794,394"
+        },
+        {
+            "word": "cfg",
+            "count": "794,385"
+        },
+        {
+            "word": "ignore",
+            "count": "791,341"
+        },
+        {
+            "word": "checkbox",
+            "count": "789,720"
+        },
+        {
+            "word": "character",
+            "count": "786,323"
+        },
+        {
+            "word": "following",
+            "count": "783,185"
+        },
+        {
+            "word": "material",
+            "count": "782,395"
+        },
+        {
+            "word": "write",
+            "count": "779,604"
+        },
+        {
+            "word": "whether",
+            "count": "778,006"
+        },
+        {
+            "word": "inline",
+            "count": "774,806"
+        },
+        {
+            "word": "exists",
+            "count": "774,369"
+        },
+        {
+            "word": "cancel",
+            "count": "773,298"
+        },
+        {
+            "word": "ptr",
+            "count": "773,042"
+        },
+        {
+            "word": "unit",
+            "count": "770,536"
+        },
+        {
+            "word": "components",
+            "count": "769,461"
+        },
+        {
+            "word": "allow",
+            "count": "769,003"
+        },
+        {
+            "word": "provide",
+            "count": "768,992"
+        },
+        {
+            "word": "Return",
+            "count": "768,839"
+        },
+        {
+            "word": "jqXHR",
+            "count": "767,844"
+        },
+        {
+            "word": "port",
+            "count": "767,386"
+        },
+        {
+            "word": "Note",
+            "count": "766,964"
+        },
+        {
+            "word": "read",
+            "count": "766,778"
+        },
+        {
+            "word": "x1",
+            "count": "766,281"
+        },
+        {
+            "word": "toEqual",
+            "count": "766,106"
+        },
+        {
+            "word": "def",
+            "count": "765,813"
+        },
+        {
+            "word": "invalid",
+            "count": "761,279"
+        },
+        {
+            "word": "bs",
+            "count": "760,667"
+        },
+        {
+            "word": "disable",
+            "count": "759,350"
+        },
+        {
+            "word": "operator",
+            "count": "759,004"
+        },
+        {
+            "word": "It",
+            "count": "756,963"
+        },
+        {
+            "word": "random",
+            "count": "755,405"
+        },
+        {
+            "word": "diff",
+            "count": "754,489"
+        },
+        {
+            "word": "owner",
+            "count": "754,296"
+        },
+        {
+            "word": "blur",
+            "count": "754,259"
+        },
+        {
+            "word": "renderer",
+            "count": "753,398"
+        },
+        {
+            "word": "local",
+            "count": "751,258"
+        },
+        {
+            "word": "eventName",
+            "count": "747,643"
+        },
+        {
+            "word": "frame",
+            "count": "744,109"
+        },
+        {
+            "word": "between",
+            "count": "743,846"
+        },
+        {
+            "word": "loc",
+            "count": "740,825"
+        },
+        {
+            "word": "v1",
+            "count": "740,531"
+        },
+        {
+            "word": "radius",
+            "count": "740,040"
+        },
+        {
+            "word": "tags",
+            "count": "738,044"
+        },
+        {
+            "word": "transaction",
+            "count": "735,438"
+        },
+        {
+            "word": "Component",
+            "count": "734,553"
+        },
+        {
+            "word": "panel",
+            "count": "734,210"
+        },
+        {
+            "word": "configuration",
+            "count": "733,736"
+        },
+        {
+            "word": "loop",
+            "count": "733,508"
+        },
+        {
+            "word": "F",
+            "count": "732,460"
+        },
+        {
+            "word": "Cartesian3",
+            "count": "730,502"
+        },
+        {
+            "word": "export",
+            "count": "729,307"
+        },
+        {
+            "word": "locale",
+            "count": "728,695"
+        },
+        {
+            "word": "amazonaws",
+            "count": "727,950"
+        },
+        {
+            "word": "stopPropagation",
+            "count": "727,941"
+        },
+        {
+            "word": "rect",
+            "count": "727,376"
+        },
+        {
+            "word": "View",
+            "count": "727,155"
+        },
+        {
+            "word": "uifaces",
+            "count": "722,727"
+        },
+        {
+            "word": "pipe",
+            "count": "722,215"
+        },
+        {
+            "word": "native",
+            "count": "721,199"
+        },
+        {
+            "word": "dropdown",
+            "count": "719,939"
+        },
+        {
+            "word": "password",
+            "count": "718,710"
+        },
+        {
+            "word": "parseFloat",
+            "count": "718,454"
+        },
+        {
+            "word": "draggable",
+            "count": "718,055"
+        },
+        {
+            "word": "include",
+            "count": "718,048"
+        },
+        {
+            "word": "Buffer",
+            "count": "716,019"
+        },
+        {
+            "word": "sel",
+            "count": "714,749"
+        },
+        {
+            "word": "tests",
+            "count": "711,609"
+        },
+        {
+            "word": "ts",
+            "count": "711,152"
+        },
+        {
+            "word": "theme",
+            "count": "706,367"
+        },
+        {
+            "word": "operation",
+            "count": "705,730"
+        },
+        {
+            "word": "When",
+            "count": "705,286"
+        },
+        {
+            "word": "side",
+            "count": "703,882"
+        },
+        {
+            "word": "total",
+            "count": "703,032"
+        },
+        {
+            "word": "flag",
+            "count": "701,837"
+        },
+        {
+            "word": "GET",
+            "count": "700,092"
+        },
+        {
+            "word": "observer",
+            "count": "697,801"
+        },
+        {
+            "word": "browsers",
+            "count": "697,132"
+        },
+        {
+            "word": "stringify",
+            "count": "696,797"
+        },
+        {
+            "word": "needed",
+            "count": "696,124"
+        },
+        {
+            "word": "overflow",
+            "count": "693,816"
+        },
+        {
+            "word": "dt",
+            "count": "693,438"
+        },
+        {
+            "word": "views",
+            "count": "691,956"
+        },
+        {
+            "word": "clearTimeout",
+            "count": "691,301"
+        },
+        {
+            "word": "variable",
+            "count": "688,366"
+        },
+        {
+            "word": "appendTo",
+            "count": "687,566"
+        },
+        {
+            "word": "our",
+            "count": "685,864"
+        },
+        {
+            "word": "interval",
+            "count": "685,728"
+        },
+        {
+            "word": "common",
+            "count": "685,178"
+        },
+        {
+            "word": "noop",
+            "count": "683,979"
+        },
+        {
+            "word": "MISSING",
+            "count": "683,724"
+        },
+        {
+            "word": "y1",
+            "count": "683,372"
+        },
+        {
+            "word": "E",
+            "count": "682,314"
+        },
+        {
+            "word": "exist",
+            "count": "681,242"
+        },
+        {
+            "word": "jshint",
+            "count": "680,989"
+        },
+        {
+            "word": "getElementsByTagName",
+            "count": "680,739"
+        },
+        {
+            "word": "Make",
+            "count": "680,683"
+        },
+        {
+            "word": "X",
+            "count": "680,288"
+        },
+        {
+            "word": "enable",
+            "count": "679,487"
+        },
+        {
+            "word": "rule",
+            "count": "679,049"
+        },
+        {
+            "word": "bounds",
+            "count": "675,530"
+        },
+        {
+            "word": "refresh",
+            "count": "672,790"
+        },
+        {
+            "word": "stroke",
+            "count": "672,010"
+        },
+        {
+            "word": "exception",
+            "count": "671,289"
+        },
+        {
+            "word": "scripts",
+            "count": "669,993"
+        },
+        {
+            "word": "users",
+            "count": "668,444"
+        },
+        {
+            "word": "thisArg",
+            "count": "666,105"
+        },
+        {
+            "word": "register",
+            "count": "665,591"
+        },
+        {
+            "word": "track",
+            "count": "664,894"
+        },
+        {
+            "word": "In",
+            "count": "664,528"
+        },
+        {
+            "word": "schema",
+            "count": "664,286"
+        },
+        {
+            "word": "metadata",
+            "count": "663,797"
+        },
+        {
+            "word": "information",
+            "count": "663,544"
+        },
+        {
+            "word": "seed",
+            "count": "663,320"
+        },
+        {
+            "word": "messages",
+            "count": "662,400"
+        },
+        {
+            "word": "buf",
+            "count": "659,911"
+        },
+        {
+            "word": "origin",
+            "count": "659,056"
+        },
+        {
+            "word": "_super",
+            "count": "658,700"
+        },
+        {
+            "word": "isNaN",
+            "count": "658,376"
+        },
+        {
+            "word": "Creates",
+            "count": "657,416"
+        },
+        {
+            "word": "translate",
+            "count": "657,119"
+        },
+        {
+            "word": "drag",
+            "count": "656,235"
+        },
+        {
+            "word": "tbody",
+            "count": "655,832"
+        },
+        {
+            "word": "tt",
+            "count": "651,436"
+        },
+        {
+            "word": "player",
+            "count": "649,693"
+        },
+        {
+            "word": "access",
+            "count": "649,580"
+        },
+        {
+            "word": "production",
+            "count": "649,270"
+        },
+        {
+            "word": "drop",
+            "count": "649,239"
+        },
+        {
+            "word": "details",
+            "count": "648,989"
+        },
+        {
+            "word": "tip",
+            "count": "648,929"
+        },
+        {
+            "word": "chunk",
+            "count": "648,464"
+        },
+        {
+            "word": "history",
+            "count": "647,713"
+        },
+        {
+            "word": "limit",
+            "count": "647,673"
+        },
+        {
+            "word": "week",
+            "count": "646,941"
+        },
+        {
+            "word": "removeChild",
+            "count": "646,432"
+        },
+        {
+            "word": "maps",
+            "count": "646,046"
+        },
+        {
+            "word": "calls",
+            "count": "645,710"
+        },
+        {
+            "word": "bound",
+            "count": "644,774"
+        },
+        {
+            "word": "inside",
+            "count": "643,344"
+        },
+        {
+            "word": "bytes",
+            "count": "643,169"
+        },
+        {
+            "word": "constant",
+            "count": "642,866"
+        },
+        {
+            "word": "int",
+            "count": "642,669"
+        },
+        {
+            "word": "Type",
+            "count": "642,161"
+        },
+        {
+            "word": "describe",
+            "count": "641,963"
+        },
+        {
+            "word": "warn",
+            "count": "641,274"
+        },
+        {
+            "word": "these",
+            "count": "639,337"
+        },
+        {
+            "word": "both",
+            "count": "639,154"
+        },
+        {
+            "word": "ownerDocument",
+            "count": "638,424"
+        },
+        {
+            "word": "popup",
+            "count": "637,822"
+        },
+        {
+            "word": "bits",
+            "count": "637,122"
+        },
+        {
+            "word": "temp",
+            "count": "636,875"
+        },
+        {
+            "word": "vars",
+            "count": "636,179"
+        },
+        {
+            "word": "until",
+            "count": "635,378"
+        },
+        {
+            "word": "closest",
+            "count": "635,070"
+        },
+        {
+            "word": "Sizzle",
+            "count": "635,018"
+        },
+        {
+            "word": "scrollLeft",
+            "count": "634,824"
+        },
+        {
+            "word": "defineProperty",
+            "count": "634,098"
+        },
+        {
+            "word": "avoid",
+            "count": "633,799"
+        },
+        {
+            "word": "Collection",
+            "count": "633,319"
+        },
+        {
+            "word": "connect",
+            "count": "633,246"
+        },
+        {
+            "word": "assign",
+            "count": "633,004"
+        },
+        {
+            "word": "router",
+            "count": "632,582"
+        },
+        {
+            "word": "about",
+            "count": "632,348"
+        },
+        {
+            "word": "possible",
+            "count": "632,171"
+        },
+        {
+            "word": "tween",
+            "count": "631,864"
+        },
+        {
+            "word": "handleObj",
+            "count": "631,355"
+        },
+        {
+            "word": "whitespace",
+            "count": "631,283"
+        },
+        {
+            "word": "transport",
+            "count": "630,907"
+        },
+        {
+            "word": "video",
+            "count": "630,324"
+        },
+        {
+            "word": "section",
+            "count": "629,618"
+        },
+        {
+            "word": "sub",
+            "count": "628,557"
+        },
+        {
+            "word": "way",
+            "count": "628,396"
+        },
+        {
+            "word": "via",
+            "count": "626,271"
+        },
+        {
+            "word": "their",
+            "count": "626,034"
+        },
+        {
+            "word": "validate",
+            "count": "625,364"
+        }
+    ]
+}

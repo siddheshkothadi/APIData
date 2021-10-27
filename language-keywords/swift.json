@@ -1,0 +1,3849 @@
+{
+    "language": "swift",
+    "words": [
+        {
+            "word": "return",
+            "count": "950,950"
+        },
+        {
+            "word": "func",
+            "count": "814,910"
+        },
+        {
+            "word": "let",
+            "count": "766,060"
+        },
+        {
+            "word": "self",
+            "count": "730,870"
+        },
+        {
+            "word": "the",
+            "count": "614,408"
+        },
+        {
+            "word": "var",
+            "count": "585,288"
+        },
+        {
+            "word": "import",
+            "count": "509,790"
+        },
+        {
+            "word": "if",
+            "count": "444,377"
+        },
+        {
+            "word": "case",
+            "count": "394,452"
+        },
+        {
+            "word": "to",
+            "count": "372,412"
+        },
+        {
+            "word": "override",
+            "count": "360,415"
+        },
+        {
+            "word": "public",
+            "count": "319,298"
+        },
+        {
+            "word": "in",
+            "count": "313,930"
+        },
+        {
+            "word": "else",
+            "count": "312,562"
+        },
+        {
+            "word": "nil",
+            "count": "312,354"
+        },
+        {
+            "word": "of",
+            "count": "275,268"
+        },
+        {
+            "word": "super",
+            "count": "267,075"
+        },
+        {
+            "word": "a",
+            "count": "259,860"
+        },
+        {
+            "word": "init",
+            "count": "253,179"
+        },
+        {
+            "word": "String",
+            "count": "246,587"
+        },
+        {
+            "word": "Int",
+            "count": "240,497"
+        },
+        {
+            "word": "true",
+            "count": "239,376"
+        },
+        {
+            "word": "error",
+            "count": "212,677"
+        },
+        {
+            "word": "class",
+            "count": "206,339"
+        },
+        {
+            "word": "is",
+            "count": "195,849"
+        },
+        {
+            "word": "value",
+            "count": "190,794"
+        },
+        {
+            "word": "for",
+            "count": "178,402"
+        },
+        {
+            "word": "tableView",
+            "count": "175,775"
+        },
+        {
+            "word": "UIKit",
+            "count": "165,616"
+        },
+        {
+            "word": "false",
+            "count": "165,291"
+        },
+        {
+            "word": "CHECK",
+            "count": "159,878"
+        },
+        {
+            "word": "by",
+            "count": "151,270"
+        },
+        {
+            "word": "swift",
+            "count": "146,012"
+        },
+        {
+            "word": "MARK",
+            "count": "138,439"
+        },
+        {
+            "word": "application",
+            "count": "137,187"
+        },
+        {
+            "word": "view",
+            "count": "134,676"
+        },
+        {
+            "word": "as",
+            "count": "126,849"
+        },
+        {
+            "word": "_",
+            "count": "124,167"
+        },
+        {
+            "word": "Foundation",
+            "count": "121,164"
+        },
+        {
+            "word": "Bool",
+            "count": "113,814"
+        },
+        {
+            "word": "method",
+            "count": "112,209"
+        },
+        {
+            "word": "viewDidLoad",
+            "count": "111,400"
+        },
+        {
+            "word": "This",
+            "count": "111,249"
+        },
+        {
+            "word": "get",
+            "count": "106,379"
+        },
+        {
+            "word": "UIApplication",
+            "count": "105,990"
+        },
+        {
+            "word": "x",
+            "count": "102,810"
+        },
+        {
+            "word": "and",
+            "count": "99,386"
+        },
+        {
+            "word": "test",
+            "count": "96,576"
+        },
+        {
+            "word": "be",
+            "count": "96,511"
+        },
+        {
+            "word": "do",
+            "count": "94,784"
+        },
+        {
+            "word": "switch",
+            "count": "93,423"
+        },
+        {
+            "word": "result",
+            "count": "93,297"
+        },
+        {
+            "word": "count",
+            "count": "90,319"
+        },
+        {
+            "word": "code",
+            "count": "90,192"
+        },
+        {
+            "word": "data",
+            "count": "88,948"
+        },
+        {
+            "word": "on",
+            "count": "85,959"
+        },
+        {
+            "word": "default",
+            "count": "85,456"
+        },
+        {
+            "word": "s",
+            "count": "84,917"
+        },
+        {
+            "word": "name",
+            "count": "83,148"
+        },
+        {
+            "word": "frame",
+            "count": "82,215"
+        },
+        {
+            "word": "not",
+            "count": "81,698"
+        },
+        {
+            "word": "animated",
+            "count": "79,979"
+        },
+        {
+            "word": "extension",
+            "count": "79,907"
+        },
+        {
+            "word": "object",
+            "count": "78,610"
+        },
+        {
+            "word": "The",
+            "count": "77,846"
+        },
+        {
+            "word": "Test",
+            "count": "77,088"
+        },
+        {
+            "word": "private",
+            "count": "76,275"
+        },
+        {
+            "word": "A",
+            "count": "75,250"
+        },
+        {
+            "word": "CGFloat",
+            "count": "74,939"
+        },
+        {
+            "word": "set",
+            "count": "73,271"
+        },
+        {
+            "word": "practicalswift",
+            "count": "73,135"
+        },
+        {
+            "word": "an",
+            "count": "72,855"
+        },
+        {
+            "word": "that",
+            "count": "72,519"
+        },
+        {
+            "word": "i",
+            "count": "69,805"
+        },
+        {
+            "word": "UITableView",
+            "count": "69,576"
+        },
+        {
+            "word": "project",
+            "count": "68,315"
+        },
+        {
+            "word": "here",
+            "count": "68,291"
+        },
+        {
+            "word": "indexPath",
+            "count": "67,738"
+        },
+        {
+            "word": "next",
+            "count": "67,000"
+        },
+        {
+            "word": "request",
+            "count": "63,050"
+        },
+        {
+            "word": "AnyObject",
+            "count": "62,877"
+        },
+        {
+            "word": "after",
+            "count": "62,760"
+        },
+        {
+            "word": "T",
+            "count": "61,770"
+        },
+        {
+            "word": "with",
+            "count": "60,373"
+        },
+        {
+            "word": "type",
+            "count": "60,189"
+        },
+        {
+            "word": "y",
+            "count": "59,673"
+        },
+        {
+            "word": "cell",
+            "count": "59,663"
+        },
+        {
+            "word": "try",
+            "count": "58,802"
+        },
+        {
+            "word": "Put",
+            "count": "57,072"
+        },
+        {
+            "word": "completion",
+            "count": "57,046"
+        },
+        {
+            "word": "com",
+            "count": "57,043"
+        },
+        {
+            "word": "called",
+            "count": "56,958"
+        },
+        {
+            "word": "didReceiveMemoryWarning",
+            "count": "56,882"
+        },
+        {
+            "word": "context",
+            "count": "56,697"
+        },
+        {
+            "word": "setUp",
+            "count": "56,594"
+        },
+        {
+            "word": "key",
+            "count": "56,174"
+        },
+        {
+            "word": "coder",
+            "count": "56,037"
+        },
+        {
+            "word": "d",
+            "count": "55,595"
+        },
+        {
+            "word": "XCTAssertEqual",
+            "count": "55,588"
+        },
+        {
+            "word": "NEXT",
+            "count": "55,075"
+        },
+        {
+            "word": "break",
+            "count": "54,414"
+        },
+        {
+            "word": "https",
+            "count": "54,198"
+        },
+        {
+            "word": "expected",
+            "count": "53,244"
+        },
+        {
+            "word": "or",
+            "count": "52,548"
+        },
+        {
+            "word": "delegate",
+            "count": "52,154"
+        },
+        {
+            "word": "from",
+            "count": "52,115"
+        },
+        {
+            "word": "source",
+            "count": "52,007"
+        },
+        {
+            "word": "any",
+            "count": "51,771"
+        },
+        {
+            "word": "index",
+            "count": "51,578"
+        },
+        {
+            "word": "Created",
+            "count": "51,098"
+        },
+        {
+            "word": "tearDown",
+            "count": "50,892"
+        },
+        {
+            "word": "can",
+            "count": "50,585"
+        },
+        {
+            "word": "protocol",
+            "count": "50,201"
+        },
+        {
+            "word": "each",
+            "count": "50,143"
+        },
+        {
+            "word": "UIColor",
+            "count": "49,534"
+        },
+        {
+            "word": "response",
+            "count": "49,064"
+        },
+        {
+            "word": "parameter",
+            "count": "48,821"
+        },
+        {
+            "word": "AppDelegate",
+            "count": "48,071"
+        },
+        {
+            "word": "image",
+            "count": "47,412"
+        },
+        {
+            "word": "it",
+            "count": "47,278"
+        },
+        {
+            "word": "struct",
+            "count": "46,520"
+        },
+        {
+            "word": "setup",
+            "count": "46,425"
+        },
+        {
+            "word": "Void",
+            "count": "45,707"
+        },
+        {
+            "word": "t",
+            "count": "45,515"
+        },
+        {
+            "word": "b",
+            "count": "44,966"
+        },
+        {
+            "word": "github",
+            "count": "44,951"
+        },
+        {
+            "word": "catch",
+            "count": "44,948"
+        },
+        {
+            "word": "Swift",
+            "count": "44,159"
+        },
+        {
+            "word": "size",
+            "count": "43,710"
+        },
+        {
+            "word": "weak",
+            "count": "43,014"
+        },
+        {
+            "word": "didSet",
+            "count": "42,835"
+        },
+        {
+            "word": "XCTest",
+            "count": "42,644"
+        },
+        {
+            "word": "invocation",
+            "count": "42,507"
+        },
+        {
+            "word": "required",
+            "count": "42,467"
+        },
+        {
+            "word": "section",
+            "count": "42,187"
+        },
+        {
+            "word": "found",
+            "count": "41,566"
+        },
+        {
+            "word": "should",
+            "count": "41,032"
+        },
+        {
+            "word": "path",
+            "count": "40,774"
+        },
+        {
+            "word": "url",
+            "count": "40,618"
+        },
+        {
+            "word": "returns",
+            "count": "40,373"
+        },
+        {
+            "word": "c",
+            "count": "40,304"
+        },
+        {
+            "word": "json",
+            "count": "40,065"
+        },
+        {
+            "word": "this",
+            "count": "39,640"
+        },
+        {
+            "word": "title",
+            "count": "39,502"
+        },
+        {
+            "word": "string",
+            "count": "39,350"
+        },
+        {
+            "word": "aDecoder",
+            "count": "39,329"
+        },
+        {
+            "word": "you",
+            "count": "39,264"
+        },
+        {
+            "word": "lhs",
+            "count": "39,180"
+        },
+        {
+            "word": "file",
+            "count": "38,715"
+        },
+        {
+            "word": "target",
+            "count": "38,154"
+        },
+        {
+            "word": "rhs",
+            "count": "37,946"
+        },
+        {
+            "word": "JSON",
+            "count": "37,738"
+        },
+        {
+            "word": "IBOutlet",
+            "count": "37,510"
+        },
+        {
+            "word": "before",
+            "count": "37,509"
+        },
+        {
+            "word": "submitted",
+            "count": "36,684"
+        },
+        {
+            "word": "use",
+            "count": "36,666"
+        },
+        {
+            "word": "n",
+            "count": "36,592"
+        },
+        {
+            "word": "print",
+            "count": "36,571"
+        },
+        {
+            "word": "fuzzing",
+            "count": "36,402"
+        },
+        {
+            "word": "array",
+            "count": "36,395"
+        },
+        {
+            "word": "width",
+            "count": "36,378"
+        },
+        {
+            "word": "example",
+            "count": "36,146"
+        },
+        {
+            "word": "UIView",
+            "count": "36,104"
+        },
+        {
+            "word": "description",
+            "count": "36,070"
+        },
+        {
+            "word": "org",
+            "count": "35,702"
+        },
+        {
+            "word": "NSError",
+            "count": "35,571"
+        },
+        {
+            "word": "window",
+            "count": "35,411"
+        },
+        {
+            "word": "static",
+            "count": "34,352"
+        },
+        {
+            "word": "RUN",
+            "count": "34,344"
+        },
+        {
+            "word": "text",
+            "count": "34,181"
+        },
+        {
+            "word": "NSIndexPath",
+            "count": "33,964"
+        },
+        {
+            "word": "expect",
+            "count": "33,695"
+        },
+        {
+            "word": "height",
+            "count": "33,612"
+        },
+        {
+            "word": "append",
+            "count": "32,895"
+        },
+        {
+            "word": "guard",
+            "count": "32,790"
+        },
+        {
+            "word": "parameters",
+            "count": "32,065"
+        },
+        {
+            "word": "Double",
+            "count": "31,566"
+        },
+        {
+            "word": "ViewController",
+            "count": "31,414"
+        },
+        {
+            "word": "e",
+            "count": "31,268"
+        },
+        {
+            "word": "XCTAssert",
+            "count": "31,024"
+        },
+        {
+            "word": "URL",
+            "count": "30,991"
+        },
+        {
+            "word": "row",
+            "count": "30,812"
+        },
+        {
+            "word": "NSCoder",
+            "count": "30,624"
+        },
+        {
+            "word": "map",
+            "count": "30,335"
+        },
+        {
+            "word": "controller",
+            "count": "30,326"
+        },
+        {
+            "word": "endif",
+            "count": "29,907"
+        },
+        {
+            "word": "will",
+            "count": "29,879"
+        },
+        {
+            "word": "open",
+            "count": "29,868"
+        },
+        {
+            "word": "collectionView",
+            "count": "29,560"
+        },
+        {
+            "word": "message",
+            "count": "29,414"
+        },
+        {
+            "word": "addSubview",
+            "count": "29,358"
+        },
+        {
+            "word": "alpha",
+            "count": "29,351"
+        },
+        {
+            "word": "subject",
+            "count": "29,233"
+        },
+        {
+            "word": "values",
+            "count": "29,123"
+        },
+        {
+            "word": "want",
+            "count": "28,818"
+        },
+        {
+            "word": "start",
+            "count": "28,769"
+        },
+        {
+            "word": "options",
+            "count": "28,765"
+        },
+        {
+            "word": "scheduler",
+            "count": "28,140"
+        },
+        {
+            "word": "newValue",
+            "count": "28,054"
+        },
+        {
+            "word": "new",
+            "count": "27,816"
+        },
+        {
+            "word": "label",
+            "count": "27,771"
+        },
+        {
+            "word": "when",
+            "count": "27,677"
+        },
+        {
+            "word": "handler",
+            "count": "27,546"
+        },
+        {
+            "word": "sender",
+            "count": "27,367"
+        },
+        {
+            "word": "internal",
+            "count": "27,137"
+        },
+        {
+            "word": "fatalError",
+            "count": "27,099"
+        },
+        {
+            "word": "following",
+            "count": "27,004"
+        },
+        {
+            "word": "CGRect",
+            "count": "26,744"
+        },
+        {
+            "word": "point",
+            "count": "26,505"
+        },
+        {
+            "word": "f",
+            "count": "26,386"
+        },
+        {
+            "word": "copy",
+            "count": "26,347"
+        },
+        {
+            "word": "id",
+            "count": "26,237"
+        },
+        {
+            "word": "layer",
+            "count": "26,201"
+        },
+        {
+            "word": "observer",
+            "count": "26,093"
+        },
+        {
+            "word": "so",
+            "count": "25,994"
+        },
+        {
+            "word": "objc",
+            "count": "25,943"
+        },
+        {
+            "word": "rawValue",
+            "count": "25,869"
+        },
+        {
+            "word": "available",
+            "count": "25,742"
+        },
+        {
+            "word": "UIViewController",
+            "count": "25,389"
+        },
+        {
+            "word": "make",
+            "count": "25,309"
+        },
+        {
+            "word": "list",
+            "count": "25,011"
+        },
+        {
+            "word": "state",
+            "count": "24,971"
+        },
+        {
+            "word": "item",
+            "count": "24,890"
+        },
+        {
+            "word": "iOS",
+            "count": "24,825"
+        },
+        {
+            "word": "UIWindow",
+            "count": "24,556"
+        },
+        {
+            "word": "resources",
+            "count": "24,551"
+        },
+        {
+            "word": "has",
+            "count": "24,477"
+        },
+        {
+            "word": "param",
+            "count": "24,419"
+        },
+        {
+            "word": "Dispose",
+            "count": "24,239"
+        },
+        {
+            "word": "Override",
+            "count": "24,203"
+        },
+        {
+            "word": "recreated",
+            "count": "24,177"
+        },
+        {
+            "word": "time",
+            "count": "24,034"
+        },
+        {
+            "word": "os",
+            "count": "24,005"
+        },
+        {
+            "word": "task",
+            "count": "23,967"
+        },
+        {
+            "word": "event",
+            "count": "23,771"
+        },
+        {
+            "word": "segue",
+            "count": "23,741"
+        },
+        {
+            "word": "typealias",
+            "count": "23,166"
+        },
+        {
+            "word": "selected",
+            "count": "22,798"
+        },
+        {
+            "word": "assert",
+            "count": "22,553"
+        },
+        {
+            "word": "failure",
+            "count": "22,545"
+        },
+        {
+            "word": "bounds",
+            "count": "22,309"
+        },
+        {
+            "word": "expectEqual",
+            "count": "22,247"
+        },
+        {
+            "word": "http",
+            "count": "22,069"
+        },
+        {
+            "word": "enum",
+            "count": "22,022"
+        },
+        {
+            "word": "v",
+            "count": "21,949"
+        },
+        {
+            "word": "number",
+            "count": "21,849"
+        },
+        {
+            "word": "UIApplicationMain",
+            "count": "21,771"
+        },
+        {
+            "word": "backgroundColor",
+            "count": "21,638"
+        },
+        {
+            "word": "merge",
+            "count": "21,607"
+        },
+        {
+            "word": "Error",
+            "count": "21,551"
+        },
+        {
+            "word": "UIApplicationDelegate",
+            "count": "21,508"
+        },
+        {
+            "word": "output",
+            "count": "21,470"
+        },
+        {
+            "word": "UIResponder",
+            "count": "21,469"
+        },
+        {
+            "word": "completed",
+            "count": "21,444"
+        },
+        {
+            "word": "teardown",
+            "count": "21,423"
+        },
+        {
+            "word": "success",
+            "count": "21,397"
+        },
+        {
+            "word": "expectation",
+            "count": "21,274"
+        },
+        {
+            "word": "UILabel",
+            "count": "21,268"
+        },
+        {
+            "word": "modify",
+            "count": "21,247"
+        },
+        {
+            "word": "action",
+            "count": "21,236"
+        },
+        {
+            "word": "conditions",
+            "count": "21,181"
+        },
+        {
+            "word": "given",
+            "count": "21,180"
+        },
+        {
+            "word": "property",
+            "count": "21,106"
+        },
+        {
+            "word": "launch",
+            "count": "21,093"
+        },
+        {
+            "word": "style",
+            "count": "21,020"
+        },
+        {
+            "word": "UITableViewCell",
+            "count": "20,844"
+        },
+        {
+            "word": "results",
+            "count": "20,841"
+        },
+        {
+            "word": "fulfill",
+            "count": "20,746"
+        },
+        {
+            "word": "C",
+            "count": "20,572"
+        },
+        {
+            "word": "hidden",
+            "count": "20,490"
+        },
+        {
+            "word": "we",
+            "count": "20,469"
+        },
+        {
+            "word": "other",
+            "count": "20,365"
+        },
+        {
+            "word": "frontend",
+            "count": "20,355"
+        },
+        {
+            "word": "dispatch_async",
+            "count": "20,295"
+        },
+        {
+            "word": "txt",
+            "count": "20,262"
+        },
+        {
+            "word": "function",
+            "count": "20,234"
+        },
+        {
+            "word": "loading",
+            "count": "20,090"
+        },
+        {
+            "word": "publish",
+            "count": "19,969"
+        },
+        {
+            "word": "Type",
+            "count": "19,946"
+        },
+        {
+            "word": "session",
+            "count": "19,945"
+        },
+        {
+            "word": "distribute",
+            "count": "19,921"
+        },
+        {
+            "word": "applicationWillTerminate",
+            "count": "19,858"
+        },
+        {
+            "word": "sell",
+            "count": "19,822"
+        },
+        {
+            "word": "sublicense",
+            "count": "19,822"
+        },
+        {
+            "word": "Dictionary",
+            "count": "19,745"
+        },
+        {
+            "word": "dict",
+            "count": "19,586"
+        },
+        {
+            "word": "Set",
+            "count": "19,526"
+        },
+        {
+            "word": "furnished",
+            "count": "19,452"
+        },
+        {
+            "word": "parse",
+            "count": "19,393"
+        },
+        {
+            "word": "are",
+            "count": "19,156"
+        },
+        {
+            "word": "Do",
+            "count": "19,063"
+        },
+        {
+            "word": "applicationDidBecomeActive",
+            "count": "18,955"
+        },
+        {
+            "word": "If",
+            "count": "18,899"
+        },
+        {
+            "word": "instance",
+            "count": "18,835"
+        },
+        {
+            "word": "B",
+            "count": "18,814"
+        },
+        {
+            "word": "applicationWillResignActive",
+            "count": "18,750"
+        },
+        {
+            "word": "button",
+            "count": "18,657"
+        },
+        {
+            "word": "applicationDidEnterBackground",
+            "count": "18,568"
+        },
+        {
+            "word": "Returns",
+            "count": "18,502"
+        },
+        {
+            "word": "applicationWillEnterForeground",
+            "count": "18,446"
+        },
+        {
+            "word": "left",
+            "count": "18,330"
+        },
+        {
+            "word": "See",
+            "count": "18,322"
+        },
+        {
+            "word": "testExample",
+            "count": "18,215"
+        },
+        {
+            "word": "dictionary",
+            "count": "18,187"
+        },
+        {
+            "word": "scrollView",
+            "count": "18,148"
+        },
+        {
+            "word": "r",
+            "count": "18,112"
+        },
+        {
+            "word": "where",
+            "count": "18,103"
+        },
+        {
+            "word": "XCTFail",
+            "count": "18,038"
+        },
+        {
+            "word": "elements",
+            "count": "17,981"
+        },
+        {
+            "word": "Element",
+            "count": "17,965"
+        },
+        {
+            "word": "length",
+            "count": "17,959"
+        },
+        {
+            "word": "input",
+            "count": "17,815"
+        },
+        {
+            "word": "tests",
+            "count": "17,783"
+        },
+        {
+            "word": "at",
+            "count": "17,779"
+        },
+        {
+            "word": "part",
+            "count": "17,742"
+        },
+        {
+            "word": "additional",
+            "count": "17,706"
+        },
+        {
+            "word": "dispatch_get_main_queue",
+            "count": "17,687"
+        },
+        {
+            "word": "viewWillAppear",
+            "count": "17,669"
+        },
+        {
+            "word": "element",
+            "count": "17,529"
+        },
+        {
+            "word": "line",
+            "count": "17,406"
+        },
+        {
+            "word": "Any",
+            "count": "17,325"
+        },
+        {
+            "word": "equalTo",
+            "count": "17,254"
+        },
+        {
+            "word": "your",
+            "count": "17,249"
+        },
+        {
+            "word": "position",
+            "count": "17,215"
+        },
+        {
+            "word": "reloadData",
+            "count": "17,161"
+        },
+        {
+            "word": "Pass",
+            "count": "17,130"
+        },
+        {
+            "word": "measure",
+            "count": "17,125"
+        },
+        {
+            "word": "performance",
+            "count": "17,049"
+        },
+        {
+            "word": "closure",
+            "count": "17,036"
+        },
+        {
+            "word": "g",
+            "count": "17,027"
+        },
+        {
+            "word": "all",
+            "count": "16,943"
+        },
+        {
+            "word": "Array",
+            "count": "16,903"
+        },
+        {
+            "word": "status",
+            "count": "16,828"
+        },
+        {
+            "word": "XCTAssertTrue",
+            "count": "16,814"
+        },
+        {
+            "word": "right",
+            "count": "16,811"
+        },
+        {
+            "word": "using",
+            "count": "16,751"
+        },
+        {
+            "word": "customization",
+            "count": "16,740"
+        },
+        {
+            "word": "imageView",
+            "count": "16,650"
+        },
+        {
+            "word": "builderResult",
+            "count": "16,541"
+        },
+        {
+            "word": "used",
+            "count": "16,523"
+        },
+        {
+            "word": "completionHandler",
+            "count": "16,483"
+        },
+        {
+            "word": "webView",
+            "count": "16,369"
+        },
+        {
+            "word": "first",
+            "count": "16,322"
+        },
+        {
+            "word": "NSURL",
+            "count": "15,947"
+        },
+        {
+            "word": "color",
+            "count": "15,944"
+        },
+        {
+            "word": "deinit",
+            "count": "15,944"
+        },
+        {
+            "word": "throw",
+            "count": "15,846"
+        },
+        {
+            "word": "date",
+            "count": "15,827"
+        },
+        {
+            "word": "awakeFromNib",
+            "count": "15,802"
+        },
+        {
+            "word": "duration",
+            "count": "15,714"
+        },
+        {
+            "word": "been",
+            "count": "15,673"
+        },
+        {
+            "word": "LABEL",
+            "count": "15,599"
+        },
+        {
+            "word": "no",
+            "count": "15,577"
+        },
+        {
+            "word": "p",
+            "count": "15,517"
+        },
+        {
+            "word": "UIImage",
+            "count": "15,511"
+        },
+        {
+            "word": "authors",
+            "count": "15,506"
+        },
+        {
+            "word": "textField",
+            "count": "15,487"
+        },
+        {
+            "word": "CONTRIBUTORS",
+            "count": "15,363"
+        },
+        {
+            "word": "animation",
+            "count": "15,359"
+        },
+        {
+            "word": "items",
+            "count": "15,181"
+        },
+        {
+            "word": "NSObject",
+            "count": "15,076"
+        },
+        {
+            "word": "NSString",
+            "count": "14,984"
+        },
+        {
+            "word": "numberOfRowsInSection",
+            "count": "14,933"
+        },
+        {
+            "word": "objects",
+            "count": "14,920"
+        },
+        {
+            "word": "NSDate",
+            "count": "14,900"
+        },
+        {
+            "word": "tag",
+            "count": "14,893"
+        },
+        {
+            "word": "userInfo",
+            "count": "14,892"
+        },
+        {
+            "word": "end",
+            "count": "14,882"
+        },
+        {
+            "word": "testPerformanceExample",
+            "count": "14,869"
+        },
+        {
+            "word": "queue",
+            "count": "14,857"
+        },
+        {
+            "word": "U",
+            "count": "14,818"
+        },
+        {
+            "word": "throws",
+            "count": "14,815"
+        },
+        {
+            "word": "functional",
+            "count": "14,767"
+        },
+        {
+            "word": "CGPoint",
+            "count": "14,758"
+        },
+        {
+            "word": "Use",
+            "count": "14,697"
+        },
+        {
+            "word": "res",
+            "count": "14,646"
+        },
+        {
+            "word": "measureBlock",
+            "count": "14,626"
+        },
+        {
+            "word": "j",
+            "count": "14,580"
+        },
+        {
+            "word": "In",
+            "count": "14,579"
+        },
+        {
+            "word": "range",
+            "count": "14,573"
+        },
+        {
+            "word": "unknownFields",
+            "count": "14,573"
+        },
+        {
+            "word": "Float",
+            "count": "14,464"
+        },
+        {
+            "word": "NSNumber",
+            "count": "14,422"
+        },
+        {
+            "word": "Int32",
+            "count": "14,418"
+        },
+        {
+            "word": "rect",
+            "count": "14,390"
+        },
+        {
+            "word": "transform",
+            "count": "14,360"
+        },
+        {
+            "word": "NSData",
+            "count": "14,272"
+        },
+        {
+            "word": "implemented",
+            "count": "14,265"
+        },
+        {
+            "word": "foo",
+            "count": "14,249"
+        },
+        {
+            "word": "navigationController",
+            "count": "14,244"
+        },
+        {
+            "word": "buffer",
+            "count": "14,230"
+        },
+        {
+            "word": "user",
+            "count": "14,207"
+        },
+        {
+            "word": "signal",
+            "count": "14,084"
+        },
+        {
+            "word": "table",
+            "count": "13,914"
+        },
+        {
+            "word": "UIStoryboardSegue",
+            "count": "13,865"
+        },
+        {
+            "word": "alert",
+            "count": "13,805"
+        },
+        {
+            "word": "realm",
+            "count": "13,729"
+        },
+        {
+            "word": "while",
+            "count": "13,698"
+        },
+        {
+            "word": "titleLabel",
+            "count": "13,684"
+        },
+        {
+            "word": "call",
+            "count": "13,581"
+        },
+        {
+            "word": "hashValue",
+            "count": "13,504"
+        },
+        {
+            "word": "warn_unused_result",
+            "count": "13,470"
+        },
+        {
+            "word": "cellForRowAtIndexPath",
+            "count": "13,409"
+        },
+        {
+            "word": "startIndex",
+            "count": "13,265"
+        },
+        {
+            "word": "str",
+            "count": "13,251"
+        },
+        {
+            "word": "specified",
+            "count": "13,226"
+        },
+        {
+            "word": "identifier",
+            "count": "13,178"
+        },
+        {
+            "word": "managedObjectContext",
+            "count": "13,174"
+        },
+        {
+            "word": "None",
+            "count": "13,091"
+        },
+        {
+            "word": "components",
+            "count": "13,048"
+        },
+        {
+            "word": "which",
+            "count": "13,031"
+        },
+        {
+            "word": "have",
+            "count": "12,995"
+        },
+        {
+            "word": "add",
+            "count": "12,990"
+        },
+        {
+            "word": "was",
+            "count": "12,940"
+        },
+        {
+            "word": "correct",
+            "count": "12,920"
+        },
+        {
+            "word": "prepareForSegue",
+            "count": "12,889"
+        },
+        {
+            "word": "Builtin",
+            "count": "12,777"
+        },
+        {
+            "word": "OSX",
+            "count": "12,753"
+        },
+        {
+            "word": "functions",
+            "count": "12,739"
+        },
+        {
+            "word": "offset",
+            "count": "12,739"
+        },
+        {
+            "word": "animations",
+            "count": "12,671"
+        },
+        {
+            "word": "verify",
+            "count": "12,369"
+        },
+        {
+            "word": "main",
+            "count": "12,254"
+        },
+        {
+            "word": "lazy",
+            "count": "12,237"
+        },
+        {
+            "word": "block",
+            "count": "12,209"
+        },
+        {
+            "word": "l",
+            "count": "12,110"
+        },
+        {
+            "word": "viewDidAppear",
+            "count": "12,107"
+        },
+        {
+            "word": "bar",
+            "count": "12,083"
+        },
+        {
+            "word": "bundle",
+            "count": "12,080"
+        },
+        {
+            "word": "navigation",
+            "count": "12,051"
+        },
+        {
+            "word": "collection",
+            "count": "12,048"
+        },
+        {
+            "word": "origin",
+            "count": "12,037"
+        },
+        {
+            "word": "serialize_size",
+            "count": "11,992"
+        },
+        {
+            "word": "sequence",
+            "count": "11,971"
+        },
+        {
+            "word": "configuration",
+            "count": "11,926"
+        },
+        {
+            "word": "UIButton",
+            "count": "11,847"
+        },
+        {
+            "word": "isEmpty",
+            "count": "11,762"
+        },
+        {
+            "word": "green",
+            "count": "11,741"
+        },
+        {
+            "word": "note",
+            "count": "11,725"
+        },
+        {
+            "word": "chart",
+            "count": "11,687"
+        },
+        {
+            "word": "subscriptions",
+            "count": "11,670"
+        },
+        {
+            "word": "coordinator",
+            "count": "11,644"
+        },
+        {
+            "word": "blue",
+            "count": "11,638"
+        },
+        {
+            "word": "expectTrue",
+            "count": "11,631"
+        },
+        {
+            "word": "err",
+            "count": "11,628"
+        },
+        {
+            "word": "formatter",
+            "count": "11,602"
+        },
+        {
+            "word": "Cocoa",
+            "count": "11,562"
+        },
+        {
+            "word": "S",
+            "count": "11,521"
+        },
+        {
+            "word": "s1",
+            "count": "11,431"
+        },
+        {
+            "word": "query",
+            "count": "11,429"
+        },
+        {
+            "word": "attribute",
+            "count": "11,421"
+        },
+        {
+            "word": "axis",
+            "count": "11,402"
+        },
+        {
+            "word": "h",
+            "count": "11,365"
+        },
+        {
+            "word": "encoding",
+            "count": "11,324"
+        },
+        {
+            "word": "reuseIdentifier",
+            "count": "11,260"
+        },
+        {
+            "word": "xs",
+            "count": "11,198"
+        },
+        {
+            "word": "location",
+            "count": "11,171"
+        },
+        {
+            "word": "red",
+            "count": "11,164"
+        },
+        {
+            "word": "waitForExpectationsWithTimeout",
+            "count": "11,110"
+        },
+        {
+            "word": "Int64",
+            "count": "11,098"
+        },
+        {
+            "word": "then",
+            "count": "11,090"
+        },
+        {
+            "word": "subscript",
+            "count": "11,069"
+        },
+        {
+            "word": "layoutSubviews",
+            "count": "11,056"
+        },
+        {
+            "word": "producer",
+            "count": "11,046"
+        },
+        {
+            "word": "sil",
+            "count": "11,036"
+        },
+        {
+            "word": "Realm",
+            "count": "10,963"
+        },
+        {
+            "word": "NOT",
+            "count": "10,926"
+        },
+        {
+            "word": "args",
+            "count": "10,915"
+        },
+        {
+            "word": "check",
+            "count": "10,903"
+        },
+        {
+            "word": "equal",
+            "count": "10,896"
+        },
+        {
+            "word": "stop",
+            "count": "10,820"
+        },
+        {
+            "word": "db",
+            "count": "10,796"
+        },
+        {
+            "word": "endIndex",
+            "count": "10,779"
+        },
+        {
+            "word": "An",
+            "count": "10,715"
+        },
+        {
+            "word": "function_ref",
+            "count": "10,698"
+        },
+        {
+            "word": "discardableResult",
+            "count": "10,647"
+        },
+        {
+            "word": "log",
+            "count": "10,612"
+        },
+        {
+            "word": "operation",
+            "count": "10,609"
+        },
+        {
+            "word": "continue",
+            "count": "10,592"
+        },
+        {
+            "word": "nib",
+            "count": "10,566"
+        },
+        {
+            "word": "NSDictionary",
+            "count": "10,543"
+        },
+        {
+            "word": "between",
+            "count": "10,541"
+        },
+        {
+            "word": "UICollectionView",
+            "count": "10,450"
+        },
+        {
+            "word": "callback",
+            "count": "10,438"
+        },
+        {
+            "word": "apply",
+            "count": "10,340"
+        },
+        {
+            "word": "Index",
+            "count": "10,333"
+        },
+        {
+            "word": "XCTAssertNotNil",
+            "count": "10,289"
+        },
+        {
+            "word": "CoreData",
+            "count": "10,277"
+        },
+        {
+            "word": "finished",
+            "count": "10,258"
+        },
+        {
+            "word": "format",
+            "count": "10,258"
+        },
+        {
+            "word": "Value",
+            "count": "10,220"
+        },
+        {
+            "word": "manager",
+            "count": "10,199"
+        },
+        {
+            "word": "hashCode",
+            "count": "10,193"
+        },
+        {
+            "word": "forKey",
+            "count": "10,156"
+        },
+        {
+            "word": "notification",
+            "count": "10,137"
+        },
+        {
+            "word": "implementation",
+            "count": "10,128"
+        },
+        {
+            "word": "typically",
+            "count": "10,077"
+        },
+        {
+            "word": "support",
+            "count": "10,061"
+        },
+        {
+            "word": "Signal",
+            "count": "10,033"
+        },
+        {
+            "word": "presentViewController",
+            "count": "9,947"
+        },
+        {
+            "word": "Default",
+            "count": "9,913"
+        },
+        {
+            "word": "animateWithDuration",
+            "count": "9,901"
+        },
+        {
+            "word": "enabled",
+            "count": "9,881"
+        },
+        {
+            "word": "k",
+            "count": "9,855"
+        },
+        {
+            "word": "center",
+            "count": "9,854"
+        },
+        {
+            "word": "top",
+            "count": "9,838"
+        },
+        {
+            "word": "sharedApplication",
+            "count": "9,834"
+        },
+        {
+            "word": "Get",
+            "count": "9,813"
+        },
+        {
+            "word": "UITextField",
+            "count": "9,797"
+        },
+        {
+            "word": "token",
+            "count": "9,796"
+        },
+        {
+            "word": "only",
+            "count": "9,789"
+        },
+        {
+            "word": "Data",
+            "count": "9,766"
+        },
+        {
+            "word": "run",
+            "count": "9,755"
+        },
+        {
+            "word": "tab",
+            "count": "9,722"
+        },
+        {
+            "word": "contains",
+            "count": "9,721"
+        },
+        {
+            "word": "contentView",
+            "count": "9,720"
+        },
+        {
+            "word": "u",
+            "count": "9,695"
+        },
+        {
+            "word": "whiteColor",
+            "count": "9,637"
+        },
+        {
+            "word": "Properties",
+            "count": "9,628"
+        },
+        {
+            "word": "XCTAssertNil",
+            "count": "9,527"
+        },
+        {
+            "word": "font",
+            "count": "9,456"
+        },
+        {
+            "word": "produce",
+            "count": "9,456"
+        },
+        {
+            "word": "into",
+            "count": "9,447"
+        },
+        {
+            "word": "storyboard",
+            "count": "9,408"
+        },
+        {
+            "word": "empty",
+            "count": "9,393"
+        },
+        {
+            "word": "O",
+            "count": "9,392"
+        },
+        {
+            "word": "cannot",
+            "count": "9,389"
+        },
+        {
+            "word": "version",
+            "count": "9,366"
+        },
+        {
+            "word": "touches",
+            "count": "9,292"
+        },
+        {
+            "word": "Success",
+            "count": "9,287"
+        },
+        {
+            "word": "dataSet",
+            "count": "9,250"
+        },
+        {
+            "word": "dataSource",
+            "count": "9,250"
+        },
+        {
+            "word": "body",
+            "count": "9,209"
+        },
+        {
+            "word": "disposable",
+            "count": "9,199"
+        },
+        {
+            "word": "unavailable",
+            "count": "9,188"
+        },
+        {
+            "word": "one",
+            "count": "9,171"
+        },
+        {
+            "word": "obj",
+            "count": "9,165"
+        },
+        {
+            "word": "Private",
+            "count": "9,151"
+        },
+        {
+            "word": "bytes",
+            "count": "9,121"
+        },
+        {
+            "word": "UIImageView",
+            "count": "9,114"
+        },
+        {
+            "word": "parser",
+            "count": "9,066"
+        },
+        {
+            "word": "Subscription",
+            "count": "9,064"
+        },
+        {
+            "word": "headers",
+            "count": "9,063"
+        },
+        {
+            "word": "UI",
+            "count": "9,009"
+        },
+        {
+            "word": "unsafeBitCast",
+            "count": "8,991"
+        },
+        {
+            "word": "m",
+            "count": "8,985"
+        },
+        {
+            "word": "identity1",
+            "count": "8,971"
+        },
+        {
+            "word": "model",
+            "count": "8,962"
+        },
+        {
+            "word": "related",
+            "count": "8,951"
+        },
+        {
+            "word": "dismissViewControllerAnimated",
+            "count": "8,883"
+        },
+        {
+            "word": "UInt",
+            "count": "8,867"
+        },
+        {
+            "word": "timeout",
+            "count": "8,824"
+        },
+        {
+            "word": "Alamofire",
+            "count": "8,818"
+        },
+        {
+            "word": "UInt8",
+            "count": "8,810"
+        },
+        {
+            "word": "based",
+            "count": "8,775"
+        },
+        {
+            "word": "filter",
+            "count": "8,772"
+        },
+        {
+            "word": "warning",
+            "count": "8,759"
+        },
+        {
+            "word": "When",
+            "count": "8,748"
+        },
+        {
+            "word": "Optional",
+            "count": "8,732"
+        },
+        {
+            "word": "attributes",
+            "count": "8,725"
+        },
+        {
+            "word": "mutating",
+            "count": "8,711"
+        },
+        {
+            "word": "dateFormatter",
+            "count": "8,689"
+        },
+        {
+            "word": "Navigation",
+            "count": "8,648"
+        },
+        {
+            "word": "profile",
+            "count": "8,630"
+        },
+        {
+            "word": "o",
+            "count": "8,584"
+        },
+        {
+            "word": "convenience",
+            "count": "8,580"
+        },
+        {
+            "word": "Return",
+            "count": "8,513"
+        },
+        {
+            "word": "indent",
+            "count": "8,503"
+        },
+        {
+            "word": "node",
+            "count": "8,432"
+        },
+        {
+            "word": "textColor",
+            "count": "8,404"
+        },
+        {
+            "word": "done",
+            "count": "8,400"
+        },
+        {
+            "word": "beforeEach",
+            "count": "8,392"
+        },
+        {
+            "word": "domain",
+            "count": "8,358"
+        },
+        {
+            "word": "prefix",
+            "count": "8,356"
+        },
+        {
+            "word": "parent",
+            "count": "8,342"
+        },
+        {
+            "word": "rdar",
+            "count": "8,284"
+        },
+        {
+            "word": "Public",
+            "count": "8,273"
+        },
+        {
+            "word": "current",
+            "count": "8,254"
+        },
+        {
+            "word": "Observable",
+            "count": "8,228"
+        },
+        {
+            "word": "base",
+            "count": "8,227"
+        },
+        {
+            "word": "cancel",
+            "count": "8,221"
+        },
+        {
+            "word": "max",
+            "count": "8,216"
+        },
+        {
+            "word": "viewPortHandler",
+            "count": "8,144"
+        },
+        {
+            "word": "textView",
+            "count": "8,111"
+        },
+        {
+            "word": "update",
+            "count": "8,026"
+        },
+        {
+            "word": "println",
+            "count": "8,005"
+        },
+        {
+            "word": "load",
+            "count": "8,001"
+        },
+        {
+            "word": "properties",
+            "count": "7,989"
+        },
+        {
+            "word": "Create",
+            "count": "7,981"
+        },
+        {
+            "word": "final",
+            "count": "7,952"
+        },
+        {
+            "word": "column",
+            "count": "7,930"
+        },
+        {
+            "word": "URLRequest",
+            "count": "7,922"
+        },
+        {
+            "word": "problem",
+            "count": "7,921"
+        },
+        {
+            "word": "numberOfSectionsInTableView",
+            "count": "7,912"
+        },
+        {
+            "word": "tabManager",
+            "count": "7,908"
+        },
+        {
+            "word": "Request",
+            "count": "7,895"
+        },
+        {
+            "word": "destinationViewController",
+            "count": "7,884"
+        },
+        {
+            "word": "testable",
+            "count": "7,854"
+        },
+        {
+            "word": "addAction",
+            "count": "7,778"
+        },
+        {
+            "word": "createHotObservable",
+            "count": "7,778"
+        },
+        {
+            "word": "SignalProducer",
+            "count": "7,766"
+        },
+        {
+            "word": "sharedInstance",
+            "count": "7,755"
+        },
+        {
+            "word": "Self",
+            "count": "7,732"
+        },
+        {
+            "word": "X",
+            "count": "7,723"
+        },
+        {
+            "word": "little",
+            "count": "7,721"
+        },
+        {
+            "word": "info",
+            "count": "7,686"
+        },
+        {
+            "word": "resume",
+            "count": "7,679"
+        },
+        {
+            "word": "opacity",
+            "count": "7,664"
+        },
+        {
+            "word": "E",
+            "count": "7,662"
+        },
+        {
+            "word": "store",
+            "count": "7,655"
+        },
+        {
+            "word": "locationManager",
+            "count": "7,645"
+        },
+        {
+            "word": "write",
+            "count": "7,608"
+        },
+        {
+            "word": "CGSize",
+            "count": "7,562"
+        },
+        {
+            "word": "UIScrollView",
+            "count": "7,555"
+        },
+        {
+            "word": "delay",
+            "count": "7,549"
+        },
+        {
+            "word": "viewController",
+            "count": "7,539"
+        },
+        {
+            "word": "preparation",
+            "count": "7,530"
+        },
+        {
+            "word": "often",
+            "count": "7,484"
+        },
+        {
+            "word": "inout",
+            "count": "7,429"
+        },
+        {
+            "word": "setSelected",
+            "count": "7,411"
+        },
+        {
+            "word": "fieldCheck",
+            "count": "7,388"
+        },
+        {
+            "word": "content",
+            "count": "7,348"
+        },
+        {
+            "word": "valid",
+            "count": "7,347"
+        },
+        {
+            "word": "Table",
+            "count": "7,314"
+        },
+        {
+            "word": "TODO",
+            "count": "7,302"
+        },
+        {
+            "word": "withEvent",
+            "count": "7,297"
+        },
+        {
+            "word": "NoError",
+            "count": "7,273"
+        },
+        {
+            "word": "match",
+            "count": "7,250"
+        },
+        {
+            "word": "Result",
+            "count": "7,231"
+        },
+        {
+            "word": "events",
+            "count": "7,228"
+        },
+        {
+            "word": "GET",
+            "count": "7,193"
+        },
+        {
+            "word": "alertController",
+            "count": "7,186"
+        },
+        {
+            "word": "bottom",
+            "count": "7,170"
+        },
+        {
+            "word": "its",
+            "count": "7,170"
+        },
+        {
+            "word": "rows",
+            "count": "7,168"
+        },
+        {
+            "word": "Then",
+            "count": "7,166"
+        },
+        {
+            "word": "password",
+            "count": "7,140"
+        },
+        {
+            "word": "scale",
+            "count": "7,131"
+        },
+        {
+            "word": "sendNext",
+            "count": "7,119"
+        },
+        {
+            "word": "async",
+            "count": "7,095"
+        },
+        {
+            "word": "insert",
+            "count": "7,082"
+        },
+        {
+            "word": "stream",
+            "count": "7,072"
+        },
+        {
+            "word": "REQUIRES",
+            "count": "7,068"
+        },
+        {
+            "word": "val",
+            "count": "7,058"
+        },
+        {
+            "word": "save",
+            "count": "7,048"
+        },
+        {
+            "word": "but",
+            "count": "7,039"
+        },
+        {
+            "word": "close",
+            "count": "7,011"
+        },
+        {
+            "word": "predicate",
+            "count": "6,992"
+        },
+        {
+            "word": "show",
+            "count": "6,912"
+        },
+        {
+            "word": "timer",
+            "count": "6,901"
+        },
+        {
+            "word": "last",
+            "count": "6,883"
+        },
+        {
+            "word": "Failure",
+            "count": "6,878"
+        },
+        {
+            "word": "Code",
+            "count": "6,874"
+        },
+        {
+            "word": "NSNotificationCenter",
+            "count": "6,874"
+        },
+        {
+            "word": "same",
+            "count": "6,874"
+        },
+        {
+            "word": "didSelectRowAtIndexPath",
+            "count": "6,863"
+        },
+        {
+            "word": "comment",
+            "count": "6,858"
+        },
+        {
+            "word": "lock",
+            "count": "6,855"
+        },
+        {
+            "word": "representing",
+            "count": "6,851"
+        },
+        {
+            "word": "Given",
+            "count": "6,811"
+        },
+        {
+            "word": "layout",
+            "count": "6,808"
+        },
+        {
+            "word": "defaultCenter",
+            "count": "6,795"
+        },
+        {
+            "word": "Parameters",
+            "count": "6,779"
+        },
+        {
+            "word": "nibName",
+            "count": "6,755"
+        },
+        {
+            "word": "expectationWithDescription",
+            "count": "6,751"
+        },
+        {
+            "word": "P",
+            "count": "6,734"
+        },
+        {
+            "word": "TestObjCKeyTy",
+            "count": "6,731"
+        },
+        {
+            "word": "bb0",
+            "count": "6,728"
+        },
+        {
+            "word": "Parameter",
+            "count": "6,699"
+        },
+        {
+            "word": "entry",
+            "count": "6,668"
+        },
+        {
+            "word": "dispose",
+            "count": "6,661"
+        },
+        {
+            "word": "returned",
+            "count": "6,658"
+        },
+        {
+            "word": "i8",
+            "count": "6,657"
+        },
+        {
+            "word": "Foo",
+            "count": "6,647"
+        },
+        {
+            "word": "Next",
+            "count": "6,638"
+        },
+        {
+            "word": "immediately",
+            "count": "6,626"
+        },
+        {
+            "word": "connection",
+            "count": "6,612"
+        },
+        {
+            "word": "navigationItem",
+            "count": "6,611"
+        },
+        {
+            "word": "urls",
+            "count": "6,611"
+        },
+        {
+            "word": "form",
+            "count": "6,610"
+        },
+        {
+            "word": "UIEvent",
+            "count": "6,609"
+        },
+        {
+            "word": "progress",
+            "count": "6,609"
+        },
+        {
+            "word": "host",
+            "count": "6,600"
+        },
+        {
+            "word": "methods",
+            "count": "6,592"
+        },
+        {
+            "word": "setValue",
+            "count": "6,586"
+        },
+        {
+            "word": "page",
+            "count": "6,581"
+        },
+        {
+            "word": "Left",
+            "count": "6,575"
+        },
+        {
+            "word": "ret",
+            "count": "6,563"
+        },
+        {
+            "word": "UInt32",
+            "count": "6,554"
+        },
+        {
+            "word": "never",
+            "count": "6,544"
+        },
+        {
+            "word": "transitionContext",
+            "count": "6,528"
+        },
+        {
+            "word": "FIXME",
+            "count": "6,497"
+        },
+        {
+            "word": "group",
+            "count": "6,492"
+        },
+        {
+            "word": "must",
+            "count": "6,470"
+        },
+        {
+            "word": "reader",
+            "count": "6,465"
+        },
+        {
+            "word": "initialize",
+            "count": "6,453"
+        },
+        {
+            "word": "create",
+            "count": "6,445"
+        },
+        {
+            "word": "min",
+            "count": "6,429"
+        },
+        {
+            "word": "Initialization",
+            "count": "6,418"
+        },
+        {
+            "word": "out",
+            "count": "6,418"
+        },
+        {
+            "word": "failed",
+            "count": "6,405"
+        },
+        {
+            "word": "app",
+            "count": "6,396"
+        },
+        {
+            "word": "viewWillDisappear",
+            "count": "6,361"
+        },
+        {
+            "word": "does",
+            "count": "6,360"
+        },
+        {
+            "word": "toolbar",
+            "count": "6,334"
+        },
+        {
+            "word": "ctx",
+            "count": "6,332"
+        },
+        {
+            "word": "null",
+            "count": "6,330"
+        },
+        {
+            "word": "CGColor",
+            "count": "6,310"
+        },
+        {
+            "word": "argument",
+            "count": "6,286"
+        },
+        {
+            "word": "beNil",
+            "count": "6,277"
+        },
+        {
+            "word": "IndexPath",
+            "count": "6,270"
+        },
+        {
+            "word": "optional",
+            "count": "6,267"
+        },
+        {
+            "word": "server",
+            "count": "6,255"
+        },
+        {
+            "word": "play",
+            "count": "6,248"
+        },
+        {
+            "word": "Insert",
+            "count": "6,228"
+        },
+        {
+            "word": "UnsafeMutablePointer",
+            "count": "6,225"
+        },
+        {
+            "word": "inline",
+            "count": "6,219"
+        },
+        {
+            "word": "Failed",
+            "count": "6,216"
+        },
+        {
+            "word": "removeFromSuperview",
+            "count": "6,214"
+        },
+        {
+            "word": "translatesAutoresizingMaskIntoConstraints",
+            "count": "6,201"
+        },
+        {
+            "word": "statusCode",
+            "count": "6,193"
+        },
+        {
+            "word": "player",
+            "count": "6,189"
+        },
+        {
+            "word": "Delete",
+            "count": "6,185"
+        },
+        {
+            "word": "field",
+            "count": "6,150"
+        },
+        {
+            "word": "URLString",
+            "count": "6,124"
+        },
+        {
+            "word": "views",
+            "count": "6,105"
+        },
+        {
+            "word": "Configure",
+            "count": "6,091"
+        },
+        {
+            "word": "handle",
+            "count": "6,090"
+        },
+        {
+            "word": "execute",
+            "count": "6,087"
+        },
+        {
+            "word": "setNeedsDisplay",
+            "count": "6,055"
+        },
+        {
+            "word": "s2",
+            "count": "6,038"
+        },
+        {
+            "word": "characters",
+            "count": "6,031"
+        },
+        {
+            "word": "xIndex",
+            "count": "6,031"
+        },
+        {
+            "word": "Static",
+            "count": "6,008"
+        },
+        {
+            "word": "IBInspectable",
+            "count": "5,996"
+        },
+        {
+            "word": "FileCheck",
+            "count": "5,977"
+        },
+        {
+            "word": "NSDateFormatter",
+            "count": "5,949"
+        },
+        {
+            "word": "NSTimeInterval",
+            "count": "5,944"
+        },
+        {
+            "word": "tester",
+            "count": "5,931"
+        },
+        {
+            "word": "constant",
+            "count": "5,922"
+        },
+        {
+            "word": "upload",
+            "count": "5,884"
+        },
+        {
+            "word": "NSURLSession",
+            "count": "5,877"
+        },
+        {
+            "word": "started",
+            "count": "5,862"
+        },
+        {
+            "word": "Nimble",
+            "count": "5,855"
+        },
+        {
+            "word": "layoutIfNeeded",
+            "count": "5,851"
+        },
+        {
+            "word": "NSLog",
+            "count": "5,823"
+        },
+        {
+            "word": "NSNull",
+            "count": "5,820"
+        },
+        {
+            "word": "container",
+            "count": "5,811"
+        },
+        {
+            "word": "removeObserver",
+            "count": "5,805"
+        },
+        {
+            "word": "TestScheduler",
+            "count": "5,776"
+        },
+        {
+            "word": "zero",
+            "count": "5,761"
+        },
+        {
+            "word": "Decl",
+            "count": "5,747"
+        },
+        {
+            "word": "typecheck",
+            "count": "5,747"
+        },
+        {
+            "word": "settings",
+            "count": "5,744"
+        },
+        {
+            "word": "Creates",
+            "count": "5,736"
+        },
+        {
+            "word": "clearColor",
+            "count": "5,728"
+        },
+        {
+            "word": "client",
+            "count": "5,727"
+        },
+        {
+            "word": "re",
+            "count": "5,723"
+        },
+        {
+            "word": "sink",
+            "count": "5,721"
+        },
+        {
+            "word": "extensionRegistry",
+            "count": "5,715"
+        },
+        {
+            "word": "provided",
+            "count": "5,698"
+        },
+        {
+            "word": "DispatchQueue",
+            "count": "5,690"
+        },
+        {
+            "word": "types",
+            "count": "5,687"
+        },
+        {
+            "word": "UIScreen",
+            "count": "5,680"
+        },
+        {
+            "word": "mapView",
+            "count": "5,677"
+        },
+        {
+            "word": "created",
+            "count": "5,615"
+        },
+        {
+            "word": "NSUserDefaults",
+            "count": "5,574"
+        },
+        {
+            "word": "pickerView",
+            "count": "5,570"
+        },
+        {
+            "word": "View",
+            "count": "5,546"
+        },
+        {
+            "word": "drawRect",
+            "count": "5,519"
+        },
+        {
+            "word": "Quick",
+            "count": "5,518"
+        },
+        {
+            "word": "IBAction",
+            "count": "5,499"
+        },
+        {
+            "word": "username",
+            "count": "5,494"
+        },
+        {
+            "word": "NSArray",
+            "count": "5,466"
+        },
+        {
+            "word": "forState",
+            "count": "5,466"
+        },
+        {
+            "word": "Center",
+            "count": "5,462"
+        },
+        {
+            "word": "z",
+            "count": "5,461"
+        },
+        {
+            "word": "send",
+            "count": "5,450"
+        },
+        {
+            "word": "keys",
+            "count": "5,439"
+        },
+        {
+            "word": "Right",
+            "count": "5,431"
+        },
+        {
+            "word": "persistentStoreCoordinator",
+            "count": "5,419"
+        },
+        {
+            "word": "dynamic",
+            "count": "5,397"
+        },
+        {
+            "word": "DAG",
+            "count": "5,394"
+        },
+        {
+            "word": "more",
+            "count": "5,388"
+        },
+        {
+            "word": "Normal",
+            "count": "5,377"
+        },
+        {
+            "word": "NSUTF8StringEncoding",
+            "count": "5,357"
+        },
+        {
+            "word": "sections",
+            "count": "5,347"
+        },
+        {
+            "word": "cornerRadius",
+            "count": "5,344"
+        },
+        {
+            "word": "touch",
+            "count": "5,344"
+        },
+        {
+            "word": "Methods",
+            "count": "5,319"
+        },
+        {
+            "word": "selector",
+            "count": "5,318"
+        },
+        {
+            "word": "Map",
+            "count": "5,289"
+        },
+        {
+            "word": "defer",
+            "count": "5,284"
+        },
+        {
+            "word": "UITouch",
+            "count": "5,279"
+        },
+        {
+            "word": "declaration",
+            "count": "5,273"
+        },
+        {
+            "word": "NSFileManager",
+            "count": "5,260"
+        },
+        {
+            "word": "keyPath",
+            "count": "5,226"
+        },
+        {
+            "word": "constraints",
+            "count": "5,216"
+        },
+        {
+            "word": "debug",
+            "count": "5,212"
+        },
+        {
+            "word": "account",
+            "count": "5,208"
+        },
+        {
+            "word": "waitForExpectations",
+            "count": "5,192"
+        },
+        {
+            "word": "textLabel",
+            "count": "5,191"
+        },
+        {
+            "word": "trust",
+            "count": "5,182"
+        },
+        {
+            "word": "NSNotification",
+            "count": "5,172"
+        },
+        {
+            "word": "NSBundle",
+            "count": "5,165"
+        },
+        {
+            "word": "messages",
+            "count": "5,161"
+        },
+        {
+            "word": "information",
+            "count": "5,159"
+        },
+        {
+            "word": "statement",
+            "count": "5,154"
+        },
+        {
+            "word": "d1",
+            "count": "5,146"
+        },
+        {
+            "word": "defaultManager",
+            "count": "5,146"
+        },
+        {
+            "word": "background",
+            "count": "5,143"
+        },
+        {
+            "word": "operator",
+            "count": "5,142"
+        },
+        {
+            "word": "searchBar",
+            "count": "5,131"
+        },
+        {
+            "word": "cache",
+            "count": "5,122"
+        },
+        {
+            "word": "HTTP",
+            "count": "5,121"
+        },
+        {
+            "word": "idx",
+            "count": "5,116"
+        },
+        {
+            "word": "Object",
+            "count": "5,110"
+        },
+        {
+            "word": "btn",
+            "count": "5,094"
+        },
+        {
+            "word": "NSManagedObjectContext",
+            "count": "5,076"
+        },
+        {
+            "word": "textAlignment",
+            "count": "5,071"
+        },
+        {
+            "word": "NSLayoutConstraint",
+            "count": "5,049"
+        },
+        {
+            "word": "than",
+            "count": "5,041"
+        },
+        {
+            "word": "willSet",
+            "count": "5,030"
+        },
+        {
+            "word": "T0",
+            "count": "5,026"
+        },
+        {
+            "word": "spec",
+            "count": "5,001"
+        },
+        {
+            "word": "RxSwift",
+            "count": "4,995"
+        },
+        {
+            "word": "TestBridgedKeyTy",
+            "count": "4,971"
+        },
+        {
+            "word": "non",
+            "count": "4,955"
+        },
+        {
+            "word": "children",
+            "count": "4,948"
+        },
+        {
+            "word": "Pods",
+            "count": "4,937"
+        },
+        {
+            "word": "We",
+            "count": "4,930"
+        },
+        {
+            "word": "initialClock",
+            "count": "4,921"
+        },
+        {
+            "word": "standardUserDefaults",
+            "count": "4,911"
+        },
+        {
+            "word": "flags",
+            "count": "4,905"
+        },
+        {
+            "word": "build",
+            "count": "4,889"
+        },
+        {
+            "word": "animator",
+            "count": "4,882"
+        },
+        {
+            "word": "internalAU",
+            "count": "4,877"
+        },
+        {
+            "word": "vc",
+            "count": "4,876"
+        },
+        {
+            "word": "UIAlertAction",
+            "count": "4,834"
+        },
+        {
+            "word": "abort",
+            "count": "4,827"
+        },
+        {
+            "word": "without",
+            "count": "4,827"
+        },
+        {
+            "word": "component",
+            "count": "4,817"
+        },
+        {
+            "word": "Disposable",
+            "count": "4,812"
+        },
+        {
+            "word": "none",
+            "count": "4,808"
+        },
+        {
+            "word": "I",
+            "count": "4,803"
+        },
+        {
+            "word": "R",
+            "count": "4,796"
+        },
+        {
+            "word": "mainScreen",
+            "count": "4,789"
+        },
+        {
+            "word": "invalidate",
+            "count": "4,787"
+        },
+        {
+            "word": "editingStyle",
+            "count": "4,780"
+        },
+        {
+            "word": "superview",
+            "count": "4,771"
+        },
+        {
+            "word": "containerView",
+            "count": "4,760"
+        },
+        {
+            "word": "shared",
+            "count": "4,757"
+        },
+        {
+            "word": "named",
+            "count": "4,754"
+        },
+        {
+            "word": "_viewPortHandler",
+            "count": "4,747"
+        },
+        {
+            "word": "credential",
+            "count": "4,718"
+        },
+        {
+            "word": "capacity",
+            "count": "4,696"
+        },
+        {
+            "word": "className",
+            "count": "4,693"
+        },
+        {
+            "word": "up",
+            "count": "4,689"
+        },
+        {
+            "word": "failureReason",
+            "count": "4,680"
+        },
+        {
+            "word": "because",
+            "count": "4,669"
+        },
+        {
+            "word": "NSURLRequest",
+            "count": "4,668"
+        },
+        {
+            "word": "w",
+            "count": "4,654"
+        },
+        {
+            "word": "address",
+            "count": "4,653"
+        },
+        {
+            "word": "editing",
+            "count": "4,653"
+        },
+        {
+            "word": "service",
+            "count": "4,646"
+        },
+        {
+            "word": "expression",
+            "count": "4,644"
+        },
+        {
+            "word": "XCUIApplication",
+            "count": "4,643"
+        },
+        {
+            "word": "previous",
+            "count": "4,642"
+        },
+        {
+            "word": "withRowAnimation",
+            "count": "4,641"
+        },
+        {
+            "word": "int",
+            "count": "4,627"
+        },
+        {
+            "word": "arguments",
+            "count": "4,624"
+        },
+        {
+            "word": "memory",
+            "count": "4,617"
+        },
+        {
+            "word": "guid",
+            "count": "4,616"
+        },
+        {
+            "word": "POST",
+            "count": "4,615"
+        },
+        {
+            "word": "occurs",
+            "count": "4,611"
+        },
+        {
+            "word": "reference",
+            "count": "4,609"
+        },
+        {
+            "word": "Serialization",
+            "count": "4,607"
+        },
+        {
+            "word": "0xfffd",
+            "count": "4,600"
+        },
+        {
+            "word": "Base",
+            "count": "4,592"
+        },
+        {
+            "word": "UIGraphicsEndImageContext",
+            "count": "4,592"
+        },
+        {
+            "word": "there",
+            "count": "4,585"
+        },
+        {
+            "word": "containing",
+            "count": "4,583"
+        },
+        {
+            "word": "Cancel",
+            "count": "4,564"
+        },
+        {
+            "word": "defaults",
+            "count": "4,564"
+        },
+        {
+            "word": "Content",
+            "count": "4,561"
+        },
+        {
+            "word": "mode",
+            "count": "4,560"
+        },
+        {
+            "word": "order",
+            "count": "4,556"
+        },
+        {
+            "word": "header",
+            "count": "4,553"
+        },
+        {
+            "word": "Unknown",
+            "count": "4,550"
+        },
+        {
+            "word": "place",
+            "count": "4,540"
+        },
+        {
+            "word": "record",
+            "count": "4,520"
+        },
+        {
+            "word": "encode",
+            "count": "4,517"
+        },
+        {
+            "word": "Key",
+            "count": "4,507"
+        },
+        {
+            "word": "change",
+            "count": "4,504"
+        },
+        {
+            "word": "pt",
+            "count": "4,498"
+        },
+        {
+            "word": "unknownFieldsBuilder",
+            "count": "4,486"
+        },
+        {
+            "word": "constraint",
+            "count": "4,472"
+        },
+        {
+            "word": "port",
+            "count": "4,468"
+        },
+        {
+            "word": "AudioKit",
+            "count": "4,458"
+        },
+        {
+            "word": "member",
+            "count": "4,455"
+        },
+        {
+            "word": "UInt64",
+            "count": "4,438"
+        },
+        {
+            "word": "multiplier",
+            "count": "4,419"
+        },
+        {
+            "word": "Note",
+            "count": "4,414"
+        },
+        {
+            "word": "animate",
+            "count": "4,406"
+        },
+        {
+            "word": "unowned",
+            "count": "4,400"
+        },
+        {
+            "word": "alignment",
+            "count": "4,386"
+        },
+        {
+            "word": "User",
+            "count": "4,385"
+        },
+        {
+            "word": "params",
+            "count": "4,385"
+        },
+        {
+            "word": "br",
+            "count": "4,379"
+        },
+        {
+            "word": "CLLocationManager",
+            "count": "4,372"
+        },
+        {
+            "word": "removeAll",
+            "count": "4,365"
+        },
+        {
+            "word": "some",
+            "count": "4,362"
+        },
+        {
+            "word": "destination",
+            "count": "4,346"
+        },
+        {
+            "word": "NSColor",
+            "count": "4,334"
+        },
+        {
+            "word": "SwiftyJSON",
+            "count": "4,328"
+        },
+        {
+            "word": "cursor",
+            "count": "4,327"
+        },
+        {
+            "word": "recognizer",
+            "count": "4,323"
+        },
+        {
+            "word": "storage",
+            "count": "4,322"
+        },
+        {
+            "word": "localizedDescription",
+            "count": "4,320"
+        },
+        {
+            "word": "complete",
+            "count": "4,308"
+        },
+        {
+            "word": "changes",
+            "count": "4,286"
+        },
+        {
+            "word": "observe",
+            "count": "4,266"
+        },
+        {
+            "word": "UIFont",
+            "count": "4,264"
+        },
+        {
+            "word": "history",
+            "count": "4,257"
+        },
+        {
+            "word": "urlBar",
+            "count": "4,254"
+        },
+        {
+            "word": "sut",
+            "count": "4,241"
+        },
+        {
+            "word": "template",
+            "count": "4,225"
+        },
+        {
+            "word": "mapping",
+            "count": "4,220"
+        },
+        {
+            "word": "errors",
+            "count": "4,219"
+        },
+        {
+            "word": "d2",
+            "count": "4,210"
+        },
+        {
+            "word": "TestError",
+            "count": "4,209"
+        },
+        {
+            "word": "Source",
+            "count": "4,193"
+        },
+        {
+            "word": "interface",
+            "count": "4,190"
+        },
+        {
+            "word": "describe",
+            "count": "4,188"
+        },
+        {
+            "word": "refreshControl",
+            "count": "4,184"
+        },
+        {
+            "word": "XCTAssertFalse",
+            "count": "4,172"
+        },
+        {
+            "word": "interval",
+            "count": "4,172"
+        },
+        {
+            "word": "For",
+            "count": "4,161"
+        },
+        {
+            "word": "locale",
+            "count": "4,158"
+        },
+        {
+            "word": "HTTPMethod",
+            "count": "4,157"
+        },
+        {
+            "word": "fail",
+            "count": "4,141"
+        },
+        {
+            "word": "D",
+            "count": "4,132"
+        },
+        {
+            "word": "initialized",
+            "count": "4,132"
+        },
+        {
+            "word": "best",
+            "count": "4,129"
+        },
+        {
+            "word": "don",
+            "count": "4,128"
+        },
+        {
+            "word": "renamed",
+            "count": "4,106"
+        },
+        {
+            "word": "Core",
+            "count": "4,105"
+        },
+        {
+            "word": "completions",
+            "count": "4,088"
+        },
+        {
+            "word": "serialize",
+            "count": "4,086"
+        },
+        {
+            "word": "terms",
+            "count": "4,086"
+        },
+        {
+            "word": "tvOS",
+            "count": "4,078"
+        },
+        {
+            "word": "usually",
+            "count": "4,071"
+        },
+        {
+            "word": "Hello",
+            "count": "4,066"
+        },
+        {
+            "word": "level",
+            "count": "4,065"
+        },
+        {
+            "word": "_value",
+            "count": "4,063"
+        },
+        {
+            "word": "blackColor",
+            "count": "4,058"
+        },
+        {
+            "word": "rootViewController",
+            "count": "4,055"
+        },
+        {
+            "word": "dismiss",
+            "count": "4,051"
+        },
+        {
+            "word": "Form",
+            "count": "4,050"
+        },
+        {
+            "word": "command",
+            "count": "4,048"
+        },
+        {
+            "word": "UIBezierPath",
+            "count": "4,047"
+        }
+    ]
+}

@@ -1,0 +1,3785 @@
+{
+    "language": "lua",
+    "words": [
+        {
+            "word": "end",
+            "count": "6,458,330"
+        },
+        {
+            "word": "local",
+            "count": "2,199,689"
+        },
+        {
+            "word": "then",
+            "count": "1,718,884"
+        },
+        {
+            "word": "if",
+            "count": "1,583,886"
+        },
+        {
+            "word": "return",
+            "count": "1,491,942"
+        },
+        {
+            "word": "function",
+            "count": "1,112,215"
+        },
+        {
+            "word": "msg",
+            "count": "874,882"
+        },
+        {
+            "word": "self",
+            "count": "825,183"
+        },
+        {
+            "word": "true",
+            "count": "694,274"
+        },
+        {
+            "word": "else",
+            "count": "657,007"
+        },
+        {
+            "word": "data",
+            "count": "549,382"
+        },
+        {
+            "word": "to",
+            "count": "539,291"
+        },
+        {
+            "word": "id",
+            "count": "528,406"
+        },
+        {
+            "word": "player",
+            "count": "469,816"
+        },
+        {
+            "word": "false",
+            "count": "462,631"
+        },
+        {
+            "word": "not",
+            "count": "455,911"
+        },
+        {
+            "word": "the",
+            "count": "433,454"
+        },
+        {
+            "word": "for",
+            "count": "428,085"
+        },
+        {
+            "word": "nil",
+            "count": "380,125"
+        },
+        {
+            "word": "and",
+            "count": "375,807"
+        },
+        {
+            "word": "do",
+            "count": "374,108"
+        },
+        {
+            "word": "target",
+            "count": "363,061"
+        },
+        {
+            "word": "a",
+            "count": "337,192"
+        },
+        {
+            "word": "i",
+            "count": "317,506"
+        },
+        {
+            "word": "require",
+            "count": "306,414"
+        },
+        {
+            "word": "name",
+            "count": "296,854"
+        },
+        {
+            "word": "or",
+            "count": "289,850"
+        },
+        {
+            "word": "type",
+            "count": "284,852"
+        },
+        {
+            "word": "in",
+            "count": "270,465"
+        },
+        {
+            "word": "is",
+            "count": "247,078"
+        },
+        {
+            "word": "matches",
+            "count": "246,158"
+        },
+        {
+            "word": "text",
+            "count": "242,803"
+        },
+        {
+            "word": "of",
+            "count": "237,906"
+        },
+        {
+            "word": "v",
+            "count": "236,979"
+        },
+        {
+            "word": "from",
+            "count": "232,980"
+        },
+        {
+            "word": "t",
+            "count": "223,592"
+        },
+        {
+            "word": "s",
+            "count": "218,919"
+        },
+        {
+            "word": "c",
+            "count": "212,173"
+        },
+        {
+            "word": "x",
+            "count": "206,468"
+        },
+        {
+            "word": "result",
+            "count": "206,096"
+        },
+        {
+            "word": "n",
+            "count": "196,981"
+        },
+        {
+            "word": "string",
+            "count": "196,246"
+        },
+        {
+            "word": "tostring",
+            "count": "188,510"
+        },
+        {
+            "word": "elseif",
+            "count": "182,972"
+        },
+        {
+            "word": "receiver",
+            "count": "182,827"
+        },
+        {
+            "word": "scripts",
+            "count": "176,813"
+        },
+        {
+            "word": "value",
+            "count": "173,501"
+        },
+        {
+            "word": "by",
+            "count": "161,264"
+        },
+        {
+            "word": "object",
+            "count": "160,243"
+        },
+        {
+            "word": "table",
+            "count": "157,433"
+        },
+        {
+            "word": "y",
+            "count": "153,134"
+        },
+        {
+            "word": "settings",
+            "count": "152,198"
+        },
+        {
+            "word": "print",
+            "count": "146,224"
+        },
+        {
+            "word": "option",
+            "count": "145,205"
+        },
+        {
+            "word": "src",
+            "count": "143,680"
+        },
+        {
+            "word": "~",
+            "count": "143,467"
+        },
+        {
+            "word": "user",
+            "count": "141,433"
+        },
+        {
+            "word": "this",
+            "count": "140,231"
+        },
+        {
+            "word": "mob",
+            "count": "134,931"
+        },
+        {
+            "word": "group",
+            "count": "130,384"
+        },
+        {
+            "word": "param",
+            "count": "129,394"
+        },
+        {
+            "word": "MAME_DIR",
+            "count": "125,689"
+        },
+        {
+            "word": "csid",
+            "count": "125,334"
+        },
+        {
+            "word": "lua",
+            "count": "124,372"
+        },
+        {
+            "word": "e1",
+            "count": "123,915"
+        },
+        {
+            "word": "that",
+            "count": "122,464"
+        },
+        {
+            "word": "k",
+            "count": "117,237"
+        },
+        {
+            "word": "_",
+            "count": "116,978"
+        },
+        {
+            "word": "u",
+            "count": "116,359"
+        },
+        {
+            "word": "pos",
+            "count": "112,559"
+        },
+        {
+            "word": "pairs",
+            "count": "111,083"
+        },
+        {
+            "word": "on",
+            "count": "109,969"
+        },
+        {
+            "word": "printf",
+            "count": "109,186"
+        },
+        {
+            "word": "_config",
+            "count": "107,823"
+        },
+        {
+            "word": "globals",
+            "count": "106,336"
+        },
+        {
+            "word": "default",
+            "count": "105,382"
+        },
+        {
+            "word": "math",
+            "count": "104,476"
+        },
+        {
+            "word": "file",
+            "count": "101,582"
+        },
+        {
+            "word": "iff",
+            "count": "100,224"
+        },
+        {
+            "word": "chat",
+            "count": "99,170"
+        },
+        {
+            "word": "err",
+            "count": "98,831"
+        },
+        {
+            "word": "code",
+            "count": "94,785"
+        },
+        {
+            "word": "input",
+            "count": "92,293"
+        },
+        {
+            "word": "f",
+            "count": "91,692"
+        },
+        {
+            "word": "Duel",
+            "count": "90,866"
+        },
+        {
+            "word": "modified",
+            "count": "90,051"
+        },
+        {
+            "word": "moderation",
+            "count": "89,167"
+        },
+        {
+            "word": "Engine3",
+            "count": "88,877"
+        },
+        {
+            "word": "h",
+            "count": "88,224"
+        },
+        {
+            "word": "config",
+            "count": "87,814"
+        },
+        {
+            "word": "with",
+            "count": "87,208"
+        },
+        {
+            "word": "it",
+            "count": "85,979"
+        },
+        {
+            "word": "username",
+            "count": "84,128"
+        },
+        {
+            "word": "module",
+            "count": "83,006"
+        },
+        {
+            "word": "assert",
+            "count": "81,510"
+        },
+        {
+            "word": "cpp",
+            "count": "80,871"
+        },
+        {
+            "word": "status",
+            "count": "79,185"
+        },
+        {
+            "word": "mame",
+            "count": "78,730"
+        },
+        {
+            "word": "Action",
+            "count": "78,133"
+        },
+        {
+            "word": "p",
+            "count": "78,032"
+        },
+        {
+            "word": "torch",
+            "count": "77,589"
+        },
+        {
+            "word": "0x00",
+            "count": "76,914"
+        },
+        {
+            "word": "are",
+            "count": "75,167"
+        },
+        {
+            "word": "spamming",
+            "count": "74,669"
+        },
+        {
+            "word": "e",
+            "count": "73,559"
+        },
+        {
+            "word": "key",
+            "count": "72,505"
+        },
+        {
+            "word": "cid",
+            "count": "72,495"
+        },
+        {
+            "word": "run",
+            "count": "72,476"
+        },
+        {
+            "word": "b",
+            "count": "72,415"
+        },
+        {
+            "word": "plugin",
+            "count": "71,500"
+        },
+        {
+            "word": "tp",
+            "count": "70,972"
+        },
+        {
+            "word": "error",
+            "count": "70,711"
+        },
+        {
+            "word": "width",
+            "count": "70,551"
+        },
+        {
+            "word": "user_id",
+            "count": "70,276"
+        },
+        {
+            "word": "d",
+            "count": "69,949"
+        },
+        {
+            "word": "other",
+            "count": "69,681"
+        },
+        {
+            "word": "height",
+            "count": "69,077"
+        },
+        {
+            "word": "m",
+            "count": "68,476"
+        },
+        {
+            "word": "npc",
+            "count": "68,286"
+        },
+        {
+            "word": "exception",
+            "count": "67,429"
+        },
+        {
+            "word": "gsub",
+            "count": "67,179"
+        },
+        {
+            "word": "chat_id",
+            "count": "66,694"
+        },
+        {
+            "word": "minetest",
+            "count": "65,956"
+        },
+        {
+            "word": "path",
+            "count": "65,902"
+        },
+        {
+            "word": "cc",
+            "count": "65,528"
+        },
+        {
+            "word": "set",
+            "count": "65,517"
+        },
+        {
+            "word": "awful",
+            "count": "64,741"
+        },
+        {
+            "word": "r",
+            "count": "64,535"
+        },
+        {
+            "word": "no",
+            "count": "64,190"
+        },
+        {
+            "word": "source",
+            "count": "64,179"
+        },
+        {
+            "word": "params",
+            "count": "64,033"
+        },
+        {
+            "word": "save_data",
+            "count": "63,399"
+        },
+        {
+            "word": "size",
+            "count": "62,979"
+        },
+        {
+            "word": "This",
+            "count": "62,645"
+        },
+        {
+            "word": "savelog",
+            "count": "61,610"
+        },
+        {
+            "word": "zones",
+            "count": "61,479"
+        },
+        {
+            "word": "ok_cb",
+            "count": "61,153"
+        },
+        {
+            "word": "new",
+            "count": "60,277"
+        },
+        {
+            "word": "versions",
+            "count": "60,211"
+        },
+        {
+            "word": "e2",
+            "count": "58,907"
+        },
+        {
+            "word": "you",
+            "count": "58,384"
+        },
+        {
+            "word": "count",
+            "count": "57,943"
+        },
+        {
+            "word": "random",
+            "count": "57,942"
+        },
+        {
+            "word": "ret",
+            "count": "57,212"
+        },
+        {
+            "word": "args",
+            "count": "56,947"
+        },
+        {
+            "word": "number",
+            "count": "56,788"
+        },
+        {
+            "word": "onEventFinish",
+            "count": "56,323"
+        },
+        {
+            "word": "action",
+            "count": "56,119"
+        },
+        {
+            "word": "name_log",
+            "count": "55,828"
+        },
+        {
+            "word": "ipairs",
+            "count": "55,365"
+        },
+        {
+            "word": "onEventUpdate",
+            "count": "55,149"
+        },
+        {
+            "word": "list",
+            "count": "54,950"
+        },
+        {
+            "word": "plugins",
+            "count": "54,748"
+        },
+        {
+            "word": "The",
+            "count": "53,996"
+        },
+        {
+            "word": "package",
+            "count": "53,269"
+        },
+        {
+            "word": "when",
+            "count": "53,099"
+        },
+        {
+            "word": "g",
+            "count": "52,948"
+        },
+        {
+            "word": "tonumber",
+            "count": "52,142"
+        },
+        {
+            "word": "CSID",
+            "count": "52,090"
+        },
+        {
+            "word": "onTrigger",
+            "count": "52,036"
+        },
+        {
+            "word": "png",
+            "count": "52,033"
+        },
+        {
+            "word": "groups",
+            "count": "51,514"
+        },
+        {
+            "word": "be",
+            "count": "51,005"
+        },
+        {
+            "word": "TextIDs",
+            "count": "50,824"
+        },
+        {
+            "word": "class",
+            "count": "50,820"
+        },
+        {
+            "word": "break",
+            "count": "50,812"
+        },
+        {
+            "word": "info",
+            "count": "50,707"
+        },
+        {
+            "word": "close",
+            "count": "50,315"
+        },
+        {
+            "word": "RESULT",
+            "count": "50,308"
+        },
+        {
+            "word": "w",
+            "count": "50,281"
+        },
+        {
+            "word": "version",
+            "count": "49,756"
+        },
+        {
+            "word": "onTrade",
+            "count": "49,752"
+        },
+        {
+            "word": "o",
+            "count": "49,012"
+        },
+        {
+            "word": "has",
+            "count": "48,995"
+        },
+        {
+            "word": "parent",
+            "count": "48,882"
+        },
+        {
+            "word": "yes",
+            "count": "48,649"
+        },
+        {
+            "word": "z",
+            "count": "48,645"
+        },
+        {
+            "word": "mytester",
+            "count": "48,118"
+        },
+        {
+            "word": "all",
+            "count": "47,860"
+        },
+        {
+            "word": "level",
+            "count": "47,796"
+        },
+        {
+            "word": "include",
+            "count": "47,775"
+        },
+        {
+            "word": "Area",
+            "count": "47,678"
+        },
+        {
+            "word": "send_large_msg",
+            "count": "47,254"
+        },
+        {
+            "word": "L",
+            "count": "47,242"
+        },
+        {
+            "word": "redis",
+            "count": "47,097"
+        },
+        {
+            "word": "can",
+            "count": "46,753"
+        },
+        {
+            "word": "success",
+            "count": "46,653"
+        },
+        {
+            "word": "state",
+            "count": "46,594"
+        },
+        {
+            "word": "onMobDeath",
+            "count": "45,632"
+        },
+        {
+            "word": "get",
+            "count": "45,625"
+        },
+        {
+            "word": "File",
+            "count": "45,077"
+        },
+        {
+            "word": "loaded",
+            "count": "44,975"
+        },
+        {
+            "word": "item",
+            "count": "44,852"
+        },
+        {
+            "word": "client",
+            "count": "44,845"
+        },
+        {
+            "word": "is_momod",
+            "count": "44,623"
+        },
+        {
+            "word": "output",
+            "count": "44,533"
+        },
+        {
+            "word": "Effect",
+            "count": "44,502"
+        },
+        {
+            "word": "match",
+            "count": "44,498"
+        },
+        {
+            "word": "time",
+            "count": "44,163"
+        },
+        {
+            "word": "add",
+            "count": "44,074"
+        },
+        {
+            "word": "modules",
+            "count": "44,037"
+        },
+        {
+            "word": "res",
+            "count": "43,911"
+        },
+        {
+            "word": "cb_extra",
+            "count": "43,857"
+        },
+        {
+            "word": "hash",
+            "count": "43,205"
+        },
+        {
+            "word": "insert",
+            "count": "43,021"
+        },
+        {
+            "word": "description",
+            "count": "42,781"
+        },
+        {
+            "word": "only",
+            "count": "42,729"
+        },
+        {
+            "word": "npcHandler",
+            "count": "42,691"
+        },
+        {
+            "word": "devices",
+            "count": "42,516"
+        },
+        {
+            "word": "\u26a0\ufe0fOffLiNeTeam\u26a0\ufe0f",
+            "count": "42,236"
+        },
+        {
+            "word": "message",
+            "count": "42,133"
+        },
+        {
+            "word": "RegisterEffect",
+            "count": "41,915"
+        },
+        {
+            "word": "str",
+            "count": "41,707"
+        },
+        {
+            "word": "Team",
+            "count": "41,214"
+        },
+        {
+            "word": "part",
+            "count": "41,094"
+        },
+        {
+            "word": "scale",
+            "count": "41,025"
+        },
+        {
+            "word": "as",
+            "count": "40,956"
+        },
+        {
+            "word": "io",
+            "count": "40,252"
+        },
+        {
+            "word": "index",
+            "count": "40,028"
+        },
+        {
+            "word": "rules",
+            "count": "39,918"
+        },
+        {
+            "word": "channel",
+            "count": "39,909"
+        },
+        {
+            "word": "Fucked",
+            "count": "39,437"
+        },
+        {
+            "word": "love",
+            "count": "39,333"
+        },
+        {
+            "word": "cfg",
+            "count": "39,233"
+        },
+        {
+            "word": "creature",
+            "count": "39,192"
+        },
+        {
+            "word": "os",
+            "count": "39,104"
+        },
+        {
+            "word": "who",
+            "count": "39,067"
+        },
+        {
+            "word": "CreateEffect",
+            "count": "39,030"
+        },
+        {
+            "word": "SBSS",
+            "count": "38,995"
+        },
+        {
+            "word": "mobile",
+            "count": "38,905"
+        },
+        {
+            "word": "SetType",
+            "count": "38,867"
+        },
+        {
+            "word": "SWEP",
+            "count": "38,776"
+        },
+        {
+            "word": "format",
+            "count": "38,695"
+        },
+        {
+            "word": "l",
+            "count": "38,509"
+        },
+        {
+            "word": "ok",
+            "count": "38,379"
+        },
+        {
+            "word": "event",
+            "count": "38,245"
+        },
+        {
+            "word": "nn",
+            "count": "38,100"
+        },
+        {
+            "word": "startEvent",
+            "count": "37,959"
+        },
+        {
+            "word": "make",
+            "count": "37,892"
+        },
+        {
+            "word": "extra",
+            "count": "37,781"
+        },
+        {
+            "word": "trade",
+            "count": "37,487"
+        },
+        {
+            "word": "write",
+            "count": "37,474"
+        },
+        {
+            "word": "more",
+            "count": "37,430"
+        },
+        {
+            "word": "out",
+            "count": "37,409"
+        },
+        {
+            "word": "provided",
+            "count": "37,123"
+        },
+        {
+            "word": "base",
+            "count": "36,867"
+        },
+        {
+            "word": "also",
+            "count": "36,832"
+        },
+        {
+            "word": "unit",
+            "count": "36,714"
+        },
+        {
+            "word": "Group",
+            "count": "36,278"
+        },
+        {
+            "word": "while",
+            "count": "36,147"
+        },
+        {
+            "word": "max",
+            "count": "36,107"
+        },
+        {
+            "word": "owner",
+            "count": "35,934"
+        },
+        {
+            "word": "options",
+            "count": "35,907"
+        },
+        {
+            "word": "j",
+            "count": "35,695"
+        },
+        {
+            "word": "button",
+            "count": "35,574"
+        },
+        {
+            "word": "tc",
+            "count": "35,552"
+        },
+        {
+            "word": "line",
+            "count": "35,485"
+        },
+        {
+            "word": "been",
+            "count": "35,070"
+        },
+        {
+            "word": "SetCode",
+            "count": "34,935"
+        },
+        {
+            "word": "caster",
+            "count": "34,826"
+        },
+        {
+            "word": "special",
+            "count": "34,801"
+        },
+        {
+            "word": "node",
+            "count": "34,603"
+        },
+        {
+            "word": "work",
+            "count": "34,245"
+        },
+        {
+            "word": "me",
+            "count": "34,222"
+        },
+        {
+            "word": "forward",
+            "count": "34,061"
+        },
+        {
+            "word": "based",
+            "count": "33,864"
+        },
+        {
+            "word": "func",
+            "count": "33,651"
+        },
+        {
+            "word": "get_receiver",
+            "count": "33,563"
+        },
+        {
+            "word": "details",
+            "count": "33,517"
+        },
+        {
+            "word": "widget",
+            "count": "33,488"
+        },
+        {
+            "word": "an",
+            "count": "33,465"
+        },
+        {
+            "word": "use",
+            "count": "33,393"
+        },
+        {
+            "word": "chance",
+            "count": "33,332"
+        },
+        {
+            "word": "release",
+            "count": "33,292"
+        },
+        {
+            "word": "drivers",
+            "count": "33,032"
+        },
+        {
+            "word": "peer_id",
+            "count": "32,956"
+        },
+        {
+            "word": "get_cmd",
+            "count": "32,900"
+        },
+        {
+            "word": "Note",
+            "count": "32,634"
+        },
+        {
+            "word": "their",
+            "count": "32,471"
+        },
+        {
+            "word": "Type",
+            "count": "32,393"
+        },
+        {
+            "word": "files",
+            "count": "32,169"
+        },
+        {
+            "word": "possible",
+            "count": "31,956"
+        },
+        {
+            "word": "A",
+            "count": "31,952"
+        },
+        {
+            "word": "ply",
+            "count": "31,922"
+        },
+        {
+            "word": "tag",
+            "count": "31,578"
+        },
+        {
+            "word": "int",
+            "count": "31,450"
+        },
+        {
+            "word": "dmg",
+            "count": "31,425"
+        },
+        {
+            "word": "killer",
+            "count": "31,421"
+        },
+        {
+            "word": "test",
+            "count": "31,376"
+        },
+        {
+            "word": "color",
+            "count": "31,236"
+        },
+        {
+            "word": "onMobSpawn",
+            "count": "31,206"
+        },
+        {
+            "word": "member",
+            "count": "31,151"
+        },
+        {
+            "word": "create",
+            "count": "31,130"
+        },
+        {
+            "word": "mode",
+            "count": "31,116"
+        },
+        {
+            "word": "frame",
+            "count": "31,011"
+        },
+        {
+            "word": "people",
+            "count": "30,824"
+        },
+        {
+            "word": "graphics",
+            "count": "30,680"
+        },
+        {
+            "word": "makes",
+            "count": "30,647"
+        },
+        {
+            "word": "http",
+            "count": "30,588"
+        },
+        {
+            "word": "locked",
+            "count": "30,534"
+        },
+        {
+            "word": "cover",
+            "count": "30,421"
+        },
+        {
+            "word": "whole",
+            "count": "30,254"
+        },
+        {
+            "word": "will",
+            "count": "30,243"
+        },
+        {
+            "word": "direction",
+            "count": "30,026"
+        },
+        {
+            "word": "combination",
+            "count": "29,928"
+        },
+        {
+            "word": "ENT",
+            "count": "29,888"
+        },
+        {
+            "word": "dynamically",
+            "count": "29,859"
+        },
+        {
+            "word": "making",
+            "count": "29,849"
+        },
+        {
+            "word": "combined",
+            "count": "29,834"
+        },
+        {
+            "word": "obj",
+            "count": "29,820"
+        },
+        {
+            "word": "sub",
+            "count": "29,799"
+        },
+        {
+            "word": "grant",
+            "count": "29,777"
+        },
+        {
+            "word": "Linking",
+            "count": "29,677"
+        },
+        {
+            "word": "statically",
+            "count": "29,650"
+        },
+        {
+            "word": "obligated",
+            "count": "29,642"
+        },
+        {
+            "word": "Core3",
+            "count": "29,626"
+        },
+        {
+            "word": "inst",
+            "count": "29,478"
+        },
+        {
+            "word": "token",
+            "count": "29,362"
+        },
+        {
+            "word": "arg",
+            "count": "29,284"
+        },
+        {
+            "word": "patterns",
+            "count": "29,170"
+        },
+        {
+            "word": "e3",
+            "count": "28,676"
+        },
+        {
+            "word": "Returns",
+            "count": "28,591"
+        },
+        {
+            "word": "spam",
+            "count": "28,328"
+        },
+        {
+            "word": "admins",
+            "count": "28,185"
+        },
+        {
+            "word": "link",
+            "count": "27,635"
+        },
+        {
+            "word": "float",
+            "count": "27,596"
+        },
+        {
+            "word": "util",
+            "count": "27,548"
+        },
+        {
+            "word": "print_name",
+            "count": "27,484"
+        },
+        {
+            "word": "theme",
+            "count": "27,454"
+        },
+        {
+            "word": "member_id",
+            "count": "27,442"
+        },
+        {
+            "word": "skill",
+            "count": "27,389"
+        },
+        {
+            "word": "Set",
+            "count": "27,356"
+        },
+        {
+            "word": "gameObjectType",
+            "count": "27,351"
+        },
+        {
+            "word": "effect",
+            "count": "27,283"
+        },
+        {
+            "word": "GetHandler",
+            "count": "27,071"
+        },
+        {
+            "word": "duration",
+            "count": "27,006"
+        },
+        {
+            "word": "url",
+            "count": "26,931"
+        },
+        {
+            "word": "fuck",
+            "count": "26,880"
+        },
+        {
+            "word": "method",
+            "count": "26,679"
+        },
+        {
+            "word": "command",
+            "count": "26,612"
+        },
+        {
+            "word": "disabled",
+            "count": "26,466"
+        },
+        {
+            "word": "collisionActionBlockFlags",
+            "count": "26,386"
+        },
+        {
+            "word": "collisionActionFlags",
+            "count": "26,386"
+        },
+        {
+            "word": "collisionActionPassFlags",
+            "count": "26,386"
+        },
+        {
+            "word": "collisionMaterialBlockFlags",
+            "count": "26,386"
+        },
+        {
+            "word": "collisionMaterialFlags",
+            "count": "26,386"
+        },
+        {
+            "word": "collisionMaterialPassFlags",
+            "count": "26,386"
+        },
+        {
+            "word": "onlyVisibleInTools",
+            "count": "26,386"
+        },
+        {
+            "word": "sendToClient",
+            "count": "26,386"
+        },
+        {
+            "word": "snapToTerrain",
+            "count": "26,386"
+        },
+        {
+            "word": "containerType",
+            "count": "26,383"
+        },
+        {
+            "word": "scaleThresholdBeforeExtentTest",
+            "count": "26,382"
+        },
+        {
+            "word": "noBuildRadius",
+            "count": "26,364"
+        },
+        {
+            "word": "slotDescriptorFilename",
+            "count": "26,348"
+        },
+        {
+            "word": "containerVolumeLimit",
+            "count": "26,347"
+        },
+        {
+            "word": "surfaceType",
+            "count": "26,334"
+        },
+        {
+            "word": "locationReservationRadius",
+            "count": "26,313"
+        },
+        {
+            "word": "clearFloraRadius",
+            "count": "26,308"
+        },
+        {
+            "word": "spell",
+            "count": "26,287"
+        },
+        {
+            "word": "about",
+            "count": "26,197"
+        },
+        {
+            "word": "arrangementDescriptorFilename",
+            "count": "26,180"
+        },
+        {
+            "word": "valid",
+            "count": "26,141"
+        },
+        {
+            "word": "messageSpecial",
+            "count": "26,127"
+        },
+        {
+            "word": "You",
+            "count": "25,913"
+        },
+        {
+            "word": "NPC",
+            "count": "25,903"
+        },
+        {
+            "word": "If",
+            "count": "25,879"
+        },
+        {
+            "word": "portalLayoutFilename",
+            "count": "25,852"
+        },
+        {
+            "word": "msg_type",
+            "count": "25,766"
+        },
+        {
+            "word": "enabled",
+            "count": "25,734"
+        },
+        {
+            "word": "39m",
+            "count": "25,489"
+        },
+        {
+            "word": "val",
+            "count": "25,465"
+        },
+        {
+            "word": "onMobEngaged",
+            "count": "25,427"
+        },
+        {
+            "word": "string_id_table",
+            "count": "25,350"
+        },
+        {
+            "word": "start",
+            "count": "25,280"
+        },
+        {
+            "word": "setmetatable",
+            "count": "25,078"
+        },
+        {
+            "word": "bot",
+            "count": "25,040"
+        },
+        {
+            "word": "bool",
+            "count": "25,032"
+        },
+        {
+            "word": "Name",
+            "count": "24,902"
+        },
+        {
+            "word": "num",
+            "count": "24,792"
+        },
+        {
+            "word": "map",
+            "count": "24,776"
+        },
+        {
+            "word": "slot",
+            "count": "24,770"
+        },
+        {
+            "word": "here",
+            "count": "24,713"
+        },
+        {
+            "word": "_G",
+            "count": "24,260"
+        },
+        {
+            "word": "filename",
+            "count": "24,114"
+        },
+        {
+            "word": "ent",
+            "count": "24,061"
+        },
+        {
+            "word": "json",
+            "count": "23,950"
+        },
+        {
+            "word": "Spring",
+            "count": "23,892"
+        },
+        {
+            "word": "moderators",
+            "count": "23,879"
+        },
+        {
+            "word": "open",
+            "count": "23,655"
+        },
+        {
+            "word": "unitID",
+            "count": "23,642"
+        },
+        {
+            "word": "S",
+            "count": "23,633"
+        },
+        {
+            "word": "clientDataFile",
+            "count": "23,515"
+        },
+        {
+            "word": "model",
+            "count": "23,513"
+        },
+        {
+            "word": "position",
+            "count": "23,469"
+        },
+        {
+            "word": "bus",
+            "count": "23,440"
+        },
+        {
+            "word": "var",
+            "count": "23,353"
+        },
+        {
+            "word": "LANG",
+            "count": "23,166"
+        },
+        {
+            "word": "min",
+            "count": "23,145"
+        },
+        {
+            "word": "set_text",
+            "count": "23,132"
+        },
+        {
+            "word": "properties",
+            "count": "23,113"
+        },
+        {
+            "word": "translate",
+            "count": "23,053"
+        },
+        {
+            "word": "configuration",
+            "count": "23,050"
+        },
+        {
+            "word": "image",
+            "count": "23,011"
+        },
+        {
+            "word": "load_data",
+            "count": "23,010"
+        },
+        {
+            "word": "cmd",
+            "count": "22,947"
+        },
+        {
+            "word": "callback",
+            "count": "22,739"
+        },
+        {
+            "word": "school",
+            "count": "22,700"
+        },
+        {
+            "word": "onMobFight",
+            "count": "22,693"
+        },
+        {
+            "word": "now",
+            "count": "22,668"
+        },
+        {
+            "word": "mod",
+            "count": "22,659"
+        },
+        {
+            "word": "For",
+            "count": "22,629"
+        },
+        {
+            "word": "LOCATION_MZONE",
+            "count": "22,620"
+        },
+        {
+            "word": "black",
+            "count": "22,608"
+        },
+        {
+            "word": "layer",
+            "count": "22,531"
+        },
+        {
+            "word": "select",
+            "count": "22,504"
+        },
+        {
+            "word": "already",
+            "count": "22,476"
+        },
+        {
+            "word": "video",
+            "count": "22,410"
+        },
+        {
+            "word": "onMobInitialize",
+            "count": "22,294"
+        },
+        {
+            "word": "zone",
+            "count": "22,280"
+        },
+        {
+            "word": "offset",
+            "count": "22,143"
+        },
+        {
+            "word": "M",
+            "count": "22,082"
+        },
+        {
+            "word": "ffi",
+            "count": "22,019"
+        },
+        {
+            "word": "net",
+            "count": "21,940"
+        },
+        {
+            "word": "lookAtText",
+            "count": "21,884"
+        },
+        {
+            "word": "vendor",
+            "count": "21,841"
+        },
+        {
+            "word": "section",
+            "count": "21,602"
+        },
+        {
+            "word": "admin",
+            "count": "21,437"
+        },
+        {
+            "word": "focus",
+            "count": "21,418"
+        },
+        {
+            "word": "screen",
+            "count": "21,342"
+        },
+        {
+            "word": "\u06af\u0631\u0648\u0647",
+            "count": "21,286"
+        },
+        {
+            "word": "timer",
+            "count": "21,186"
+        },
+        {
+            "word": "C",
+            "count": "21,144"
+        },
+        {
+            "word": "com",
+            "count": "21,116"
+        },
+        {
+            "word": "read",
+            "count": "21,058"
+        },
+        {
+            "word": "find",
+            "count": "21,026"
+        },
+        {
+            "word": "values",
+            "count": "21,000"
+        },
+        {
+            "word": "title",
+            "count": "20,932"
+        },
+        {
+            "word": "recipe",
+            "count": "20,849"
+        },
+        {
+            "word": "Create",
+            "count": "20,772"
+        },
+        {
+            "word": "gl",
+            "count": "20,768"
+        },
+        {
+            "word": "users",
+            "count": "20,738"
+        },
+        {
+            "word": "null",
+            "count": "20,692"
+        },
+        {
+            "word": "floor",
+            "count": "20,661"
+        },
+        {
+            "word": "opt",
+            "count": "20,630"
+        },
+        {
+            "word": "machine",
+            "count": "20,504"
+        },
+        {
+            "word": "at",
+            "count": "20,464"
+        },
+        {
+            "word": "setVar",
+            "count": "20,373"
+        },
+        {
+            "word": "Tensor",
+            "count": "20,247"
+        },
+        {
+            "word": "our_id",
+            "count": "20,246"
+        },
+        {
+            "word": "flood",
+            "count": "20,233"
+        },
+        {
+            "word": "update",
+            "count": "20,203"
+        },
+        {
+            "word": "boys",
+            "count": "20,033"
+        },
+        {
+            "word": "fucked",
+            "count": "20,033"
+        },
+        {
+            "word": "https",
+            "count": "19,989"
+        },
+        {
+            "word": "have",
+            "count": "19,981"
+        },
+        {
+            "word": "Player",
+            "count": "19,724"
+        },
+        {
+            "word": "weapon",
+            "count": "19,711"
+        },
+        {
+            "word": "36mNot",
+            "count": "19,684"
+        },
+        {
+            "word": "members",
+            "count": "19,679"
+        },
+        {
+            "word": "len",
+            "count": "19,647"
+        },
+        {
+            "word": "we",
+            "count": "19,564"
+        },
+        {
+            "word": "layout",
+            "count": "19,530"
+        },
+        {
+            "word": "unlocked",
+            "count": "19,521"
+        },
+        {
+            "word": "remove",
+            "count": "19,383"
+        },
+        {
+            "word": "reply_id",
+            "count": "19,290"
+        },
+        {
+            "word": "load",
+            "count": "19,217"
+        },
+        {
+            "word": "member_username",
+            "count": "19,193"
+        },
+        {
+            "word": "order",
+            "count": "19,168"
+        },
+        {
+            "word": "desc",
+            "count": "19,122"
+        },
+        {
+            "word": "init",
+            "count": "19,120"
+        },
+        {
+            "word": "returns",
+            "count": "19,114"
+        },
+        {
+            "word": "range",
+            "count": "19,009"
+        },
+        {
+            "word": "check",
+            "count": "18,803"
+        },
+        {
+            "word": "backward",
+            "count": "18,786"
+        },
+        {
+            "word": "certificationsRequired",
+            "count": "18,735"
+        },
+        {
+            "word": "game",
+            "count": "18,727"
+        },
+        {
+            "word": "assertlt",
+            "count": "18,724"
+        },
+        {
+            "word": "SuperGroup",
+            "count": "18,676"
+        },
+        {
+            "word": "SetProperty",
+            "count": "18,662"
+        },
+        {
+            "word": "used",
+            "count": "18,662"
+        },
+        {
+            "word": "Class",
+            "count": "18,633"
+        },
+        {
+            "word": "lib",
+            "count": "18,471"
+        },
+        {
+            "word": "scene",
+            "count": "18,388"
+        },
+        {
+            "word": "targetable",
+            "count": "18,296"
+        },
+        {
+            "word": "log",
+            "count": "18,277"
+        },
+        {
+            "word": "kind",
+            "count": "18,258"
+        },
+        {
+            "word": "useStructureFootprintOutline",
+            "count": "18,242"
+        },
+        {
+            "word": "rangedIntCustomizationVariables",
+            "count": "18,239"
+        },
+        {
+            "word": "socketDestinations",
+            "count": "18,226"
+        },
+        {
+            "word": "paletteColorCustomizationVariables",
+            "count": "18,219"
+        },
+        {
+            "word": "customizationVariableMapping",
+            "count": "18,213"
+        },
+        {
+            "word": "send",
+            "count": "18,197"
+        },
+        {
+            "word": "weight",
+            "count": "18,157"
+        },
+        {
+            "word": "light",
+            "count": "18,056"
+        },
+        {
+            "word": "flags",
+            "count": "18,043"
+        },
+        {
+            "word": "structureFootprintFileName",
+            "count": "18,034"
+        },
+        {
+            "word": "visible",
+            "count": "17,927"
+        },
+        {
+            "word": "next",
+            "count": "17,887"
+        },
+        {
+            "word": "pattern",
+            "count": "17,863"
+        },
+        {
+            "word": "Check",
+            "count": "17,851"
+        },
+        {
+            "word": "parameters",
+            "count": "17,814"
+        },
+        {
+            "word": "response",
+            "count": "17,712"
+        },
+        {
+            "word": "Map",
+            "count": "17,670"
+        },
+        {
+            "word": "items",
+            "count": "17,660"
+        },
+        {
+            "word": "socket",
+            "count": "17,659"
+        },
+        {
+            "word": "tr",
+            "count": "17,477"
+        },
+        {
+            "word": "debug",
+            "count": "17,447"
+        },
+        {
+            "word": "buffer",
+            "count": "17,284"
+        },
+        {
+            "word": "body",
+            "count": "17,213"
+        },
+        {
+            "word": "which",
+            "count": "17,079"
+        },
+        {
+            "word": "script",
+            "count": "17,067"
+        },
+        {
+            "word": "EFFECT_TYPE_SINGLE",
+            "count": "17,048"
+        },
+        {
+            "word": "found",
+            "count": "17,047"
+        },
+        {
+            "word": "ITEM",
+            "count": "17,040"
+        },
+        {
+            "word": "share",
+            "count": "17,040"
+        },
+        {
+            "word": "meta",
+            "count": "17,006"
+        },
+        {
+            "word": "help",
+            "count": "16,977"
+        },
+        {
+            "word": "usr",
+            "count": "16,972"
+        },
+        {
+            "word": "photo",
+            "count": "16,962"
+        },
+        {
+            "word": "includes",
+            "count": "16,951"
+        },
+        {
+            "word": "current",
+            "count": "16,914"
+        },
+        {
+            "word": "appearanceFilename",
+            "count": "16,868"
+        },
+        {
+            "word": "char",
+            "count": "16,862"
+        },
+        {
+            "word": "addMod",
+            "count": "16,704"
+        },
+        {
+            "word": "X",
+            "count": "16,691"
+        },
+        {
+            "word": "register_craft",
+            "count": "16,681"
+        },
+        {
+            "word": "I",
+            "count": "16,660"
+        },
+        {
+            "word": "luci",
+            "count": "16,526"
+        },
+        {
+            "word": "precision",
+            "count": "16,479"
+        },
+        {
+            "word": "dialogId",
+            "count": "16,477"
+        },
+        {
+            "word": "JSON",
+            "count": "16,466"
+        },
+        {
+            "word": "added",
+            "count": "16,451"
+        },
+        {
+            "word": "targets",
+            "count": "16,442"
+        },
+        {
+            "word": "main",
+            "count": "16,416"
+        },
+        {
+            "word": "detailedDescription",
+            "count": "16,375"
+        },
+        {
+            "word": "reply",
+            "count": "16,314"
+        },
+        {
+            "word": "keys",
+            "count": "16,292"
+        },
+        {
+            "word": "usage",
+            "count": "16,281"
+        },
+        {
+            "word": "skin",
+            "count": "16,220"
+        },
+        {
+            "word": "_p",
+            "count": "16,211"
+        },
+        {
+            "word": "so",
+            "count": "16,111"
+        },
+        {
+            "word": "below",
+            "count": "16,096"
+        },
+        {
+            "word": "objectName",
+            "count": "16,085"
+        },
+        {
+            "word": "realm",
+            "count": "16,028"
+        },
+        {
+            "word": "delMod",
+            "count": "15,970"
+        },
+        {
+            "word": "left",
+            "count": "15,956"
+        },
+        {
+            "word": "dir",
+            "count": "15,923"
+        },
+        {
+            "word": "data_cat",
+            "count": "15,908"
+        },
+        {
+            "word": "Get",
+            "count": "15,861"
+        },
+        {
+            "word": "jac",
+            "count": "15,818"
+        },
+        {
+            "word": "Data",
+            "count": "15,796"
+        },
+        {
+            "word": "boolean",
+            "count": "15,746"
+        },
+        {
+            "word": "__index",
+            "count": "15,729"
+        },
+        {
+            "word": "one",
+            "count": "15,696"
+        },
+        {
+            "word": "service",
+            "count": "15,693"
+        },
+        {
+            "word": "weapons",
+            "count": "15,672"
+        },
+        {
+            "word": "tangible",
+            "count": "15,525"
+        },
+        {
+            "word": "modkey",
+            "count": "15,487"
+        },
+        {
+            "word": "entity",
+            "count": "15,481"
+        },
+        {
+            "word": "Entity",
+            "count": "15,388"
+        },
+        {
+            "word": "armor",
+            "count": "15,367"
+        },
+        {
+            "word": "counter",
+            "count": "15,362"
+        },
+        {
+            "word": "__",
+            "count": "15,359"
+        },
+        {
+            "word": "Only",
+            "count": "15,339"
+        },
+        {
+            "word": "\u0628\u062f\u062e\u0648\u0627\u0647",
+            "count": "15,305"
+        },
+        {
+            "word": "creatureBitmask",
+            "count": "15,304"
+        },
+        {
+            "word": "gradOutput",
+            "count": "15,301"
+        },
+        {
+            "word": "channel_id",
+            "count": "15,277"
+        },
+        {
+            "word": "first",
+            "count": "15,251"
+        },
+        {
+            "word": "is_owner",
+            "count": "15,209"
+        },
+        {
+            "word": "deprecated",
+            "count": "15,197"
+        },
+        {
+            "word": "host",
+            "count": "15,178"
+        },
+        {
+            "word": "pre_process",
+            "count": "15,159"
+        },
+        {
+            "word": "instance",
+            "count": "15,133"
+        },
+        {
+            "word": "msgs",
+            "count": "15,132"
+        },
+        {
+            "word": "what",
+            "count": "15,118"
+        },
+        {
+            "word": "topic",
+            "count": "15,108"
+        },
+        {
+            "word": "window",
+            "count": "15,102"
+        },
+        {
+            "word": "Hint",
+            "count": "15,080"
+        },
+        {
+            "word": "SetRange",
+            "count": "15,007"
+        },
+        {
+            "word": "Notes",
+            "count": "14,960"
+        },
+        {
+            "word": "fixed",
+            "count": "14,937"
+        },
+        {
+            "word": "User",
+            "count": "14,901"
+        },
+        {
+            "word": "utils",
+            "count": "14,879"
+        },
+        {
+            "word": "sounds",
+            "count": "14,867"
+        },
+        {
+            "word": "field",
+            "count": "14,829"
+        },
+        {
+            "word": "SPELL_CAST_SUCCESS",
+            "count": "14,802"
+        },
+        {
+            "word": "children",
+            "count": "14,780"
+        },
+        {
+            "word": "copy",
+            "count": "14,744"
+        },
+        {
+            "word": "lower",
+            "count": "14,662"
+        },
+        {
+            "word": "menu",
+            "count": "14,643"
+        },
+        {
+            "word": "plugin_name",
+            "count": "14,594"
+        },
+        {
+            "word": "display",
+            "count": "14,544"
+        },
+        {
+            "word": "etc",
+            "count": "14,522"
+        },
+        {
+            "word": "abstract",
+            "count": "14,481"
+        },
+        {
+            "word": "call",
+            "count": "14,473"
+        },
+        {
+            "word": "By",
+            "count": "14,472"
+        },
+        {
+            "word": "HINT_SELECTMSG",
+            "count": "14,427"
+        },
+        {
+            "word": "SetCategory",
+            "count": "14,398"
+        },
+        {
+            "word": "join",
+            "count": "14,386"
+        },
+        {
+            "word": "font",
+            "count": "14,263"
+        },
+        {
+            "word": "SetOperationInfo",
+            "count": "14,241"
+        },
+        {
+            "word": "gradInput",
+            "count": "14,191"
+        },
+        {
+            "word": "your",
+            "count": "14,188"
+        },
+        {
+            "word": "void",
+            "count": "14,131"
+        },
+        {
+            "word": "def",
+            "count": "14,126"
+        },
+        {
+            "word": "project",
+            "count": "14,039"
+        },
+        {
+            "word": "asserteq",
+            "count": "13,946"
+        },
+        {
+            "word": "setColor",
+            "count": "13,879"
+        },
+        {
+            "word": "combat",
+            "count": "13,875"
+        },
+        {
+            "word": "power",
+            "count": "13,838"
+        },
+        {
+            "word": "should",
+            "count": "13,812"
+        },
+        {
+            "word": "keeping",
+            "count": "13,806"
+        },
+        {
+            "word": "content",
+            "count": "13,803"
+        },
+        {
+            "word": "draw",
+            "count": "13,796"
+        },
+        {
+            "word": "unpack",
+            "count": "13,796"
+        },
+        {
+            "word": "label",
+            "count": "13,794"
+        },
+        {
+            "word": "easy",
+            "count": "13,769"
+        },
+        {
+            "word": "into",
+            "count": "13,757"
+        },
+        {
+            "word": "box",
+            "count": "13,707"
+        },
+        {
+            "word": "up",
+            "count": "13,656"
+        },
+        {
+            "word": "lookups",
+            "count": "13,653"
+        },
+        {
+            "word": "concat",
+            "count": "13,647"
+        },
+        {
+            "word": "destination",
+            "count": "13,617"
+        },
+        {
+            "word": "cpu",
+            "count": "13,605"
+        },
+        {
+            "word": "hasStatusEffect",
+            "count": "13,605"
+        },
+        {
+            "word": "IsValid",
+            "count": "13,584"
+        },
+        {
+            "word": "cron",
+            "count": "13,531"
+        },
+        {
+            "word": "faction",
+            "count": "13,401"
+        },
+        {
+            "word": "functions",
+            "count": "13,401"
+        },
+        {
+            "word": "env",
+            "count": "13,387"
+        },
+        {
+            "word": "\u0646\u06af\u0627\u06cc\u06cc\u062f\u0645",
+            "count": "13,367"
+        },
+        {
+            "word": "element",
+            "count": "13,328"
+        },
+        {
+            "word": "\u25cb",
+            "count": "13,326"
+        },
+        {
+            "word": "tres",
+            "count": "13,255"
+        },
+        {
+            "word": "right",
+            "count": "13,249"
+        },
+        {
+            "word": "banned",
+            "count": "13,227"
+        },
+        {
+            "word": "MACHINES",
+            "count": "13,209"
+        },
+        {
+            "word": "vardump",
+            "count": "13,188"
+        },
+        {
+            "word": "totalCellNumber",
+            "count": "13,161"
+        },
+        {
+            "word": "api",
+            "count": "13,131"
+        },
+        {
+            "word": "started",
+            "count": "13,037"
+        },
+        {
+            "word": "telegram",
+            "count": "13,019"
+        },
+        {
+            "word": "e4",
+            "count": "12,994"
+        },
+        {
+            "word": "No",
+            "count": "12,987"
+        },
+        {
+            "word": "request",
+            "count": "12,976"
+        },
+        {
+            "word": "Enable",
+            "count": "12,957"
+        },
+        {
+            "word": "clientGameObjectType",
+            "count": "12,937"
+        },
+        {
+            "word": "premake",
+            "count": "12,892"
+        },
+        {
+            "word": "public",
+            "count": "12,854"
+        },
+        {
+            "word": "media",
+            "count": "12,831"
+        },
+        {
+            "word": "actions",
+            "count": "12,792"
+        },
+        {
+            "word": "drop",
+            "count": "12,785"
+        },
+        {
+            "word": "bias",
+            "count": "12,779"
+        },
+        {
+            "word": "bit",
+            "count": "12,778"
+        },
+        {
+            "word": "lines",
+            "count": "12,717"
+        },
+        {
+            "word": "mohammad",
+            "count": "12,647"
+        },
+        {
+            "word": "array",
+            "count": "12,632"
+        },
+        {
+            "word": "stack",
+            "count": "12,632"
+        },
+        {
+            "word": "db",
+            "count": "12,625"
+        },
+        {
+            "word": "point",
+            "count": "12,620"
+        },
+        {
+            "word": "exit",
+            "count": "12,588"
+        },
+        {
+            "word": "chk",
+            "count": "12,572"
+        },
+        {
+            "word": "filter",
+            "count": "12,490"
+        },
+        {
+            "word": "changed",
+            "count": "12,486"
+        },
+        {
+            "word": "custom",
+            "count": "12,463"
+        },
+        {
+            "word": "stats",
+            "count": "12,439"
+        },
+        {
+            "word": "Return",
+            "count": "12,414"
+        },
+        {
+            "word": "Test",
+            "count": "12,356"
+        },
+        {
+            "word": "NONE",
+            "count": "12,333"
+        },
+        {
+            "word": "bin",
+            "count": "12,301"
+        },
+        {
+            "word": "server",
+            "count": "12,268"
+        },
+        {
+            "word": "txt",
+            "count": "12,255"
+        },
+        {
+            "word": "any",
+            "count": "12,243"
+        },
+        {
+            "word": "boneType",
+            "count": "12,221"
+        },
+        {
+            "word": "SPELL_AURA_APPLIED",
+            "count": "12,217"
+        },
+        {
+            "word": "pcall",
+            "count": "12,210"
+        },
+        {
+            "word": "Lua",
+            "count": "12,196"
+        },
+        {
+            "word": "lock",
+            "count": "12,191"
+        },
+        {
+            "word": "exists",
+            "count": "12,177"
+        },
+        {
+            "word": "hideType",
+            "count": "12,176"
+        },
+        {
+            "word": "milk",
+            "count": "12,169"
+        },
+        {
+            "word": "meatType",
+            "count": "12,162"
+        },
+        {
+            "word": "normal",
+            "count": "12,161"
+        },
+        {
+            "word": "attacking\ud83d\udd38",
+            "count": "12,142"
+        },
+        {
+            "word": "ferocity",
+            "count": "12,126"
+        },
+        {
+            "word": "ex",
+            "count": "12,107"
+        },
+        {
+            "word": "cost",
+            "count": "12,097"
+        },
+        {
+            "word": "port",
+            "count": "12,089"
+        },
+        {
+            "word": "amount",
+            "count": "12,081"
+        },
+        {
+            "word": "prj",
+            "count": "12,033"
+        },
+        {
+            "word": "kick",
+            "count": "11,977"
+        },
+        {
+            "word": "See",
+            "count": "11,973"
+        },
+        {
+            "word": "org",
+            "count": "11,885"
+        },
+        {
+            "word": "warning",
+            "count": "11,829"
+        },
+        {
+            "word": "headers",
+            "count": "11,727"
+        },
+        {
+            "word": "dt",
+            "count": "11,721"
+        },
+        {
+            "word": "tab",
+            "count": "11,721"
+        },
+        {
+            "word": "ID",
+            "count": "11,718"
+        },
+        {
+            "word": "byte",
+            "count": "11,688"
+        },
+        {
+            "word": "tbl",
+            "count": "11,669"
+        },
+        {
+            "word": "step",
+            "count": "11,657"
+        },
+        {
+            "word": "ctx",
+            "count": "11,609"
+        },
+        {
+            "word": "ini",
+            "count": "11,592"
+        },
+        {
+            "word": "location",
+            "count": "11,589"
+        },
+        {
+            "word": "style",
+            "count": "11,567"
+        },
+        {
+            "word": "tags",
+            "count": "11,544"
+        },
+        {
+            "word": "appearance",
+            "count": "11,530"
+        },
+        {
+            "word": "joinchat",
+            "count": "11,482"
+        },
+        {
+            "word": "cs",
+            "count": "11,477"
+        },
+        {
+            "word": "Weapon",
+            "count": "11,475"
+        },
+        {
+            "word": "typename",
+            "count": "11,448"
+        },
+        {
+            "word": "idx",
+            "count": "11,392"
+        },
+        {
+            "word": "engine",
+            "count": "11,352"
+        },
+        {
+            "word": "demote",
+            "count": "11,341"
+        },
+        {
+            "word": "bots",
+            "count": "11,317"
+        },
+        {
+            "word": "icon",
+            "count": "11,304"
+        },
+        {
+            "word": "onEffectLose",
+            "count": "11,300"
+        },
+        {
+            "word": "length",
+            "count": "11,294"
+        },
+        {
+            "word": "onEffectGain",
+            "count": "11,287"
+        },
+        {
+            "word": "\u2580\u2584",
+            "count": "11,259"
+        },
+        {
+            "word": "decode",
+            "count": "11,245"
+        },
+        {
+            "word": "area",
+            "count": "11,236"
+        },
+        {
+            "word": "user_print_name",
+            "count": "11,220"
+        },
+        {
+            "word": "row",
+            "count": "11,192"
+        },
+        {
+            "word": "query",
+            "count": "11,187"
+        },
+        {
+            "word": "top",
+            "count": "11,183"
+        },
+        {
+            "word": "optional",
+            "count": "11,177"
+        },
+        {
+            "word": "Spam",
+            "count": "11,144"
+        },
+        {
+            "word": "rand",
+            "count": "11,124"
+        },
+        {
+            "word": "_M",
+            "count": "11,122"
+        },
+        {
+            "word": "category",
+            "count": "11,119"
+        },
+        {
+            "word": "CUn8UjxMJnvrrCLU04fLyQ",
+            "count": "11,116"
+        },
+        {
+            "word": "using",
+            "count": "11,114"
+        },
+        {
+            "word": "picture",
+            "count": "11,098"
+        },
+        {
+            "word": "send_msg",
+            "count": "11,093"
+        },
+        {
+            "word": "Debug",
+            "count": "11,090"
+        },
+        {
+            "word": "region",
+            "count": "11,066"
+        },
+        {
+            "word": "block",
+            "count": "11,054"
+        },
+        {
+            "word": "cbres_extra",
+            "count": "11,050"
+        },
+        {
+            "word": "control",
+            "count": "11,008"
+        },
+        {
+            "word": "system",
+            "count": "10,982"
+        },
+        {
+            "word": "messages",
+            "count": "10,973"
+        },
+        {
+            "word": "addChild",
+            "count": "10,970"
+        },
+        {
+            "word": "disabled_chats",
+            "count": "10,921"
+        },
+        {
+            "word": "group_owner",
+            "count": "10,889"
+        },
+        {
+            "word": "common",
+            "count": "10,882"
+        },
+        {
+            "word": "results",
+            "count": "10,877"
+        },
+        {
+            "word": "term",
+            "count": "10,866"
+        },
+        {
+            "word": "realms",
+            "count": "10,854"
+        },
+        {
+            "word": "hacked",
+            "count": "10,796"
+        },
+        {
+            "word": "equal",
+            "count": "10,789"
+        },
+        {
+            "word": "motafeghin",
+            "count": "10,773"
+        },
+        {
+            "word": "interface",
+            "count": "10,769"
+        },
+        {
+            "word": "is_admin",
+            "count": "10,749"
+        },
+        {
+            "word": "promote",
+            "count": "10,749"
+        },
+        {
+            "word": "repeat",
+            "count": "10,728"
+        },
+        {
+            "word": "IsRelateToEffect",
+            "count": "10,723"
+        },
+        {
+            "word": "ui",
+            "count": "10,711"
+        },
+        {
+            "word": "abs",
+            "count": "10,708"
+        },
+        {
+            "word": "trace",
+            "count": "10,695"
+        },
+        {
+            "word": "clone",
+            "count": "10,678"
+        },
+        {
+            "word": "Error",
+            "count": "10,665"
+        },
+        {
+            "word": "luarocks",
+            "count": "10,655"
+        },
+        {
+            "word": "view",
+            "count": "10,650"
+        },
+        {
+            "word": "ud",
+            "count": "10,642"
+        },
+        {
+            "word": "socialGroup",
+            "count": "10,621"
+        },
+        {
+            "word": "shape",
+            "count": "10,609"
+        },
+        {
+            "word": "cr",
+            "count": "10,602"
+        },
+        {
+            "word": "called",
+            "count": "10,586"
+        },
+        {
+            "word": "was",
+            "count": "10,574"
+        },
+        {
+            "word": "tiles",
+            "count": "10,555"
+        },
+        {
+            "word": "wearables",
+            "count": "10,508"
+        },
+        {
+            "word": "Turbo",
+            "count": "10,497"
+        },
+        {
+            "word": "escape",
+            "count": "10,456"
+        },
+        {
+            "word": "lootGroups",
+            "count": "10,452"
+        },
+        {
+            "word": "diet",
+            "count": "10,415"
+        },
+        {
+            "word": "user_info",
+            "count": "10,384"
+        },
+        {
+            "word": "tamingChance",
+            "count": "10,381"
+        },
+        {
+            "word": "pvpBitmask",
+            "count": "10,373"
+        },
+        {
+            "word": "space",
+            "count": "10,369"
+        },
+        {
+            "word": "Remove",
+            "count": "10,360"
+        },
+        {
+            "word": "TM",
+            "count": "10,319"
+        },
+        {
+            "word": "page",
+            "count": "10,307"
+        },
+        {
+            "word": "None",
+            "count": "10,277"
+        },
+        {
+            "word": "modlist",
+            "count": "10,267"
+        },
+        {
+            "word": "MobIDs",
+            "count": "10,240"
+        },
+        {
+            "word": "apt",
+            "count": "10,239"
+        },
+        {
+            "word": "players",
+            "count": "10,214"
+        },
+        {
+            "word": "kick_user",
+            "count": "10,181"
+        },
+        {
+            "word": "XX",
+            "count": "10,175"
+        },
+        {
+            "word": "attacks",
+            "count": "10,166"
+        },
+        {
+            "word": "boneAmount",
+            "count": "10,130"
+        },
+        {
+            "word": "ability",
+            "count": "10,111"
+        },
+        {
+            "word": "zero",
+            "count": "10,101"
+        },
+        {
+            "word": "meatAmount",
+            "count": "10,100"
+        },
+        {
+            "word": "mouse",
+            "count": "10,099"
+        },
+        {
+            "word": "set_name",
+            "count": "10,098"
+        },
+        {
+            "word": "hideAmount",
+            "count": "10,089"
+        },
+        {
+            "word": "chanceHit",
+            "count": "10,074"
+        },
+        {
+            "word": "done",
+            "count": "10,060"
+        },
+        {
+            "word": "shared",
+            "count": "10,047"
+        },
+        {
+            "word": "lock_member",
+            "count": "10,046"
+        },
+        {
+            "word": "animation",
+            "count": "10,039"
+        },
+        {
+            "word": "active",
+            "count": "10,029"
+        },
+        {
+            "word": "Add",
+            "count": "9,995"
+        },
+        {
+            "word": "getVar",
+            "count": "9,995"
+        },
+        {
+            "word": "baseHAMmax",
+            "count": "9,992"
+        },
+        {
+            "word": "baseHAM",
+            "count": "9,988"
+        },
+        {
+            "word": "radius",
+            "count": "9,942"
+        },
+        {
+            "word": "see",
+            "count": "9,936"
+        },
+        {
+            "word": "but",
+            "count": "9,933"
+        },
+        {
+            "word": "\u2584\u2580",
+            "count": "9,918"
+        },
+        {
+            "word": "skynet",
+            "count": "9,911"
+        },
+        {
+            "word": "stop",
+            "count": "9,896"
+        },
+        {
+            "word": "T",
+            "count": "9,873"
+        },
+        {
+            "word": "unlock",
+            "count": "9,849"
+        },
+        {
+            "word": "optionsBitmask",
+            "count": "9,840"
+        },
+        {
+            "word": "rank",
+            "count": "9,796"
+        },
+        {
+            "word": "baseXp",
+            "count": "9,794"
+        },
+        {
+            "word": "Enabled",
+            "count": "9,793"
+        },
+        {
+            "word": "depends",
+            "count": "9,777"
+        },
+        {
+            "word": "handler",
+            "count": "9,701"
+        },
+        {
+            "word": "names",
+            "count": "9,691"
+        },
+        {
+            "word": "Show",
+            "count": "9,690"
+        },
+        {
+            "word": "td",
+            "count": "9,654"
+        },
+        {
+            "word": "save",
+            "count": "9,622"
+        },
+        {
+            "word": "ban",
+            "count": "9,599"
+        },
+        {
+            "word": "Save",
+            "count": "9,586"
+        },
+        {
+            "word": "weather",
+            "count": "9,582"
+        },
+        {
+            "word": "enable",
+            "count": "9,552"
+        },
+        {
+            "word": "header",
+            "count": "9,545"
+        },
+        {
+            "word": "prepare",
+            "count": "9,531"
+        },
+        {
+            "word": "land",
+            "count": "9,524"
+        },
+        {
+            "word": "sconv",
+            "count": "9,516"
+        },
+        {
+            "word": "0xff",
+            "count": "9,507"
+        },
+        {
+            "word": "awesome",
+            "count": "9,497"
+        },
+        {
+            "word": "after",
+            "count": "9,474"
+        },
+        {
+            "word": "R",
+            "count": "9,472"
+        },
+        {
+            "word": "P",
+            "count": "9,460"
+        },
+        {
+            "word": "saved",
+            "count": "9,447"
+        },
+        {
+            "word": "commands",
+            "count": "9,441"
+        },
+        {
+            "word": "Node",
+            "count": "9,416"
+        },
+        {
+            "word": "expected",
+            "count": "9,405"
+        },
+        {
+            "word": "br",
+            "count": "9,388"
+        },
+        {
+            "word": "tradeComplete",
+            "count": "9,366"
+        },
+        {
+            "word": "re",
+            "count": "9,338"
+        },
+        {
+            "word": "pack",
+            "count": "9,328"
+        },
+        {
+            "word": "audio",
+            "count": "9,324"
+        },
+        {
+            "word": "empty",
+            "count": "9,307"
+        },
+        {
+            "word": "inj",
+            "count": "9,305"
+        },
+        {
+            "word": "last",
+            "count": "9,277"
+        },
+        {
+            "word": "EFFECT_TYPE_FIELD",
+            "count": "9,267"
+        },
+        {
+            "word": "icons",
+            "count": "9,238"
+        },
+        {
+            "word": "walkability",
+            "count": "9,212"
+        },
+        {
+            "word": "arguments",
+            "count": "9,199"
+        },
+        {
+            "word": "must",
+            "count": "9,180"
+        },
+        {
+            "word": "core",
+            "count": "9,169"
+        },
+        {
+            "word": "tech",
+            "count": "9,155"
+        },
+        {
+            "word": "loveframes",
+            "count": "9,153"
+        },
+        {
+            "word": "is_sudo",
+            "count": "9,146"
+        },
+        {
+            "word": "gconv",
+            "count": "9,138"
+        },
+        {
+            "word": "mt",
+            "count": "9,103"
+        },
+        {
+            "word": "total",
+            "count": "9,087"
+        },
+        {
+            "word": "Vector",
+            "count": "9,075"
+        },
+        {
+            "word": "coroutine",
+            "count": "9,067"
+        },
+        {
+            "word": "cuda",
+            "count": "9,064"
+        },
+        {
+            "word": "disabled_plugin_on_chat",
+            "count": "9,051"
+        },
+        {
+            "word": "tm",
+            "count": "8,998"
+        },
+        {
+            "word": "B",
+            "count": "8,972"
+        },
+        {
+            "word": "network",
+            "count": "8,972"
+        },
+        {
+            "word": "points",
+            "count": "8,967"
+        },
+        {
+            "word": "real",
+            "count": "8,959"
+        },
+        {
+            "word": "Start",
+            "count": "8,947"
+        },
+        {
+            "word": "REASON_EFFECT",
+            "count": "8,935"
+        },
+        {
+            "word": "randn",
+            "count": "8,933"
+        },
+        {
+            "word": "rectangle",
+            "count": "8,917"
+        },
+        {
+            "word": "conversationTemplate",
+            "count": "8,899"
+        },
+        {
+            "word": "group_member_lock",
+            "count": "8,891"
+        },
+        {
+            "word": "clear",
+            "count": "8,886"
+        },
+        {
+            "word": "fs",
+            "count": "8,883"
+        },
+        {
+            "word": "say",
+            "count": "8,880"
+        },
+        {
+            "word": "setting",
+            "count": "8,876"
+        },
+        {
+            "word": "CATEGORY_SPECIAL_SUMMON",
+            "count": "8,869"
+        },
+        {
+            "word": "doesn",
+            "count": "8,825"
+        },
+        {
+            "word": "quests",
+            "count": "8,823"
+        },
+        {
+            "word": "sudo",
+            "count": "8,814"
+        },
+        {
+            "word": "3rdparty",
+            "count": "8,806"
+        },
+        {
+            "word": "si",
+            "count": "8,800"
+        },
+        {
+            "word": "addStatusEffect",
+            "count": "8,786"
+        },
+        {
+            "word": "To",
+            "count": "8,784"
+        },
+        {
+            "word": "get_message",
+            "count": "8,753"
+        },
+        {
+            "word": "\ud83d\udd39",
+            "count": "8,744"
+        },
+        {
+            "word": "Author",
+            "count": "8,724"
+        },
+        {
+            "word": "disabled_plugin",
+            "count": "8,710"
+        },
+        {
+            "word": "band",
+            "count": "8,702"
+        },
+        {
+            "word": "following",
+            "count": "8,697"
+        },
+        {
+            "word": "delay",
+            "count": "8,692"
+        },
+        {
+            "word": "show",
+            "count": "8,678"
+        },
+        {
+            "word": "Params",
+            "count": "8,668"
+        },
+        {
+            "word": "All",
+            "count": "8,666"
+        },
+        {
+            "word": "Initialize",
+            "count": "8,662"
+        },
+        {
+            "word": "disable",
+            "count": "8,658"
+        },
+        {
+            "word": "Quest",
+            "count": "8,629"
+        },
+        {
+            "word": "over",
+            "count": "8,625"
+        },
+        {
+            "word": "HealthFrame",
+            "count": "8,566"
+        },
+        {
+            "word": "ki",
+            "count": "8,544"
+        },
+        {
+            "word": "solid",
+            "count": "8,542"
+        },
+        {
+            "word": "date",
+            "count": "8,541"
+        },
+        {
+            "word": "TP",
+            "count": "8,526"
+        },
+        {
+            "word": "tg",
+            "count": "8,519"
+        },
+        {
+            "word": "SPELL_DAMAGE",
+            "count": "8,509"
+        },
+        {
+            "word": "requested",
+            "count": "8,503"
+        },
+        {
+            "word": "xxx",
+            "count": "8,495"
+        },
+        {
+            "word": "GetNPCByID",
+            "count": "8,464"
+        },
+        {
+            "word": "enemy",
+            "count": "8,461"
+        },
+        {
+            "word": "is_admin1",
+            "count": "8,456"
+        },
+        {
+            "word": "mods",
+            "count": "8,425"
+        },
+        {
+            "word": "off",
+            "count": "8,421"
+        },
+        {
+            "word": "SetValue",
+            "count": "8,415"
+        },
+        {
+            "word": "world",
+            "count": "8,410"
+        },
+        {
+            "word": "context",
+            "count": "8,384"
+        },
+        {
+            "word": "Hide",
+            "count": "8,382"
+        },
+        {
+            "word": "each",
+            "count": "8,370"
+        },
+        {
+            "word": "postpone",
+            "count": "8,367"
+        },
+        {
+            "word": "objects",
+            "count": "8,365"
+        },
+        {
+            "word": "grass",
+            "count": "8,361"
+        },
+        {
+            "word": "del",
+            "count": "8,337"
+        },
+        {
+            "word": "session",
+            "count": "8,296"
+        },
+        {
+            "word": "subClass",
+            "count": "8,295"
+        },
+        {
+            "word": "tmp",
+            "count": "8,293"
+        },
+        {
+            "word": "exist",
+            "count": "8,291"
+        },
+        {
+            "word": "Plugin",
+            "count": "8,286"
+        },
+        {
+            "word": "device",
+            "count": "8,285"
+        },
+        {
+            "word": "none",
+            "count": "8,251"
+        },
+        {
+            "word": "delete",
+            "count": "8,231"
+        },
+        {
+            "word": "chunk",
+            "count": "8,216"
+        },
+        {
+            "word": "GetLocationCount",
+            "count": "8,201"
+        },
+        {
+            "word": "V",
+            "count": "8,197"
+        },
+        {
+            "word": "Value",
+            "count": "8,195"
+        },
+        {
+            "word": "cron_plugins",
+            "count": "8,195"
+        },
+        {
+            "word": "H",
+            "count": "8,184"
+        },
+        {
+            "word": "drawtype",
+            "count": "8,173"
+        },
+        {
+            "word": "New",
+            "count": "8,165"
+        },
+        {
+            "word": "fields",
+            "count": "8,162"
+        }
+    ]
+}

@@ -1,0 +1,3953 @@
+{
+    "language": "purs",
+    "words": [
+        {
+            "word": "import",
+            "count": "37,054"
+        },
+        {
+            "word": "Data",
+            "count": "13,311"
+        },
+        {
+            "word": "as",
+            "count": "8,227"
+        },
+        {
+            "word": "where",
+            "count": "7,800"
+        },
+        {
+            "word": "Control",
+            "count": "7,464"
+        },
+        {
+            "word": "Monad",
+            "count": "6,198"
+        },
+        {
+            "word": "Eff",
+            "count": "5,047"
+        },
+        {
+            "word": "Prelude",
+            "count": "4,712"
+        },
+        {
+            "word": "SlamData",
+            "count": "3,787"
+        },
+        {
+            "word": "Maybe",
+            "count": "3,588"
+        },
+        {
+            "word": "\u2192",
+            "count": "3,366"
+        },
+        {
+            "word": "_",
+            "count": "3,139"
+        },
+        {
+            "word": "Halogen",
+            "count": "2,860"
+        },
+        {
+            "word": "do",
+            "count": "2,609"
+        },
+        {
+            "word": "pure",
+            "count": "2,553"
+        },
+        {
+            "word": "H",
+            "count": "2,538"
+        },
+        {
+            "word": "HTML",
+            "count": "2,301"
+        },
+        {
+            "word": "String",
+            "count": "2,241"
+        },
+        {
+            "word": "\u2237",
+            "count": "2,176"
+        },
+        {
+            "word": "a",
+            "count": "2,134"
+        },
+        {
+            "word": "Nothing",
+            "count": "2,118"
+        },
+        {
+            "word": "of",
+            "count": "1,851"
+        },
+        {
+            "word": "HH",
+            "count": "1,847"
+        },
+        {
+            "word": "next",
+            "count": "1,774"
+        },
+        {
+            "word": "Either",
+            "count": "1,762"
+        },
+        {
+            "word": "Tuple",
+            "count": "1,681"
+        },
+        {
+            "word": "Workspace",
+            "count": "1,670"
+        },
+        {
+            "word": "case",
+            "count": "1,623"
+        },
+        {
+            "word": "DOM",
+            "count": "1,574"
+        },
+        {
+            "word": "qualified",
+            "count": "1,534"
+        },
+        {
+            "word": "Unit",
+            "count": "1,503"
+        },
+        {
+            "word": "let",
+            "count": "1,435"
+        },
+        {
+            "word": "return",
+            "count": "1,430"
+        },
+        {
+            "word": "Card",
+            "count": "1,387"
+        },
+        {
+            "word": "State",
+            "count": "1,380"
+        },
+        {
+            "word": "Array",
+            "count": "1,328"
+        },
+        {
+            "word": "m",
+            "count": "1,214"
+        },
+        {
+            "word": "class",
+            "count": "1,203"
+        },
+        {
+            "word": "Class",
+            "count": "1,151"
+        },
+        {
+            "word": "~",
+            "count": "1,130"
+        },
+        {
+            "word": "Test",
+            "count": "1,077"
+        },
+        {
+            "word": "Indexed",
+            "count": "1,038"
+        },
+        {
+            "word": "module",
+            "count": "1,038"
+        },
+        {
+            "word": "eff",
+            "count": "1,035"
+        },
+        {
+            "word": "function",
+            "count": "1,035"
+        },
+        {
+            "word": "type",
+            "count": "1,017"
+        },
+        {
+            "word": "unit",
+            "count": "1,013"
+        },
+        {
+            "word": "HP",
+            "count": "980"
+        },
+        {
+            "word": "purescript",
+            "count": "974"
+        },
+        {
+            "word": "Aff",
+            "count": "949"
+        },
+        {
+            "word": "div",
+            "count": "940"
+        },
+        {
+            "word": "\u2190",
+            "count": "895"
+        },
+        {
+            "word": "state",
+            "count": "884"
+        },
+        {
+            "word": "Main",
+            "count": "879"
+        },
+        {
+            "word": "main",
+            "count": "851"
+        },
+        {
+            "word": "Model",
+            "count": "843"
+        },
+        {
+            "word": "E",
+            "count": "829"
+        },
+        {
+            "word": "Foldable",
+            "count": "829"
+        },
+        {
+            "word": "value",
+            "count": "774"
+        },
+        {
+            "word": "List",
+            "count": "768"
+        },
+        {
+            "word": "CC",
+            "count": "766"
+        },
+        {
+            "word": "Types",
+            "count": "766"
+        },
+        {
+            "word": "B",
+            "count": "753"
+        },
+        {
+            "word": "else",
+            "count": "741"
+        },
+        {
+            "word": "Monoid",
+            "count": "733"
+        },
+        {
+            "word": "decodeJson",
+            "count": "723"
+        },
+        {
+            "word": "Int",
+            "count": "712"
+        },
+        {
+            "word": "Console",
+            "count": "698"
+        },
+        {
+            "word": "Events",
+            "count": "697"
+        },
+        {
+            "word": "initialState",
+            "count": "687"
+        },
+        {
+            "word": "in",
+            "count": "679"
+        },
+        {
+            "word": "r",
+            "count": "674"
+        },
+        {
+            "word": "Query",
+            "count": "673"
+        },
+        {
+            "word": "V3",
+            "count": "671"
+        },
+        {
+            "word": "render",
+            "count": "670"
+        },
+        {
+            "word": "\u2200",
+            "count": "658"
+        },
+        {
+            "word": "jsonEmptyObject",
+            "count": "653"
+        },
+        {
+            "word": "forall",
+            "count": "639"
+        },
+        {
+            "word": "A",
+            "count": "628"
+        },
+        {
+            "word": "Map",
+            "count": "610"
+        },
+        {
+            "word": "Trans",
+            "count": "609"
+        },
+        {
+            "word": "Interact",
+            "count": "607"
+        },
+        {
+            "word": "then",
+            "count": "598"
+        },
+        {
+            "word": "Argonaut",
+            "count": "590"
+        },
+        {
+            "word": "Foreign",
+            "count": "589"
+        },
+        {
+            "word": "Slam",
+            "count": "583"
+        },
+        {
+            "word": "e",
+            "count": "582"
+        },
+        {
+            "word": "obj",
+            "count": "581"
+        },
+        {
+            "word": "Error",
+            "count": "578"
+        },
+        {
+            "word": "Just",
+            "count": "575"
+        },
+        {
+            "word": "Unsafe",
+            "count": "570"
+        },
+        {
+            "word": "CSS",
+            "count": "567"
+        },
+        {
+            "word": "json",
+            "count": "564"
+        },
+        {
+            "word": "st",
+            "count": "541"
+        },
+        {
+            "word": "Port",
+            "count": "530"
+        },
+        {
+            "word": "Properties",
+            "count": "528"
+        },
+        {
+            "word": "b",
+            "count": "525"
+        },
+        {
+            "word": "Component",
+            "count": "512"
+        },
+        {
+            "word": "f",
+            "count": "506"
+        },
+        {
+            "word": "show",
+            "count": "506"
+        },
+        {
+            "word": "liftEff",
+            "count": "494"
+        },
+        {
+            "word": "Lens",
+            "count": "491"
+        },
+        {
+            "word": "classes",
+            "count": "491"
+        },
+        {
+            "word": "Exception",
+            "count": "490"
+        },
+        {
+            "word": "Functor",
+            "count": "483"
+        },
+        {
+            "word": "false",
+            "count": "482"
+        },
+        {
+            "word": "get",
+            "count": "466"
+        },
+        {
+            "word": "Path",
+            "count": "464"
+        },
+        {
+            "word": "arbitrary",
+            "count": "461"
+        },
+        {
+            "word": "R",
+            "count": "455"
+        },
+        {
+            "word": "modify",
+            "count": "451"
+        },
+        {
+            "word": "BuildChart",
+            "count": "435"
+        },
+        {
+            "word": "Common",
+            "count": "431"
+        },
+        {
+            "word": "name",
+            "count": "429"
+        },
+        {
+            "word": "eval",
+            "count": "428"
+        },
+        {
+            "word": "data",
+            "count": "426"
+        },
+        {
+            "word": "the",
+            "count": "418"
+        },
+        {
+            "word": "Number",
+            "count": "417"
+        },
+        {
+            "word": "Left",
+            "count": "409"
+        },
+        {
+            "word": "Alt",
+            "count": "398"
+        },
+        {
+            "word": "err",
+            "count": "393"
+        },
+        {
+            "word": "StrMap",
+            "count": "390"
+        },
+        {
+            "word": "n",
+            "count": "387"
+        },
+        {
+            "word": "Function",
+            "count": "380"
+        },
+        {
+            "word": "CONSOLE",
+            "count": "370"
+        },
+        {
+            "word": "Json",
+            "count": "370"
+        },
+        {
+            "word": "Node",
+            "count": "363"
+        },
+        {
+            "word": "Quasar",
+            "count": "356"
+        },
+        {
+            "word": "M",
+            "count": "355"
+        },
+        {
+            "word": "button",
+            "count": "352"
+        },
+        {
+            "word": "config",
+            "count": "352"
+        },
+        {
+            "word": "getConfig",
+            "count": "352"
+        },
+        {
+            "word": "o",
+            "count": "350"
+        },
+        {
+            "word": "JCursor",
+            "count": "348"
+        },
+        {
+            "word": "Plus",
+            "count": "344"
+        },
+        {
+            "word": "log",
+            "count": "329"
+        },
+        {
+            "word": "Traversable",
+            "count": "325"
+        },
+        {
+            "word": "DeckId",
+            "count": "305"
+        },
+        {
+            "word": "maybe",
+            "count": "301"
+        },
+        {
+            "word": "empty",
+            "count": "299"
+        },
+        {
+            "word": "series",
+            "count": "296"
+        },
+        {
+            "word": "Bootstrap3",
+            "count": "295"
+        },
+        {
+            "word": "Themes",
+            "count": "295"
+        },
+        {
+            "word": "input",
+            "count": "294"
+        },
+        {
+            "word": "Gen",
+            "count": "293"
+        },
+        {
+            "word": "ChildSlot",
+            "count": "292"
+        },
+        {
+            "word": "Pathy",
+            "count": "291"
+        },
+        {
+            "word": "S",
+            "count": "286"
+        },
+        {
+            "word": "map",
+            "count": "286"
+        },
+        {
+            "word": "Debug",
+            "count": "285"
+        },
+        {
+            "word": "test",
+            "count": "284"
+        },
+        {
+            "word": "tag",
+            "count": "283"
+        },
+        {
+            "word": "Feature",
+            "count": "281"
+        },
+        {
+            "word": "s",
+            "count": "277"
+        },
+        {
+            "word": "axes",
+            "count": "276"
+        },
+        {
+            "word": "HE",
+            "count": "275"
+        },
+        {
+            "word": "Apply",
+            "count": "274"
+        },
+        {
+            "word": "Simple",
+            "count": "274"
+        },
+        {
+            "word": "Trace",
+            "count": "274"
+        },
+        {
+            "word": "valueAggregation",
+            "count": "274"
+        },
+        {
+            "word": "Notebook",
+            "count": "272"
+        },
+        {
+            "word": "DSL",
+            "count": "271"
+        },
+        {
+            "word": "ST",
+            "count": "269"
+        },
+        {
+            "word": "Deck",
+            "count": "263"
+        },
+        {
+            "word": "Set",
+            "count": "261"
+        },
+        {
+            "word": "ARIA",
+            "count": "260"
+        },
+        {
+            "word": "eq",
+            "count": "257"
+        },
+        {
+            "word": "str",
+            "count": "257"
+        },
+        {
+            "word": "Generic",
+            "count": "256"
+        },
+        {
+            "word": "Optic",
+            "count": "255"
+        },
+        {
+            "word": "lift",
+            "count": "254"
+        },
+        {
+            "word": "base",
+            "count": "250"
+        },
+        {
+            "word": "Pulp",
+            "count": "249"
+        },
+        {
+            "word": "action",
+            "count": "249"
+        },
+        {
+            "word": "time",
+            "count": "249"
+        },
+        {
+            "word": "Render",
+            "count": "247"
+        },
+        {
+            "word": "\u21d2",
+            "count": "247"
+        },
+        {
+            "word": "either",
+            "count": "246"
+        },
+        {
+            "word": "lens",
+            "count": "245"
+        },
+        {
+            "word": "StrongCheck",
+            "count": "243"
+        },
+        {
+            "word": "F",
+            "count": "242"
+        },
+        {
+            "word": "LevelOfDetails",
+            "count": "241"
+        },
+        {
+            "word": "comp",
+            "count": "241"
+        },
+        {
+            "word": "to",
+            "count": "241"
+        },
+        {
+            "word": "v",
+            "count": "240"
+        },
+        {
+            "word": "CS",
+            "count": "238"
+        },
+        {
+            "word": "form",
+            "count": "237"
+        },
+        {
+            "word": "Core",
+            "count": "236"
+        },
+        {
+            "word": "Alternative",
+            "count": "235"
+        },
+        {
+            "word": "error",
+            "count": "232"
+        },
+        {
+            "word": "text",
+            "count": "232"
+        },
+        {
+            "word": "ChildQuery",
+            "count": "231"
+        },
+        {
+            "word": "x",
+            "count": "230"
+        },
+        {
+            "word": "Done",
+            "count": "229"
+        },
+        {
+            "word": "Aggregation",
+            "count": "227"
+        },
+        {
+            "word": "Utils",
+            "count": "226"
+        },
+        {
+            "word": "k",
+            "count": "226"
+        },
+        {
+            "word": "true",
+            "count": "226"
+        },
+        {
+            "word": "version",
+            "count": "226"
+        },
+        {
+            "word": "FilePath",
+            "count": "223"
+        },
+        {
+            "word": "by",
+            "count": "222"
+        },
+        {
+            "word": "Element",
+            "count": "215"
+        },
+        {
+            "word": "FS",
+            "count": "215"
+        },
+        {
+            "word": "O",
+            "count": "212"
+        },
+        {
+            "word": "Nullable",
+            "count": "211"
+        },
+        {
+            "word": "T",
+            "count": "211"
+        },
+        {
+            "word": "Boolean",
+            "count": "210"
+        },
+        {
+            "word": "Identity",
+            "count": "210"
+        },
+        {
+            "word": "Affable",
+            "count": "209"
+        },
+        {
+            "word": "L",
+            "count": "207"
+        },
+        {
+            "word": "Text",
+            "count": "207"
+        },
+        {
+            "word": "\u2218",
+            "count": "204"
+        },
+        {
+            "word": "ECharts",
+            "count": "203"
+        },
+        {
+            "word": "MonadPlus",
+            "count": "203"
+        },
+        {
+            "word": "Thermite",
+            "count": "202"
+        },
+        {
+            "word": "spOpts_",
+            "count": "202"
+        },
+        {
+            "word": "contents",
+            "count": "201"
+        },
+        {
+            "word": "Running",
+            "count": "200"
+        },
+        {
+            "word": "Bind",
+            "count": "198"
+        },
+        {
+            "word": "mempty",
+            "count": "198"
+        },
+        {
+            "word": "Action",
+            "count": "194"
+        },
+        {
+            "word": "result",
+            "count": "192"
+        },
+        {
+            "word": "throwError",
+            "count": "192"
+        },
+        {
+            "word": "y",
+            "count": "191"
+        },
+        {
+            "word": "Effects",
+            "count": "190"
+        },
+        {
+            "word": "Prim",
+            "count": "189"
+        },
+        {
+            "word": "XPath",
+            "count": "188"
+        },
+        {
+            "word": "DPC",
+            "count": "187"
+        },
+        {
+            "word": "encodeJson",
+            "count": "187"
+        },
+        {
+            "word": "Cp",
+            "count": "186"
+        },
+        {
+            "word": "For",
+            "count": "186"
+        },
+        {
+            "word": "Selenium",
+            "count": "186"
+        },
+        {
+            "word": "example",
+            "count": "186"
+        },
+        {
+            "word": "levelOfDetails",
+            "count": "184"
+        },
+        {
+            "word": "js",
+            "count": "182"
+        },
+        {
+            "word": "picker",
+            "count": "182"
+        },
+        {
+            "word": "Css",
+            "count": "181"
+        },
+        {
+            "word": "Generated",
+            "count": "181"
+        },
+        {
+            "word": "P",
+            "count": "181"
+        },
+        {
+            "word": "accessNextCardInLastDeck",
+            "count": "181"
+        },
+        {
+            "word": "make",
+            "count": "181"
+        },
+        {
+            "word": "psc",
+            "count": "181"
+        },
+        {
+            "word": "Comonad",
+            "count": "180"
+        },
+        {
+            "word": "Config",
+            "count": "180"
+        },
+        {
+            "word": "SM",
+            "count": "180"
+        },
+        {
+            "word": "encode",
+            "count": "180"
+        },
+        {
+            "word": "view",
+            "count": "179"
+        },
+        {
+            "word": "foldl",
+            "count": "178"
+        },
+        {
+            "word": "Arbitrary",
+            "count": "176"
+        },
+        {
+            "word": "BCI",
+            "count": "176"
+        },
+        {
+            "word": "for_",
+            "count": "175"
+        },
+        {
+            "word": "parallel",
+            "count": "174"
+        },
+        {
+            "word": "ChildState",
+            "count": "173"
+        },
+        {
+            "word": "FileSystem",
+            "count": "173"
+        },
+        {
+            "word": "fromMaybe",
+            "count": "173"
+        },
+        {
+            "word": "DirPath",
+            "count": "170"
+        },
+        {
+            "word": "ask",
+            "count": "170"
+        },
+        {
+            "word": "Dismiss",
+            "count": "166"
+        },
+        {
+            "word": "ctx",
+            "count": "166"
+        },
+        {
+            "word": "Dialog",
+            "count": "164"
+        },
+        {
+            "word": "decode",
+            "count": "164"
+        },
+        {
+            "word": "valueAgg",
+            "count": "164"
+        },
+        {
+            "word": "Input",
+            "count": "163"
+        },
+        {
+            "word": "is",
+            "count": "163"
+        },
+        {
+            "word": "p",
+            "count": "162"
+        },
+        {
+            "word": "Select",
+            "count": "161"
+        },
+        {
+            "word": "component",
+            "count": "160"
+        },
+        {
+            "word": "QuasarDSL",
+            "count": "158"
+        },
+        {
+            "word": "Right",
+            "count": "157"
+        },
+        {
+            "word": "when",
+            "count": "157"
+        },
+        {
+            "word": "CardType",
+            "count": "155"
+        },
+        {
+            "word": "Decode",
+            "count": "155"
+        },
+        {
+            "word": "sequence",
+            "count": "155"
+        },
+        {
+            "word": "AttributeKey",
+            "count": "154"
+        },
+        {
+            "word": "Extend",
+            "count": "153"
+        },
+        {
+            "word": "Process",
+            "count": "153"
+        },
+        {
+            "word": "React",
+            "count": "152"
+        },
+        {
+            "word": "div_",
+            "count": "152"
+        },
+        {
+            "word": "nonSubmit",
+            "count": "152"
+        },
+        {
+            "word": "listener",
+            "count": "150"
+        },
+        {
+            "word": "otherwise",
+            "count": "150"
+        },
+        {
+            "word": "select",
+            "count": "150"
+        },
+        {
+            "word": "Partial",
+            "count": "149"
+        },
+        {
+            "word": "StateP",
+            "count": "147"
+        },
+        {
+            "word": "dom",
+            "count": "147"
+        },
+        {
+            "word": "g",
+            "count": "146"
+        },
+        {
+            "word": "unsafePartial",
+            "count": "146"
+        },
+        {
+            "word": "read",
+            "count": "144"
+        },
+        {
+            "word": "typ",
+            "count": "144"
+        },
+        {
+            "word": "Newtype",
+            "count": "143"
+        },
+        {
+            "word": "Encoding",
+            "count": "142"
+        },
+        {
+            "word": "Attributes",
+            "count": "141"
+        },
+        {
+            "word": "QueryC",
+            "count": "141"
+        },
+        {
+            "word": "compare",
+            "count": "141"
+        },
+        {
+            "word": "peek",
+            "count": "141"
+        },
+        {
+            "word": "CET",
+            "count": "140"
+        },
+        {
+            "word": "id",
+            "count": "140"
+        },
+        {
+            "word": "EXCEPTION",
+            "count": "139"
+        },
+        {
+            "word": "traverse",
+            "count": "139"
+        },
+        {
+            "word": "on",
+            "count": "138"
+        },
+        {
+            "word": "\u2295",
+            "count": "138"
+        },
+        {
+            "word": "content",
+            "count": "137"
+        },
+        {
+            "word": "ty",
+            "count": "137"
+        },
+        {
+            "word": "J",
+            "count": "136"
+        },
+        {
+            "word": "RP",
+            "count": "136"
+        },
+        {
+            "word": "eqModel",
+            "count": "136"
+        },
+        {
+            "word": "HTTP",
+            "count": "135"
+        },
+        {
+            "word": "Network",
+            "count": "135"
+        },
+        {
+            "word": "Parser",
+            "count": "135"
+        },
+        {
+            "word": "Regex",
+            "count": "135"
+        },
+        {
+            "word": "attribs",
+            "count": "135"
+        },
+        {
+            "word": "_value",
+            "count": "133"
+        },
+        {
+            "word": "infixl",
+            "count": "133"
+        },
+        {
+            "word": "ChildPath",
+            "count": "132"
+        },
+        {
+            "word": "Coerce",
+            "count": "131"
+        },
+        {
+            "word": "Resource",
+            "count": "131"
+        },
+        {
+            "word": "args",
+            "count": "131"
+        },
+        {
+            "word": "Parsing",
+            "count": "130"
+        },
+        {
+            "word": "if",
+            "count": "130"
+        },
+        {
+            "word": "Writer",
+            "count": "128"
+        },
+        {
+            "word": "className",
+            "count": "128"
+        },
+        {
+            "word": "spParams_",
+            "count": "128"
+        },
+        {
+            "word": "unsafeCoerce",
+            "count": "128"
+        },
+        {
+            "word": "File",
+            "count": "127"
+        },
+        {
+            "word": "fromJust",
+            "count": "126"
+        },
+        {
+            "word": "liftAff",
+            "count": "126"
+        },
+        {
+            "word": "Math",
+            "count": "125"
+        },
+        {
+            "word": "for",
+            "count": "125"
+        },
+        {
+            "word": "fpi",
+            "count": "125"
+        },
+        {
+            "word": "Ref",
+            "count": "124"
+        },
+        {
+            "word": "QuickCheck",
+            "count": "123"
+        },
+        {
+            "word": "Handler",
+            "count": "122"
+        },
+        {
+            "word": "key",
+            "count": "122"
+        },
+        {
+            "word": "quickCheck",
+            "count": "121"
+        },
+        {
+            "word": "c",
+            "count": "120"
+        },
+        {
+            "word": "options",
+            "count": "120"
+        },
+        {
+            "word": "res",
+            "count": "120"
+        },
+        {
+            "word": "joinWith",
+            "count": "119"
+        },
+        {
+            "word": "src",
+            "count": "119"
+        },
+        {
+            "word": "CardEvalQuery",
+            "count": "118"
+        },
+        {
+            "word": "Q",
+            "count": "118"
+        },
+        {
+            "word": "View",
+            "count": "118"
+        },
+        {
+            "word": "path",
+            "count": "118"
+        },
+        {
+            "word": "t",
+            "count": "118"
+        },
+        {
+            "word": "AVar",
+            "count": "115"
+        },
+        {
+            "word": "Coproduct",
+            "count": "115"
+        },
+        {
+            "word": "High",
+            "count": "115"
+        },
+        {
+            "word": "ParentState",
+            "count": "115"
+        },
+        {
+            "word": "foreign",
+            "count": "115"
+        },
+        {
+            "word": "fromString",
+            "count": "115"
+        },
+        {
+            "word": "not",
+            "count": "115"
+        },
+        {
+            "word": "Const",
+            "count": "114"
+        },
+        {
+            "word": "Global",
+            "count": "114"
+        },
+        {
+            "word": "AVAR",
+            "count": "113"
+        },
+        {
+            "word": "Result",
+            "count": "113"
+        },
+        {
+            "word": "Str",
+            "count": "113"
+        },
+        {
+            "word": "end",
+            "count": "113"
+        },
+        {
+            "word": "gShow",
+            "count": "113"
+        },
+        {
+            "word": "right",
+            "count": "113"
+        },
+        {
+            "word": "toRequest",
+            "count": "113"
+        },
+        {
+            "word": "width",
+            "count": "113"
+        },
+        {
+            "word": "HTMLElement",
+            "count": "112"
+        },
+        {
+            "word": "genModel",
+            "count": "112"
+        },
+        {
+            "word": "readProp",
+            "count": "111"
+        },
+        {
+            "word": "console",
+            "count": "110"
+        },
+        {
+            "word": "liftH",
+            "count": "110"
+        },
+        {
+            "word": "Language",
+            "count": "109"
+        },
+        {
+            "word": "PureScript",
+            "count": "109"
+        },
+        {
+            "word": "QueryP",
+            "count": "109"
+        },
+        {
+            "word": "authorization",
+            "count": "108"
+        },
+        {
+            "word": "q",
+            "count": "108"
+        },
+        {
+            "word": "CardEvalT",
+            "count": "107"
+        },
+        {
+            "word": "fst",
+            "count": "106"
+        },
+        {
+            "word": "opts",
+            "count": "106"
+        },
+        {
+            "word": "CardId",
+            "count": "105"
+        },
+        {
+            "word": "ComponentHTML",
+            "count": "104"
+        },
+        {
+            "word": "DCS",
+            "count": "104"
+        },
+        {
+            "word": "Eval",
+            "count": "104"
+        },
+        {
+            "word": "Args",
+            "count": "102"
+        },
+        {
+            "word": "Selection",
+            "count": "102"
+        },
+        {
+            "word": "and",
+            "count": "102"
+        },
+        {
+            "word": "instance",
+            "count": "102"
+        },
+        {
+            "word": "Cell",
+            "count": "101"
+        },
+        {
+            "word": "Reader",
+            "count": "101"
+        },
+        {
+            "word": "SlamDataEffects",
+            "count": "101"
+        },
+        {
+            "word": "canvas",
+            "count": "101"
+        },
+        {
+            "word": "emptySelect",
+            "count": "101"
+        },
+        {
+            "word": "raiseUpdate",
+            "count": "101"
+        },
+        {
+            "word": "Editor",
+            "count": "100"
+        },
+        {
+            "word": "Profunctor",
+            "count": "99"
+        },
+        {
+            "word": "httpMethod",
+            "count": "99"
+        },
+        {
+            "word": "snd",
+            "count": "99"
+        },
+        {
+            "word": "AJAX",
+            "count": "98"
+        },
+        {
+            "word": "CT",
+            "count": "98"
+        },
+        {
+            "word": "Combinators",
+            "count": "98"
+        },
+        {
+            "word": "Neon",
+            "count": "98"
+        },
+        {
+            "word": "NonEmpty",
+            "count": "98"
+        },
+        {
+            "word": "group",
+            "count": "98"
+        },
+        {
+            "word": "EvalQuery",
+            "count": "97"
+        },
+        {
+            "word": "height",
+            "count": "97"
+        },
+        {
+            "word": "chartConfigureForm",
+            "count": "96"
+        },
+        {
+            "word": "values",
+            "count": "96"
+        },
+        {
+            "word": "Auth",
+            "count": "95"
+        },
+        {
+            "word": "Bifunctor",
+            "count": "95"
+        },
+        {
+            "word": "EvalModelUpdate",
+            "count": "94"
+        },
+        {
+            "word": "WebGl",
+            "count": "94"
+        },
+        {
+            "word": "Window",
+            "count": "94"
+        },
+        {
+            "word": "app",
+            "count": "94"
+        },
+        {
+            "word": "img",
+            "count": "94"
+        },
+        {
+            "word": "raiseUpdatedP",
+            "count": "94"
+        },
+        {
+            "word": "webgl",
+            "count": "94"
+        },
+        {
+            "word": "QEff",
+            "count": "93"
+        },
+        {
+            "word": "SlamFeature",
+            "count": "93"
+        },
+        {
+            "word": "this",
+            "count": "93"
+        },
+        {
+            "word": "\u00d7",
+            "count": "93"
+        },
+        {
+            "word": "Ace",
+            "count": "92"
+        },
+        {
+            "word": "QE",
+            "count": "92"
+        },
+        {
+            "word": "baseURL",
+            "count": "92"
+        },
+        {
+            "word": "ps_",
+            "count": "92"
+        },
+        {
+            "word": "reqHeaders",
+            "count": "92"
+        },
+        {
+            "word": "span",
+            "count": "92"
+        },
+        {
+            "word": "dims",
+            "count": "91"
+        },
+        {
+            "word": "Init",
+            "count": "90"
+        },
+        {
+            "word": "Time",
+            "count": "90"
+        },
+        {
+            "word": "infixr",
+            "count": "90"
+        },
+        {
+            "word": "check",
+            "count": "89"
+        },
+        {
+            "word": "Ag",
+            "count": "88"
+        },
+        {
+            "word": "Free",
+            "count": "88"
+        },
+        {
+            "word": "GE",
+            "count": "87"
+        },
+        {
+            "word": "Lazy",
+            "count": "87"
+        },
+        {
+            "word": "const",
+            "count": "87"
+        },
+        {
+            "word": "formControl",
+            "count": "87"
+        },
+        {
+            "word": "renderHighLOD",
+            "count": "87"
+        },
+        {
+            "word": "union",
+            "count": "87"
+        },
+        {
+            "word": "Random",
+            "count": "86"
+        },
+        {
+            "word": "l",
+            "count": "86"
+        },
+        {
+            "word": "DB",
+            "count": "85"
+        },
+        {
+            "word": "Nested",
+            "count": "85"
+        },
+        {
+            "word": "db",
+            "count": "85"
+        },
+        {
+            "word": "element",
+            "count": "85"
+        },
+        {
+            "word": "fs",
+            "count": "85"
+        },
+        {
+            "word": "loading",
+            "count": "85"
+        },
+        {
+            "word": "onClick",
+            "count": "85"
+        },
+        {
+            "word": "runArbJCursor",
+            "count": "84"
+        },
+        {
+            "word": "records",
+            "count": "83"
+        },
+        {
+            "word": "LensP",
+            "count": "82"
+        },
+        {
+            "word": "Spec",
+            "count": "82"
+        },
+        {
+            "word": "The",
+            "count": "82"
+        },
+        {
+            "word": "toNumber",
+            "count": "82"
+        },
+        {
+            "word": "Rc",
+            "count": "81"
+        },
+        {
+            "word": "\u2261",
+            "count": "81"
+        },
+        {
+            "word": "guard",
+            "count": "80"
+        },
+        {
+            "word": "label",
+            "count": "80"
+        },
+        {
+            "word": "showPicker",
+            "count": "80"
+        },
+        {
+            "word": "synchronizeChildren",
+            "count": "80"
+        },
+        {
+            "word": "Arr",
+            "count": "79"
+        },
+        {
+            "word": "FFI",
+            "count": "79"
+        },
+        {
+            "word": "Html",
+            "count": "79"
+        },
+        {
+            "word": "System",
+            "count": "79"
+        },
+        {
+            "word": "Nil",
+            "count": "78"
+        },
+        {
+            "word": "cardEval",
+            "count": "78"
+        },
+        {
+            "word": "glyph",
+            "count": "78"
+        },
+        {
+            "word": "Affjax",
+            "count": "77"
+        },
+        {
+            "word": "Neodoc",
+            "count": "77"
+        },
+        {
+            "word": "Props",
+            "count": "77"
+        },
+        {
+            "word": "newSelect",
+            "count": "77"
+        },
+        {
+            "word": "Attribute",
+            "count": "76"
+        },
+        {
+            "word": "DimensionPicker",
+            "count": "76"
+        },
+        {
+            "word": "dataMapFoldFn",
+            "count": "75"
+        },
+        {
+            "word": "window",
+            "count": "75"
+        },
+        {
+            "word": "Encode",
+            "count": "74"
+        },
+        {
+            "word": "Milliseconds",
+            "count": "74"
+        },
+        {
+            "word": "btn",
+            "count": "74"
+        },
+        {
+            "word": "gEq",
+            "count": "74"
+        },
+        {
+            "word": "trace",
+            "count": "74"
+        },
+        {
+            "word": "CustomProps",
+            "count": "73"
+        },
+        {
+            "word": "Property",
+            "count": "73"
+        },
+        {
+            "word": "VarMap",
+            "count": "73"
+        },
+        {
+            "word": "out",
+            "count": "73"
+        },
+        {
+            "word": "Except",
+            "count": "72"
+        },
+        {
+            "word": "Graphics",
+            "count": "72"
+        },
+        {
+            "word": "Util",
+            "count": "72"
+        },
+        {
+            "word": "inj",
+            "count": "72"
+        },
+        {
+            "word": "k1",
+            "count": "72"
+        },
+        {
+            "word": "ap",
+            "count": "71"
+        },
+        {
+            "word": "colors",
+            "count": "71"
+        },
+        {
+            "word": "drop",
+            "count": "71"
+        },
+        {
+            "word": "DecodeJson",
+            "count": "70"
+        },
+        {
+            "word": "Wiring",
+            "count": "70"
+        },
+        {
+            "word": "initialModel",
+            "count": "70"
+        },
+        {
+            "word": "Fold",
+            "count": "69"
+        },
+        {
+            "word": "Inputs",
+            "count": "69"
+        },
+        {
+            "word": "SPParams_",
+            "count": "69"
+        },
+        {
+            "word": "SPSettings_",
+            "count": "69"
+        },
+        {
+            "word": "Ubuntu",
+            "count": "69"
+        },
+        {
+            "word": "affReq",
+            "count": "69"
+        },
+        {
+            "word": "fontFamily",
+            "count": "69"
+        },
+        {
+            "word": "fromFoldable",
+            "count": "69"
+        },
+        {
+            "word": "go",
+            "count": "69"
+        },
+        {
+            "word": "init",
+            "count": "69"
+        },
+        {
+            "word": "msg",
+            "count": "69"
+        },
+        {
+            "word": "r1",
+            "count": "69"
+        },
+        {
+            "word": "r2",
+            "count": "69"
+        },
+        {
+            "word": "sans",
+            "count": "69"
+        },
+        {
+            "word": "wiring",
+            "count": "69"
+        },
+        {
+            "word": "assert",
+            "count": "68"
+        },
+        {
+            "word": "input_",
+            "count": "68"
+        },
+        {
+            "word": "singleton",
+            "count": "68"
+        },
+        {
+            "word": "Assert",
+            "count": "67"
+        },
+        {
+            "word": "fold",
+            "count": "67"
+        },
+        {
+            "word": "\u22b9",
+            "count": "67"
+        },
+        {
+            "word": "CP",
+            "count": "66"
+        },
+        {
+            "word": "Chart",
+            "count": "66"
+        },
+        {
+            "word": "Location",
+            "count": "66"
+        },
+        {
+            "word": "Suite",
+            "count": "66"
+        },
+        {
+            "word": "catMaybes",
+            "count": "66"
+        },
+        {
+            "word": "newtype",
+            "count": "66"
+        },
+        {
+            "word": "parentState",
+            "count": "66"
+        },
+        {
+            "word": "props",
+            "count": "66"
+        },
+        {
+            "word": "renderPicker",
+            "count": "66"
+        },
+        {
+            "word": "tryRepeatedlyTo",
+            "count": "66"
+        },
+        {
+            "word": "hidden",
+            "count": "65"
+        },
+        {
+            "word": "Base",
+            "count": "64"
+        },
+        {
+            "word": "ButtonButton",
+            "count": "64"
+        },
+        {
+            "word": "ChildF",
+            "count": "64"
+        },
+        {
+            "word": "QC",
+            "count": "64"
+        },
+        {
+            "word": "buttonType",
+            "count": "64"
+        },
+        {
+            "word": "col",
+            "count": "64"
+        },
+        {
+            "word": "configType",
+            "count": "64"
+        },
+        {
+            "word": "hiding",
+            "count": "64"
+        },
+        {
+            "word": "lmap",
+            "count": "64"
+        },
+        {
+            "word": "Cont",
+            "count": "63"
+        },
+        {
+            "word": "EncodeJson",
+            "count": "63"
+        },
+        {
+            "word": "Event",
+            "count": "63"
+        },
+        {
+            "word": "Save",
+            "count": "63"
+        },
+        {
+            "word": "ZoomIn",
+            "count": "63"
+        },
+        {
+            "word": "card",
+            "count": "63"
+        },
+        {
+            "word": "left",
+            "count": "63"
+        },
+        {
+            "word": "textStyle",
+            "count": "63"
+        },
+        {
+            "word": "toValue",
+            "count": "63"
+        },
+        {
+            "word": "Activate",
+            "count": "62"
+        },
+        {
+            "word": "Axes",
+            "count": "62"
+        },
+        {
+            "word": "Char",
+            "count": "62"
+        },
+        {
+            "word": "Exn",
+            "count": "62"
+        },
+        {
+            "word": "Invariant",
+            "count": "62"
+        },
+        {
+            "word": "ModelUpdated",
+            "count": "62"
+        },
+        {
+            "word": "RANDOM",
+            "count": "62"
+        },
+        {
+            "word": "cc",
+            "count": "62"
+        },
+        {
+            "word": "from",
+            "count": "62"
+        },
+        {
+            "word": "info",
+            "count": "62"
+        },
+        {
+            "word": "initialAxes",
+            "count": "62"
+        },
+        {
+            "word": "modelCards",
+            "count": "62"
+        },
+        {
+            "word": "ChartType",
+            "count": "61"
+        },
+        {
+            "word": "SetDimensions",
+            "count": "61"
+        },
+        {
+            "word": "fromEff",
+            "count": "61"
+        },
+        {
+            "word": "insert",
+            "count": "61"
+        },
+        {
+            "word": "isNull",
+            "count": "61"
+        },
+        {
+            "word": "jsonNull",
+            "count": "61"
+        },
+        {
+            "word": "parent",
+            "count": "61"
+        },
+        {
+            "word": "PickerOptions",
+            "count": "60"
+        },
+        {
+            "word": "RequestHeader",
+            "count": "60"
+        },
+        {
+            "word": "Show",
+            "count": "60"
+        },
+        {
+            "word": "Void",
+            "count": "60"
+        },
+        {
+            "word": "apply",
+            "count": "60"
+        },
+        {
+            "word": "isNothing",
+            "count": "60"
+        },
+        {
+            "word": "k2",
+            "count": "60"
+        },
+        {
+            "word": "structure",
+            "count": "60"
+        },
+        {
+            "word": "take",
+            "count": "60"
+        },
+        {
+            "word": "v1",
+            "count": "60"
+        },
+        {
+            "word": "v2",
+            "count": "60"
+        },
+        {
+            "word": "void",
+            "count": "60"
+        },
+        {
+            "word": "Sort",
+            "count": "59"
+        },
+        {
+            "word": "Stylesheet",
+            "count": "59"
+        },
+        {
+            "word": "_levelOfDetails",
+            "count": "59"
+        },
+        {
+            "word": "pass",
+            "count": "59"
+        },
+        {
+            "word": "unwrap",
+            "count": "59"
+        },
+        {
+            "word": "BCE",
+            "count": "58"
+        },
+        {
+            "word": "First",
+            "count": "58"
+        },
+        {
+            "word": "Forms",
+            "count": "58"
+        },
+        {
+            "word": "Load",
+            "count": "58"
+        },
+        {
+            "word": "Pane",
+            "count": "58"
+        },
+        {
+            "word": "Pretty",
+            "count": "58"
+        },
+        {
+            "word": "SC",
+            "count": "58"
+        },
+        {
+            "word": "rest",
+            "count": "58"
+        },
+        {
+            "word": "xs",
+            "count": "58"
+        },
+        {
+            "word": "Extended",
+            "count": "57"
+        },
+        {
+            "word": "category",
+            "count": "57"
+        },
+        {
+            "word": "inputType",
+            "count": "57"
+        },
+        {
+            "word": "scenario",
+            "count": "57"
+        },
+        {
+            "word": "toEnum",
+            "count": "57"
+        },
+        {
+            "word": "Bus",
+            "count": "56"
+        },
+        {
+            "word": "Failed",
+            "count": "56"
+        },
+        {
+            "word": "Phantom",
+            "count": "56"
+        },
+        {
+            "word": "editor",
+            "count": "56"
+        },
+        {
+            "word": "failed",
+            "count": "56"
+        },
+        {
+            "word": "fromSpine",
+            "count": "56"
+        },
+        {
+            "word": "href",
+            "count": "56"
+        },
+        {
+            "word": "AccessType",
+            "count": "55"
+        },
+        {
+            "word": "ET",
+            "count": "55"
+        },
+        {
+            "word": "Enchant",
+            "count": "55"
+        },
+        {
+            "word": "I",
+            "count": "55"
+        },
+        {
+            "word": "delete",
+            "count": "55"
+        },
+        {
+            "word": "filter",
+            "count": "55"
+        },
+        {
+            "word": "index",
+            "count": "55"
+        },
+        {
+            "word": "length",
+            "count": "55"
+        },
+        {
+            "word": "Date",
+            "count": "54"
+        },
+        {
+            "word": "appendToBody",
+            "count": "54"
+        },
+        {
+            "word": "modalDialog",
+            "count": "54"
+        },
+        {
+            "word": "ArbModel",
+            "count": "53"
+        },
+        {
+            "word": "Size",
+            "count": "53"
+        },
+        {
+            "word": "modalFooter",
+            "count": "53"
+        },
+        {
+            "word": "Expect",
+            "count": "52"
+        },
+        {
+            "word": "Inject1",
+            "count": "52"
+        },
+        {
+            "word": "Rec",
+            "count": "52"
+        },
+        {
+            "word": "VC",
+            "count": "52"
+        },
+        {
+            "word": "arg",
+            "count": "52"
+        },
+        {
+            "word": "inherit",
+            "count": "52"
+        },
+        {
+            "word": "results",
+            "count": "52"
+        },
+        {
+            "word": "runAff",
+            "count": "52"
+        },
+        {
+            "word": "Canvas",
+            "count": "51"
+        },
+        {
+            "word": "U",
+            "count": "51"
+        },
+        {
+            "word": "functions",
+            "count": "51"
+        },
+        {
+            "word": "ge",
+            "count": "51"
+        },
+        {
+            "word": "spec",
+            "count": "51"
+        },
+        {
+            "word": "submitting",
+            "count": "51"
+        },
+        {
+            "word": "Index",
+            "count": "50"
+        },
+        {
+            "word": "addEventListener",
+            "count": "50"
+        },
+        {
+            "word": "clearEventListener",
+            "count": "50"
+        },
+        {
+            "word": "dispatchEvent",
+            "count": "50"
+        },
+        {
+            "word": "event",
+            "count": "50"
+        },
+        {
+            "word": "removeEventListener",
+            "count": "50"
+        },
+        {
+            "word": "slot",
+            "count": "50"
+        },
+        {
+            "word": "DP",
+            "count": "49"
+        },
+        {
+            "word": "EQ",
+            "count": "49"
+        },
+        {
+            "word": "JCursorNode",
+            "count": "49"
+        },
+        {
+            "word": "defined",
+            "count": "49"
+        },
+        {
+            "word": "library",
+            "count": "49"
+        },
+        {
+            "word": "throwException",
+            "count": "49"
+        },
+        {
+            "word": "Advanced",
+            "count": "48"
+        },
+        {
+            "word": "ReactElement",
+            "count": "48"
+        },
+        {
+            "word": "field",
+            "count": "48"
+        },
+        {
+            "word": "labels",
+            "count": "48"
+        },
+        {
+            "word": "modalBody",
+            "count": "48"
+        },
+        {
+            "word": "other",
+            "count": "48"
+        },
+        {
+            "word": "provided",
+            "count": "48"
+        },
+        {
+            "word": "renderValue",
+            "count": "48"
+        },
+        {
+            "word": "resource",
+            "count": "48"
+        },
+        {
+            "word": "tell",
+            "count": "48"
+        },
+        {
+            "word": "SD",
+            "count": "47"
+        },
+        {
+            "word": "ajax",
+            "count": "47"
+        },
+        {
+            "word": "all",
+            "count": "47"
+        },
+        {
+            "word": "attempt",
+            "count": "47"
+        },
+        {
+            "word": "finalizer",
+            "count": "47"
+        },
+        {
+            "word": "new",
+            "count": "47"
+        },
+        {
+            "word": "pickerInput",
+            "count": "47"
+        },
+        {
+            "word": "split",
+            "count": "47"
+        },
+        {
+            "word": "zipWith",
+            "count": "47"
+        },
+        {
+            "word": "Axis",
+            "count": "46"
+        },
+        {
+            "word": "Conj",
+            "count": "46"
+        },
+        {
+            "word": "EventTarget",
+            "count": "46"
+        },
+        {
+            "word": "Markdown",
+            "count": "46"
+        },
+        {
+            "word": "NotebookAppEff",
+            "count": "46"
+        },
+        {
+            "word": "Page",
+            "count": "46"
+        },
+        {
+            "word": "Signal",
+            "count": "46"
+        },
+        {
+            "word": "SlamDown",
+            "count": "46"
+        },
+        {
+            "word": "acc",
+            "count": "46"
+        },
+        {
+            "word": "affResp",
+            "count": "46"
+        },
+        {
+            "word": "defaultRequest",
+            "count": "46"
+        },
+        {
+            "word": "fromNumber",
+            "count": "46"
+        },
+        {
+            "word": "headers",
+            "count": "46"
+        },
+        {
+            "word": "mount",
+            "count": "46"
+        },
+        {
+            "word": "params",
+            "count": "46"
+        },
+        {
+            "word": "reqQuery",
+            "count": "46"
+        },
+        {
+            "word": "sort",
+            "count": "46"
+        },
+        {
+            "word": "spReq",
+            "count": "46"
+        },
+        {
+            "word": "testDb",
+            "count": "46"
+        },
+        {
+            "word": "validate",
+            "count": "46"
+        },
+        {
+            "word": "Buffer",
+            "count": "45"
+        },
+        {
+            "word": "DeckDSL",
+            "count": "45"
+        },
+        {
+            "word": "KanColle",
+            "count": "45"
+        },
+        {
+            "word": "Log",
+            "count": "45"
+        },
+        {
+            "word": "Uncurried",
+            "count": "45"
+        },
+        {
+            "word": "andThen",
+            "count": "45"
+        },
+        {
+            "word": "browseTestFolder",
+            "count": "45"
+        },
+        {
+            "word": "document",
+            "count": "45"
+        },
+        {
+            "word": "infix",
+            "count": "45"
+        },
+        {
+            "word": "Deactivate",
+            "count": "44"
+        },
+        {
+            "word": "FileInput",
+            "count": "44"
+        },
+        {
+            "word": "MonadZero",
+            "count": "44"
+        },
+        {
+            "word": "Note",
+            "count": "44"
+        },
+        {
+            "word": "OptionAlias",
+            "count": "44"
+        },
+        {
+            "word": "_class",
+            "count": "44"
+        },
+        {
+            "word": "array",
+            "count": "44"
+        },
+        {
+            "word": "autoSelect",
+            "count": "44"
+        },
+        {
+            "word": "create",
+            "count": "44"
+        },
+        {
+            "word": "getMaybeStringFromJson",
+            "count": "44"
+        },
+        {
+            "word": "printJson",
+            "count": "44"
+        },
+        {
+            "word": "renderContent",
+            "count": "44"
+        },
+        {
+            "word": "PU",
+            "count": "43"
+        },
+        {
+            "word": "gCompare",
+            "count": "43"
+        },
+        {
+            "word": "getOutputter",
+            "count": "43"
+        },
+        {
+            "word": "isNaN",
+            "count": "43"
+        },
+        {
+            "word": "printPath",
+            "count": "43"
+        },
+        {
+            "word": "readFloat",
+            "count": "43"
+        },
+        {
+            "word": "refEq",
+            "count": "43"
+        },
+        {
+            "word": "runExcept",
+            "count": "43"
+        },
+        {
+            "word": "Listing",
+            "count": "42"
+        },
+        {
+            "word": "Ord",
+            "count": "42"
+        },
+        {
+            "word": "Outputter",
+            "count": "42"
+        },
+        {
+            "word": "defaultOptions",
+            "count": "42"
+        },
+        {
+            "word": "getMaybeString",
+            "count": "42"
+        },
+        {
+            "word": "getValues",
+            "count": "42"
+        },
+        {
+            "word": "getValuesFromJson",
+            "count": "42"
+        },
+        {
+            "word": "Additive",
+            "count": "41"
+        },
+        {
+            "word": "ChartConfiguration",
+            "count": "41"
+        },
+        {
+            "word": "Eq",
+            "count": "41"
+        },
+        {
+            "word": "_displayMode",
+            "count": "41"
+        },
+        {
+            "word": "arr",
+            "count": "41"
+        },
+        {
+            "word": "file",
+            "count": "41"
+        },
+        {
+            "word": "hr_",
+            "count": "41"
+        },
+        {
+            "word": "nonMaybeAggregationSelect",
+            "count": "41"
+        },
+        {
+            "word": "repeatable",
+            "count": "41"
+        },
+        {
+            "word": "size",
+            "count": "41"
+        },
+        {
+            "word": "update",
+            "count": "41"
+        },
+        {
+            "word": "which",
+            "count": "41"
+        },
+        {
+            "word": "Controller",
+            "count": "40"
+        },
+        {
+            "word": "EvalCard",
+            "count": "40"
+        },
+        {
+            "word": "Low",
+            "count": "40"
+        },
+        {
+            "word": "Ordering",
+            "count": "40"
+        },
+        {
+            "word": "RWS",
+            "count": "40"
+        },
+        {
+            "word": "Rgx",
+            "count": "40"
+        },
+        {
+            "word": "Semigroup",
+            "count": "40"
+        },
+        {
+            "word": "Unfoldable",
+            "count": "40"
+        },
+        {
+            "word": "_Just",
+            "count": "40"
+        },
+        {
+            "word": "_dialog",
+            "count": "40"
+        },
+        {
+            "word": "cwd",
+            "count": "40"
+        },
+        {
+            "word": "foldr",
+            "count": "40"
+        },
+        {
+            "word": "groupJCursors",
+            "count": "40"
+        },
+        {
+            "word": "imapF",
+            "count": "40"
+        },
+        {
+            "word": "output",
+            "count": "40"
+        },
+        {
+            "word": "runChildF",
+            "count": "40"
+        },
+        {
+            "word": "ta",
+            "count": "40"
+        },
+        {
+            "word": "tests",
+            "count": "40"
+        },
+        {
+            "word": "wd",
+            "count": "40"
+        },
+        {
+            "word": "writer",
+            "count": "40"
+        },
+        {
+            "word": "Browser",
+            "count": "39"
+        },
+        {
+            "word": "ComponentDSL",
+            "count": "39"
+        },
+        {
+            "word": "GLenum",
+            "count": "39"
+        },
+        {
+            "word": "Rx",
+            "count": "39"
+        },
+        {
+            "word": "Strong",
+            "count": "39"
+        },
+        {
+            "word": "consoleReporter",
+            "count": "39"
+        },
+        {
+            "word": "disabled",
+            "count": "39"
+        },
+        {
+            "word": "elem",
+            "count": "39"
+        },
+        {
+            "word": "flattenJCursors",
+            "count": "39"
+        },
+        {
+            "word": "message",
+            "count": "39"
+        },
+        {
+            "word": "n2",
+            "count": "39"
+        },
+        {
+            "word": "string",
+            "count": "39"
+        },
+        {
+            "word": "Download",
+            "count": "38"
+        },
+        {
+            "word": "UTF8",
+            "count": "38"
+        },
+        {
+            "word": "avar",
+            "count": "38"
+        },
+        {
+            "word": "btnDefault",
+            "count": "38"
+        },
+        {
+            "word": "d",
+            "count": "38"
+        },
+        {
+            "word": "fl",
+            "count": "38"
+        },
+        {
+            "word": "intercalate",
+            "count": "38"
+        },
+        {
+            "word": "mapMaybe",
+            "count": "38"
+        },
+        {
+            "word": "tail",
+            "count": "38"
+        },
+        {
+            "word": "Content",
+            "count": "37"
+        },
+        {
+            "word": "EasyFFI",
+            "count": "37"
+        },
+        {
+            "word": "ParentHTML",
+            "count": "37"
+        },
+        {
+            "word": "UP",
+            "count": "37"
+        },
+        {
+            "word": "append",
+            "count": "37"
+        },
+        {
+            "word": "dirOrFile",
+            "count": "37"
+        },
+        {
+            "word": "fromRight",
+            "count": "37"
+        },
+        {
+            "word": "head",
+            "count": "37"
+        },
+        {
+            "word": "peel",
+            "count": "37"
+        },
+        {
+            "word": "pp",
+            "count": "37"
+        },
+        {
+            "word": "runTest",
+            "count": "37"
+        },
+        {
+            "word": "AddressBook",
+            "count": "36"
+        },
+        {
+            "word": "Authorization",
+            "count": "36"
+        },
+        {
+            "word": "C",
+            "count": "36"
+        },
+        {
+            "word": "Choice",
+            "count": "36"
+        },
+        {
+            "word": "Mount",
+            "count": "36"
+        },
+        {
+            "word": "ParentDSL",
+            "count": "36"
+        },
+        {
+            "word": "background",
+            "count": "36"
+        },
+        {
+            "word": "legend",
+            "count": "36"
+        },
+        {
+            "word": "multiplication",
+            "count": "36"
+        },
+        {
+            "word": "null",
+            "count": "36"
+        },
+        {
+            "word": "renderLowLOD",
+            "count": "36"
+        },
+        {
+            "word": "unsafeAddEventListener",
+            "count": "36"
+        },
+        {
+            "word": "unsafeCompare",
+            "count": "36"
+        },
+        {
+            "word": "unsafeRemoveEventListener",
+            "count": "36"
+        },
+        {
+            "word": "Get",
+            "count": "35"
+        },
+        {
+            "word": "HEH",
+            "count": "35"
+        },
+        {
+            "word": "SettingsQuery",
+            "count": "35"
+        },
+        {
+            "word": "_path",
+            "count": "35"
+        },
+        {
+            "word": "allows",
+            "count": "35"
+        },
+        {
+            "word": "getCanvasElementById",
+            "count": "35"
+        },
+        {
+            "word": "insertMdCardInLastDeck",
+            "count": "35"
+        },
+        {
+            "word": "showDialog",
+            "count": "35"
+        },
+        {
+            "word": "toMaybe",
+            "count": "35"
+        },
+        {
+            "word": "transform",
+            "count": "35"
+        },
+        {
+            "word": "EffectTypes",
+            "count": "34"
+        },
+        {
+            "word": "Firebase",
+            "count": "34"
+        },
+        {
+            "word": "_valueAgg",
+            "count": "34"
+        },
+        {
+            "word": "coproduct",
+            "count": "34"
+        },
+        {
+            "word": "fromEnum",
+            "count": "34"
+        },
+        {
+            "word": "maxSize",
+            "count": "34"
+        },
+        {
+            "word": "minSize",
+            "count": "34"
+        },
+        {
+            "word": "monad",
+            "count": "34"
+        },
+        {
+            "word": "node",
+            "count": "34"
+        },
+        {
+            "word": "regex",
+            "count": "34"
+        },
+        {
+            "word": "setFillStyle",
+            "count": "34"
+        },
+        {
+            "word": "shouldEqual",
+            "count": "34"
+        },
+        {
+            "word": "url",
+            "count": "34"
+        },
+        {
+            "word": "\u2a01",
+            "count": "34"
+        },
+        {
+            "word": "CardEvalInput",
+            "count": "33"
+        },
+        {
+            "word": "IdToken",
+            "count": "33"
+        },
+        {
+            "word": "Open",
+            "count": "33"
+        },
+        {
+            "word": "QF",
+            "count": "33"
+        },
+        {
+            "word": "QuasarAF",
+            "count": "33"
+        },
+        {
+            "word": "SQL",
+            "count": "33"
+        },
+        {
+            "word": "_name",
+            "count": "33"
+        },
+        {
+            "word": "fromQError",
+            "count": "33"
+        },
+        {
+            "word": "gets",
+            "count": "33"
+        },
+        {
+            "word": "keys",
+            "count": "33"
+        },
+        {
+            "word": "lvl",
+            "count": "33"
+        },
+        {
+            "word": "modifierKey",
+            "count": "33"
+        },
+        {
+            "word": "p_",
+            "count": "33"
+        },
+        {
+            "word": "runArbModel",
+            "count": "33"
+        },
+        {
+            "word": "runQuasarF",
+            "count": "33"
+        },
+        {
+            "word": "setPreviousValueFrom",
+            "count": "33"
+        },
+        {
+            "word": "shortcutLabel",
+            "count": "33"
+        },
+        {
+            "word": "updateSelect",
+            "count": "33"
+        },
+        {
+            "word": "Cancel",
+            "count": "32"
+        },
+        {
+            "word": "Document",
+            "count": "32"
+        },
+        {
+            "word": "Draftboard",
+            "count": "32"
+        },
+        {
+            "word": "JS",
+            "count": "32"
+        },
+        {
+            "word": "JSON",
+            "count": "32"
+        },
+        {
+            "word": "MonadEff",
+            "count": "32"
+        },
+        {
+            "word": "NEL",
+            "count": "32"
+        },
+        {
+            "word": "RX",
+            "count": "32"
+        },
+        {
+            "word": "StatusCode",
+            "count": "32"
+        },
+        {
+            "word": "TraversalP",
+            "count": "32"
+        },
+        {
+            "word": "defining",
+            "count": "32"
+        },
+        {
+            "word": "domain",
+            "count": "32"
+        },
+        {
+            "word": "final",
+            "count": "32"
+        },
+        {
+            "word": "fromCharCode",
+            "count": "32"
+        },
+        {
+            "word": "isJust",
+            "count": "32"
+        },
+        {
+            "word": "logShow",
+            "count": "32"
+        },
+        {
+            "word": "lowerQError",
+            "count": "32"
+        },
+        {
+            "word": "mainpageSection",
+            "count": "32"
+        },
+        {
+            "word": "peekPicker",
+            "count": "32"
+        },
+        {
+            "word": "print",
+            "count": "32"
+        },
+        {
+            "word": "range",
+            "count": "32"
+        },
+        {
+            "word": "row",
+            "count": "32"
+        },
+        {
+            "word": "title",
+            "count": "32"
+        },
+        {
+            "word": "toNullable",
+            "count": "32"
+        },
+        {
+            "word": "unless",
+            "count": "32"
+        },
+        {
+            "word": "unsafe",
+            "count": "32"
+        },
+        {
+            "word": "use",
+            "count": "32"
+        },
+        {
+            "word": "x0",
+            "count": "32"
+        },
+        {
+            "word": "Choose",
+            "count": "31"
+        },
+        {
+            "word": "EC",
+            "count": "31"
+        },
+        {
+            "word": "Expectations",
+            "count": "31"
+        },
+        {
+            "word": "M1",
+            "count": "31"
+        },
+        {
+            "word": "Please",
+            "count": "31"
+        },
+        {
+            "word": "Portability",
+            "count": "31"
+        },
+        {
+            "word": "SlamSearch",
+            "count": "31"
+        },
+        {
+            "word": "aggregate",
+            "count": "31"
+        },
+        {
+            "word": "axis",
+            "count": "31"
+        },
+        {
+            "word": "env",
+            "count": "31"
+        },
+        {
+            "word": "getContext2D",
+            "count": "31"
+        },
+        {
+            "word": "initializer",
+            "count": "31"
+        },
+        {
+            "word": "instead",
+            "count": "31"
+        },
+        {
+            "word": "li_",
+            "count": "31"
+        },
+        {
+            "word": "support",
+            "count": "31"
+        },
+        {
+            "word": "throw",
+            "count": "31"
+        },
+        {
+            "word": "unions",
+            "count": "31"
+        },
+        {
+            "word": "AdditionalSource",
+            "count": "30"
+        },
+        {
+            "word": "Commands",
+            "count": "30"
+        },
+        {
+            "word": "FROM",
+            "count": "30"
+        },
+        {
+            "word": "Form",
+            "count": "30"
+        },
+        {
+            "word": "Header",
+            "count": "30"
+        },
+        {
+            "word": "Interactions",
+            "count": "30"
+        },
+        {
+            "word": "LIMIT",
+            "count": "30"
+        },
+        {
+            "word": "Nop",
+            "count": "30"
+        },
+        {
+            "word": "SELECT",
+            "count": "30"
+        },
+        {
+            "word": "Scenario",
+            "count": "30"
+        },
+        {
+            "word": "Search",
+            "count": "30"
+        },
+        {
+            "word": "SelectAction",
+            "count": "30"
+        },
+        {
+            "word": "StateMode",
+            "count": "30"
+        },
+        {
+            "word": "__",
+            "count": "30"
+        },
+        {
+            "word": "alert",
+            "count": "30"
+        },
+        {
+            "word": "bounds",
+            "count": "30"
+        },
+        {
+            "word": "defaultToRequest",
+            "count": "30"
+        },
+        {
+            "word": "discipline",
+            "count": "30"
+        },
+        {
+            "word": "ensure",
+            "count": "30"
+        },
+        {
+            "word": "olympics",
+            "count": "30"
+        },
+        {
+            "word": "pickerWithSelect",
+            "count": "30"
+        },
+        {
+            "word": "runPure",
+            "count": "30"
+        },
+        {
+            "word": "status",
+            "count": "30"
+        },
+        {
+            "word": "traverse_",
+            "count": "30"
+        },
+        {
+            "word": "uri",
+            "count": "30"
+        },
+        {
+            "word": "w",
+            "count": "30"
+        },
+        {
+            "word": "year",
+            "count": "30"
+        },
+        {
+            "word": "AT",
+            "count": "29"
+        },
+        {
+            "word": "Callback",
+            "count": "29"
+        },
+        {
+            "word": "Fn2",
+            "count": "29"
+        },
+        {
+            "word": "JArray",
+            "count": "29"
+        },
+        {
+            "word": "OptionI",
+            "count": "29"
+        },
+        {
+            "word": "Printer",
+            "count": "29"
+        },
+        {
+            "word": "Reached",
+            "count": "29"
+        },
+        {
+            "word": "charAt",
+            "count": "29"
+        },
+        {
+            "word": "creating",
+            "count": "29"
+        },
+        {
+            "word": "effects",
+            "count": "29"
+        },
+        {
+            "word": "el",
+            "count": "29"
+        },
+        {
+            "word": "expectPresentedWithProperties",
+            "count": "29"
+        },
+        {
+            "word": "foldMap",
+            "count": "29"
+        },
+        {
+            "word": "html",
+            "count": "29"
+        },
+        {
+            "word": "jtypExp",
+            "count": "29"
+        },
+        {
+            "word": "mkLegend",
+            "count": "29"
+        },
+        {
+            "word": "renderToDOM",
+            "count": "29"
+        },
+        {
+            "word": "runFn2",
+            "count": "29"
+        },
+        {
+            "word": "target",
+            "count": "29"
+        },
+        {
+            "word": "\u2260",
+            "count": "29"
+        },
+        {
+            "word": "Canceler",
+            "count": "28"
+        },
+        {
+            "word": "Check",
+            "count": "28"
+        },
+        {
+            "word": "Disj",
+            "count": "28"
+        },
+        {
+            "word": "Express",
+            "count": "28"
+        },
+        {
+            "word": "LocalStorage",
+            "count": "28"
+        },
+        {
+            "word": "accessPreviousCardInLastDeck",
+            "count": "28"
+        },
+        {
+            "word": "accumulates",
+            "count": "28"
+        },
+        {
+            "word": "buildPath",
+            "count": "28"
+        },
+        {
+            "word": "cards",
+            "count": "28"
+        },
+        {
+            "word": "insertDisplayMarkdownCardInLastDeck",
+            "count": "28"
+        },
+        {
+            "word": "isDirectory",
+            "count": "28"
+        },
+        {
+            "word": "label_",
+            "count": "28"
+        },
+        {
+            "word": "mconcat",
+            "count": "28"
+        },
+        {
+            "word": "newValueAggregation",
+            "count": "28"
+        },
+        {
+            "word": "prop",
+            "count": "28"
+        },
+        {
+            "word": "ps",
+            "count": "28"
+        },
+        {
+            "word": "raiseGlobalError",
+            "count": "28"
+        },
+        {
+            "word": "replace",
+            "count": "28"
+        },
+        {
+            "word": "socket",
+            "count": "28"
+        },
+        {
+            "word": "yAxis",
+            "count": "28"
+        },
+        {
+            "word": "ETP",
+            "count": "27"
+        },
+        {
+            "word": "Freeman",
+            "count": "27"
+        },
+        {
+            "word": "Maintainer",
+            "count": "27"
+        },
+        {
+            "word": "Me",
+            "count": "27"
+        },
+        {
+            "word": "Names",
+            "count": "27"
+        },
+        {
+            "word": "Phil",
+            "count": "27"
+        },
+        {
+            "word": "Stability",
+            "count": "27"
+        },
+        {
+            "word": "Value",
+            "count": "27"
+        },
+        {
+            "word": "cantab",
+            "count": "27"
+        },
+        {
+            "word": "cell",
+            "count": "27"
+        },
+        {
+            "word": "default",
+            "count": "27"
+        },
+        {
+            "word": "elements",
+            "count": "27"
+        },
+        {
+            "word": "emptyModel",
+            "count": "27"
+        },
+        {
+            "word": "experimental",
+            "count": "27"
+        },
+        {
+            "word": "idParam",
+            "count": "27"
+        },
+        {
+            "word": "modalHeader",
+            "count": "27"
+        },
+        {
+            "word": "net",
+            "count": "27"
+        },
+        {
+            "word": "nubBy",
+            "count": "27"
+        },
+        {
+            "word": "paf31",
+            "count": "27"
+        },
+        {
+            "word": "parse",
+            "count": "27"
+        },
+        {
+            "word": "sel",
+            "count": "27"
+        },
+        {
+            "word": "selecting",
+            "count": "27"
+        },
+        {
+            "word": "toList",
+            "count": "27"
+        },
+        {
+            "word": "trying",
+            "count": "27"
+        },
+        {
+            "word": "AnyPath",
+            "count": "26"
+        },
+        {
+            "word": "CID",
+            "count": "26"
+        },
+        {
+            "word": "Dysinger",
+            "count": "26"
+        },
+        {
+            "word": "GlobalError",
+            "count": "26"
+        },
+        {
+            "word": "Helper",
+            "count": "26"
+        },
+        {
+            "word": "JSONResponse",
+            "count": "26"
+        },
+        {
+            "word": "Proxy",
+            "count": "26"
+        },
+        {
+            "word": "Tim",
+            "count": "26"
+        },
+        {
+            "word": "alterSeriesFn",
+            "count": "26"
+        },
+        {
+            "word": "axisLabelAngle",
+            "count": "26"
+        },
+        {
+            "word": "bind",
+            "count": "26"
+        },
+        {
+            "word": "foldFn",
+            "count": "26"
+        },
+        {
+            "word": "fontSize",
+            "count": "26"
+        },
+        {
+            "word": "li",
+            "count": "26"
+        },
+        {
+            "word": "lift2",
+            "count": "26"
+        },
+        {
+            "word": "rootDir",
+            "count": "26"
+        },
+        {
+            "word": "runQuery",
+            "count": "26"
+        },
+        {
+            "word": "uncons",
+            "count": "26"
+        }
+    ]
+}
